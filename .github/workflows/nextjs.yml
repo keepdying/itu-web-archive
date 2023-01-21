@@ -52,8 +52,6 @@ jobs:
         with:
           node-version: "16"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
-      - name: Disable Telemetry
-        run: ${{ steps.detect-package-manager.outputs.runner }} next telemetry disable
       # - name: Setup Pages
       #   uses: actions/configure-pages@v2
       #   with:
@@ -74,6 +72,8 @@ jobs:
             ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
+      - name: Disable Telemetry
+        run: ${{ steps.detect-package-manager.outputs.runner }} next telemetry disable
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
       - name: Static HTML export with Next.js
