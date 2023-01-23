@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22263,ETK 101,Mühendislik Etiği,,***,MDB,Çarşamba,1330/1429,B205,85,0,Yok/None,MAD,Yok/None,Yok/None
+1,22274,ETK 101,Mühendislik Etiği,,***,MDB,Çarşamba,1330/1429,A101,70,0,Yok/None,"CHZ, CHZE, JEF, JEFE, JEO, JEOE, MAD, MADE, PET, PETE",Yok/None,Yok/None
+2,21080,ETK 101,Mühendislik Etiği,,***,UUB,Çarşamba,1430/1529,D210,70,0,Yok/None,MTO,Yok/None,Yok/None
+3,22873,ETK 101,Mühendislik Etiği,,***,MKB,Çarşamba,1430/1529,---,50,0,Yok/None,"BLG, CHZ, EHB, IML, JEF, JEO, KOM, KON, MAD, MAK, MTO, PET, TEK",Yok/None,Yok/None
+4,22200,ETK 101E,Engineering Ethics,,***,MKB,Çarşamba,1130/1229,D357,60,0,Yok/None,"TEK, TEKE",Yok/None,Yok/None
+5,22276,ETK 101E,Engineering Ethics,,***,MDB,Çarşamba,1330/1429,A201,70,0,Yok/None,"CHZ, CHZE, JEF, JEFE, JEO, JEOE, MAD, MADE, PET, PETE",Yok/None,Yok/None
+6,22440,ETK 101E,Engineering Ethics,,***,MDB,Perşembe,0930/1029,---,100,0,Yok/None,"PET, PETE",Yok/None,Yok/None

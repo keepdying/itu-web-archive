@@ -1,0 +1,17 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23110,YZV 102E,Int.toPrg.forDataSci.(Python),,Ahmet Cüneyd Tantuğ,"EEB
+EEB","Perşembe
+Perşembe","0930/1229
+1330/1529","---
+---",5,0,Yok/None,YZVE,Yok/None,Yok/None
+1,23111,YZV 104E,Int.toPrg.forDataSci.(Python),,Hatice Köse,"EEB
+EEB","Perşembe
+Perşembe","0930/1229
+1330/1529","---
+---",90,0,Yok/None,YZVE,Yok/None,Yok/None
+2,23112,YZV 202E,Optimization for Data Science,,Faik Boray Tek,EEB,Salı,1430/1729,---,70,0,Yok/None,YZVE,Yok/None,Yok/None
+3,23113,YZV 212E,Fund.ofArtificial Intelligence,,Faik Boray Tek,EEB,Perşembe,1030/1329,---,70,0,Yok/None,YZVE,Yok/None,Yok/None
+4,23115,YZV 321E,Fund.ofArtificial Intelligence,,Sanem Sarıel,EEB,Perşembe,1030/1329,---,20,0,Yok/None,YZVE,Yok/None,Yok/None
+5,23114,YZV 322E,Applied Data Engineering,,Faik Boray Tek,EEB,Pazartesi,1230/1629,---,20,0,Yok/None,YZVE,YZV 211E MIN DD,Yok/None
+6,23125,YZV 413E,Graph Theory and Algorithms,,Nazım Kemal Üre,EEB,Cuma,0830/1129,---,20,0,Yok/None,YZVE,Yok/None,Yok/None

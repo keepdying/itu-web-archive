@@ -1,0 +1,50 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23059,AKM 204,Akışkanlar Mekaniği,,***,INB,Pazartesi,0930/1229,D202,50,0,Yok/None,INS,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+1,23181,AKM 204,Akışkanlar Mekaniği,,***,GDB,Salı,0830/1129,D407,40,0,Yok/None,GEM,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+2,23182,AKM 204,Akışkanlar Mekaniği,,***,GDB,Salı,0830/1129,D406,40,0,Yok/None,GEM,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+3,23057,AKM 204,Akışkanlar Mekaniği,,***,INB,Çarşamba,0930/1229,A202,50,0,Yok/None,INS,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+4,23058,AKM 204,Akışkanlar Mekaniği,,***,INB,Çarşamba,0930/1229,A203,50,0,Yok/None,INS,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+5,23060,AKM 204E,Fluid Mechanics,,***,INB,Pazartesi,0930/1229,D203,50,0,Yok/None,"INS, INSE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+6,21041,AKM 204E,Fluid Mechanics,,***,UUB,Çarşamba,0830/1129,D209,70,0,Yok/None,"MTO, MTOE, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+7,23061,AKM 204E,Fluid Mechanics,,***,INB,Çarşamba,0930/1229,B205,50,0,Yok/None,"INS, INSE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+8,24775,AKM 204E,Fluid Mechanics,,***,MDB,Cuma,0830/1129,B208,100,0,Yok/None,"PET, PETE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+9,21119,AKM 205,Akışkanlar Mekaniği,,***,"GDB
+GDB","Salı
+Perşembe","1330/1629
+1500/1659","D311
+R409",65,0,Yok/None,DEN,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+10,21572,AKM 219,Akışkanlar Mekaniği,,Nuriye Leman Okşan Çetiner Yıldırım,UUB,Salı,0830/1129,D-Z08,120,0,Yok/None,UCK,"MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+11,21571,AKM 219E,Fluid Mechanics,,Fırat Oğuz Edis,UUB,Salı,0830/1129,D216,120,0,Yok/None,"UZB, UZBE","MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None

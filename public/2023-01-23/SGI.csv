@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23208,SGI 112,Comp. Aided Technical Drawing,,Fuzuli Ağrı Akçay,"GDB
+GDB","Çarşamba
+Cuma","0930/1229
+1030/1229","---
+---",5,0,Yok/None,SGI,Yok/None,Yok/None
+1,23209,SGI 201,Statics,,Mustafa Erden Yıldızdağ,GDB,Cuma,1400/1659,---,5,0,Yok/None,SGI,Yok/None,Yok/None
+2,23211,SGI 204,Strength of Materials II,,Mustafa Erden Yıldızdağ,GDB,Cuma,0830/1229,---,5,0,Yok/None,SGI,SGI 203 MIN DD,Yok/None
+3,23212,SGI 205,Fluid Mechanics,,Şakir Bal,"GDB
+GDB","Pazartesi
+Cuma","0830/1029
+1400/1659","---
+---",5,0,Yok/None,SGI,MTH 108 MIN DD,Yok/None
+4,23213,SGI 206,Thermodynamics,,Oğuz Salim Söğüt,GDB,Pazartesi,1300/1659,---,5,0,Yok/None,SGI,Yok/None,Yok/None
+5,23214,SGI 209,Probability and Statistics,,Ahmet Ergin,GDB,Perşembe,1330/1629,---,5,0,Yok/None,SGI,Yok/None,Yok/None
+6,23210,SGI 212,Manufacturing Processes,,Gökhan Tansel Tayyar,GDB,Pazartesi,1030/1229,---,5,0,Yok/None,SGI,SGI 207 MIN DD,Yok/None
+7,23215,SGI 216,Heat Transfer In Engineering,,Selma Ergin,GDB,Salı,1330/1629,---,5,0,Yok/None,SGI,Yok/None,Yok/None
+8,23216,SGI 222,Organic Chemistry,,Sevil Deniz Yakan Dündar,GDB,Salı,0930/1229,---,5,0,Yok/None,SGI,Yok/None,Yok/None

@@ -1,0 +1,44 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21117,MUK 204,Mukavemet II,,***,GDB,Pazartesi,1330/1629,D311,60,0,Yok/None,DEN,"MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD",Yok/None
+1,21574,MUK 204,Mukavemet II,,***,UUB,Pazartesi,1430/1729,D-Z08,80,0,Yok/None,"UCK, UZB","MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD",Yok/None
+2,23189,MUK 204,Mukavemet II,,***,"GDB
+GDB","Salı
+Perşembe","1430/1629
+1430/1529","410
+410",60,0,Yok/None,GEM,"MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD",Yok/None
+3,21575,MUK 204E,Strength of Materials II,,***,UUB,Pazartesi,1430/1729,D216,80,0,Yok/None,"UCK, UCKE, UZB, UZBE","MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya MUK 203 MIN DD
+veya MUK 203E MIN DD",Yok/None
+4,22306,MUK 205,Mukavemet,,Oğuz Altay,"MKB
+MKB","Perşembe
+Cuma","1530/1729
+0830/1129","D355
+D361A",60,0,Yok/None,"IML, MAK, MAKM, MKN","STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD",Yok/None
+5,24768,MUK 207E,Strength of Materials,,***,MKB,Cuma,1400/1659,D378,50,0,Yok/None,"IMLE, TEK, TEKE","MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
