@@ -5,10 +5,17 @@ from selenium.webdriver.common.by import By
 from datetime import datetime
 import pandas as pd
 import os
+import json
 from tqdm import tqdm
 
 DATE = str(datetime.now().date())
 FOLDER_PATH = "public"
+
+def exportJson(path: str, list: list):
+    list = [{"value": v, "label": v} for v in list]
+    with open(path, 'w') as f:
+        json.dump(list, f)
+
 
 if not os.path.exists(FOLDER_PATH):
    os.makedirs(FOLDER_PATH)
@@ -52,3 +59,10 @@ for course in tqdm(course_codes):
     
     df = pd.DataFrame(data=row_data, columns=col_data)
     df.to_csv(path_or_buf=FOLDER_PATH + "/" + DATE + "/" + course + ".csv")
+
+browser.close()
+
+folders = [f.name for f in os.scandir(FOLDER_PATH) if f.is_dir()]
+exportJson(FOLDER_PATH + '/dates.json', folders)
+exportJson(FOLDER_PATH + '/course_codes.json', course_codes)
+
