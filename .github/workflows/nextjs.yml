@@ -39,7 +39,7 @@ jobs:
              python-version: 3.9
       - name: Install Python dependencies
         run: |
-          pip install selenium webdriver_manager pandas json tqdm
+          pip install selenium webdriver_manager pandas tqdm
       - name: Fetch Course programme
         run: python yum.py
       - name: Push to repo
