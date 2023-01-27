@@ -1,36 +1,40 @@
-import React from 'react';
-import Papa from 'papaparse';
+import React, { useState, useEffect } from "react";
+import Papa from "papaparse";
 
-const CsvTable = () => {
-    const [data, setData] = React.useState([]);
+const CSVTable = ({ url }) => {
+  const [data, setData] = useState([]);
 
-    React.useEffect(() => {
-        Papa.parse('', {
-            download: true,
-            header: true,
-            dynamicTyping: true,
-            complete: (results) => {
-                setData(results.data);
-            }
-        });
-    }, []);
+  useEffect(() => {
+    Papa.parse(url, {
+      download: true,
+      header: true,
+      complete: (results) => {
+        setData(results.data);
+      },
+    });
+  }, [url]);
 
-    return (
-        <table>
-            <thead>
-                <tr>
-                    {Object.keys(data[0]).map((key, index) => <th key={index}>{key}</th>)}
-                </tr>
-            </thead>
-            <tbody>
-                {data.map((row, index) => (
-                    <tr key={index}>
-                        {Object.values(row).map((value, index) => <td key={index}>{value}</td>)}
-                    </tr>
-                ))}
-            </tbody>
-        </table>
-    );
-}
+  return (
+    <table>
+      <thead>
+        <tr>
+          {data[0] &&
+            Object.keys(data[0]).map((cell, index) => (
+              <th key={index}>{cell}</th>
+            ))}
+        </tr>
+      </thead>
+      <tbody>
+        {data.map((row, rowIndex) => (
+          <tr key={rowIndex}>
+            {Object.values(row).map((cell, cellIndex) => (
+              <td key={cellIndex}>{cell}</td>
+            ))}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  );
+};
 
-export default CsvTable;
+export default CSVTable;
