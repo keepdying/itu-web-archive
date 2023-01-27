@@ -1,0 +1,36 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21145,ECN 102E,Principles of Macroeconomics,,Mete Han Yağmur,MED,Cuma,0830/1229,A35,100,0,Yok/None,"ECNE, ECNM, EFN",Yok/None,Yok/None
+1,21146,ECN 105E,Principles of Microeconomics,,Tolga Yuret,KMB,Salı,0830/1229,D104,70,0,Yok/None,"ECNE, ECNM, EFN",Yok/None,Yok/None
+2,21147,ECN 202E,Intermediate Macroeconomics,,Aysun Aygün,MED,Çarşamba,0830/1229,A35,100,0,"ISL/7/0
+ISLE/8/0
+Diğer/85/0","ECNE, ECNM, EFN, ISL, ISLE","ECN 102E MIN DD
+veya ISL 244 MIN DD
+veya ISL 244E MIN DD",Yok/None
+3,21149,ECN 208E,Public Economics,,Sinan Ertemel,MED,Salı,0830/1129,A32,150,0,"ISL/12/0
+ISLE/13/0
+Diğer/125/0","ECNE, ECNM, ISL, ISLE","ECN 201E MIN DD
+veya ISL 233 MIN DD
+veya ISL 233E MIN DD",Yok/None
+4,21150,ECN 210E,Financial Accounting,,Yusuf Aytürk,MED,Perşembe,0830/1129,A15,100,0,Yok/None,"ECNE, EFN",Yok/None,Yok/None
+5,21148,ECN 212E,Statistics II,,Murat Güven,MED,Perşembe,1330/1729,A36,100,0,Yok/None,"ECNE, ECNM",Yok/None,Yok/None
+6,21151,ECN 302E,Econometrics II,,Osman Doğan,UUB,Pazartesi,0830/1229,D214,100,0,Yok/None,"ECNE, ECNM, EFN, ESS",ECN 301E MIN DD,Yok/None
+7,21152,ECN 308E,Competition Law and Policy,,"Shourjo Chakravorty, Çiçek Ersoy Kekevi",MED,Perşembe,0830/1129,A35,100,0,"ISL/25/0
+ISLE/25/0
+Diğer/50/0","ECNE, ESS, ISL, ISLE","ECN 201E MIN DD
+veya ISL 233 MIN DD
+veya ISL 233E MIN DD",Yok/None
+8,21153,ECN 312E,International Finance,,Serdar Altay,MED,Cuma,1400/1659,A12,100,0,Yok/None,"ECNE, ECNM, EFN, ESS",ECN 202E MIN DD,Yok/None
+9,21154,ECN 314E,Financial Economics,,Resul Aydemir,MDB,Salı,1130/1429,A202,100,0,Yok/None,"ECNE, ESS",ECN 202E MIN DD,Yok/None
+10,21155,ECN 402E,Project Appraisal,,Aysun Aygün,MED,Pazartesi,1430/1729,A13,100,0,Yok/None,ECNE,ECN 301E MIN DD,Yok/None
+11,24801,ECN 407E,Time Series Econometrics,Çevrimiçi/Online,Bülent Güloğlu,----,Salı,0830/1129,----,100,0,Yok/None,"ECNE, EFN, ESS",ECN 301E MIN DD,Yok/None
+12,21156,ECN 410E,Energy Economics,,Sinan Ertemel,MED,Çarşamba,0830/1129,A36,70,0,Yok/None,"ECNE, EFN, END, ENDE, ESS","ECN 201E MIN DD
+veya END 312E MIN DD
+veya END 312 MIN DD",Yok/None
+13,21157,ECN 412E,Environmental Economics,,Umut Kuruüzüm,MED,Cuma,0830/1129,A15,70,0,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+14,21160,ECN 414E,Economics of Education,,Aysun Aygün,MED,Perşembe,1130/1429,A35,70,0,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+15,21159,ECN 415E,Urban Economics,,Kerem Yavuz Arslanlı,FEB,Perşembe,1430/1729,D104,70,0,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+16,21158,ECN 421E,Experimental Economics,,Tolga Yuret,FEB,Salı,1430/1729,D203,70,0,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+17,21162,ECN 4902E,Graduation Project,,Bülent Güloğlu,MED,----,/,---,500,0,Yok/None,"ECNE, EFN, ESS","ECN 301E MIN DD
+Diğer Şartlar / Other Prerequisites",4.Sınıf
+18,21161,ECN 492E,Graduation Project,,Bülent Güloğlu,MED,----,/,---,500,0,Yok/None,ECNE,Diğer Şartlar,4.Sınıf

@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24270,ENR 102,Manufacturing Process,,Necip Ünlü,GDB,Perşembe,1430/1629,D304,50,0,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+1,24308,ENR 112,Workshop,,Tanju Kurtuluş,DZB,Cuma,0830/1229,---,50,0,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+2,24279,ENR 122,Material Science,,Necip Ünlü,GDB,Çarşamba,0830/1129,D308,50,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MENM, MTM, NAE",Yok/None,Yok/None
+3,24293,ENR 202,Thermodynamics,,Murat Durmaz,GDB,Salı,0930/1229,D304,50,0,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+4,24053,ENR 202,Thermodynamics,,Yasin Arslanoğlu,DZB,Perşembe,1530/1829,---,60,0,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+5,24280,ENR 222,Strength of Materials II,,--,GDB,Pazartesi,0930/1229,D407,0,0,Yok/None,"GEMK, NAE","ENR 212 MIN DD
+veya MUK 208E MIN DD
+veya MUK 203E MIN DD",Yok/None
+6,24028,ENR 232,Hydraulic and Pneumatic,,Kemal Demirel,DZB,Salı,1030/1329,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MENM, MTM, NAE",Yok/None,Yok/None
+7,24066,ENR 301,Heat Transfer,,Buğra Arda Zincir,DZB,Perşembe,0830/1129,---,60,0,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","ENR 202 MIN DD
+veya GMI 213E MIN DD
+veya TER 201E MIN DD",Yok/None
+8,24271,ENR 351,Mechatronics,,Ali Sinan Çabuk,EEB,Salı,1330/1529,5305,50,0,Yok/None,"GEMK, GMIK, MEN, NAE",Yok/None,Yok/None
+9,24108,ENR 401,Refrigeration& HVAC Systems,,Ömer Berkehan İnal,DZB,Perşembe,1330/1529,---,60,0,Yok/None,"GEMK, GMIK, MEN, NAE",Yok/None,Yok/None
