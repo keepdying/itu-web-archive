@@ -1,0 +1,40 @@
+name: Crawl for Course programmes
+
+on:
+  # push:
+  #   branches:
+  #     - "main"
+  workflow_dispatch:
+  schedule:
+  # “At 00:00 on day-of-month 15 in every 3rd month.”
+    - cron: '0 0 15 */3 *'
+
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    env:
+      CI_COMMIT_MESSAGE: Archived Courses (Automated)
+      CI_COMMIT_AUTHOR: Course Crawler Bot
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v2.2.2
+        with:
+             python-version: 3.9
+      - name: Install Python dependencies
+        run: |
+          pip install selenium webdriver_manager pandas tqdm
+      - name: Fetch Course programme
+        run: python yum.py
+      - name: Push to repo
+        run: |
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "username@users.noreply.github.com"
+          git add ./public/
+          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push
