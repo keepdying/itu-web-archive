@@ -1,0 +1,85 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23063,GMI 115,Bilgisayar Dest. Teknik Resim,,Burak Zincir,DZB,Pazartesi,0830/1129,---,25,0,Yok/None,GMI,Yok/None,Yok/None
+1,23064,GMI 115,Bilgisayar Dest. Teknik Resim,,Burak Zincir,DZB,Pazartesi,1130/1429,---,25,0,Yok/None,GMI,Yok/None,Yok/None
+2,23065,GMI 115,Bilgisayar Dest. Teknik Resim,,Burak Zincir,DZB,Pazartesi,1430/1729,---,25,0,Yok/None,GMI,Yok/None,Yok/None
+3,24769,GMI 123,İmal Usulleri,,Burak Zincir,DZB,Perşembe,1230/1429,---,5,0,Yok/None,GMI,Yok/None,Yok/None
+4,23062,GMI 132E,Numerical Analy. of Eng.Syst.,,Ata Bilgili,DZB,Çarşamba,0830/1029,---,110,0,Yok/None,GMI,"MAT 101 MIN DD
+veya MAT 101E MIN DD
+veya MAT 103 MIN DD
+veya MAT 103E MIN DD",Yok/None
+5,23935,GMI 132E,Numerical Analy. of Eng.Syst.,,Ata Bilgili,DZB,Çarşamba,1330/1529,---,60,0,Yok/None,MEN,"MAT 101 MIN DD
+veya MAT 101E MIN DD
+veya MAT 103 MIN DD
+veya MAT 103E MIN DD",Yok/None
+6,23066,GMI 171E,Maritime English I,,Müjgan Özenir,DZB,Çarşamba,1030/1229,---,35,0,Yok/None,"GMI, GMIE",Yok/None,Yok/None
+7,23939,GMI 171E,Maritime English I,,Müjgan Özenir,DZB,Perşembe,0830/1029,---,60,0,Yok/None,MEN,Yok/None,Yok/None
+8,23067,GMI 171E,Maritime English I,,Müjgan Özenir,DZB,Perşembe,1030/1229,---,35,0,Yok/None,"GMI, GMIE",Yok/None,Yok/None
+9,23068,GMI 171E,Maritime English I,,Müjgan Özenir,DZB,Perşembe,1430/1629,---,35,0,Yok/None,"GMI, GMIE",Yok/None,Yok/None
+10,23070,GMI 209,Bilg. Destekli Katı Modelleme,,Yalçın Durmuşoğlu,DZB,Çarşamba,1330/1529,---,20,0,Yok/None,GMI,Yok/None,Yok/None
+11,23071,GMI 210,Titreşimin Temelleri,,İsmail Çiçek,DZB,Çarşamba,1330/1529,---,30,0,Yok/None,GMI,Yok/None,Yok/None
+12,24770,GMI 213,Termodinamik,,Yalçın Durmuşoğlu,DZB,Salı,1430/1729,---,50,0,Yok/None,GMI,"FIZ 101 MIN DD
+veya FIZ 101E MIN DD",Yok/None
+13,23073,GMI 213,Termodinamik,,Yalçın Durmuşoğlu,DZB,Çarşamba,0830/1129,---,50,0,Yok/None,GMI,"FIZ 101 MIN DD
+veya FIZ 101E MIN DD",Yok/None
+14,23074,GMI 214,Hidrolik ve Pnömatik,,Ömer Berkehan İnal,DZB,Salı,0830/1129,---,40,0,Yok/None,GMI,Yok/None,Yok/None
+15,23075,GMI 214,Hidrolik ve Pnömatik,,Ömer Berkehan İnal,DZB,Perşembe,0830/1129,---,50,0,Yok/None,GMI,Yok/None,Yok/None
+16,23072,GMI 223,Makine Elemanları,,Hakan Demirel,DZB,Çarşamba,1330/1529,---,30,0,Yok/None,GMI,Yok/None,Yok/None
+17,23076,GMI 225,Gemi Dizel Makineleri I,,Cengiz Deniz,DZB,Salı,0830/1129,---,50,0,Yok/None,GMI,Yok/None,Yok/None
+18,23077,GMI 225,Gemi Dizel Makineleri I,,Burak Zincir,DZB,Perşembe,0830/1129,---,50,0,Yok/None,GMI,Yok/None,Yok/None
+19,23078,GMI 228,Temel Elektronik,,Gazi Koçak,DZB,Perşembe,1530/1729,---,100,0,Yok/None,GMI,Yok/None,Yok/None
+20,24865,GMI 243,Denizel Çevre Kimyası,,Emrah Şık,DZB,Pazartesi,0830/1129,---,40,0,Yok/None,GMI,Yok/None,Yok/None
+21,23079,GMI 256,Elektroteknik,,Gazi Koçak,DZB,Salı,1130/1429,---,100,0,Yok/None,GMI,"FIZ 102 MIN DD
+veya FIZ 102E MIN DD",Yok/None
+22,23080,GMI 261E,Fluid Mechanics,,Ata Bilgili,DZB,Perşembe,1230/1529,---,80,0,Yok/None,"GMI, GMIE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+23,23083,GMI 270E,Maritime English II,,Müjgan Özenir,DZB,Salı,1030/1229,---,35,0,Yok/None,"GMI, GMIE",Yok/None,Yok/None
+24,23084,GMI 270E,Maritime English II,,Müjgan Özenir,DZB,Salı,1330/1529,---,35,0,Yok/None,"GMI, GMIE",Yok/None,Yok/None
+25,23085,GMI 270E,Maritime English II,,Müjgan Özenir,DZB,Çarşamba,1330/1529,---,35,0,Yok/None,"GMI, GMIE",Yok/None,Yok/None
+26,24771,GMI 341E,Automatic Control Systems,,İsmail Çiçek,DZB,Pazartesi,1130/1429,---,50,0,Yok/None,GMI,"FIZ 102 MIN DD
+veya FIZ 102E MIN DD",Yok/None
+27,23086,GMI 392E,Long Term Sea Training,,İsmail Çiçek,DZB,----,/,---,500,0,Yok/None,"GMI, GMIE","(DFH 111 MIN DD
+veya DFH 111E MIN DD)
+ve (GMI 322 MIN DD
+veya GMI 322E MIN DD
+veya GMI 324 MIN DD
+veya GMI 324E MIN DD)
+ve (GMI 383E MIN DD
+veya GMI 384E MIN DD)",Yok/None
+28,24772,GMI 405E,Shipping Finance,,Sinan Çakır,DZB,Çarşamba,1030/1229,---,30,0,Yok/None,GMI,Yok/None,Yok/None
+29,23087,GMI 422E,Surveying Procedures,,Cengiz Deniz,DZB,Çarşamba,1330/1529,---,30,0,Yok/None,"GMI, GMIE",Yok/None,Yok/None
+30,23088,GMI 427E,Mechatronics,,"Gazi Koçak, Ömer Berkehan İnal",DZB,Salı,1530/1729,---,30,0,Yok/None,GMI,Yok/None,Yok/None
+31,23089,GMI 436E,Quality and Safety Manag.Sys.,,Sinan Çakır,DZB,Pazartesi,1230/1429,---,40,0,Yok/None,GMI,Yok/None,Yok/None
+32,23090,GMI 461,Buhar & Gaz Türbinleri Operas.,,Yalçın Durmuşoğlu,DZB,Pazartesi,0830/1229,---,90,0,Yok/None,GMI,GMI 392E MIN DD,Yok/None
+33,23091,GMI 484E,Engine Room Simulator (ERS) II,,İsmail Çiçek,DZB,Pazartesi,1430/1729,---,15,0,Yok/None,GMI,"GMI 392E MIN DD
+veya GMI 393E MIN DD",Yok/None
+34,23093,GMI 484E,Engine Room Simulator (ERS) II,,Metin Çelik,DZB,Salı,1230/1529,---,15,0,Yok/None,GMI,"GMI 392E MIN DD
+veya GMI 393E MIN DD",Yok/None
+35,23094,GMI 484E,Engine Room Simulator (ERS) II,,Kadir Çiçek,DZB,Çarşamba,0830/1129,---,15,0,Yok/None,GMI,"GMI 392E MIN DD
+veya GMI 393E MIN DD",Yok/None
+36,23092,GMI 484E,Engine Room Simulator (ERS) II,,İsmail Çiçek,DZB,Perşembe,0830/1129,---,15,0,Yok/None,GMI,"GMI 392E MIN DD
+veya GMI 393E MIN DD",Yok/None
+37,23095,GMI 484E,Engine Room Simulator (ERS) II,,Kadir Çiçek,DZB,Perşembe,1330/1629,---,15,0,Yok/None,GMI,"GMI 392E MIN DD
+veya GMI 393E MIN DD",Yok/None
+38,23096,GMI 4901,Gemi Mak. İşl. Müh. Tasarımı I,,Yalçın Durmuşoğlu,DZB,----,/,---,500,0,Yok/None,GMI,"GMI 384E MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+39,23097,GMI 4902,Gemi Mak. İşl. Müh.Tasarımı II,,Yalçın Durmuşoğlu,DZB,----,/,---,500,0,Yok/None,GMI,"GMI 4901 MIN BB
+veya GMI 4901E MIN BB",Yok/None
+40,23098,GMI 492,Tasarım Projesi,,Yalçın Durmuşoğlu,DZB,----,/,---,500,0,Yok/None,GMI,Diğer Şartlar,4.Sınıf
+41,23099,GMI 492E,Design Project,,Yalçın Durmuşoğlu,DZB,----,/,---,500,0,Yok/None,"GMI, GMIE",Diğer Şartlar,4.Sınıf

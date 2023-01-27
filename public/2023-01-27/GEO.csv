@@ -1,0 +1,622 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22011,GEO 108E,Fundamentals of Programming,Çevrimiçi/Online,Doğuş Güler,----,"Çarşamba
+Çarşamba","0830/0929
+1030/1229",----,60,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+1,22753,GEO 108E,Fundamentals of Programming,Çevrimiçi/Online,Mustafa Serkan Işık,----,"Çarşamba
+Çarşamba","0830/0929
+1030/1229",----,60,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+2,23174,GEO 108E,Fundamentals of Programming,Çevrimiçi/Online,Muhammed Enes Atik,----,"Çarşamba
+Çarşamba","0930/1029
+1230/1429",----,60,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+3,22009,GEO 114,Yersel Ölçme Don. Ve Yaz.,,Serdar Erol,INB,Perşembe,0830/1129,B206,60,0,Yok/None,GEO,"GEO 103 MIN DD
+veya GEO 103E MIN DD",Yok/None
+4,22010,GEO 114E,Terr. Surv. Equip. and Soft.,,Turan Erden,INB,Perşembe,1130/1429,A204,50,0,Yok/None,"GEO, GEOE","GEO 103 MIN DD
+veya GEO 103E MIN DD",Yok/None
+5,22751,GEO 114E,Terr. Surv. Equip. and Soft.,,Muhammed Oğuzhan Mete,INB,Perşembe,1230/1529,B206,50,0,Yok/None,"GEO, GEOE","GEO 103 MIN DD
+veya GEO 103E MIN DD",Yok/None
+6,22012,GEO 182,Geomatik Projesi 1,,Mehmet Ufuk Özerman,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","A305
+A305",50,0,Yok/None,GEO,"GEO 103 MIN DD
+veya GEO 103E MIN DD
+veya JDF 112 MIN DD
+veya JDF 112E MIN DD",Yok/None
+7,22013,GEO 182E,Geomatics Project I,,Himmet Karaman,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",50,0,Yok/None,"GEO, GEOE","GEO 103 MIN DD
+veya GEO 103E MIN DD
+veya JDF 112 MIN DD
+veya JDF 112E MIN DD",Yok/None
+8,22017,GEO 204,Hata Teo ve Dengeleme,,Serdar Erol,INB,Perşembe,1330/1729,A304,50,0,Yok/None,GEO,"GEO 215E MIN DD
+veya GEO 225E MIN DD
+veya MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD",Yok/None
+9,22018,GEO 204,Hata Teo ve Dengeleme,,Orhan Akyılmaz,INB,Perşembe,1330/1729,B101,50,0,Yok/None,GEO,"GEO 215E MIN DD
+veya GEO 225E MIN DD
+veya MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD",Yok/None
+10,22019,GEO 204E,Th.of Err. And Ad. C.,,Mustafa Tevfik Özlüdemir,INB,Pazartesi,1330/1729,A205,60,0,Yok/None,"GEO, GEOE","GEO 215E MIN DD
+veya GEO 225E MIN DD
+veya MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD",Yok/None
+11,22024,GEO 208,Uzaktan Algılama I,,Şinasi Kaya,INB,Pazartesi,0930/1129,B201,40,0,Yok/None,GEO,Yok/None,Yok/None
+12,22025,GEO 208,Uzaktan Algılama I,,Çiğdem Göksel,INB,Pazartesi,0930/1129,B202,40,0,Yok/None,GEO,Yok/None,Yok/None
+13,22026,GEO 208E,Remote Sensing I,,Ayşe Filiz Sunar,INB,Perşembe,1530/1729,B206,50,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+14,22027,GEO 210,Yükseklik Ölçmeleri,,Mahmut Oğuz Selbesoğlu,INB,Salı,1530/1729,A301,40,0,Yok/None,GEO,"GEO 104 MIN DD
+veya GEO 104E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD
+veya GEO 114 MIN DD
+veya GEO 114E MIN DD",Yok/None
+15,22755,GEO 210,Yükseklik Ölçmeleri,,Muhammed Oğuzhan Mete,INB,Salı,1530/1729,B203,40,0,Yok/None,GEO,"GEO 104 MIN DD
+veya GEO 104E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD
+veya GEO 114 MIN DD
+veya GEO 114E MIN DD",Yok/None
+16,22028,GEO 210E,Fundamentals of Levelling,,Doğuş Güler,INB,Perşembe,1330/1529,B103,60,0,Yok/None,"GEO, GEOE","GEO 104 MIN DD
+veya GEO 104E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD
+veya GEO 114 MIN DD
+veya GEO 114E MIN DD",Yok/None
+17,22015,GEO 212,Mühendislik Ölçmeleri,,Mustafa Yanalak,INB,Pazartesi,1330/1629,B101,60,0,Yok/None,GEO,"GEO 213 MIN DD
+veya GEO 213E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD",Yok/None
+18,22016,GEO 212E,Engineering Surveying,,Ergin Tarı,INB,Pazartesi,0830/1129,B103,60,0,Yok/None,"GEO, GEOE","GEO 213 MIN DD
+veya GEO 213E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD",Yok/None
+19,22020,GEO 216,Bilgisayar Dest. Harita Tas.,,"Adalet Dervişoğlu, Mehmet Ufuk Özerman",INB,Perşembe,0830/1229,D103,35,0,Yok/None,GEO,Yok/None,Yok/None
+20,22021,GEO 216,Bilgisayar Dest. Harita Tas.,,Nesibe Necla Uluğtekin,INB,Perşembe,0830/1229,D101,35,0,Yok/None,GEO,Yok/None,Yok/None
+21,22022,GEO 216E,Computer Aided Map Design,,Serdar Bilgi,INB,Perşembe,0830/1229,D104,35,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+22,22023,GEO 216E,Computer Aided Map Design,,--,INB,Perşembe,0830/1229,---,0,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+23,24112,GEO 282,Geomatik Projesi II,,Muhammed Oğuzhan Mete,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",50,0,Yok/None,GEO,"GEO 182 MIN DD
+veya GEO 182E MIN DD
+veya JDF 182 MIN DD
+veya JDF 182E MIN DD
+veya GEO 213 MIN DD
+veya GEO 213E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD",Yok/None
+24,22030,GEO 282E,Geomatics Project II,,Doğuş Güler,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",50,0,Yok/None,"GEO, GEOE","GEO 182 MIN DD
+veya GEO 182E MIN DD
+veya JDF 182 MIN DD
+veya JDF 182E MIN DD
+veya GEO 213 MIN DD
+veya GEO 213E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD",Yok/None
+25,22032,GEO 292,Geomatik Projesi 10,,--,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",100,0,Yok/None,GEO,"(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+26,22033,GEO 292,Geomatik Projesi 10,,Serdar Erol,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+27,22035,GEO 292,Geomatik Projesi 10,,Turan Erden,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+28,22036,GEO 292,Geomatik Projesi 10,,Nesibe Necla Uluğtekin,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+29,22037,GEO 292,Geomatik Projesi 10,,Şinasi Kaya,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+30,22039,GEO 292,Geomatik Projesi 10,,Hayri Hakan Denli,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+31,24115,GEO 292,Geomatik Projesi 10,,Mustafa Yanalak,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+32,22040,GEO 292E,Geomatics Project 10,,--,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",100,0,Yok/None,"GEO, GEOE","(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+33,22042,GEO 292E,Geomatics Project 10,,Ergin Tarı,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+34,22043,GEO 292E,Geomatics Project 10,,Serdar Bilgi,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+35,22045,GEO 292E,Geomatics Project 10,,Mahmut Oğuz Selbesoğlu,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+36,22047,GEO 292E,Geomatics Project 10,,Uğur Algancı,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 103 MIN DD
+veya GEO 103E MIN DD)
+ve (GEO 213 MIN DD
+veya GEO 213E MIN DD)",Yok/None
+37,22049,GEO 302,Arazi Yönetimi,,Tahsin Yomralıoğlu,INB,Salı,0830/1129,A202,60,0,Yok/None,GEO,"GEO 303 MIN DD
+veya GEO 303E MIN DD
+veya JDF 361 MIN DD
+veya JDF 361E MIN DD",Yok/None
+38,22050,GEO 302E,Land Management,,Tahsin Yomralıoğlu,INB,Pazartesi,0830/1129,A205,60,0,Yok/None,"GEO, GEOE","GEO 303 MIN DD
+veya GEO 303E MIN DD
+veya JDF 361 MIN DD
+veya JDF 361E MIN DD",Yok/None
+39,22069,GEO 304,Jeodezi-II ve Projeksiyonlar,,Hayri Hakan Denli,INB,Pazartesi,1330/1729,A303,40,0,Yok/None,GEO,"GEO 203 MIN DD
+veya GEO 203E MIN DD
+veya JDF 341 MIN DD
+veya JDF 341E MIN DD",Yok/None
+40,22070,GEO 304E,Geodesy II and Projections,,Bihter Erol,INB,Perşembe,1330/1729,B204,40,0,Yok/None,"GEO, GEOE","GEO 203 MIN DD
+veya GEO 203E MIN DD
+veya JDF 341 MIN DD
+veya JDF 341E MIN DD",Yok/None
+41,22756,GEO 304E,Geodesy II and Projections,,Mustafa Serkan Işık,INB,Perşembe,1330/1729,B308,40,0,Yok/None,"GEO, GEOE","GEO 203 MIN DD
+veya GEO 203E MIN DD
+veya JDF 341 MIN DD
+veya JDF 341E MIN DD",Yok/None
+42,22084,GEO 306,Fotogrametri II,,Zaide Duran,INB,Perşembe,0830/1129,D202,45,0,Yok/None,GEO,"GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD",Yok/None
+43,22086,GEO 306E,Photogrammetry II,,Dursun Zafer Şeker,INB,Salı,1130/1429,D203,45,0,Yok/None,"GEO, GEOE","GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD",Yok/None
+44,22087,GEO 308,Taşınmaz Değerlemesi,,Reha Metin Alkan,INB,Çarşamba,1330/1529,A301,60,0,Yok/None,GEO,Yok/None,Yok/None
+45,22758,GEO 308E,Real Estate Valuation,,Muhammed Oğuzhan Mete,INB,Pazartesi,1130/1329,A305,60,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+46,22088,GEO 310,Uzaktan Algılama II,,Nebiye Musaoğlu,"INB
+INB","Perşembe
+Perşembe","1330/1529
+1530/1629","A205
+A205",45,0,Yok/None,GEO,"GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD",Yok/None
+47,22089,GEO 310E,Remote Sensing II,,Ayşe Filiz Sunar,INB,Çarşamba,1230/1529,A302,45,0,Yok/None,"GEO, GEOE","GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD",Yok/None
+48,22090,GEO 310E,Remote Sensing II,,Esra Erten,INB,Çarşamba,1230/1529,A303,45,0,Yok/None,"GEO, GEOE","GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD",Yok/None
+49,22092,GEO 312E,Spatial Analy. and Alg.in GIS,,Doğuş Güler,INB,Salı,1430/1729,A204,45,0,Yok/None,"GEO, GEOE",GEO 315E MIN DD,Yok/None
+50,22093,GEO 312E,Spatial Analy. and Alg.in GIS,,Hande Demirel,INB,Salı,1430/1729,B308,45,0,Yok/None,"GEO, GEOE",GEO 315E MIN DD,Yok/None
+51,22091,GEO 312E,Spatial Analy. and Alg.in GIS,,"Turan Erden, Himmet Karaman",INB,Perşembe,0830/1129,D203,45,0,Yok/None,"GEO, GEOE",GEO 315E MIN DD,Yok/None
+52,22071,GEO 325E,Databases in Engineering,,Elif Sertel,INB,Salı,0830/1029,B308,55,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+53,23175,GEO 325E,Databases in Engineering,,Muhammed Enes Atik,INB,Salı,0830/1029,B202,55,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+54,22083,GEO 325E,Databases in Engineering,,Filiz Bektaş Balçık,INB,Çarşamba,0830/1029,A301,55,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+55,22094,GEO 327,Arazi Modelleme,,Adalet Dervişoğlu,INB,Salı,1130/1329,B201,40,0,Yok/None,GEO,"GEO 104 MIN DD
+veya GEO 104E MIN DD
+veya JDF 242 MIN DD
+veya JDF 242E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD
+veya GEO 206 MIN DD
+veya GEO 206E MIN DD
+veya GEO 114 MIN DD
+veya GEO 114E MIN DD",Yok/None
+56,22095,GEO 327,Arazi Modelleme,,--,INB,Salı,1130/1329,---,0,0,Yok/None,GEO,"GEO 104 MIN DD
+veya GEO 104E MIN DD
+veya JDF 242 MIN DD
+veya JDF 242E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD
+veya GEO 206 MIN DD
+veya GEO 206E MIN DD
+veya GEO 114 MIN DD
+veya GEO 114E MIN DD",Yok/None
+57,22098,GEO 327E,Terrain Modelling,,Uğur Algancı,INB,Salı,1130/1329,A204,55,0,Yok/None,"GEO, GEOE","GEO 104 MIN DD
+veya GEO 104E MIN DD
+veya JDF 242 MIN DD
+veya JDF 242E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD
+veya GEO 206 MIN DD
+veya GEO 206E MIN DD
+veya GEO 114 MIN DD
+veya GEO 114E MIN DD",Yok/None
+58,22099,GEO 382,Geomatik Projesi III,,--,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",200,0,Yok/None,GEO,"(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+59,22101,GEO 382,Geomatik Projesi III,,Nebiye Musaoğlu,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+60,22102,GEO 382,Geomatik Projesi III,,Dursun Zafer Şeker,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+61,22104,GEO 382,Geomatik Projesi III,,Zaide Duran,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+62,22105,GEO 382,Geomatik Projesi III,,Orhan Akyılmaz,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,GEO,"(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+63,22106,GEO 382E,Geomatics Project III,,--,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",200,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+64,22115,GEO 382E,Geomatics Project III,,Esra Erten,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+65,22116,GEO 382E,Geomatics Project III,,Filiz Bektaş Balçık,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+66,22117,GEO 382E,Geomatics Project III,,Mustafa Tevfik Özlüdemir,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+67,22118,GEO 382E,Geomatics Project III,,Caner Güney,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+68,22119,GEO 382E,Geomatics Project III,,Ayşe Filiz Sunar,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+69,22120,GEO 382E,Geomatics Project III,,Adalet Dervişoğlu,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+70,22121,GEO 382E,Geomatics Project III,,Bihter Erol,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+71,22123,GEO 382E,Geomatics Project III,,Rahmi Nurhan Çelik,"INB
+INB","Cuma
+Cuma","0830/1129
+1430/1729","---
+---",0,0,Yok/None,"GEO, GEOE","(GEO 282 MIN DD
+veya GEO 282E MIN DD
+veya JDF 282 MIN DD
+veya JDF 282E MIN DD)
+ve (GEO 204 MIN DD
+veya GEO 204E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD)
+ve (GEO 309 MIN DD
+veya GEO 309E MIN DD
+veya JDF 331 MIN DD
+veya JDF 331E MIN DD)
+ve (GEO 208 MIN DD
+veya GEO 208E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD)",Yok/None
+72,24842,GEO 413E,Navigation Sys. and Methods,,Mahmut Oğuz Selbesoğlu,INB,Çarşamba,1030/1229,B104,40,0,Yok/None,"GEO, GEOE","GEO 106 MIN DD
+veya GEO 106E MIN DD
+veya BIL 104E MIN DD
+veya GEO 108E MIN DD",Yok/None
+73,22124,GEO 415,Jeodezik Uydular,,"Serdar Erol, Bihter Erol",INB,Çarşamba,1330/1529,B206,35,0,Yok/None,GEO,Yok/None,Yok/None
+74,22125,GEO 415E,Geodetic Satellite,,Caner Güney,INB,Pazartesi,1330/1529,A305,35,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+75,22127,GEO 423,Kırsal Alan Düzenlemesi,,"Gaye Onursal Denli, Hayri Hakan Denli",INB,Pazartesi,1030/1229,B302,24,0,Yok/None,"GEO, JDF",Yok/None,Yok/None
+76,22126,GEO 433E,Urban Information Systems,,Tahsin Yomralıoğlu,INB,Pazartesi,1330/1529,A105,35,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+77,22129,GEO 435,Kentsel Dönüşüm,,Tahsin Yomralıoğlu,INB,Salı,1130/1329,A1,35,0,Yok/None,GEO,Yok/None,Yok/None
+78,24890,GEO 440E,Robotic App. in Geom. Eng.,,Caner Güney,INB,Pazartesi,1530/1729,B302,35,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+79,22130,GEO 452E,3D Mod. with Rem. Sens. Data,,"Nebiye Musaoğlu, Esra Erten",INB,Çarşamba,1030/1229,A301,35,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+80,22131,GEO 466,Deformasyon Ölçmeleri,,"Serdar Erol, Bihter Erol",INB,Çarşamba,0830/1029,B204,35,0,Yok/None,GEO,Yok/None,Yok/None
+81,22135,GEO 468,UA'da Özel Konular,,Şinasi Kaya,INB,Perşembe,1030/1229,B302,35,0,Yok/None,GEO,"GEO 313 MIN DD
+veya GEO 313E MIN DD
+veya JDF 222 MIN DD
+veya JDF 222E MIN DD
+veya JDF 321 MIN DD
+veya JDF 321E MIN DD
+veya GEO 208 MIN DD
+veya GEO 208E MIN DD",Yok/None
+82,22136,GEO 472E,Advanced Remote Sensing,,Elif Sertel,INB,Perşembe,1030/1229,A101,35,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+83,22137,GEO 474,Hidrografik Ölçmeler,,Reha Metin Alkan,INB,Salı,1430/1629,A304,35,0,Yok/None,GEO,Yok/None,Yok/None
+84,22138,GEO 478,Kamulaştırma Tekniği,Çevrimiçi/Online,Reha Metin Alkan,----,Salı,0830/1029,----,30,0,Yok/None,GEO,Yok/None,Yok/None
+85,22139,GEO 480E,Building İnf.Model in Geo.Eng.,,Hande Demirel,INB,Pazartesi,1130/1329,B202,35,0,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+86,22140,GEO 4901,Geomatik Müh. Tasarımı I,,Mehmet Ufuk Özerman,INB,----,/,---,500,0,Yok/None,GEO,"(MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (GEO 220 MIN DD
+veya GEO 220E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+87,22141,GEO 4901E,Geomatics Eng. Design I,,Mehmet Ufuk Özerman,INB,----,/,---,500,0,Yok/None,"GEO, GEOE","(MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (GEO 220 MIN DD
+veya GEO 220E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+88,22142,GEO 4902,Geomatik Müh. Tasarımı II,,Mustafa Yanalak,INB,----,/,---,500,0,Yok/None,GEO,"GEO 4901 MIN BB
+veya GEO 4901E MIN BB",Yok/None
+89,22143,GEO 4902E,Geomatics Eng. Design II,,Mustafa Yanalak,INB,----,/,---,500,0,Yok/None,"GEO, GEOE","GEO 4901 MIN BB
+veya GEO 4901E MIN BB",Yok/None

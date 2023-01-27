@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21301,RES 102,Bilg. Destekli Teknik Resim,,Melek Ertogan,DZB,Salı,1030/1429,---,40,0,Yok/None,"DEN, DUI, GMI",Yok/None,Yok/None
+1,21302,RES 102,Bilg. Destekli Teknik Resim,,Melek Ertogan,DZB,Perşembe,1330/1729,---,40,0,Yok/None,"DEN, DUI, GMI",Yok/None,Yok/None
+2,23866,RES 102E,Com.Aided Technical Drawing,,Burak Zincir,DZB,Cuma,1400/1759,---,60,0,Yok/None,"MEN, MTM",Yok/None,Yok/None
+3,22170,RES 107E,Technical Drawing,,***,MKB,Pazartesi,1330/1629,R362,40,0,Yok/None,"TEK, TEKE",Yok/None,Yok/None
+4,21426,RES 107E,Technical Drawing,,***,KMB,Perşembe,0830/1129,D301,45,0,Yok/None,"MET, METE",Yok/None,Yok/None
+5,21431,RES 107E,Technical Drawing,,***,KMB,Perşembe,1330/1629,D301,45,0,Yok/None,"MET, METE",Yok/None,Yok/None
+6,24873,RES 107E,Technical Drawing,,***,GDB,Perşembe,1430/1729,R403,50,0,Yok/None,"ISL, ISLE",Yok/None,Yok/None
+7,21631,RES 107E,Technical Drawing,,***,KMB,Cuma,0830/1129,D301,45,0,Yok/None,"MET, METE",Yok/None,Yok/None
+8,24773,RES 111E,Technical Drawing (CAD),,Özlem Karahan Özgün,MDB,Perşembe,1330/1629,B207,50,0,Yok/None,"CHZ, CHZE",Yok/None,Yok/None

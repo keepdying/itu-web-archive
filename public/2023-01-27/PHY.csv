@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24728,PHY 124,Physics II,,Gönül Eryürek,EEB,Salı,1430/1729,1301,30,0,Yok/None,"EHN, SEH",Yok/None,Yok/None
+1,24729,PHY 124L,Physics II Lab,,Gönül Eryürek,EEB,Çarşamba,1130/1329,Z4,30,0,Yok/None,"EHN, SEH",Yok/None,Yok/None
+2,24876,PHY 126,Physics II,,Abdurrahman Savaş Arapoğlu,MED,Salı,1430/1729,B37,30,0,Yok/None,SIN,Yok/None,Yok/None
+3,24897,PHY 126,Physics II,,Günay Başar,FEB,Çarşamba,1330/1629,D304,-,-,Yok/None,SED,Yok/None,Yok/None
+4,24898,PHY 126L,Physics II Laboratory,,Günay Başar,FEB,Çarşamba,0930/1129,L2F4,-,-,Yok/None,SED,Yok/None,Yok/None
+5,24877,PHY 126L,Physics II Laboratory,,Abdurrahman Savaş Arapoğlu,FEB,Çarşamba,1130/1329,L2F1,30,0,Yok/None,SIN,Yok/None,Yok/None
