@@ -4,4 +4,4 @@
 
 ## How to use
 
-TODO
+You can access past course schedules foldered by date from [this link](https://github.com/keepdying/itu-web-archive/tree/main/public). I set a crontab to archive every 3 months.
