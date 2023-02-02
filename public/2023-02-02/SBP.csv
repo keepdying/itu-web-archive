@@ -1,0 +1,353 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21333,SBP 126,CBS ve Planlama,,Hasan Serdar Kaya,MMB,Perşembe,1330/1629,---,85,65,Yok/None,SBP,Yok/None,Yok/None
+1,21336,SBP 126E,GIS and Planning,,Fatih Terzi,MMB,Perşembe,1330/1629,---,85,62,Yok/None,"SBPE, SBPM",Yok/None,Yok/None
+2,21340,SBP 205E,Statistics,,--,MMB,Pazartesi,1330/1629,---,0,0,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+3,21344,SBP 205E,Statistics,,Mehmet Küçükmehmetoğlu,MMB,Pazartesi,1330/1629,---,80,80,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+4,24384,SBP 207E,Project III: Site Plan.&Design,,Funda Yirmibeşoğlu,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",10,4,Yok/None,"SBP, SBPE","TES 121 MIN DD
+veya TES 121E MIN DD
+veya SBP 112 MIN DD
+veya SBP 112E MIN DD",Yok/None
+5,24389,SBP 208,Şehir Ekonomisi,,Emine Ferhan Gezici Korten,MMB,Perşembe,1330/1629,---,90,79,Yok/None,SBP,Yok/None,Yok/None
+6,24390,SBP 208E,Urban Economics,,Elif Alkay,MMB,Salı,0930/1229,---,85,76,Yok/None,"SBP, SBPE, SBPM",Yok/None,Yok/None
+7,24391,SBP 210,Şehir Sosyolojisi,,Eda Yücesoy,MMB,Pazartesi,1330/1629,---,80,71,Yok/None,SBP,Yok/None,Yok/None
+8,24392,SBP 210E,Urban Sociology,,Elvan Gülöksüz,MMB,Perşembe,1330/1629,---,80,56,Yok/None,"SBP, SBPE, SBPM",Yok/None,Yok/None
+9,21394,SBP 214E,Geography,,Eda Yücesoy,MMB,Pazartesi,0930/1229,---,60,49,"SBP/25/17
+SBPE/25/22
+Diğer/10/10","ISLE, PEME, SBP, SBPE, SBPM",Yok/None,Yok/None
+10,21358,SBP 218,Proje IV: Strat.Plan.&Pol.Gel.,,Fatih Eren,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,15,Yok/None,SBP,"TES 211 MIN DD
+veya TES 211E MIN DD
+veya SBP 207 MIN DD
+veya SBP 207E MIN DD
+veya SBP 211 MIN DD
+veya SBP 211E MIN DD
+veya SBP 213 MIN DD
+veya SBP 213E MIN DD",Yok/None
+11,21360,SBP 218,Proje IV: Strat.Plan.&Pol.Gel.,,Ebru Kerimoğlu,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,15,Yok/None,SBP,"TES 211 MIN DD
+veya TES 211E MIN DD
+veya SBP 207 MIN DD
+veya SBP 207E MIN DD
+veya SBP 211 MIN DD
+veya SBP 211E MIN DD
+veya SBP 213 MIN DD
+veya SBP 213E MIN DD",Yok/None
+12,21362,SBP 218,Proje IV: Strat.Plan.&Pol.Gel.,,Mehmet Küçükmehmetoğlu,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,2,"SBP/2/2
+SBPE/13/0",SBP,"TES 211 MIN DD
+veya TES 211E MIN DD
+veya SBP 207 MIN DD
+veya SBP 207E MIN DD
+veya SBP 211 MIN DD
+veya SBP 211E MIN DD
+veya SBP 213 MIN DD
+veya SBP 213E MIN DD",Yok/None
+13,21363,SBP 218E,Prj.IV:Spat.Str.Plan.&Pol.Mak.,,Seda Kundak,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,13,"SBP/2/2
+SBPE/13/11","SBP, SBPE","TES 211 MIN DD
+veya TES 211E MIN DD
+veya SBP 207 MIN DD
+veya SBP 207E MIN DD
+veya SBP 211 MIN DD
+veya SBP 211E MIN DD
+veya SBP 213 MIN DD
+veya SBP 213E MIN DD",Yok/None
+14,21364,SBP 218E,Prj.IV:Spat.Str.Plan.&Pol.Mak.,,Tüzin Baycan,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,14,"SBP/2/2
+SBPE/13/12","SBP, SBPE","TES 211 MIN DD
+veya TES 211E MIN DD
+veya SBP 207 MIN DD
+veya SBP 207E MIN DD
+veya SBP 211 MIN DD
+veya SBP 211E MIN DD
+veya SBP 213 MIN DD
+veya SBP 213E MIN DD",Yok/None
+15,21365,SBP 218E,Prj.IV:Spat.Str.Plan.&Pol.Mak.,,Elif Alkay,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,15,"SBP/2/2
+SBPE/13/13","SBP, SBPE","TES 211 MIN DD
+veya TES 211E MIN DD
+veya SBP 207 MIN DD
+veya SBP 207E MIN DD
+veya SBP 211 MIN DD
+veya SBP 211E MIN DD
+veya SBP 213 MIN DD
+veya SBP 213E MIN DD",Yok/None
+16,21366,SBP 218E,Prj.IV:Spat.Str.Plan.&Pol.Mak.,,Kerem Yavuz Arslanlı,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,15,"SBP/2/2
+SBPE/13/13","SBP, SBPE","TES 211 MIN DD
+veya TES 211E MIN DD
+veya SBP 207 MIN DD
+veya SBP 207E MIN DD
+veya SBP 211 MIN DD
+veya SBP 211E MIN DD
+veya SBP 213 MIN DD
+veya SBP 213E MIN DD",Yok/None
+17,21395,SBP 224,Şehir ve Çevre Jeolojisi,,Erkan Bozkurtoğlu,MDB,Çarşamba,1230/1529,B205,45,18,Yok/None,SBP,Yok/None,Yok/None
+18,21396,SBP 224E,Urban & Environmental Geology,,Nilgün Okay,MDB,Çarşamba,1230/1529,B206,45,8,"PEME/5/0
+SBPE/40/8","PEME, SBP, SBPE",Yok/None,Yok/None
+19,21349,SBP 242E,Planning Theory and Techniques,Çevrimiçi/Online,Başak Demireş Özkul,----,Çarşamba,0930/1229,----,150,138,Yok/None,"SBP, SBPE, SBPM",Yok/None,Yok/None
+20,24386,SBP 245E,Urban Tranportation,,Hüseyin Onur Tezcan,MMB,Perşembe,0930/1229,---,20,20,Yok/None,"SBPE, SBPM",Yok/None,Yok/None
+21,24388,SBP 245E,Urban Tranportation,,--,MMB,Perşembe,0930/1229,---,0,0,Yok/None,"SBPE, SBPM",Yok/None,Yok/None
+22,21397,SBP 251,Şehir ve Çevre Mühendisliği,Çevrimiçi/Online,Ali Fuat Aydın,----,Perşembe,0930/1229,----,65,22,Yok/None,SBP,Yok/None,Yok/None
+23,21398,SBP 251E,Urban and Environmental Eng.,Çevrimiçi/Online,Mahmut Altınbaş,----,Perşembe,1330/1629,----,65,18,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+24,21375,SBP 311E,Prj.V:Spatial Plan.&Urb.Dev.,,Numan Kılınç,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,15,Yok/None,"SBP, SBPE, SBPM","SBP 212 MIN DD
+veya SBP 212E MIN DD
+veya SBP 216 MIN DD
+veya SBP 216E MIN DD
+veya SBP 218 MIN DD
+veya SBP 218E MIN DD",Yok/None
+25,24393,SBP 311E,Prj.V:Spatial Plan.&Urb.Dev.,,--,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",0,0,Yok/None,"SBP, SBPE, SBPM","(SBP 212 MIN DD
+veya SBP 212E MIN DD
+veya SBP 216 MIN DD
+veya SBP 216E MIN DD
+veya SBP 218 MIN DD
+veya SBP 218E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD)",Yok/None
+26,21378,SBP 312,Prj.VI: Mekan.Geliş.&Eyl.Plan.,,Mehmet Ali Yüzer,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",12,12,Yok/None,SBP,"SBP 311 MIN DD
+veya SBP 311E MIN DD",Yok/None
+27,21379,SBP 312E,Proj.VI:Spatial Plan.in Act.,,Şevkiye Şence Türk,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",11,11,"SBP/6/6
+SBPE/5/5","SBP, SBPE, SBPM","SBP 311 MIN DD
+veya SBP 311E MIN DD",Yok/None
+28,21380,SBP 312E,Proj.VI:Spatial Plan.in Act.,,Engin Eyüp Eyuboğlu,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",11,11,"SBP/6/6
+SBPE/5/5","SBP, SBPE, SBPM","SBP 311 MIN DD
+veya SBP 311E MIN DD",Yok/None
+29,21381,SBP 312E,Proj.VI:Spatial Plan.in Act.,,Fatih Terzi,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",11,11,"SBP/6/6
+SBPE/5/5","SBP, SBPE, SBPM","SBP 311 MIN DD
+veya SBP 311E MIN DD",Yok/None
+30,21382,SBP 312E,Proj.VI:Spatial Plan.in Act.,,Turgay Kerem Koramaz,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",11,11,"SBP/6/6
+SBPE/5/5","SBP, SBPE, SBPM","SBP 311 MIN DD
+veya SBP 311E MIN DD",Yok/None
+31,21383,SBP 312E,Proj.VI:Spatial Plan.in Act.,,Özhan Ertekin,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",11,11,"SBP/6/6
+SBPE/5/5","SBP, SBPE, SBPM","SBP 311 MIN DD
+veya SBP 311E MIN DD",Yok/None
+32,21384,SBP 312E,Proj.VI:Spatial Plan.in Act.,,Gülden Demet Oruç,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",11,11,"SBP/6/6
+SBPE/5/5","SBP, SBPE, SBPM","SBP 311 MIN DD
+veya SBP 311E MIN DD",Yok/None
+33,21386,SBP 318,Koruma ve Planlama,,Engin Eyüp Eyuboğlu,MMB,Pazartesi,1330/1629,---,65,51,Yok/None,SBP,Yok/None,Yok/None
+34,21385,SBP 318E,Heritage Conservation&Planning,,--,MMB,Pazartesi,0930/1229,---,0,0,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+35,21377,SBP 323,Şehirsel Tasarım,,Hatice Ayataç,MMB,Cuma,0930/1229,---,80,70,Yok/None,"SBP, SBPM",Yok/None,Yok/None
+36,21376,SBP 323E,Urban Design,,Gülden Demet Oruç,MMB,Cuma,0930/1229,---,85,45,Yok/None,"SBPE, SBPM",Yok/None,Yok/None
+37,21373,SBP 338,Planlamada Kantitatif Yönteml,,Mehmet Ali Yüzer,MMB,Salı,0930/1229,---,85,85,Yok/None,SBP,Yok/None,Yok/None
+38,21374,SBP 338E,Quantitative Meth. İn Planning,,Hasan Serdar Kaya,MMB,Pazartesi,1330/1629,---,80,80,Yok/None,"SBPE, SBPM",Yok/None,Yok/None
+39,24889,SBP 344E,Urban Renewal,,Zeynep Günay,MMB,Çarşamba,1330/1529,---,30,30,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+40,21399,SBP 356E,Remote Sensing,,Adalet Dervişoğlu,INB,Çarşamba,0930/1229,D201,45,45,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+41,21390,SBP 365,Yrlşmler Açk Or Kul Al ve Değ,,Eren Kürkçüoğlu,MMB,Perşembe,1330/1529,---,30,30,Yok/None,"SBP, SBPM",Yok/None,Yok/None
+42,21400,SBP 366E,Intro to Environmental Probl,,"Ayşe Gül Tanık, Serdar Doğruel, Özlem Karahan Özgün",INB,Çarşamba,0930/1229,B302,65,35,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+43,21387,SBP 4018E,Models & Impl.of Urban Regenr.,,--,MMB,Çarşamba,1230/1429,---,0,0,Yok/None,"MIM, MIME, SBP, SBPE",Yok/None,Yok/None
+44,21392,SBP 4022,Planlamaya Katılım,,Engin Eyüp Eyuboğlu,MMB,Çarşamba,0930/1229,---,30,25,"SBP/25/25
+Diğer/5/0","MIM, SBP",Yok/None,Yok/None
+45,21393,SBP 4030E,Pluralist Planning Approaches,,İmge Akçakaya Waite,MMB,Salı,0930/1229,---,30,0,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+46,24394,SBP 4031E,Real Estate Economics,,--,MMB,Pazartesi,1030/1229,---,0,0,Yok/None,"ENTE, MIM, MIME, PEME, SBP, SBPE",Yok/None,Yok/None
+47,21391,SBP 4033E,Rural Settlements and Problems,,Aliye Ahu Akgün,MMB,Salı,0830/1029,---,30,28,"SBP/10/10
+SBPE/15/15
+Diğer/5/3","PEME, SBP, SBPE",Yok/None,Yok/None
+48,21388,SBP 4036E,Transformation of Urban Systms,,Zeynep Günay,MMB,Çarşamba,1330/1529,---,20,20,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+49,21401,SBP 411E,Project VII: Urban Design,,Eda Yücesoy,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","---
+---",15,12,Yok/None,"SBP, SBPE, SBPM","SBP 312 MIN DD
+veya SBP 312E MIN DD",Yok/None
+50,21402,SBP 4902,Diploma Projesi,,"Tüzin Baycan, Emine Ferhan Gezici Korten, Engin Eyüp Eyuboğlu, Turgay Kerem Koramaz",MMB,----,/,---,500,39,Yok/None,SBP,"(SBP 119 MIN DD
+veya SBP 119E MIN DD)
+ve (SBP 126 MIN DD
+veya SBP 126E MIN DD)
+ve (SBP 223 MIN DD
+veya SBP 223E MIN DD)
+ve (SBP 252 MIN DD
+veya SBP 252E MIN DD)
+ve (SBP 262 MIN DD
+veya SBP 262E MIN DD)
+ve (SBP 232 MIN DD
+veya SBP 232E MIN DD)
+ve (SBP 242 MIN DD
+veya SBP 242E MIN DD)
+ve (SBP 208 MIN DD
+veya SBP 208E MIN DD
+veya SBP 222 MIN DD
+veya SBP 222E MIN DD)
+ve (SBP 210 MIN DD
+veya SBP 210E MIN DD
+veya SBP 234 MIN DD
+veya SBP 234E MIN DD)
+ve (SBP 245 MIN DD
+veya SBP 245E MIN DD
+veya SBP 243 MIN DD
+veya SBP 243E MIN DD
+veya SBP 231 MIN DD
+veya SBP 231E MIN DD)
+ve (SBP 338 MIN DD
+veya SBP 338E MIN DD)
+ve (SBP 318 MIN DD
+veya SBP 318E MIN DD
+veya SBP 331 MIN DD
+veya SBP 331E MIN DD)
+ve (SBP 327 MIN DD
+veya SBP 327E MIN DD
+veya SBP 343 MIN DD
+veya SBP 343E MIN DD
+veya SBP 341 MIN DD
+veya SBP 341E MIN DD)
+ve (SBP 323 MIN DD
+veya SBP 323E MIN DD
+veya SBP 321 MIN DD
+veya SBP 321E MIN DD)
+ve (SBP 411 MIN DD
+veya SBP 411E MIN DD)",Yok/None
+51,21403,SBP 4902E,Graduation Project,,"Tüzin Baycan, Emine Ferhan Gezici Korten, Engin Eyüp Eyuboğlu, Turgay Kerem Koramaz",MMB,----,/,---,500,40,Yok/None,"SBP, SBPE","(SBP 119 MIN DD
+veya SBP 119E MIN DD)
+ve (SBP 126 MIN DD
+veya SBP 126E MIN DD)
+ve (SBP 223 MIN DD
+veya SBP 223E MIN DD)
+ve (SBP 252 MIN DD
+veya SBP 252E MIN DD)
+ve (SBP 262 MIN DD
+veya SBP 262E MIN DD)
+ve (SBP 232 MIN DD
+veya SBP 232E MIN DD)
+ve (SBP 242 MIN DD
+veya SBP 242E MIN DD)
+ve (SBP 208 MIN DD
+veya SBP 208E MIN DD
+veya SBP 222 MIN DD
+veya SBP 222E MIN DD)
+ve (SBP 210 MIN DD
+veya SBP 210E MIN DD
+veya SBP 234 MIN DD
+veya SBP 234E MIN DD)
+ve (SBP 245 MIN DD
+veya SBP 245E MIN DD
+veya SBP 243 MIN DD
+veya SBP 243E MIN DD
+veya SBP 231 MIN DD
+veya SBP 231E MIN DD)
+ve (SBP 338 MIN DD
+veya SBP 338E MIN DD)
+ve (SBP 318 MIN DD
+veya SBP 318E MIN DD
+veya SBP 331 MIN DD
+veya SBP 331E MIN DD)
+ve (SBP 327 MIN DD
+veya SBP 327E MIN DD
+veya SBP 343 MIN DD
+veya SBP 343E MIN DD
+veya SBP 341 MIN DD
+veya SBP 341E MIN DD)
+ve (SBP 323 MIN DD
+veya SBP 323E MIN DD
+veya SBP 321 MIN DD
+veya SBP 321E MIN DD)
+ve (SBP 411 MIN DD
+veya SBP 411E MIN DD)",Yok/None
+52,24395,SBP 492,Bitirme Çalışması,,Tüzin Baycan,MMB,----,/,---,500,2,Yok/None,SBP,"(SBP 411 MIN DD
+veya SBP 411E MIN DD)
+ve (SBP 323 MIN DD
+veya SBP 323E MIN DD
+veya SBP 321 MIN DD
+veya SBP 321E MIN DD)
+ve (SBP 327 MIN DD
+veya SBP 327E MIN DD
+veya SBP 343 MIN DD
+veya SBP 343E MIN DD
+veya SBP 341 MIN DD
+veya SBP 341E MIN DD)
+ve (SBP 331 MIN DD
+veya SBP 331E MIN DD
+veya SBP 318 MIN DD
+veya SBP 318E MIN DD)
+ve (SBP 245 MIN DD
+veya SBP 245E MIN DD
+veya SBP 243 MIN DD
+veya SBP 243E MIN DD
+veya SBP 231 MIN DD
+veya SBP 231E MIN DD)
+Diğer Şartlar",4.Sınıf
+53,24396,SBP 492E,Final Project,,Tüzin Baycan,MMB,----,/,---,500,4,Yok/None,SBPE,"(SBP 411 MIN DD
+veya SBP 411E MIN DD)
+ve (SBP 323 MIN DD
+veya SBP 323E MIN DD
+veya SBP 321 MIN DD
+veya SBP 321E MIN DD)
+ve (SBP 327 MIN DD
+veya SBP 327E MIN DD
+veya SBP 343 MIN DD
+veya SBP 343E MIN DD
+veya SBP 341 MIN DD
+veya SBP 341E MIN DD)
+ve (SBP 331 MIN DD
+veya SBP 331E MIN DD
+veya SBP 318 MIN DD
+veya SBP 318E MIN DD)
+ve (SBP 245 MIN DD
+veya SBP 245E MIN DD
+veya SBP 243 MIN DD
+veya SBP 243E MIN DD
+veya SBP 231 MIN DD
+veya SBP 231E MIN DD)
+Diğer Şartlar",4.Sınıf

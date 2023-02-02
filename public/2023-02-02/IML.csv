@@ -1,0 +1,170 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22082,IML 110,İmalat Müh. Giriş ve Etik,,Ramazan Murat Tabanlı,MKB,Çarşamba,1330/1529,D331,60,0,Yok/None,IML,Yok/None,Yok/None
+1,22096,IML 111,İmalat Mühendisliğine Giriş,,Ramazan Murat Tabanlı,MKB,Çarşamba,1230/1329,D331,60,0,Yok/None,IML,Yok/None,Yok/None
+2,22108,IML 206,Akışkanlar Mekaniği,,Hakan Öksüzoğlu,"MKB
+MKB","Salı
+Çarşamba","1130/1329
+1130/1229","D368A
+D368B",60,10,Yok/None,IML,Yok/None,Yok/None
+3,22114,IML 311,İmal Usülleri I,,Ali Gökşenli,"MKB
+MKB","Salı
+Perşembe","1330/1529
+1130/1329","D374
+D374",60,5,Yok/None,IML,"MAL 201 MIN DD
+veya MAL 201E MIN DD
+veya MAK 213 MIN DD
+veya MAK 213E MIN DD",Yok/None
+4,22122,IML 312,İmal Usülleri II,,Şafak Yılmaz,"MKB
+MKB","Salı
+Perşembe","1330/1529
+1030/1229","D368B
+D376",60,15,Yok/None,IML,"MAL 201 MIN DD
+veya MAL 201E MIN DD
+veya MAK 213 MIN DD
+veya MAK 213E MIN DD",Yok/None
+5,22144,IML 320,Makina Elemanları,,Ali İmre Aydeniz,"MKB
+MKB","Pazartesi
+Perşembe","1330/1629
+1530/1729","D374
+D374",60,12,Yok/None,"IML, IMLM","(MAK 105 MIN DD
+veya MAK 105E MIN DD
+veya RES 105 MIN DD
+veya RES 105E MIN DD)
+ve (MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MUK 207 MIN DD
+veya MUK 207E MIN DD)",Yok/None
+6,22145,IML 322,İmalatta Otomasyon,,Erdinç Altuğ,MKB,Pazartesi,1030/1329,D317,60,5,Yok/None,"IML, IMLM","(IML 212 MIN DD
+veya IML 212E MIN DD
+veya IML 311 MIN DD
+veya IML 311E MIN DD)
+ve (MAK 331E MIN DD
+veya MAK 331 MIN DD
+veya MAK 333 MIN DD
+veya MAK 333E MIN DD)",Yok/None
+7,24756,IML 322,İmalatta Otomasyon,,Mustafa Resa Becan,MKB,Cuma,0930/1229,D360,40,24,Yok/None,"IML, IMLM","(IML 212 MIN DD
+veya IML 212E MIN DD
+veya IML 311 MIN DD
+veya IML 311E MIN DD)
+ve (MAK 331E MIN DD
+veya MAK 331 MIN DD
+veya MAK 333 MIN DD
+veya MAK 333E MIN DD)",Yok/None
+8,22146,IML 324E,Comp.Aided Manufacturing Eng.,,Erkan Günpınar,"MKB
+MKB","Çarşamba
+Perşembe","0830/0929
+0830/1029","D376
+D376",60,29,Yok/None,"IML, IMLE","(RES 105 MIN DD
+veya RES 105E MIN DD
+veya MAK 105 MIN DD
+veya MAK 105E MIN DD)
+ve (BIL 104E MIN DD
+veya BIL 106E MIN DD
+veya BIL 112E MIN DD
+veya MAK 104E MIN DD)",Yok/None
+9,22147,IML 325E,Measurements & Instrumentation,,Hülya Yalçın,"MKB
+MKB","Çarşamba
+Cuma","1230/1329
+1430/1629","D359
+D359",60,0,Yok/None,"IML, IMLE","(MUK 209 MIN DD
+veya MUK 209E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 216 MIN DD
+veya MAK 216E MIN DD
+veya MAK 218 MIN DD
+veya MAK 218E MIN DD)",Yok/None
+10,22148,IML 326E,Manuf. of Nonmetalic Prod.,,Ersan Üstündağ,MKB,Salı,0830/1129,409,60,21,Yok/None,"IML, IMLE","MAK 224E MIN DD
+veya MAK 214E MIN DD",Yok/None
+11,24902,IML 337,İmalat Planlama ve Kontrol,,Ramazan Murat Tabanlı,MKB,Pazartesi,1430/1729,D360,50,8,Yok/None,IML,"MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya MAK 211 MIN DD
+veya MAK 211E MIN DD",Yok/None
+12,22149,IML 338,İmalat Sistemleri,,Ramazan Murat Tabanlı,"MKB
+MKB","Pazartesi
+Çarşamba","0830/1029
+0930/1029","D376
+D376",60,12,Yok/None,IML,"IML 337 MIN DD
+veya IML 337E MIN DD",Yok/None
+13,22150,IML 402,İmalat Lab II,,Canan Gamze Güleryüz Parasız,MKB,----,/,---,60,8,Yok/None,"IML, IMLM",Yok/None,4.Sınıf
+14,22151,IML 402E,Manufacturing Lab II,,Canan Gamze Güleryüz Parasız,MKB,----,/,---,60,0,Yok/None,IMLE,Yok/None,4.Sınıf
+15,22152,IML 404E,Comp.Simulations in Manuf.Eng.,,Canan Gamze Güleryüz Parasız,MKB,----,/,---,60,44,Yok/None,IML,Yok/None,4.Sınıf
+16,22153,IML 405,Uygulamalı İmalat Projesi,,Turgut Gülmez,MKB,----,/,---,60,0,Yok/None,IML,"(IML 311 MIN DD
+veya IML 311E MIN DD
+veya IML 212 MIN DD
+veya IML 212E MIN DD)
+ve (IML 312 MIN DD
+veya IML 312E MIN DD
+veya IML 313 MIN DD
+veya IML 313E MIN DD)
+ve (IML 338 MIN DD
+veya IML 338E MIN DD)",Yok/None
+17,22154,IML 438E,Tool Design,,Turgut Gülmez,MKB,Perşembe,1130/1429,D357,60,54,Yok/None,"IML, IMLE","IML 312 MIN DD
+veya IML 312E MIN DD",Yok/None
+18,22155,IML 460,Tesis Plan. ve Yerleştirme,,Ramazan Murat Tabanlı,"MKB
+MKB","Pazartesi
+Çarşamba","1030/1229
+1030/1129","D376
+D376",60,17,Yok/None,IML,"IML 336 MIN DD
+veya IML 336E MIN DD
+veya IML 338 MIN DD
+veya IML 338E MIN DD",Yok/None
+19,22788,IML 4901,İmalat Müh. Tasarımı I,,Adil Yücel,MKB,----,/,---,200,1,Yok/None,IML,"(IML 311 MIN DD
+veya IML 311E MIN DD)
+ve (IML 312 MIN DD
+veya IML 312E MIN DD)
+ve (IML 338 MIN DD
+veya IML 338E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101EL MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (KIM 101L MIN DD
+veya KIM 101EL MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAK 210 MIN DD
+veya MAK 210E MIN DD)",4.Sınıf
+20,22790,IML 4901E,Manufacturing Eng. Design I,,Adil Yücel,MKB,----,/,---,200,1,Yok/None,IML,"(IML 311 MIN DD
+veya IML 311E MIN DD)
+ve (IML 312 MIN DD
+veya IML 312E MIN DD)
+ve (IML 338 MIN DD
+veya IML 338E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (KIM 101L MIN DD
+veya KIM 101EL MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAK 210 MIN DD
+veya MAK 210E MIN DD)",4.Sınıf
+21,22797,IML 4902,İmalat Müh. Tasarımı II,,Adil Yücel,MKB,----,/,---,200,29,Yok/None,IML,"IML 4901 MIN BB
+veya IML 4901E MIN BB",Yok/None
+22,22798,IML 4902E,Manufacturing Eng. Design II,,Adil Yücel,MKB,----,/,---,200,6,Yok/None,IML,"IML 4901 MIN BB
+veya IML 4901E MIN BB",Yok/None
+23,22784,IML 492,İmalat Tasarım Projesi,,Adil Yücel,MKB,----,/,---,200,7,Yok/None,IML,Diğer Şartlar,4.Sınıf
+24,22785,IML 492E,Manufacturing Design Project,,Adil Yücel,MKB,----,/,---,200,1,Yok/None,"IML, IMLE",Diğer Şartlar,4.Sınıf

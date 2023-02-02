@@ -1,0 +1,14 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21289,MRT 312,OnBoardTrain.(ShpOprt.&Mn.III),,Emre Akyüz,DZB,----,/,---,10,0,Yok/None,SDU,Yok/None,Yok/None
+1,21290,MRT 312,OnBoardTrain.(ShpOprt.&Mn.III),,Tanzer Satır,DZB,----,/,---,10,0,Yok/None,SDU,Yok/None,Yok/None
+2,21291,MRT 314,Sea Project,,Tanzer Satır,DZB,----,/,---,10,0,Yok/None,SDU,Yok/None,Yok/None
+3,21292,MRT 402,Marine Insurance,,Hakan Muran,DZB,Salı,1430/1729,---,10,1,Yok/None,"SDU, SGM",Yok/None,Yok/None
+4,21293,MRT 406,Chartering,,Emre Akyüz,DZB,Çarşamba,1030/1229,---,10,1,Yok/None,"SDU, SGM",Yok/None,Yok/None
+5,21294,MRT 408,License Seminar,,Muhsin Kadıoğlu,DZB,Salı,0830/1229,---,10,1,Yok/None,SDU,Yok/None,Yok/None
+6,21295,MRT 410,Port and Terminal Operations,,Tanzer Satır,DZB,Perşembe,1430/1729,---,10,1,Yok/None,"SDU, SGM",Yok/None,Yok/None
+7,21296,MRT 412,Management Seminar,,Levent Kırval,DZB,Cuma,1430/1729,---,10,1,Yok/None,SDU,Yok/None,Yok/None
+8,21297,MRT 414,Physical Education II,,Yusuf Nejat Koçar,DZB,Cuma,1030/1229,---,10,1,Yok/None,SDU,Yok/None,Yok/None
+9,24868,MRT 415,Physical Education I,,Yusuf Nejat Koçar,DZB,Perşembe,1330/1529,---,10,1,Yok/None,SDU,Yok/None,Yok/None
+10,21298,MRT 422,Bridge Resource Management,,Cemil Yurtören,DZB,Perşembe,0930/1429,---,10,1,Yok/None,SDU,Yok/None,Yok/None
+11,21300,MRT 492,Graduation Project,,Tanzer Satır,DZB,----,/,---,500,2,Yok/None,SDU,Diğer Şartlar,Yok/None

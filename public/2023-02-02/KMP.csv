@@ -1,0 +1,43 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22741,KMP 114,Klasik Armoni II,,Nail Yavuzoğlu,TMB,Çarşamba,1030/1229,---,10,4,Yok/None,"BST, KMP",Yok/None,Yok/None
+1,22742,KMP 116,Müzik Formları II,,Şirin Karadeniz,TMB,Perşembe,1330/1529,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+2,22745,KMP 196,Form Bilgisi II,,Şirin Karadeniz,TMB,Salı,1330/1529,---,25,13,Yok/None,"CAB, CEB, MTR, MUT, SES",Yok/None,Yok/None
+3,22744,KMP 196,Form Bilgisi II,,Şirin Karadeniz,TMB,Perşembe,1530/1729,---,25,15,Yok/None,"CAB, CEB, MTR, MUT, SES",Yok/None,Yok/None
+4,24860,KMP 197,Konturpuan-Füg I,,Ayhan Gunca,TMB,Perşembe,1330/1529,---,10,10,Yok/None,"CAB, CEB, MTR",Yok/None,Yok/None
+5,22746,KMP 198,Konturpuan-Füg II,,Ayhan Gunca,TMB,Salı,1330/1529,---,25,25,Yok/None,"CAB, CEB, MTR",Yok/None,Yok/None
+6,22747,KMP 198,Konturpuan-Füg II,,Ayhan Gunca,TMB,Cuma,1030/1229,---,25,11,Yok/None,"CAB, CEB, MTR",Yok/None,Yok/None
+7,22748,KMP 202,Kompozisyon IV,,Eray Altınbüken,"TMB
+TMB","Salı
+Cuma","1530/1729
+1030/1229","---
+---",10,3,Yok/None,"BST, KMP",Yok/None,Yok/None
+8,22749,KMP 204,Türk Müziği Literatürü II,,Neşe Yeşim Altınel Çoban,TMB,Cuma,1600/1759,---,10,5,Yok/None,"BST, KMP",KMP 203 MIN DD,Yok/None
+9,22750,KMP 206,Kontrpuan-Füg II,,Nail Yavuzoğlu,TMB,Pazartesi,1030/1229,---,10,4,Yok/None,"BST, KMP",Yok/None,Yok/None
+10,22752,KMP 294,Armoni II,,Recep Gül,TMB,Perşembe,1030/1229,---,25,20,Yok/None,"CAB, CEB, MTR, MTRM",Yok/None,Yok/None
+11,22754,KMP 294,Armoni II,,Recep Gül,TMB,Cuma,1030/1229,---,25,15,Yok/None,"CAB, CEB, MTR, MTRM",Yok/None,Yok/None
+12,22757,KMP 302,Kompozisyon VI,,Oğuzhan Balcı,"TMB
+TMB","Pazartesi
+Perşembe","1530/1729
+1030/1229","---
+---",10,6,Yok/None,"BST, KMP",KMP 301 MIN CC,Yok/None
+13,22759,KMP 304,Kompozisyon Çözümleme II,,Zeynep Ayşe Hatipoğlu,TMB,Pazartesi,1030/1229,---,10,3,Yok/None,"BST, KMP",KMP 303 MIN DD,Yok/None
+14,22760,KMP 306,Koro Şefliği II,,Ayhan Gunca,TMB,Salı,1030/1229,---,10,4,Yok/None,"BST, KMP",Yok/None,Yok/None
+15,22761,KMP 310,Orkestrasyon I,,Ayhan Gunca,TMB,Cuma,1400/1559,---,10,6,Yok/None,"BST, KMP",CAB 190 MIN DD,Yok/None
+16,22763,KMP 312,Türk Makam Müzğnde Kompzsyn,,Neşe Yeşim Altınel Çoban,TMB,Cuma,0830/1029,---,10,6,Yok/None,"BST, KMP",Yok/None,Yok/None
+17,22770,KMP 322,Batı Müziği Literatürü II,,Mehmet Özkan,TMB,Salı,1330/1529,---,10,3,Yok/None,"BST, KMP",KMP 321 MIN DD,Yok/None
+18,22771,KMP 324,Türk Müziğinde Polifoni II,,Nail Yavuzoğlu,TMB,Çarşamba,0830/1029,---,10,0,Yok/None,"BST, KMP",KMP 323 MIN DD,Yok/None
+19,22772,KMP 332,Ölçü ve Vuruş Tekniği II,,Ayhan Gunca,TMB,Perşembe,1530/1729,---,10,5,Yok/None,"BST, KMP",Yok/None,Yok/None
+20,22773,KMP 362,Türk MzğndeFrmBlg.ve Çzmlme II,,Serkan Şener,TMB,Perşembe,0930/1229,---,20,5,Yok/None,MUZ,Yok/None,Yok/None
+21,22774,KMP 364,Batı Mzğnde Frm Bilg.ve Çzmlme,,Ozan Baysal,TMB,Cuma,1400/1659,---,20,12,Yok/None,MUZ,Yok/None,Yok/None
+22,22776,KMP 402,Kompozisyon VIII,,Oğuzhan Balcı,"TMB
+TMB","Salı
+Perşembe","1530/1729
+0830/1029","---
+---",10,4,Yok/None,"BST, KMP",KMP 401 MIN CC,Yok/None
+23,22778,KMP 404,Kompozisyon Çözümleme IV,,Ayhan Gunca,TMB,Perşembe,1030/1229,---,10,1,Yok/None,"BST, KMP",KMP 403 MIN DD,Yok/None
+24,22809,KMP 422,Batı Müziği Literatürü IV,,Mehmet Özkan,TMB,Cuma,1030/1229,---,10,1,Yok/None,"BST, KMP",KMP 421 MIN DD,Yok/None
+25,22810,KMP 424,Türk Müziğinde Polifoni IV,,Nail Yavuzoğlu,TMB,Pazartesi,1330/1529,---,10,2,Yok/None,"BST, KMP",KMP 423 MIN DD,Yok/None
+26,22812,KMP 434,Partisyon Okuma II,,Recep Gül,TMB,Çarşamba,1030/1229,---,10,1,Yok/None,"BST, KMP",Yok/None,Yok/None
+27,22814,KMP 458,Partisyon Çözümleme II,,Recep Gül,TMB,Pazartesi,1030/1229,---,25,2,Yok/None,MTR,Yok/None,Yok/None
+28,22743,KMP 492,Bitirme Çalışması,,Oğuzhan Balcı,TMB,----,/,---,500,4,Yok/None,"BST, KMP",Diğer Şartlar,4.Sınıf

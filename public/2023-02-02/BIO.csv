@@ -1,0 +1,116 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24970,BIO 101,General Biology,,Halil Bayraktar,MOBGAM,Çarşamba,0830/1129,---,30,12,Yok/None,MBI,Yok/None,Yok/None
+1,22034,BIO 106E,General Biology II,,Bülent Balta,"FEB
+FEB","Salı
+Perşembe","0830/1029
+1430/1529","D102
+D204",90,57,Yok/None,"BIO, BIOE, BIOM","BIO 111 MIN DD
+veya BIO 111E MIN DD
+veya BIO 301E MIN DD
+veya BIO 105E MIN DD",Yok/None
+2,22038,BIO 106EL,General Biology II Lab.,,Bülent Balta,FEB,Salı,1030/1329,---,95,88,Yok/None,"BIO, BIOE, BIOM",Yok/None,Yok/None
+3,22041,BIO 212E,Genetics,,Sibel Uğur İşeri,FEB,Perşembe,0830/1129,D304,85,71,Yok/None,"BIO, BIOE, BIOM","BIO 111 MIN DD
+veya BIO 111E MIN DD
+veya BIO 105E MIN DD
+veya BIO 105 MIN DD",Yok/None
+4,21505,BIO 214,Mikrobiyoloji,,Pervin Başaran Akocak,KMB,Cuma,1400/1659,D105,25,9,Yok/None,KMM,Yok/None,Yok/None
+5,22044,BIO 216E,Microbiology,,"Zeynep Petek Çakar, Ayten Karataş",FEB,Pazartesi,0830/1129,D304,75,74,Yok/None,"BIO, BIOE, BIOM","BIO 111 MIN DD
+veya BIO 111E MIN DD
+veya BIO 105E MIN DD",Yok/None
+6,22046,BIO 216EL,Microbiology Lab.,,Ayten Karataş,FEB,Salı,1430/1729,---,80,59,Yok/None,"BIO, BIOE, BIOM","BIO 106EL MIN CC
+veya BIO 112E MIN DD",Yok/None
+7,24956,BIO 224E,Molecular Biology,,Fatih Ortakcı,KMB,Salı,0930/1229,D105,50,10,"CEV/3/0
+CEVE/2/0
+GID/38/9
+GIDE/2/0
+KMM/5/1","CEV, CEVE, GID, GIDE, KMM",Yok/None,Yok/None
+8,22048,BIO 232E,Organic Chem. for Biologists,,Bülent Balta,FEB,Çarşamba,0830/1129,D103,70,70,Yok/None,BIOE,"KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+9,22067,BIO 301E,Fundamentals of Biology,,Deniz Şahin,EEB,Çarşamba,0830/1129,5307,55,46,"CEV/3/3
+CEVE/3/3
+ELK/3/1
+ELKE/3/0
+FIZ/5/2
+INS/3/3
+INSE/3/3
+ISL/3/3
+ISLE/3/3
+JEO/3/3
+KIM/3/2
+KOM/3/3
+KOME/3/3
+MET/3/3
+METE/3/3
+PETE/3/3
+Diğer/5/5","BIOM, CEV, CEVE, CHZ, CHZE, DEN, EEE, EHB, EHBE, EHS, ELE, ELH, ELK, ELKE, FIZ, FIZE, GEM, GID, GIDE, INS, INSE, ISL, ISLE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MET, METE, PET, PETE, TEL",Yok/None,Yok/None
+10,22068,BIO 301E,Fundamentals of Biology,,Deniz Şahin,FEB,Çarşamba,1230/1529,D204,55,50,"CEV/3/3
+CEVE/3/3
+ELK/3/1
+ELKE/3/3
+FIZ/5/5
+INS/3/3
+INSE/3/3
+ISL/3/3
+ISLE/3/3
+JEO/3/3
+KIM/3/3
+KOM/3/3
+KOME/3/1
+MET/3/3
+METE/3/2
+PETE/3/3
+Diğer/5/5","BIOM, CEV, CEVE, CHZ, CHZE, DEN, EEE, EHB, EHBE, EHS, ELE, ELH, ELK, ELKE, FIZ, FIZE, GEM, GID, GIDE, INS, INSE, ISL, ISLE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MET, METE, PET, PETE, TEL",Yok/None,Yok/None
+11,22051,BIO 326E,Mol. Evolution & Biodiversity,,"Deniz Şahin, Sibel Uğur İşeri",FEB,Perşembe,1230/1429,D103,75,75,Yok/None,"BIO, BIOE","BIO 212 MIN DD
+veya BIO 212E MIN DD",Yok/None
+12,22052,BIO 328E,Biochemistry II,,Muhammet Übeydullah Kahveci,FEB,Salı,0830/1129,D202,75,56,Yok/None,"BIO, BIOE","BIO 315E MIN DD
+veya BIO 311 MIN DD
+veya BIO 311E MIN DD
+veya BIO 323 MIN DD
+veya BIO 323E MIN DD",Yok/None
+13,22053,BIO 328EL,Biochemistry II Lab.,,Muhammet Übeydullah Kahveci,FEB,Cuma,0930/1229,---,80,56,Yok/None,"BIO, BIOE","BIO 315EL MIN CC
+veya BIO 311E MIN DD",Yok/None
+14,22056,BIO 332E,Modern Techniques in Biology,,Abdulhalim Kılıç,FEB,Pazartesi,0830/1129,D203,65,65,Yok/None,"BIO, BIOE","BIO 311 MIN DD
+veya BIO 311E MIN DD
+veya BIO 315E MIN DD
+veya KIM 326 MIN DD
+veya KIM 326E MIN DD",Yok/None
+15,22054,BIO 415E,Molecular Biology,,"Arzu Karabay Korkmaz, Aslı Kumbasar","FEB
+FEB","Salı
+Perşembe","1230/1429
+1430/1629","D304
+D102",75,68,Yok/None,"BIO, BIOE, BIOM","BIO 331 MIN DD
+veya BIO 331E MIN DD
+veya BIO 317E MIN DD",Yok/None
+16,22055,BIO 415EL,Molecular Biology Lab.,,Arzu Karabay Korkmaz,FEB,Cuma,1430/1729,---,80,80,Yok/None,"BIO, BIOE, BIOM","BIO 207EL MIN CC
+veya BIO 331E MIN DD",Yok/None
+17,22057,BIO 442E,Molecular Immunology,,Ayça Sayı Yazgan,FEB,Çarşamba,1230/1529,D206,40,40,Yok/None,"BIO, BIOE, BIOM","BIO 211 MIN DD
+veya BIO 211E MIN DD
+veya BIO 207E MIN DD",Yok/None
+18,22058,BIO 462E,Prot. Struct.-Function Relat.,,Gizem Dinler Doğanay,FEB,Pazartesi,1430/1729,D101,40,40,Yok/None,"BIO, BIOE, BIOM","BIO 311 MIN DD
+veya BIO 311E MIN DD
+veya BIO 315E MIN DD",Yok/None
+19,22059,BIO 466E,Developmental Biology,,Aslı Kumbasar,FEB,Çarşamba,0830/1129,D105,40,5,Yok/None,"BIO, BIOE, BIOM","BIO 331 MIN DD
+veya BIO 331E MIN DD
+veya BIO 317E MIN DD",Yok/None
+20,22060,BIO 471E,Protein Biotechnology,,"Deniz Şahin, Abdulhalim Kılıç, Gizem Dinler Doğanay",FEB,Perşembe,0830/1129,D101,40,40,Yok/None,"BIO, BIOE","BIO 311 MIN DD
+veya BIO 311E MIN DD
+veya BIO 315E MIN DD",Yok/None
+21,22062,BIO 4901E,Mol Bio & Genetics Design I,,Bülent Balta,FEB,----,/,---,500,13,Yok/None,"BIO, BIOE","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (BIO 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+22,22063,BIO 4902E,Mol Bio & Genetics Design II,,Bülent Balta,FEB,----,/,---,500,42,Yok/None,"BIO, BIOE",BIO 4901E MIN BB,Yok/None
+23,22061,BIO 492E,Graduation Project,,Bülent Balta,FEB,----,/,---,500,3,Yok/None,"BIO, BIOE",Diğer Şartlar,4.Sınıf

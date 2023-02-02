@@ -1,0 +1,72 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21190,DUI 102E,Introduction to Navigation,,Tuba Keçeci,DZB,Pazartesi,0830/1129,---,40,40,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+1,23684,DUI 102E,Introduction to Navigation,,Tuba Keçeci,DZB,Pazartesi,1430/1729,---,60,37,Yok/None,MTM,Yok/None,Yok/None
+2,21191,DUI 102E,Introduction to Navigation,,Elif Bal Beşikçi,DZB,Salı,1430/1729,---,50,22,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+3,21189,DUI 102E,Introduction to Navigation,,Tuba Keçeci,DZB,Perşembe,0830/1129,---,40,31,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+4,23943,DUI 103E,Seamanship,,Orhan Gönel,DZB,Perşembe,1330/1729,---,50,16,Yok/None,"MMD, MTM",Yok/None,Yok/None
+5,23688,DUI 112E,Watchkeeping I,,Selim Aksoy,DZB,Salı,0930/1129,---,60,34,Yok/None,MTM,Yok/None,Yok/None
+6,21193,DUI 112E,Watchkeeping I,,Oğuzhan Gürel,DZB,Çarşamba,1030/1229,---,65,65,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+7,21192,DUI 112E,Watchkeeping I,,Oğuzhan Gürel,DZB,Çarşamba,1230/1429,---,65,34,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+8,21199,DUI 208E,Cargo&Crew Safety,,Tanzer Satır,DZB,Perşembe,1030/1229,---,60,60,Yok/None,DUI,Yok/None,Yok/None
+9,21198,DUI 208E,Cargo&Crew Safety,,Tanzer Satır,DZB,Perşembe,1230/1429,---,60,39,Yok/None,DUI,Yok/None,Yok/None
+10,21196,DUI 214,Astronomi,,Orhan Gönel,DZB,Cuma,0830/1029,---,70,65,Yok/None,DUI,Yok/None,Yok/None
+11,21197,DUI 214,Astronomi,,Orhan Gönel,DZB,Cuma,1030/1229,---,70,64,Yok/None,DUI,Yok/None,Yok/None
+12,21202,DUI 231EL,Marine Communication Lab.,,Oğuzhan Gürel,DZB,Salı,0830/1029,---,30,20,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+13,21207,DUI 231EL,Marine Communication Lab.,,Alaaddin Yıldıray Ertaş,DZB,Salı,0830/1029,---,30,26,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+14,21201,DUI 231EL,Marine Communication Lab.,,Oğuzhan Gürel,DZB,Salı,1030/1229,---,30,17,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+15,21210,DUI 231EL,Marine Communication Lab.,,Alaaddin Yıldıray Ertaş,DZB,Salı,1030/1229,---,30,16,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+16,21205,DUI 231EL,Marine Communication Lab.,,Oğuzhan Gürel,DZB,Salı,1330/1529,---,30,22,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+17,21209,DUI 231EL,Marine Communication Lab.,,Alaaddin Yıldıray Ertaş,DZB,Salı,1330/1529,---,30,24,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+18,21213,DUI 232,Gemi Elektroniği,,Melek Ertogan,DZB,Pazartesi,1030/1229,---,60,59,Yok/None,DUI,Yok/None,Yok/None
+19,21211,DUI 232,Gemi Elektroniği,,Zuhal Er,DZB,Salı,0830/1029,---,60,26,Yok/None,DUI,Yok/None,Yok/None
+20,21212,DUI 232,Gemi Elektroniği,,Zuhal Er,DZB,Salı,1030/1229,---,60,22,Yok/None,DUI,Yok/None,Yok/None
+21,21216,DUI 241,Deniz Eğitimi I,,Yunus Emre Şenol,DZB,----,/,---,90,1,Yok/None,DUI,Yok/None,Yok/None
+22,21217,DUI 302E,Onboard Training III,,Yunus Emre Şenol,DZB,----,/,---,90,2,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+23,24966,DUI 321,Deniz Hukuku I,,Hakan Muran,DZB,Salı,1030/1229,---,30,18,Yok/None,DUI,Yok/None,Yok/None
+24,21229,DUI 351,Deniz Eğitimi II,,Emre Akyüz,DZB,----,/,---,90,0,Yok/None,DUI,Yok/None,Yok/None
+25,24874,DUI 392E,Long Term SeaTraining(6Months),,Yunus Emre Şenol,DZB,----,/,---,150,107,Yok/None,DUI,"(DUI 103E MIN DD
+veya DUI 103 MIN DD)
+ve (DFH 111 MIN DD
+veya DFH 111E MIN DD)
+ve (DFH 112 MIN DD
+veya DFH 112E MIN DD)
+ve (DUI 112E MIN DD
+veya DUI 112 MIN DD)",Yok/None
+26,21232,DUI 393E,Long Term SeaTraining(6Months),,Yunus Emre Şenol,DZB,----,/,---,150,0,Yok/None,DUI,"DUI 173E MIN DD
+ve DFH 131 MIN DD
+ve DFH 141 MIN DD
+ve DUI 112E MIN DD",Yok/None
+27,21241,DUI 402,Deniz Hukuku II,,Hakan Muran,DZB,Perşembe,0830/1129,---,35,35,Yok/None,DUI,"DUI 321 MIN DD
+veya DUI 321E MIN DD",Yok/None
+28,21244,DUI 402,Deniz Hukuku II,,Hakan Muran,DZB,Perşembe,1130/1429,---,35,35,Yok/None,DUI,"DUI 321 MIN DD
+veya DUI 321E MIN DD",Yok/None
+29,21245,DUI 402,Deniz Hukuku II,,Hakan Muran,DZB,Perşembe,1430/1729,---,35,31,Yok/None,DUI,"DUI 321 MIN DD
+veya DUI 321E MIN DD",Yok/None
+30,24982,DUI 461E,Ship Surveying Procedures,,Yunus Emre Şenol,DZB,Perşembe,1130/1329,---,30,20,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+31,21250,DUI 472,Oşinografi,,Ayşe Nak,DZB,Çarşamba,0930/1129,---,45,24,Yok/None,DUI,Yok/None,Yok/None
+32,21248,DUI 472,Oşinografi,,Ayşe Nak,DZB,Çarşamba,1130/1329,---,45,40,Yok/None,DUI,Yok/None,Yok/None
+33,21249,DUI 472,Oşinografi,,Ayşe Nak,DZB,Çarşamba,1330/1529,---,45,45,Yok/None,DUI,Yok/None,Yok/None
+34,21251,DUI 474,Köprü Üstü Kaynak&Takım Yön.,,Cemil Yurtören,DZB,Pazartesi,0830/1129,---,30,10,Yok/None,DUI,DUI 392E MIN DD,Yok/None
+35,21252,DUI 474,Köprü Üstü Kaynak&Takım Yön.,,Cemil Yurtören,DZB,Pazartesi,1130/1429,---,30,19,Yok/None,DUI,DUI 392E MIN DD,Yok/None
+36,21253,DUI 474,Köprü Üstü Kaynak&Takım Yön.,,Cemil Yurtören,DZB,Salı,1430/1729,---,30,30,Yok/None,DUI,DUI 392E MIN DD,Yok/None
+37,21254,DUI 4901,Deniz Ulaş.&İşlet.Müh. Tas. I,,Emre Akyüz,DZB,----,/,---,500,10,Yok/None,DUI,"DUI 341E MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+38,21255,DUI 4902,Deniz Ulaş.&İşlet.Müh. Tas. II,,Özcan Arslan,DZB,----,/,---,500,92,Yok/None,DUI,"DUI 4901 MIN BB
+veya DUI 4901E MIN BB",Yok/None
+39,21256,DUI 492,Bitirme Çalışması,,Emre Akyüz,DZB,----,/,---,500,6,Yok/None,DUI,Diğer Şartlar,4.Sınıf
+40,21257,DUI 492E,Graduation Project,,Emre Akyüz,DZB,----,/,---,500,0,Yok/None,"DUI, DUIE",Diğer Şartlar,4.Sınıf

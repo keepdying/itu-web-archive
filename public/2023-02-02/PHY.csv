@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24983,PHY 108,Physics II,,Banu Tansel Büyükçelebi,DZB,Salı,1730/2029,---,-,-,Yok/None,"MEN, MTM",Yok/None,Yok/None
+1,24728,PHY 124,Physics II,,Gönül Eryürek,EEB,Salı,1430/1729,1301,30,9,Yok/None,"EHN, SEH",Yok/None,Yok/None
+2,24729,PHY 124L,Physics II Lab,,Gönül Eryürek,EEB,Çarşamba,1130/1329,Z4,30,8,Yok/None,"EHN, SEH",Yok/None,Yok/None
+3,24876,PHY 126,Physics II,,Abdurrahman Savaş Arapoğlu,MED,Salı,1430/1729,B37,30,13,Yok/None,SIN,Yok/None,Yok/None
+4,24897,PHY 126,Physics II,,Günay Başar,FEB,Çarşamba,1330/1629,---,50,6,Yok/None,SED,Yok/None,Yok/None
+5,24962,PHY 126,Physics II,,Demet Aktaş,FEB,Perşembe,1130/1429,D106,50,13,Yok/None,"MBI, SBL, SED, SEN, SGI, SIN",Yok/None,Yok/None
+6,24898,PHY 126L,Physics II Laboratory,,Günay Başar,FEB,Çarşamba,0930/1129,L2F4,50,4,Yok/None,SED,Yok/None,Yok/None
+7,24877,PHY 126L,Physics II Laboratory,,Abdurrahman Savaş Arapoğlu,FEB,Çarşamba,1130/1329,L2F1,30,8,Yok/None,SIN,Yok/None,Yok/None
+8,24963,PHY 126L,Physics II Laboratory,,Demet Aktaş,FEB,Perşembe,1500/1659,---,50,16,Yok/None,"MBI, SBL, SED, SEN, SGI, SGM, SIN",Yok/None,Yok/None

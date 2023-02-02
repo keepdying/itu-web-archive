@@ -1,0 +1,14 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24378,CIE 308,Engineering Statistics,,Kemal Selçuk Öğüt,INB,Pazartesi,0930/1229,A2,30,10,Yok/None,SIN,MTH 108 MIN DD,Yok/None
+1,24374,CIE 336,Soil Mechanics,,Aslı Yalçın Dayıoğlu,"INB
+INB","Salı
+Perşembe","1330/1529
+1330/1629","A1
+A103",30,15,Yok/None,SIN,Yok/None,Yok/None
+2,24375,CIE 344,Hydraulics and Hydrology,,İsmail Duranyıldız,"INB
+INB","Pazartesi
+Çarşamba","1330/1629
+1330/1529","A1
+A1",30,15,Yok/None,SIN,CIE 354 MIN DD,Yok/None
+3,24377,CIE 439,Transportation Systems,,Kemal Selçuk Öğüt,INB,Cuma,1400/1659,---,30,2,Yok/None,SIN,CIE 308 MIN DD,Yok/None

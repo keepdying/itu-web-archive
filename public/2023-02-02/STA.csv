@@ -1,0 +1,12 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23180,STA 201,Statik,,***,GDB,Pazartesi,1400/1659,D304,25,9,Yok/None,GEM,Yok/None,Yok/None
+1,21116,STA 201,Statik,,***,GDB,Perşembe,0930/1229,R409,50,50,Yok/None,DEN,Yok/None,Yok/None
+2,21566,STA 201,Statik,,***,UUB,Perşembe,1430/1729,D-Z08,60,60,Yok/None,"UCK, UZB",Yok/None,Yok/None
+3,21568,STA 201E,Statics,,***,UUB,Cuma,1430/1729,D209,60,60,Yok/None,"UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+4,21570,STA 201E,Statics,,***,UUB,Cuma,1430/1729,D213,60,60,Yok/None,"UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+5,24721,STA 204,Statik ve Mukavemet,,***,EEB,Salı,1230/1529,5107,50,2,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL",Yok/None,Yok/None
+6,21035,STA 204,Statik ve Mukavemet,,***,UUB,Çarşamba,1130/1429,D-Z08,70,58,Yok/None,MTO,Yok/None,Yok/None
+7,24776,STA 204,Statik ve Mukavemet,,***,MDB,Perşembe,0830/1129,A302,70,39,Yok/None,CHZ,Yok/None,Yok/None
+8,24722,STA 204E,Statics&Strength of Materials,,***,EEB,Çarşamba,1230/1529,5107,50,7,Yok/None,"EHB, EHBE, ELE, ELH, ELK, ELKE, GID, GIDE, KMM, KMME, KOM, KOME, TEL",Yok/None,Yok/None
+9,24606,STA 204E,Statics&Strength of Materials,,***,INB,Perşembe,1430/1729,B302,60,60,Yok/None,"ISL, ISLE",Yok/None,Yok/None

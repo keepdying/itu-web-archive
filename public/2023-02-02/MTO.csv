@@ -1,0 +1,100 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21020,MTO 102,Bilgisayarlı Teknik Resim,,Hüsnü Barbaros Soyer,UUB,Cuma,0830/1129,BIL1,70,70,Yok/None,MTO,Yok/None,Yok/None
+1,21019,MTO 112,Meteoroloji Alet & Gözlem Usul,,Barış Çaldağ,"UUB
+UUB","Salı
+Perşembe","0930/1129
+0930/1129","D110
+D110",70,70,Yok/None,MTO,Yok/None,Yok/None
+2,21031,MTO 214,Atmosfer Termodinamiği,,***,"UUB
+UUB","Pazartesi
+Salı","1130/1329
+1230/1429","D215
+D215",35,35,Yok/None,MTO,Yok/None,Yok/None
+3,21033,MTO 214E,Atmospheric Thermodynamics,,***,"UUB
+UUB","Pazartesi
+Salı","1130/1329
+1230/1429","D108
+D108",35,35,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+4,21030,MTO 222,Hidroloji,,Barış Çaldağ,"UUB
+UUB","Perşembe
+Cuma","1430/1629
+0830/1029","D111
+D111",70,70,Yok/None,MTO,"MAT 271 MIN DD
+veya MAT 271E MIN DD",Yok/None
+5,21073,MTO 223,Bilgisayar Grafiğine Giriş,,Barış Önol,UUB,Cuma,1430/1729,BIL1,35,35,Yok/None,MTO,Yok/None,Yok/None
+6,21083,MTO 225,Güneş ve Yer Radyasyonu,,"Filiz Türk Katırcıoğlu, Deniz Demirhan Barı",UUB,Perşembe,1430/1729,D215,40,29,Yok/None,"FIZ, MTO",Yok/None,Yok/None
+7,21046,MTO 229E,Physics ofClouds&Precipitation,,Sevinç Asilhan,UUB,Perşembe,1130/1429,D111,70,10,Yok/None,"MTO, MTOE","MTO 212 MIN DD
+veya MTO 212E MIN DD
+veya MTO 214 MIN DD
+veya MTO 214E MIN DD",Yok/None
+8,21038,MTO 254,İklim Bilimi,,***,UUB,Salı,1430/1729,D214,35,34,Yok/None,MTO,Yok/None,Yok/None
+9,21040,MTO 254E,Climatology,,***,UUB,Salı,1430/1729,D113,35,35,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+10,24862,MTO 313E,Fund.of Remote Sens. in Meteo.,,Ahmet Öztopal,UUB,Salı,1130/1429,D-Z09,15,1,Yok/None,MTOE,Yok/None,Yok/None
+11,21067,MTO 337E,Atmospheric Dynamics I,,Elçin Tan,"UUB
+UUB","Pazartesi
+Çarşamba","1530/1729
+1130/1329","D110
+D214",35,35,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+12,21045,MTO 338,Havacılık Meteorolojisi,,Emrah Tuncay Özdemir,UUB,Pazartesi,1130/1429,D210,70,49,Yok/None,MTO,Yok/None,Yok/None
+13,24861,MTO 338E,Aeronautical Meteorology,,Emrah Tuncay Özdemir,UUB,Perşembe,1430/1729,D113,15,1,Yok/None,MTOE,Yok/None,Yok/None
+14,21068,MTO 340,Atmosfer Dinamiği II,,***,"UUB
+UUB","Pazartesi
+Çarşamba","1530/1729
+1130/1329","D109
+D113",35,23,Yok/None,MTO,"MTO 331 MIN DD
+veya MTO 331E MIN DD
+veya MTO 333 MIN DD
+veya MTO 333E MIN DD
+veya MTO 337 MIN DD
+veya MTO 337E MIN DD",Yok/None
+15,21069,MTO 340E,Atmospheric Dynamics II,,***,"UUB
+UUB","Pazartesi
+Çarşamba","1530/1729
+1230/1429","D210
+D210",35,5,Yok/None,"MTO, MTOE","MTO 331 MIN DD
+veya MTO 331E MIN DD
+veya MTO 333 MIN DD
+veya MTO 333E MIN DD
+veya MTO 337 MIN DD
+veya MTO 337E MIN DD",Yok/None
+16,21047,MTO 344,Hava Analizi ve Öngörü I,,Şükran Sibel Menteş,"UUB
+UUB","Salı
+Perşembe","0930/1129
+0830/1129","D215
+D210",60,20,Yok/None,MTO,"MTO 333 MIN DD
+veya MTO 333E MIN DD
+veya MTO 337 MIN DD
+veya MTO 337E MIN DD",Yok/None
+17,21074,MTO 351E,Hydrometeorology,,"Sevinç Asilhan, Elçin Tan",UUB,Salı,1430/1729,D108,10,8,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+18,24626,MTO 362,İnsans.Hava Sis.ile Meteo.Uyg.,,Emrah Tuncay Özdemir,UUB,Salı,1130/1429,D110,12,12,Yok/None,MTO,Yok/None,Yok/None
+19,21081,MTO 388,Coğrafi Bilgi Bilimi,,Filiz Türk Katırcıoğlu,UUB,Cuma,0930/1229,D210,70,28,Yok/None,MTO,Yok/None,Yok/None
+20,21086,MTO 426E,Micrometeorology,,Ceyhan Kahya,UUB,Perşembe,1130/1429,D210,70,48,Yok/None,"MTO, MTOE","MTO 333 MIN DD
+veya MTO 333E MIN DD
+veya MTO 337 MIN DD
+veya MTO 337E MIN DD",Yok/None
+21,21082,MTO 445E,Weather Anly&Prediction II,,Mikdat Kadıoğlu,"UUB
+UUB","Salı
+Çarşamba","0930/1129
+0830/1129","D210
+D210",40,24,Yok/None,"MTO, MTOE","MTO 321 MIN DD
+veya MTO 321E MIN DD
+veya MTO 344 MIN DD
+veya MTO 344E MIN DD",Yok/None
+22,21071,MTO 453E,Climate Dynamics,,Yurdanur Ünal,UUB,Perşembe,0830/1129,D215,10,10,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+23,21072,MTO 456,Hava Kirliliği Kontrolü,,Ceyhan Kahya,UUB,Çarşamba,0930/1229,D215,10,3,Yok/None,MTO,Yok/None,Yok/None
+24,21075,MTO 459E,Intro.Gen.Circ.Earth's.Atm.,,Deniz Demirhan Barı,UUB,Salı,1130/1429,D109,10,10,Yok/None,"MTO, MTOE","MTO 333 MIN DD
+veya MTO 333E MIN DD
+veya MTO 337 MIN DD
+veya MTO 337E MIN DD",Yok/None
+25,21078,MTO 460,Enerji Meteorolojisine Giriş,,***,UUB,Çarşamba,0830/1129,D113,10,10,Yok/None,MTO,Yok/None,Yok/None
+26,21079,MTO 460E,Intr. to Energy Meteorology,,***,UUB,Perşembe,1430/1729,D209,10,10,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+27,21076,MTO 461E,Intr. to Planetary Atmospheres,,Zerefşan Kaymaz,UUB,Perşembe,1430/1729,D213,10,10,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+28,21077,MTO 462E,Severe and Hazardous Weather,,Filiz Türk Katırcıoğlu,UUB,Salı,1430/1729,D213,10,10,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+29,21084,MTO 463E,Numerical Weather Prediction,,Sevinç Asilhan,UUB,Cuma,0930/1229,D108,10,10,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+30,24863,MTO 487E,Int. to Computer Graphics,,Barış Önol,UUB,Cuma,0830/1129,D113,10,1,Yok/None,MTOE,Yok/None,Yok/None
+31,21090,MTO 4902,Meteoroloji Müh. Tasarımı II,,Mikdat Kadıoğlu,UUB,----,/,---,500,38,Yok/None,MTO,"MTO 4901 MIN BB
+veya MTO 4901E MIN BB",Yok/None
+32,21087,MTO 492,Bitirme Çalışması,,Mikdat Kadıoğlu,UUB,----,/,---,500,4,Yok/None,MTO,Diğer Şartlar,4.Sınıf
+33,21088,MTO 492E,Graduation Project,,Mikdat Kadıoğlu,UUB,----,/,---,500,1,Yok/None,"MTO, MTOE",Diğer Şartlar,4.Sınıf
+34,21089,MTO 494,Araştırma Projesi,,Mikdat Kadıoğlu,UUB,----,/,---,500,32,Yok/None,MTO,Yok/None,4.Sınıf

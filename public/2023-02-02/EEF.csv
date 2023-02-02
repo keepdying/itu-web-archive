@@ -1,0 +1,379 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,20850,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Salı
+Salı","0830/1029
+1030/1129",----,210,210,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+1,20851,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Salı
+Salı","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+2,20852,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Salı
+Salı","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+3,20853,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Salı
+Salı","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+4,20854,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Çarşamba
+Çarşamba","0830/1029
+1030/1129",----,210,210,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+5,20855,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Çarşamba
+Çarşamba","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+6,20856,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Çarşamba
+Çarşamba","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+7,20857,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Çarşamba
+Çarşamba","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+8,20847,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Cuma
+Cuma","0830/1029
+1030/1129",----,140,140,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+9,20848,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Cuma
+Cuma","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+10,20849,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Cuma
+Cuma","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+11,23171,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,***,----,"Cuma
+Cuma","0830/1029
+1030/1129",----,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+12,20858,EEF 205E,Introduction to Logic Design,,Ali Sinan Çabuk,EEB,Cuma,0830/1129,5202,70,70,Yok/None,"EEE, EHB, EHBE, ELE, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+13,20859,EEF 206,İşaret İşleme ve Lineer Sist.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","---
+---",210,210,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL",Yok/None,Yok/None
+14,20860,EEF 206,İşaret İşleme ve Lineer Sist.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","5102
+5301",0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL",Yok/None,Yok/None
+15,20861,EEF 206,İşaret İşleme ve Lineer Sist.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","4104
+5303",0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL",Yok/None,Yok/None
+16,20862,EEF 206,İşaret İşleme ve Lineer Sist.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","5202
+5307",0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL",Yok/None,Yok/None
+17,20863,EEF 206E,Signal Processing&Linear Syst.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","---
+---",280,280,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+18,20864,EEF 206E,Signal Processing&Linear Syst.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","5204
+5104",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+19,20865,EEF 206E,Signal Processing&Linear Syst.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","5104
+5302",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+20,20866,EEF 206E,Signal Processing&Linear Syst.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","5302
+5305",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+21,20867,EEF 206E,Signal Processing&Linear Syst.,,***,"EEB
+EEB","Çarşamba
+Perşembe","1030/1229
+1230/1429","5304
+5102",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+22,23244,EEF 210E,Differential Equations,,***,EEB,Salı,1230/1529,---,140,140,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+23,23245,EEF 210E,Differential Equations,,***,EEB,Salı,1230/1529,2102,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+24,23246,EEF 210E,Differential Equations,,***,EEB,Salı,1230/1529,2104,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+25,20868,EEF 211,Elektrik Devre Temelleri,,***,EEB,Çarşamba,1230/1529,5304,80,80,Yok/None,"EHB, ELE, ELK, KOM, MKN, TEL","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+26,20869,EEF 211E,Basics of Electrical Circuits,,***,EEB,Çarşamba,1230/1529,---,160,160,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, TEL","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+27,20870,EEF 211E,Basics of Electrical Circuits,,***,EEB,Çarşamba,1230/1529,2102,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, TEL","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+28,20871,EEF 211E,Basics of Electrical Circuits,,***,EEB,Çarşamba,1230/1529,5102,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, TEL","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+29,20872,EEF 212,Elektromagnetik Teori I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","---
+---",240,240,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+30,20873,EEF 212,Elektromagnetik Teori I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","4104
+5102",0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+31,20874,EEF 212,Elektromagnetik Teori I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","5202
+5302",0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+32,20875,EEF 212,Elektromagnetik Teori I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","5204
+5104",0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+33,20876,EEF 212E,Electromagnetic Theory I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","---
+---",320,315,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+34,20877,EEF 212E,Electromagnetic Theory I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","5104
+5303",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+35,20878,EEF 212E,Electromagnetic Theory I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","5302
+5307",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+36,20879,EEF 212E,Electromagnetic Theory I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","5304
+5301",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+37,20880,EEF 212E,Electromagnetic Theory I,,***,"EEB
+EEB","Çarşamba
+Perşembe","0830/1029
+1430/1629","4102
+5305",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+38,20881,EEF 221,Elektrik Devre Temelleri Lab.,,İbrahim Çatalkaya,EEB,Çarşamba,1230/1429,---,30,30,Yok/None,"EHB, ELE, ELK, KOM, TEL","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+39,20883,EEF 221E,Basics of Elec. Circuits Lab.,,Bora Döken,EEB,Pazartesi,1030/1229,---,30,30,Yok/None,"EEE, EHB, EHBE, ELE, ELK, ELKE, KOM, KOME, TEL","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+40,20882,EEF 221E,Basics of Elec. Circuits Lab.,,Hasan Bülent Yağcı,EEB,Perşembe,1030/1229,---,30,30,Yok/None,"EEE, EHB, EHBE, ELE, ELK, ELKE, KOM, KOME, TEL","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+41,20884,EEF 232,Devre ve Sistem Analizi,,***,EEB,Pazartesi,1230/1529,---,240,189,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+42,20885,EEF 232,Devre ve Sistem Analizi,,***,EEB,Pazartesi,1230/1529,5203,0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+43,20887,EEF 232,Devre ve Sistem Analizi,,***,EEB,Pazartesi,1230/1529,5205,0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+44,23172,EEF 232,Devre ve Sistem Analizi,,***,EEB,Pazartesi,1230/1529,4104,0,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+45,20888,EEF 232E,Circuit and System Analysis,,***,EEB,Pazartesi,1230/1529,---,320,249,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+46,20889,EEF 232E,Circuit and System Analysis,,***,EEB,Pazartesi,1230/1529,5204,0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+47,20890,EEF 232E,Circuit and System Analysis,,***,EEB,Pazartesi,1230/1529,5102,0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+48,20891,EEF 232E,Circuit and System Analysis,,***,EEB,Pazartesi,1230/1529,4102,0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+49,23249,EEF 232E,Circuit and System Analysis,,***,EEB,Pazartesi,1230/1529,5201,0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD)
+ve (EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD)",Yok/None
+50,20892,EEF 262,Elektroniğin Temelleri,,***,"EEB
+EEB","Pazartesi
+Salı","0830/1029
+0830/1029","---
+---",140,140,Yok/None,"EHB, ELE, ELK, KOM","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+51,20893,EEF 262,Elektroniğin Temelleri,,***,"EEB
+EEB","Pazartesi
+Salı","0830/1029
+0830/1029","4102
+4104",0,0,Yok/None,"EHB, ELE, ELK, KOM","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+52,20894,EEF 262,Elektroniğin Temelleri,,***,"EEB
+EEB","Pazartesi
+Salı","0830/1029
+0830/1029","5102
+5104",0,0,Yok/None,"EHB, ELE, ELK, KOM","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+53,20895,EEF 262E,Fundamentals of Electronics,,***,"EEB
+EEB","Pazartesi
+Salı","0830/1029
+0830/1029","---
+---",280,194,Yok/None,"EEE, EHB, EHBE, ELE, ELK, ELKE, KOM, KOME","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+54,20896,EEF 262E,Fundamentals of Electronics,,***,"EEB
+EEB","Pazartesi
+Salı","0830/1029
+0830/1029","5202
+5202",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELK, ELKE, KOM, KOME","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+55,20897,EEF 262E,Fundamentals of Electronics,,***,"EEB
+EEB","Pazartesi
+Salı","0830/1029
+0830/1029","5104
+5204",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELK, ELKE, KOM, KOME","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+56,20898,EEF 262E,Fundamentals of Electronics,,***,"EEB
+EEB","Pazartesi
+Salı","0830/1029
+0830/1029","5304
+5302",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELK, ELKE, KOM, KOME","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+57,20899,EEF 262E,Fundamentals of Electronics,,***,"EEB
+EEB","Pazartesi
+Salı","0830/1029
+0830/1029","---
+---",0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELK, ELKE, KOM, KOME","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+58,20900,EEF 271E,Probability and Statistics,,***,EEB,Çarşamba,1230/1529,---,160,160,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+59,20901,EEF 271E,Probability and Statistics,,***,EEB,Çarşamba,1230/1529,5203,0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+60,20902,EEF 271E,Probability and Statistics,,***,EEB,Çarşamba,1230/1529,5207,0,0,Yok/None,"EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, TEL",Yok/None,Yok/None
+61,20903,EEF 281,Lineer Cebir ve Uygulamaları,,***,EEB,Perşembe,1230/1529,---,140,140,Yok/None,"EHB, ELK, KOM",Yok/None,Yok/None
+62,20904,EEF 281,Lineer Cebir ve Uygulamaları,,***,EEB,Perşembe,1230/1529,5202,0,0,Yok/None,"EHB, ELK, KOM",Yok/None,Yok/None
+63,20905,EEF 281,Lineer Cebir ve Uygulamaları,,***,EEB,Perşembe,1230/1529,6309,0,0,Yok/None,"EHB, ELK, KOM",Yok/None,Yok/None
+64,20906,EEF 281E,Linear Algebra & Applications,,***,EEB,Perşembe,1230/1529,---,280,280,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+65,20907,EEF 281E,Linear Algebra & Applications,,***,EEB,Perşembe,1230/1529,5304,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+66,20908,EEF 281E,Linear Algebra & Applications,,***,EEB,Perşembe,1230/1529,4104,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+67,20909,EEF 281E,Linear Algebra & Applications,,***,EEB,Perşembe,1230/1529,4102,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+68,20910,EEF 281E,Linear Algebra & Applications,,***,EEB,Perşembe,1230/1529,2106,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
