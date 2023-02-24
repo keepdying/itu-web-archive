@@ -1,0 +1,1015 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22156,MAK 101,Makine Müh. Giriş ve Etik,,İsmail Yalçın Uralcan,MKB,Çarşamba,1330/1529,D355,250,85,Yok/None,MAK,Yok/None,Yok/None
+1,22157,MAK 104E,Intr to Comp in Mech. Eng (C),,Bülent Bölat,MKB,Pazartesi,0830/1129,404,60,26,Yok/None,"IML, MAK",Yok/None,Yok/None
+2,22158,MAK 104E,Intr to Comp in Mech. Eng (C),,Atakan Altınkaynak,MKB,Pazartesi,0830/1129,406,60,60,Yok/None,"IML, MAK",Yok/None,Yok/None
+3,22159,MAK 104E,Intr to Comp in Mech. Eng (C),,Hülya Yalçın,MKB,Pazartesi,0830/1129,409,60,38,Yok/None,"IML, MAK",Yok/None,Yok/None
+4,22160,MAK 104E,Intr to Comp in Mech. Eng (C),,Kubilay Yay,MKB,Perşembe,0830/1129,406,70,70,Yok/None,"IML, MAK",Yok/None,Yok/None
+5,22161,MAK 104E,Intr to Comp in Mech. Eng (C),,Bülent Bölat,MKB,Perşembe,1330/1629,406,60,44,Yok/None,"IML, MAK",Yok/None,Yok/None
+6,22162,MAK 105,Makine Tasarımına Giriş,,--,"MKB
+MKB","Salı
+Perşembe","0830/1029
+0830/1129","---
+---",0,0,Yok/None,"IML, MAK",Yok/None,Yok/None
+7,22163,MAK 105,Makine Tasarımına Giriş,,--,"MKB
+MKB","Salı
+Perşembe","0830/1029
+0830/1129","---
+---",0,0,Yok/None,"IML, MAK",Yok/None,Yok/None
+8,22164,MAK 105,Makine Tasarımına Giriş,,"Yusuf Ziya Kocabal, Cevat Erdem İmrak","MKB
+MKB","Salı
+Perşembe","0830/1029
+0830/1129","R362
+R362",60,43,Yok/None,"IML, MAK",Yok/None,Yok/None
+9,22165,MAK 105,Makine Tasarımına Giriş,,Yusuf Ziya Kocabal,"MKB
+MKB","Çarşamba
+Cuma","0830/1029
+0830/1129","R358
+R358",60,60,Yok/None,"IML, MAK",Yok/None,Yok/None
+10,22174,MAK 110E,Comput.Aided Technical Drawing,,Ali İmre Aydeniz,MKB,Çarşamba,0830/1229,409,80,27,Yok/None,"IML, MAK, MKN","RES 105 MIN DD
+veya RES 105E MIN DD
+veya MAK 105 MIN DD
+veya MAK 105E MIN DD",Yok/None
+11,22178,MAK 110E,Comput.Aided Technical Drawing,,Ali İmre Aydeniz,MKB,Perşembe,0830/1229,409,80,48,Yok/None,"IML, MAK, MKN","RES 105 MIN DD
+veya RES 105E MIN DD
+veya MAK 105 MIN DD
+veya MAK 105E MIN DD",Yok/None
+12,22179,MAK 110E,Comput.Aided Technical Drawing,,Erkan Günpınar,MKB,Cuma,0830/1229,409,80,80,Yok/None,"IML, MAK, MKN","RES 105 MIN DD
+veya RES 105E MIN DD
+veya MAK 105 MIN DD
+veya MAK 105E MIN DD",Yok/None
+13,22180,MAK 114,Lineer Cebir ve Uygulamaları,,Merve Acer,MKB,Salı,0830/1129,A363,80,80,Yok/None,"IML, MAK",Yok/None,Yok/None
+14,24135,MAK 114,Lineer Cebir ve Uygulamaları,,Zeki Yağız Bayraktaroğlu,MKB,Salı,0830/1129,A501,80,80,Yok/None,"IML, MAK",Yok/None,Yok/None
+15,24138,MAK 114,Lineer Cebir ve Uygulamaları,,Bülent Bölat,MKB,Salı,0830/1129,D331,80,66,Yok/None,"IML, MAK",Yok/None,Yok/None
+16,22182,MAK 118,Statik,,Emrecan Söylemez,MKB,Salı,1330/1629,R358,80,77,Yok/None,"MAK, MKN",Yok/None,Yok/None
+17,22183,MAK 118,Statik,,Mehmet Salih Dokuz,MKB,Salı,1330/1629,A201,80,80,Yok/None,"MAK, MKN",Yok/None,Yok/None
+18,22184,MAK 118,Statik,,Sevinç Ayşe Zaloğlu,MKB,Salı,1330/1629,A501,80,80,Yok/None,"MAK, MKN",Yok/None,Yok/None
+19,22186,MAK 200,Atölye,,Serpil Kurt Habiboğlu,MKB,----,/,---,80,71,Yok/None,"IML, MAK","RES 105 MIN DD
+veya RES 105E MIN DD
+veya MAK 105 MIN DD
+veya MAK 105E MIN DD",Yok/None
+20,22188,MAK 200,Atölye,,Yusuf Ziya Kocabal,MKB,----,/,---,80,80,Yok/None,"IML, MAK","RES 105 MIN DD
+veya RES 105E MIN DD
+veya MAK 105 MIN DD
+veya MAK 105E MIN DD",Yok/None
+21,22191,MAK 202E,Numerical Meth.for Mech. Eng.,,Alper Tolga Çalık,MKB,Pazartesi,0830/1129,D351,80,80,Yok/None,"IML, MAK","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+22,22193,MAK 202E,Numerical Meth.for Mech. Eng.,,Hikmet Arslan,MKB,Pazartesi,0830/1129,D353,80,24,Yok/None,"IML, MAK","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+23,22194,MAK 202E,Numerical Meth.for Mech. Eng.,,Alper Tolga Çalık,MKB,Pazartesi,1430/1729,D355,80,59,Yok/None,"IML, MAK","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+24,22196,MAK 210E,Engineering Mathematics,,Barış Doğru,"MKB
+MKB","Çarşamba
+Perşembe","1330/1529
+1330/1529","R354
+R354",80,47,Yok/None,"IML, IMLE, MAK, MAKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+25,22198,MAK 210E,Engineering Mathematics,,Merve Acer,"MKB
+MKB","Çarşamba
+Perşembe","1330/1529
+1330/1529","A363
+A363",80,80,Yok/None,"IML, IMLE, MAK, MAKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+26,24382,MAK 210E,Engineering Mathematics,,--,"MKB
+MKB","Çarşamba
+Perşembe","1330/1529
+1330/1529","---
+---",0,0,Yok/None,"IML, IMLE, MAK, MAKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+27,22202,MAK 211E,Probability and Statistics,,Hakan Öksüzoğlu,MKB,Salı,0830/1129,D359,80,28,Yok/None,"IML, MAK",Yok/None,Yok/None
+28,22208,MAK 213,Malzeme Bilimi,,Celaletdin Ergun,"MKB
+MKB","Pazartesi
+Cuma","1530/1729
+1600/1759","A201
+A201",80,80,Yok/None,"IML, MAK",Yok/None,Yok/None
+29,22222,MAK 215,Termodinamik I,,Yakup Erhan Böke,"MKB
+MKB","Salı
+Cuma","1530/1729
+1500/1559","A363
+A201",70,69,Yok/None,MAK,"(MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)",Yok/None
+30,22224,MAK 215,Termodinamik I,,Bayram Şahin,"MKB
+MKB","Salı
+Cuma","1530/1729
+1500/1559","A101
+A501",70,62,Yok/None,MAK,"(MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)",Yok/None
+31,23486,MAK 215,Termodinamik I,,Mustafa Özdemir,"MKB
+MKB","Salı
+Cuma","1530/1729
+1500/1559","D355
+D355",70,70,Yok/None,MAK,"(MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)",Yok/None
+32,22292,MAK 217,Dinamik,,Sevinç Ayşe Zaloğlu,"MKB
+MKB","Pazartesi
+Cuma","1330/1529
+1030/1229","A201
+A201",100,98,Yok/None,"MAK, MAKM, MKN","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (STA 201 MIN DD
+veya STA 201E MIN DD
+veya MAK 118 MIN DD
+veya MAK 118E MIN DD)",Yok/None
+33,22296,MAK 217,Dinamik,,Mehmet Salih Dokuz,"MKB
+MKB","Pazartesi
+Cuma","1530/1729
+1500/1659","A363
+A363",100,23,Yok/None,"MAK, MAKM, MKN","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (STA 201 MIN DD
+veya STA 201E MIN DD
+veya MAK 118 MIN DD
+veya MAK 118E MIN DD)",Yok/None
+34,22300,MAK 219,Mukavemet I,,Uğurcan Eroğlu,"MKB
+MKB","Salı
+Perşembe","1330/1529
+1530/1729","D318
+D318",180,145,Yok/None,"MAK, MKN","MAK 118 MIN DD
+veya MAK 118E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+35,22303,MAK 220,Mukavemet II,,Süreyya Ergün Bozdağ,"MKB
+MKB","Salı
+Perşembe","1330/1529
+1530/1729","A363
+A363",100,31,Yok/None,"MAK, MKN","MAK 219 MIN DD
+veya MAK 219E MIN DD
+veya MUK 209 MIN DD
+veya MUK 209E MIN DD",Yok/None
+36,23107,MAK 220,Mukavemet II,,Emin Sünbüloğlu,"MKB
+MKB","Salı
+Perşembe","1330/1529
+1530/1729","A101
+A101",100,68,Yok/None,"MAK, MKN","MAK 219 MIN DD
+veya MAK 219E MIN DD
+veya MUK 209 MIN DD
+veya MUK 209E MIN DD",Yok/None
+37,22335,MAK 224E,Engineering Materials,,Ersan Üstündağ,MKB,Pazartesi,1130/1329,A201,100,93,Yok/None,"IML, MAK","(MAK 213 MIN DD
+veya MAK 213E MIN DD
+veya MAL 201 MIN DD
+veya MAL 201E MIN DD)
+ve (MAK 200 MIN DD
+veya MAK 200E MIN DD)",Yok/None
+38,22324,MAK 224E,Engineering Materials,,Levent Trabzon,MKB,Salı,1130/1329,A363,100,76,Yok/None,"IML, MAK","(MAK 213 MIN DD
+veya MAK 213E MIN DD
+veya MAL 201 MIN DD
+veya MAL 201E MIN DD)
+ve (MAK 200 MIN DD
+veya MAK 200E MIN DD)",Yok/None
+39,22362,MAK 226,Termodinamik II,,Ayşegül Abuşoğlu,"MKB
+MKB","Perşembe
+Cuma","1230/1329
+1030/1229","A501
+A501",100,101,Yok/None,MAK,"MAK 215 MIN DD
+veya MAK 215E MIN DD
+veya TER 205 MIN DD
+veya TER 205E MIN DD",Yok/None
+40,22369,MAK 226,Termodinamik II,,Seyhan Onbaşıoğlu,"MKB
+MKB","Perşembe
+Cuma","1230/1329
+1030/1229","A363
+A363",100,78,Yok/None,MAK,"MAK 215 MIN DD
+veya MAK 215E MIN DD
+veya TER 205 MIN DD
+veya TER 205E MIN DD",Yok/None
+41,22412,MAK 228,Akışkanlar Mekaniği I,,Erkan Ayder,MKB,Pazartesi,1130/1429,A101,60,60,Yok/None,"MAK, MAKM","(MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 215 MIN DD
+veya MAK 215E MIN DD)",Yok/None
+42,22413,MAK 228,Akışkanlar Mekaniği I,,Kadir Kırkköprü,MKB,Pazartesi,1130/1429,A363,60,59,Yok/None,"MAK, MAKM","(MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 215 MIN DD
+veya MAK 215E MIN DD)",Yok/None
+43,23250,MAK 228,Akışkanlar Mekaniği I,,Levent Ali Kavurmacıoğlu,MKB,Pazartesi,1130/1429,D368A,60,33,Yok/None,"MAK, MAKM","(MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 215 MIN DD
+veya MAK 215E MIN DD)",Yok/None
+44,22421,MAK 229,Akışkanlar Mekaniği II,,Sertaç Çadırcı,"MKB
+MKB","Pazartesi
+Perşembe","1030/1129
+1330/1529","D355
+D355",40,24,Yok/None,MAK,"MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 208 MIN DD
+veya AKM 208E MIN DD",Yok/None
+45,22420,MAK 229,Akışkanlar Mekaniği II,,Hasan Güneş,MKB,Pazartesi,1130/1429,D355,50,38,Yok/None,MAK,"MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 208 MIN DD
+veya AKM 208E MIN DD",Yok/None
+46,22422,MAK 229,Akışkanlar Mekaniği II,,Tahsin Engin,MKB,Pazartesi,1130/1429,D359,50,50,Yok/None,MAK,"MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 208 MIN DD
+veya AKM 208E MIN DD",Yok/None
+47,22423,MAK 230E,Alg.Dev.& Comp.App.with Python,,Mustafa Resa Becan,MKB,Salı,0830/1129,404,80,24,Yok/None,"IML, MAK","(MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAK 114 MIN DD
+veya MAK 114E MIN DD)
+ve (MAK 101 MIN DD
+veya MAK 101E MIN DD
+veya IML 110 MIN DD
+veya IML 110E MIN DD)",Yok/None
+48,22424,MAK 230E,Alg.Dev.& Comp.App.with Python,,Barış Doğru,MKB,Çarşamba,0830/1129,404,80,25,Yok/None,"IML, MAK","(MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAK 114 MIN DD
+veya MAK 114E MIN DD)
+ve (MAK 101 MIN DD
+veya MAK 101E MIN DD
+veya IML 110 MIN DD
+veya IML 110E MIN DD)",Yok/None
+49,22252,MAK 311E,Heat Transfer,,Ömer İnanç Türeyen,MDB,Pazartesi,0830/1129,B205,80,80,Yok/None,"PET, PETE","(MAK 212E MIN DD
+veya MAK 212 MIN DD
+veya TEK 314 MIN DD
+veya FIZ 331 MIN DD
+veya FIZ 331E MIN DD
+veya PET 311E MIN DD)
+ve (MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",Yok/None
+50,23219,MAK 311E,Heat Transfer,,Ömer İnanç Türeyen,MDB,Çarşamba,0830/1129,A102,60,24,Yok/None,"PET, PETE","(MAK 212E MIN DD
+veya MAK 212 MIN DD
+veya TEK 314 MIN DD
+veya FIZ 331 MIN DD
+veya FIZ 331E MIN DD
+veya PET 311E MIN DD)
+ve (MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",Yok/None
+51,22431,MAK 312,Ölçme Değerlendirme,,Senem Kurşun Bahadır,"MKB
+MKB","Salı
+Çarşamba","1530/1729
+1030/1229","---
+A201",60,60,Yok/None,"IML, MAK, MAKM, MKN","(MUK 209 MIN DD
+veya MUK 209E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD
+veya MAK 219 MIN DD
+veya MAK 219E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya IML 205 MIN DD
+veya IML 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 216 MIN DD
+veya MAK 216E MIN DD
+veya MAK 218 MIN DD
+veya MAK 218E MIN DD
+veya MAK 215 MIN DD
+veya MAK 215E MIN DD)
+ve (MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 208 MIN DD
+veya AKM 208E MIN DD
+veya IML 206 MIN DD
+veya IML 206E MIN DD)",Yok/None
+52,22432,MAK 312,Ölçme Değerlendirme,,Ayhan Kural,"MKB
+MKB","Salı
+Çarşamba","1530/1729
+1030/1229","---
+D318",60,39,Yok/None,"IML, MAK, MAKM, MKN","(MUK 209 MIN DD
+veya MUK 209E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD
+veya MAK 219 MIN DD
+veya MAK 219E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya IML 205 MIN DD
+veya IML 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 216 MIN DD
+veya MAK 216E MIN DD
+veya MAK 218 MIN DD
+veya MAK 218E MIN DD
+veya MAK 215 MIN DD
+veya MAK 215E MIN DD)
+ve (MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 208 MIN DD
+veya AKM 208E MIN DD
+veya IML 206 MIN DD
+veya IML 206E MIN DD)",Yok/None
+53,22434,MAK 313,Isı Geçişi,,Ersin Sayar,"MKB
+MKB","Pazartesi
+Çarşamba","0830/1029
+0830/1029","A363
+A363",70,70,Yok/None,"MAK, MAKM","(MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD)
+ve (AKM 208 MIN DD
+veya AKM 208E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD)",Yok/None
+54,22437,MAK 313,Isı Geçişi,,Ali İhsan Koca,"MKB
+MKB","Pazartesi
+Çarşamba","0830/1029
+0830/1029","D318
+D318",70,57,Yok/None,"MAK, MAKM","(MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD)
+ve (AKM 208 MIN DD
+veya AKM 208E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD)",Yok/None
+55,22441,MAK 314,Biyomalzemeler ve Biyomekanik,,Süreyya Ergün Bozdağ,MKB,Cuma,1500/1759,A101,150,138,Yok/None,MAK,"(MAK 224 MIN DD
+veya MAK 224E MIN DD
+veya MAK 214 MIN DD
+veya MAK 214E MIN DD)
+ve (MAK 220 MIN DD
+veya MAK 220E MIN DD
+veya MUK 210 MIN DD
+veya MUK 210E MIN DD)",Yok/None
+56,22443,MAK 315,Mekanik Titreşimler,,Vahit Mermertaş,MKB,Pazartesi,1130/1429,D318,80,80,Yok/None,"IML, MAK, MAKM, MKN","(DNK 205 MIN DD
+veya DNK 205E MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD
+veya DNK 201 MIN DD
+veya DNK 201E MIN DD
+veya MAK 217 MIN DD
+veya MAK 217E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAT 261 MIN DD
+veya MAT 261E MIN DD
+veya MAK 114 MIN DD
+veya MAK 114E MIN DD)",Yok/None
+57,22450,MAK 324,Makina Teorisi,,Haluk Erol,MKB,Pazartesi,1430/1729,D318,70,61,Yok/None,"MAK, MAKM, MKN","(DNK 205 MIN DD
+veya DNK 205E MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD
+veya DNK 201 MIN DD
+veya DNK 201E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD
+veya MAK 217 MIN DD
+veya MAK 217E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAK 114 MIN DD
+veya MAK 114E MIN DD
+veya MAT 261 MIN DD
+veya MAT 261E MIN DD)",Yok/None
+58,22451,MAK 324,Makina Teorisi,,Özgür Turhan,MKB,Pazartesi,1430/1729,A101,70,70,Yok/None,"MAK, MAKM, MKN","(DNK 205 MIN DD
+veya DNK 205E MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD
+veya DNK 201 MIN DD
+veya DNK 201E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD
+veya MAK 217 MIN DD
+veya MAK 217E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAK 114 MIN DD
+veya MAK 114E MIN DD
+veya MAT 261 MIN DD
+veya MAT 261E MIN DD)",Yok/None
+59,22453,MAK 324,Makina Teorisi,,Vahit Mermertaş,MKB,Pazartesi,1430/1729,D317,70,71,Yok/None,"MAK, MAKM, MKN","(DNK 205 MIN DD
+veya DNK 205E MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD
+veya DNK 201 MIN DD
+veya DNK 201E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD
+veya MAK 217 MIN DD
+veya MAK 217E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAK 114 MIN DD
+veya MAK 114E MIN DD
+veya MAT 261 MIN DD
+veya MAT 261E MIN DD)",Yok/None
+60,22477,MAK 333,Sistem Dinamiği ve Kontrol,,Ayhan Kural,"MKB
+MKB","Salı
+Cuma","1130/1329
+0830/1029","D357
+D357",60,55,Yok/None,"IML, MAK","MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+61,22483,MAK 333,Sistem Dinamiği ve Kontrol,,Senem Kurşun Bahadır,"MKB
+MKB","Salı
+Cuma","1130/1329
+0830/1029","A201
+A201",60,60,Yok/None,"IML, MAK","MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+62,22490,MAK 333E,System Dynamics and Control,,Erdinç Altuğ,"MKB
+MKB","Salı
+Cuma","1130/1329
+0830/1029","D317
+D317",60,27,Yok/None,"IML, IMLE, MAK, MAKE, MAKM, MSS, TEK, TEKE","MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+63,22498,MAK 339,Makina Elemanları I,,Cemal Baykara,"MKB
+MKB","Salı
+Perşembe","0830/1129
+1030/1229","D368A
+D368A",90,79,Yok/None,"MAK, MAKM, MKN","(MAK 110 MIN DD
+veya MAK 110E MIN DD
+veya RES 112 MIN DD
+veya RES 112E MIN DD
+veya MAK 112 MIN DD
+veya MAK 112E MIN DD)
+ve (MUK 220 MIN DD
+veya MUK 220E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MUK 210 MIN DD
+veya MUK 210E MIN DD
+veya MAK 220 MIN DD
+veya MAK 220E MIN DD)
+ve (MAK 213 MIN DD
+veya MAK 213E MIN DD
+veya MAL 201 MIN DD
+veya MAL 201E MIN DD)",Yok/None
+64,22504,MAK 339,Makina Elemanları I,,Atakan Altınkaynak,"MKB
+MKB","Salı
+Perşembe","0830/1129
+1030/1229","D318
+D318",90,90,Yok/None,"MAK, MAKM, MKN","(MAK 110 MIN DD
+veya MAK 110E MIN DD
+veya RES 112 MIN DD
+veya RES 112E MIN DD
+veya MAK 112 MIN DD
+veya MAK 112E MIN DD)
+ve (MUK 220 MIN DD
+veya MUK 220E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MUK 210 MIN DD
+veya MUK 210E MIN DD
+veya MAK 220 MIN DD
+veya MAK 220E MIN DD)
+ve (MAK 213 MIN DD
+veya MAK 213E MIN DD
+veya MAL 201 MIN DD
+veya MAL 201E MIN DD)",Yok/None
+65,22524,MAK 342,Makina Elemanları II,,Vedat Temiz,"MKB
+MKB","Salı
+Perşembe","0830/1029
+1030/1229","A101
+A101",60,61,Yok/None,"MAK, MAKM, MKN","MAK 341 MIN DD
+veya MAK 341E MIN DD
+veya TEK 321 MIN DD
+veya TEK 321E MIN DD
+veya MAK 339 MIN DD
+veya MAK 339E MIN DD",Yok/None
+66,22526,MAK 342,Makina Elemanları II,,İbrahim Mehmet Palabıyık,"MKB
+MKB","Salı
+Perşembe","0830/1029
+1030/1229","A201
+A201",60,45,Yok/None,"MAK, MAKM, MKN","MAK 341 MIN DD
+veya MAK 341E MIN DD
+veya TEK 321 MIN DD
+veya TEK 321E MIN DD
+veya MAK 339 MIN DD
+veya MAK 339E MIN DD",Yok/None
+67,22530,MAK 342,Makina Elemanları II,,Zeynep Parlar,"MKB
+MKB","Salı
+Perşembe","0830/1029
+1030/1229","D355
+D355",60,60,Yok/None,"MAK, MAKM, MKN","MAK 341 MIN DD
+veya MAK 341E MIN DD
+veya TEK 321 MIN DD
+veya TEK 321E MIN DD
+veya MAK 339 MIN DD
+veya MAK 339E MIN DD",Yok/None
+68,22739,MAK 353,İmal Usulleri,,"Murat Vural, Turgut Gülmez","MKB
+MKB","Perşembe
+Cuma","0830/1029
+0830/1029","D361B
+D361B",70,60,Yok/None,"MAK, MAKM","MAK 214E MIN DD
+veya MAK 214 MIN DD
+veya MAK 224 MIN DD
+veya MAK 224E MIN DD",Yok/None
+69,22740,MAK 353,İmal Usulleri,,"Şafak Yılmaz, Ali Gökşenli","MKB
+MKB","Perşembe
+Cuma","0830/1029
+1030/1229","D368B
+D368B",70,70,Yok/None,"MAK, MAKM","MAK 214E MIN DD
+veya MAK 214 MIN DD
+veya MAK 224 MIN DD
+veya MAK 224E MIN DD",Yok/None
+70,22762,MAK 372E,Intr.to Finite Element Methods,,Ata Muğan,MKB,Çarşamba,1230/1529,A201,80,80,Yok/None,"IML, MAK, MAKE, MAKM, MSS","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAT 202 MIN DD
+veya MAT 202E MIN DD
+veya MAK 202 MIN DD
+veya MAK 202E MIN DD)
+ve (BIL 104E MIN DD
+veya BIL 106E MIN DD
+veya BIL 108E MIN DD
+veya MAK 104E MIN DD)
+ve (MUK 210 MIN DD
+veya MUK 210E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MUK 207 MIN DD
+veya MUK 207E MIN DD
+veya MAK 220 MIN DD
+veya MAK 220E MIN DD)",Yok/None
+71,22764,MAK 372E,Intr.to Finite Element Methods,,Mesut Kırca,MKB,Çarşamba,1230/1529,D318,80,80,Yok/None,"IML, MAK, MAKE, MAKM, MSS","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAT 202 MIN DD
+veya MAT 202E MIN DD
+veya MAK 202 MIN DD
+veya MAK 202E MIN DD)
+ve (BIL 104E MIN DD
+veya BIL 106E MIN DD
+veya BIL 108E MIN DD
+veya MAK 104E MIN DD)
+ve (MUK 210 MIN DD
+veya MUK 210E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MUK 207 MIN DD
+veya MUK 207E MIN DD
+veya MAK 220 MIN DD
+veya MAK 220E MIN DD)",Yok/None
+72,22765,MAK 372E,Intr.to Finite Element Methods,,Emin Sünbüloğlu,MKB,Çarşamba,1230/1529,A101,80,65,Yok/None,"IML, MAK, MAKE, MAKM, MSS","(MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAT 202 MIN DD
+veya MAT 202E MIN DD
+veya MAK 202 MIN DD
+veya MAK 202E MIN DD)
+ve (BIL 104E MIN DD
+veya BIL 106E MIN DD
+veya BIL 108E MIN DD
+veya MAK 104E MIN DD)
+ve (MUK 210 MIN DD
+veya MUK 210E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MUK 207 MIN DD
+veya MUK 207E MIN DD
+veya MAK 220 MIN DD
+veya MAK 220E MIN DD)",Yok/None
+73,22766,MAK 376E,Computational Fluid Dynamics,,Sertaç Çadırcı,MKB,Çarşamba,1230/1529,D317,60,37,Yok/None,"MAK, MAKE, MAKM, MSS","(AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya MAK 229 MIN DD
+veya MAK 229E MIN DD)
+ve (MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAT 202 MIN DD
+veya MAT 202E MIN DD
+veya MAK 202 MIN DD
+veya MAK 202E MIN DD)
+ve (BIL 104E MIN DD
+veya BIL 106E MIN DD
+veya BIL 108E MIN DD
+veya MAK 104E MIN DD)",Yok/None
+74,22767,MAK 378E,Intr.to Nanotech.& Nanosyst.,,Levent Trabzon,MKB,Cuma,1500/1759,D318,70,58,Yok/None,"IML, IMLE, MAK, MAKE, MSS","(MAL 201 MIN DD
+veya MAL 201E MIN DD
+veya MAK 213 MIN DD
+veya MAK 213E MIN DD)
+ve (MAK 313 MIN DD
+veya MAK 313E MIN DD
+veya MAK 311 MIN DD
+veya MAK 311E MIN DD
+veya MAK 216 MIN DD
+veya MAK 216E MIN DD
+veya MAK 218 MIN DD
+veya MAK 218E MIN DD
+veya IML 305 MIN DD
+veya IML 305E MIN DD)",Yok/None
+75,22768,MAK 380,Isı ve Kütle Değiştiriciler,,Ersin Sayar,MKB,Perşembe,1330/1629,D361A,60,60,Yok/None,MAK,"(MAK 313 MIN DD
+veya MAK 313E MIN DD
+veya MAK 311 MIN DD
+veya MAK 311E MIN DD)
+ve (MAK 229 MIN DD
+veya MAK 229E MIN DD
+veya AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD)",Yok/None
+76,22769,MAK 390,Uygulamalı Isı Geçişi,,Mustafa Özdemir,MKB,Perşembe,1330/1629,D361B,60,16,Yok/None,MAK,"(MAK 313 MIN DD
+veya MAK 313E MIN DD
+veya MAK 311 MIN DD
+veya MAK 311E MIN DD)
+ve (AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya MAK 229 MIN DD
+veya MAK 229E MIN DD)",Yok/None
+77,22841,MAK 4004,Komp. Malz. Mekaniğine Giriş,,Süreyya Ergün Bozdağ,MKB,Perşembe,1130/1429,D351,60,14,Yok/None,MAK,"(MUK 210 MIN DD
+veya MUK 210E MIN DD
+veya MAK 220 MIN DD
+veya MAK 220E MIN DD)
+ve (MAT 261 MIN DD
+veya MAT 261E MIN DD
+veya MAK 114 MIN DD
+veya MAK 114E MIN DD)",4.Sınıf
+78,22861,MAK 4005E,Mech.Model. in Nanoscale Sys.,,Mesut Kırca,MKB,Cuma,0830/1129,D351,60,11,Yok/None,"MAK, MAKE, MSS","(MUK 210 MIN DD
+veya MUK 210E MIN DD
+veya MAK 220 MIN DD
+veya MAK 220E MIN DD)
+ve (MAL 201 MIN DD
+veya MAL 201E MIN DD
+veya MAK 213 MIN DD
+veya MAK 213E MIN DD)
+ve (BIL 104E MIN DD
+veya BIL 106E MIN DD
+veya BIL 108E MIN DD
+veya MAK 104E MIN DD)",4.Sınıf
+79,22779,MAK 401,Makina Mühendisliği Lab. I,,Adil Yücel,MKB,----,/,---,40,3,Yok/None,MAK,"MAK 312 MIN DD
+veya MAK 312E MIN DD",4.Sınıf
+80,22817,MAK 4015E,Materials Sel.in Dsgn and Mnfc,,Alaeddin Burak İrez,MKB,Çarşamba,0830/1129,D351,60,19,Yok/None,"IML, IMLE, MAK, MAKE, MAKM, MSS","MAK 353 MIN DD
+veya MAK 353E MIN DD
+veya MAK 351 MIN DD
+veya MAK 351E MIN DD
+veya IML 311 MIN DD
+veya IML 311E MIN DD",Yok/None
+81,22804,MAK 4016,Hidrolik Makinalar,,"Erkan Ayder, Levent Ali Kavurmacıoğlu",MKB,Salı,0830/1129,406,60,12,Yok/None,MAK,"AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya MAK 229 MIN DD
+veya MAK 229E MIN DD",Yok/None
+82,22799,MAK 4018E,Quality Control in Manufacturi,,Ali Gökşenli,MKB,Pazartesi,0830/1129,D361A,60,41,Yok/None,"IML, IMLE, MAK, MAKE","MAK 353 MIN DD
+veya MAK 353E MIN DD
+veya MAK 351 MIN DD
+veya MAK 351E MIN DD
+veya IML 212 MIN DD
+veya IML 212E MIN DD
+veya IML 311 MIN DD
+veya IML 311E MIN DD",Yok/None
+83,22858,MAK 4019,Plastik Mlz Konstr. ve İmalat,,İbrahim Mehmet Palabıyık,MKB,Perşembe,1430/1729,D351,60,18,Yok/None,"IML, MAK","MAK 353 MIN DD
+veya MAK 353E MIN DD
+veya MAK 351 MIN DD
+veya MAK 351E MIN DD
+veya IML 311 MIN DD
+veya IML 311E MIN DD
+veya IML 212 MIN DD
+veya IML 212E MIN DD",4.Sınıf
+84,22780,MAK 402,Makina Mühendisliği Lab. II,,Adil Yücel,MKB,----,/,---,40,2,Yok/None,MAK,"MAK 312 MIN DD
+veya MAK 312E MIN DD",4.Sınıf
+85,22815,MAK 4027E,Turbomachinery,,Murat Çakan,MKB,Çarşamba,0830/1129,D353,60,59,Yok/None,"MAK, MAKE, MSS","(TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD)
+ve (AKM 229 MIN DD
+veya AKM 229E MIN DD
+veya AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya MAK 229 MIN DD
+veya MAK 229E MIN DD)",4.Sınıf
+86,22822,MAK 4029E,Advanced Fluid Mechanics,,İlyas Bedii Özdemir,MOB,Çarşamba,1130/1429,---,60,3,Yok/None,"MAK, MAKE","(AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya AKM 229 MIN DD
+veya AKM 229E MIN DD
+veya MAK 229 MIN DD
+veya MAK 229E MIN DD)
+ve (MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+87,22775,MAK 403,Uygulamalı Makina Projesi,,"Vedat Temiz, Zeynep Parlar",MKB,----,/,---,20,7,Yok/None,MAK,Yok/None,4.Sınıf
+88,24614,MAK 403,Uygulamalı Makina Projesi,,Bülent Bölat,MKB,----,/,---,0,0,Yok/None,MAK,Yok/None,4.Sınıf
+89,22800,MAK 4030,Konstrüksiyonda İleri Konular,,Vedat Temiz,MKB,Pazartesi,0830/1129,D361B,60,14,Yok/None,MAK,"MAK 342 MIN DD
+veya MAK 342E MIN DD",4.Sınıf
+90,22808,MAK 4032,Metallerin Plastik Şekillendrl,,Canan Gamze Güleryüz Parasız,MKB,Salı,1130/1429,D351,60,26,Yok/None,"IML, MAK","MAK 353 MIN DD
+veya MAK 353E MIN DD
+veya IML 313 MIN DD
+veya IML 313E MIN DD
+veya MAK 351 MIN DD
+veya MAK 351E MIN DD
+veya IML 312 MIN DD
+veya IML 312E MIN DD",4.Sınıf
+91,22802,MAK 4032E,Metal Forming,,Canan Gamze Güleryüz Parasız,MKB,Pazartesi,1130/1429,D351,60,3,Yok/None,"IML, IMLE, MAK, MAKE","MAK 353 MIN DD
+veya MAK 353E MIN DD
+veya IML 313 MIN DD
+veya IML 313E MIN DD
+veya MAK 351 MIN DD
+veya MAK 351E MIN DD
+veya IML 312 MIN DD
+veya IML 312E MIN DD",4.Sınıf
+92,22834,MAK 4034,Kaynaklı Tasarım ve İmalat,,Murat Vural,MKB,Çarşamba,1130/1429,D351,60,27,Yok/None,"IML, MAK","IML 212 MIN DD
+veya IML 212E MIN DD
+veya IML 311 MIN DD
+veya IML 311E MIN DD
+veya MAK 353 MIN DD
+veya MAK 353E MIN DD",4.Sınıf
+93,22813,MAK 4038E,Power Plants,,Ayşegül Abuşoğlu,MKB,Salı,1430/1729,D351,60,23,Yok/None,"MAK, MAKE, MSS","AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya MAK 229 MIN DD
+veya MAK 229E MIN DD",4.Sınıf
+94,22856,MAK 4040,Buhar Kazanları,,Yakup Erhan Böke,MKB,Perşembe,1330/1629,A201,80,13,Yok/None,MAK,"MAK 313 MIN DD
+veya MAK 313E MIN DD
+veya MAK 311 MIN DD
+veya MAK 311E MIN DD",Yok/None
+95,22855,MAK 4042,Gaz Türbinleri,,Erkan Ayder,MKB,Perşembe,1130/1429,404,60,23,Yok/None,MAK,"TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 4033 MIN DD
+veya MAK 4033E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD",4.Sınıf
+96,22801,MAK 4043,Yangın Dinamiği ve Güvenliği,,Ali İhsan Koca,MKB,Pazartesi,1130/1429,A501,60,52,Yok/None,MAK,"(AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya AKM 229 MIN DD
+veya AKM 229E MIN DD
+veya MAK 229 MIN DD
+veya MAK 229E MIN DD)
+ve (TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD)",4.Sınıf
+97,22781,MAK 404E,Mechanical Engineering Lab.,,Adil Yücel,MKB,----,/,---,200,72,Yok/None,"MAK, MSS","MAK 312 MIN DD
+veya MAK 312E MIN DD",4.Sınıf
+98,22777,MAK 405,Mak. Müh. Yenilikçi Tas. Yönt.,,"Vedat Temiz, Zeynep Parlar, İbrahim Mehmet Palabıyık",MKB,Pazartesi,1430/1729,A501,120,95,Yok/None,"IML, MAK","MAK 341 MIN DD
+veya MAK 341E MIN DD
+veya MAK 339 MIN DD
+veya MAK 339E MIN DD
+veya IML 320 MIN DD",4.Sınıf
+99,22838,MAK 4054E,Digital Control System Design,,Zeki Yağız Bayraktaroğlu,MKB,Perşembe,0830/1129,D351,60,3,Yok/None,"IML, MAK, MAKE, MSS","MAK 333 MIN DD
+veya MAK 333E MIN DD
+veya UCK 362 MIN DD
+veya UCK 362E MIN DD",4.Sınıf
+100,25054,MAK 4056,Kontrol Sistemleri Tasarımı,,Mustafa Resa Becan,MKB,Perşembe,0830/1129,---,40,37,Yok/None,"IML, MAK, MAKM, MKN","MAK 333 MIN DD
+veya MAK 333E MIN DD
+veya UCK 362 MIN DD
+veya UCK 362E MIN DD",4.Sınıf
+101,22805,MAK 4057E,Vehicle Systems Design,,Özgen Akalın,MOB,Salı,1130/1429,---,60,41,Yok/None,"MAK, MAKE, MSS","MAK 342 MIN DD
+veya MAK 342E MIN DD
+veya MAK 322 MIN DD
+veya MAK 322E MIN DD",4.Sınıf
+102,22811,MAK 4058E,Power Transmission in Vehicles,,Osman Taha Şen,MOB,Perşembe,0830/1129,---,60,36,Yok/None,"MAK, MAKE","MAK 342 MIN DD
+veya MAK 342E MIN DD",4.Sınıf
+103,22803,MAK 4061,Egzos Gazları Emisyonu,,Barış Doğru,MOB,Salı,0830/1129,---,60,4,Yok/None,MAK,"TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya UCK 212 MIN DD
+veya UCK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD",4.Sınıf
+104,22860,MAK 4062E,Railway Vehicles,,Osman Taha Şen,MOB,Cuma,0830/1129,---,60,16,Yok/None,"MAK, MAKE","MAK 324 MIN DD
+veya MAK 324E MIN DD
+veya MAK 322 MIN DD
+veya MAK 322E MIN DD",4.Sınıf
+105,22862,MAK 4066,Şasi ve Karoseri Tasarımı,,Kubilay Yay,MOB,Cuma,1430/1729,---,60,8,Yok/None,MAK,"MAK 341 MIN DD
+veya MAK 341E MIN DD
+veya MAK 339 MIN DD
+veya MAK 339E MIN DD",4.Sınıf
+106,22857,MAK 4068,Akışkan Gücü Kontrolü,,Korhan Şahin,MKB,Perşembe,1430/1729,D353,80,47,Yok/None,"IML, MAK, MAKM","(AKM 209 MIN DD
+veya AKM 209E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya MAK 229 MIN DD
+veya MAK 229E MIN DD)
+ve (MAK 333E MIN DD
+veya MAK 333 MIN DD
+veya MAK 331E MIN DD
+veya MAK 331 MIN DD)",4.Sınıf
+107,22839,MAK 4070E,Internal Combustion Engines,,Osman Akın Kutlar,MOB,Salı,1430/1729,---,70,69,Yok/None,"MAK, MAKE, MAKM, MSS, UZBE","TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD",4.Sınıf
+108,22786,MAK 4901,Makina Müh. Tasarımı I,,Adil Yücel,MKB,----,/,---,200,47,Yok/None,MAK,"(MAK 313 MIN DD
+veya MAK 313E MIN DD
+veya MAK 311 MIN DD
+veya MAK 311E MIN DD)
+ve (MAK 333 MIN DD
+veya MAK 333E MIN DD
+veya MAK 331 MIN DD
+veya MAK 331E MIN DD)
+ve (MAK 342 MIN DD
+veya MAK 342E MIN DD)
+ve (MAK 322 MIN DD
+veya MAK 322E MIN DD
+veya MAK 324 MIN DD
+veya MAK 324E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAK 210 MIN DD
+veya MAK 210E MIN DD)",4.Sınıf
+109,22787,MAK 4901E,Mechanical Eng. Design I,,Adil Yücel,MKB,----,/,---,200,5,Yok/None,"MAK, MSS","(MAK 313 MIN DD
+veya MAK 313E MIN DD
+veya MAK 311 MIN DD
+veya MAK 311E MIN DD)
+ve (MAK 333 MIN DD
+veya MAK 333E MIN DD
+veya MAK 331 MIN DD
+veya MAK 331E MIN DD)
+ve (MAK 342 MIN DD
+veya MAK 342E MIN DD)
+ve (MAK 322 MIN DD
+veya MAK 322E MIN DD
+veya MAK 324 MIN DD
+veya MAK 324E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAK 210 MIN DD
+veya MAK 210E MIN DD)",4.Sınıf
+110,22793,MAK 4902,Makina Müh. Tasarımı II,,Adil Yücel,MKB,----,/,---,200,58,Yok/None,MAK,"MAK 4901 MIN BB
+veya MAK 4901E MIN BB",Yok/None
+111,22795,MAK 4902E,Mechanical Eng. Design II,,Adil Yücel,MKB,----,/,---,200,16,Yok/None,"MAK, MSS","MAK 4901 MIN BB
+veya MAK 4901E MIN BB",Yok/None
+112,22782,MAK 492,Bitirme Tasarım Projesi,,Adil Yücel,MKB,----,/,---,200,10,Yok/None,MAK,Diğer Şartlar,4.Sınıf
+113,22783,MAK 492E,Senior Design Project,,Adil Yücel,MKB,----,/,---,200,0,Yok/None,"MAK, MAKE",Diğer Şartlar,4.Sınıf

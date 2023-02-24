@@ -1,0 +1,52 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22339,CHZ 214,Tanecik Teknolojisi,,"Gülay Bulut, Abdullah Ekrem Yüce",MDB,Salı,0830/1229,A103,75,73,Yok/None,"CHZ, CHZM",Yok/None,Yok/None
+1,22346,CHZ 216,Fiziksel Zeng. Yöntemleri,,Alim Gül,"MDB
+MDB","Pazartesi
+Çarşamba","1130/1329
+1330/1529","B205
+A202",65,48,Yok/None,"CHZ, CHZM","CHZ 213 MIN DD
+veya CHZ 232 MIN DD
+veya CHZ 232E MIN DD",Yok/None
+2,22341,CHZ 242,Proses Mineralojisi,,"Alim Gül, Emin Çiftçi, Recep Fahri Esenli",MDB,Salı,1330/1629,A101,75,72,Yok/None,"CHZ, CHZM",Yok/None,Yok/None
+3,22343,CHZ 306,Cevher Haz.Akışkanlar Mek.,,Birgül Benli,MDB,Cuma,1400/1559,A201,85,85,Yok/None,CHZ,Yok/None,Yok/None
+4,22345,CHZ 308,Cevher Hazırlamada İş Güven.,,"Kudret Tahsin Perek, Abdullah Ekrem Yüce",MDB,Salı,1330/1529,B204,55,52,Yok/None,CHZ,Yok/None,Yok/None
+5,22348,CHZ 318,Endüstriyel Hammaddeler,,Murat Olgaç Kangal,MDB,Pazartesi,0830/1129,B208,95,85,"MAD/30/30
+Diğer/65/55","CHZ, CHZM, MAD, MADM",Yok/None,Yok/None
+6,22349,CHZ 328E,Comp. Appl. in Mineral Proces.,,Ayhan Ali Sirkeci,MDB,Çarşamba,0830/1129,B207,65,67,Yok/None,"CHZ, CHZE, CHZM",Yok/None,Yok/None
+7,22351,CHZ 332E,Flotation and Flocculation,,Gülay Bulut,MDB,Perşembe,1330/1729,A202,60,54,Yok/None,"CHZ, CHZE, CHZM","CHZ 222E MIN DD
+veya CHZ 224E MIN DD",Yok/None
+8,22352,CHZ 352,Kömür Teknolojisi,,Mustafa Özer,MDB,Perşembe,1130/1329,B204,60,27,Yok/None,"CHZ, CHZM",Yok/None,Yok/None
+9,22354,CHZ 358E,Perform. Eva.in Coal Prp.Plnts,,Feridun Boylu,MDB,Cuma,0830/1029,A201,45,44,Yok/None,"CHZ, CHZE",Yok/None,Yok/None
+10,22355,CHZ 411E,Metallurgy II,,Fatma Arslan,MDB,Çarşamba,1130/1329,A105,55,52,Yok/None,"CHZ, CHZE","CHZ 312E MIN DD
+veya CHZ 316E MIN DD",Yok/None
+11,22356,CHZ 424,Cev.Haz.Tesis Yönetimi ve Ekon,,Kudret Tahsin Perek,MDB,Pazartesi,1330/1529,A105,40,36,Yok/None,CHZ,Yok/None,Yok/None
+12,22359,CHZ 432,Cevher Haz. Tesis Tasarımı,,Feridun Boylu,MDB,Salı,0830/1229,A301,40,36,Yok/None,"CHZ, CHZM","CHZ 421 MIN DD
+veya CHZ 421E MIN DD",Yok/None
+13,22360,CHZ 446,İleri Teknoloji Hammaddeleri,,Şükriye Beste Aydın,MDB,Cuma,1030/1229,A201,45,40,Yok/None,CHZ,Yok/None,Yok/None
+14,22361,CHZ 454,Susuzlandırma ve Kurutma,,Murat Olgaç Kangal,MDB,Perşembe,0830/1129,---,45,36,Yok/None,CHZ,Yok/None,Yok/None
+15,22363,CHZ 458E,Remdtn of Indus.&Minerl Wastes,,Fırat Burat,MDB,Cuma,1400/1559,A202,40,34,Yok/None,"CHZ, CHZE",Yok/None,Yok/None
+16,22366,CHZ 4901,Cevher Hazırl. Müh. Tasarımı I,,Feridun Boylu,MDB,----,/,---,500,7,Yok/None,CHZ,"(CHZ 216 MIN DD
+veya CHZ 311 MIN DD
+veya CHZ 311E MIN DD)
+ve (CHZ 332 MIN DD
+veya CHZ 332E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+17,22367,CHZ 4902,Cevher Hazırl. Müh.Tasarımı II,,Feridun Boylu,MDB,----,/,---,500,25,Yok/None,CHZ,"CHZ 4901 MIN BB
+veya CHZ 4901E MIN BB",4.Sınıf
+18,22364,CHZ 492,Bitirme Çalışması,,Feridun Boylu,MDB,----,/,---,500,2,Yok/None,CHZ,Diğer Şartlar,4.Sınıf
+19,22365,CHZ 492E,Graduation Thesis,,Feridun Boylu,MDB,----,/,---,10,3,Yok/None,"CHZ, CHZE",Diğer Şartlar,4.Sınıf

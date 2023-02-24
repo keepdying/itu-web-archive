@@ -1,0 +1,115 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21509,UCK 106,Uçak Müh. Giriş ve Tasarım,,Hayri Acar,UUB,Cuma,0830/1229,D-Z08,110,110,Yok/None,UCK,Yok/None,Yok/None
+1,21528,UCK 203E,"Circuits, Signals and Systems",,Ramazan Yeniçeri,UUB,Salı,1430/1729,D110,85,85,Yok/None,"UCK, UZBE","FIZ 102 MIN DD
+veya FIZ 102E MIN DD",Yok/None
+2,21529,UCK 203E,"Circuits, Signals and Systems",,Ramazan Yeniçeri,UUB,Çarşamba,0830/1129,D110,80,57,Yok/None,"UCK, UZBE","FIZ 102 MIN DD
+veya FIZ 102E MIN DD",Yok/None
+3,21516,UCK 206E,Thermodynamics II,,Saliha Banu Yılmaz,UUB,Çarşamba,1130/1329,D213,50,33,Yok/None,"UCK, UZBE","UCK 205 MIN DD
+veya UCK 205E MIN DD",Yok/None
+4,21517,UCK 236E,Composite Materials,,Hülya Cebeci,UUB,Perşembe,0830/1129,D214,60,58,Yok/None,"UCK, UCKE, UZB, UZBE","UCK 353 MIN DD
+veya UCK 353E MIN DD
+veya UCK 215 MIN DD
+veya UCK 215E MIN DD",Yok/None
+5,21522,UCK 303E,Automatic Control,,Emre Koyuncu,UUB,Cuma,0930/1229,D-Z09,90,77,Yok/None,"UCK, UZB, UZBE","(DNK 201 MIN DD
+veya DNK 201E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",Yok/None
+6,22829,UCK 303E,Automatic Control,,Gökhan İnalhan,UUB,Cuma,1430/1729,D216,90,88,Yok/None,"UCK, UCKE, UZB, UZBE","(DNK 201 MIN DD
+veya DNK 201E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",Yok/None
+7,21582,UCK 328E,Structural Analysis and Design,,Seher Eken,UUB,Cuma,0830/1129,D213,75,95,Yok/None,"UCK, UCKE, UZB, UZBE","MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya MUK 211 MIN DD
+veya MUK 211E MIN DD",Yok/None
+8,21518,UCK 348E,Computer Applic.in Engineering,,Bülent Tutkun,UUB,Çarşamba,1230/1529,D-Z09,65,67,Yok/None,"UCK, UCKE, UZB, UZBE","BIL 104E MIN DD
+veya BIL 104 MIN DD
+veya BIL 106E MIN DD
+veya BIL 106 MIN DD
+veya BIL 108E MIN DD
+veya BIL 108 MIN DD
+veya BIL 110E MIN DD
+veya BIL 110 MIN DD
+veya BIL 113E MIN DD
+veya BIL 113 MIN DD
+veya BIL 112E MIN DD
+veya BIL 112 MIN DD
+veya BIL 100E MIN DD
+veya BIL 100 MIN DD",Yok/None
+9,21596,UCK 350E,Analytical Dynamics,,İbrahim Özkol,UUB,Pazartesi,0830/1129,D215,60,58,Yok/None,"UCK, UCKE, UZB, UZBE","DNK 201 MIN DD
+veya DNK 201E MIN DD",Yok/None
+10,21600,UCK 358E,Int.to Artificial Intelligence,,Barış Başpınar,UUB,Perşembe,1130/1429,D213,65,65,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+11,24894,UCK 360E,Automatic Control I,,Barış Başpınar,UUB,Perşembe,1430/1729,D214,50,40,Yok/None,"UCK, UCKE, UZBE, UZBM","UCK 203 MIN DD
+veya UCK 203E MIN DD
+veya ELK 221 MIN DD
+veya ELK 221E MIN DD",Yok/None
+12,21538,UCK 372,Deneysel Mühendislik,,Duygu Erdem,UUB,Cuma,0930/1229,D109,32,10,Yok/None,"UCK, UZB","UZB 341 MIN DD
+veya UZB 341E MIN DD",Yok/None
+13,21541,UCK 372E,Experimental Engineering,,Halit Süleyman Türkmen,UUB,Pazartesi,0830/1129,D109,32,32,Yok/None,"UCK, UCKE, UZB, UZBE","UZB 341 MIN DD
+veya UZB 341E MIN DD",Yok/None
+14,21540,UCK 372E,Experimental Engineering,,Demet Balkan,UUB,Salı,0830/1129,D109,32,35,Yok/None,"UCK, UCKE, UZB, UZBE","UZB 341 MIN DD
+veya UZB 341E MIN DD",Yok/None
+15,21543,UCK 372E,Experimental Engineering,,Saliha Banu Yılmaz,UUB,Salı,1430/1729,D109,32,36,Yok/None,"UCK, UCKE, UZB, UZBE","UZB 341 MIN DD
+veya UZB 341E MIN DD",Yok/None
+16,21546,UCK 372E,Experimental Engineering,,İsmail Bayezit,UUB,Perşembe,0830/1129,D109,32,25,Yok/None,"UCK, UCKE, UZB, UZBE","UZB 341 MIN DD
+veya UZB 341E MIN DD",Yok/None
+17,21545,UCK 372E,Experimental Engineering,,İsmail Bayezit,UUB,Perşembe,1430/1729,D109,32,30,Yok/None,"UCK, UCKE, UZB, UZBE","UZB 341 MIN DD
+veya UZB 341E MIN DD",Yok/None
+18,21548,UCK 424E,Princip. of Aircraft Design II,,Hayri Acar,UUB,Pazartesi,1330/1729,D111,50,44,Yok/None,"UCK, UCKE, UCKM","UCK 423 MIN DD
+veya UCK 423E MIN DD
+veya UCK 451 MIN DD
+veya UCK 451E MIN DD",Yok/None
+19,21549,UCK 424E,Princip. of Aircraft Design II,,Hayri Acar,UUB,Salı,1330/1729,D209,55,53,Yok/None,"UCK, UCKE, UCKM","UCK 423 MIN DD
+veya UCK 423E MIN DD
+veya UCK 451 MIN DD
+veya UCK 451E MIN DD",Yok/None
+20,21602,UCK 439E,Intr. to Optimal Control,,Barış Başpınar,UUB,Pazartesi,1430/1729,D113,35,30,Yok/None,"UCK, UZBE","UCK 360 MIN DD
+veya UCK 360E MIN DD
+veya UCK 362 MIN DD
+veya UCK 362E MIN DD
+veya UCK 303 MIN DD
+veya UCK 303E MIN DD",Yok/None
+21,21589,UCK 441E,Flight Stability and Control,,Elbrus Caferov,UUB,Perşembe,1130/1429,D209,45,32,Yok/None,"UCK, UCKE","UCK 360 MIN DD
+veya UCK 360E MIN DD
+veya UCK 362 MIN DD
+veya UCK 362E MIN DD
+veya UCK 303 MIN DD
+veya UCK 303E MIN DD",Yok/None
+22,21590,UCK 441E,Flight Stability and Control,,Emre Koyuncu,UUB,Cuma,1430/1729,D-Z08,45,50,Yok/None,"UCK, UCKE","UCK 360 MIN DD
+veya UCK 360E MIN DD
+veya UCK 362 MIN DD
+veya UCK 362E MIN DD
+veya UCK 303 MIN DD
+veya UCK 303E MIN DD",Yok/None
+23,25048,UCK 457,Havayolu İşletmeciliği,,Caner Şentürk,UUB,Çarşamba,0830/1129,D214,30,29,Yok/None,"UCK, UZB",Yok/None,Yok/None
+24,22236,UCK 459E,Helicopter Theory,,Özge Özdemir,UUB,Salı,1130/1429,D210,60,38,Yok/None,"UCK, UCKE, UZB, UZBE","UCK 351 MIN DD
+veya UCK 351E MIN DD
+veya UCK 305 MIN DD
+veya UCK 305E MIN DD","4.Sınıf, 3.Sınıf"
+25,21551,UCK 471E,Aviation Maintenance Manag.,,Şükrü Can,UUB,Perşembe,1130/1429,D108,45,45,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+26,21552,UCK 488,Uçak Sistemleri,,Senem Sevinç,UUB,Cuma,1430/1729,D215,45,46,Yok/None,"UCK, UZB",Yok/None,Yok/None
+27,21611,UCK 4901,Uçak Müh. Tasarımı I,,Halit Süleyman Türkmen,UUB,----,/,---,500,15,Yok/None,UCK,"(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+28,21612,UCK 4902,Uçak Müh. Tasarımı II,,Halit Süleyman Türkmen,UUB,----,/,---,500,83,Yok/None,UCK,"UCK 4901 MIN BB
+veya UCK 4901E MIN BB",Yok/None
+29,21609,UCK 492,Bitirme Çalışması,,Halit Süleyman Türkmen,UUB,----,/,---,500,7,Yok/None,UCK,Diğer Şartlar,4.Sınıf
+30,21610,UCK 492E,Graduation Project,,Halit Süleyman Türkmen,UUB,----,/,---,500,1,Yok/None,"UCK, UCKE",Diğer Şartlar,4.Sınıf

@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22865,MEK 205,Mühendislik Mekaniği,,Hacı Abdullah Taşdemir,MKB,Salı,1430/1729,D368A,125,102,Yok/None,"CHZ, END, GID, IML, ISL, JEF, JEO, MAD, MADM, MAKM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+1,22868,MEK 205E,Engineering Mechanics,,Merve Acer,MKB,Perşembe,0830/1129,A363,125,125,Yok/None,"CHZ, CHZE, END, ENDE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, IND, ISL, ISLE, JEF, JEFE, JEO, JEOE, MAD, MADE, MADM, MEN, PET, PETE, TEKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None

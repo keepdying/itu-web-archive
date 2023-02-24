@@ -1,0 +1,32 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21118,TER 201,Termodinamik,,Halil Saraçoğlu,GDB,Salı,0930/1229,410,55,55,Yok/None,"CEV, CHZ, DEN, EHB, GEM, ISL, JEO, KMM, KOM, KON, PET","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD)",Yok/None
+1,21504,TER 201,Termodinamik,,Hanzade Açma,KMB,Perşembe,0830/1129,D304,75,38,Yok/None,"CEV, CHZ, DEN, EHB, GEM, ISL, JEO, KMM, KOM, KON, PET","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD)",Yok/None
+2,22001,TER 201,Termodinamik,,Erol Kam,INB,Perşembe,0830/1129,A305,80,41,Yok/None,"CEV, CHZ, DEN, EHB, GEM, ISL, JEO, KMM, KOM, KON, PET","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD)",Yok/None
+3,24548,TER 201,Termodinamik,,Emin Fuad Kent,EEB,Cuma,1400/1659,2102,50,34,Yok/None,"CEV, CHZ, DEN, EHB, GEM, ISL, JEO, KMM, KOM, KON, PET","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD)",Yok/None
+4,22872,TER 201E,Thermodynamics,,Turgut Yılmaz,MKB,Çarşamba,0930/1229,D368A,100,101,Yok/None,"CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, GEM, GEME, GEMK, ISL, ISLE, JEF, JEO, JEOE, KMM, KMME, KOM, KOME, KON, KONE, MAD, PET, PETE, TEK, TEKE","(KIM 101E MIN DD
+veya KIM 101 MIN DD)
+ve (FIZ 101E MIN DD
+veya FIZ 101 MIN DD
+veya FIZ 111E MIN DD)",Yok/None
+5,22005,TER 201E,Thermodynamics,,Özlem Karahan Özgün,INB,Perşembe,0830/1129,A104,80,80,Yok/None,"CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, GEM, GEME, GEMK, ISL, ISLE, JEF, JEO, JEOE, KMM, KMME, KOM, KOME, KON, KONE, MAD, PET, PETE, TEKE","(KIM 101E MIN DD
+veya KIM 101 MIN DD)
+ve (FIZ 101E MIN DD
+veya FIZ 101 MIN DD
+veya FIZ 111E MIN DD)",Yok/None

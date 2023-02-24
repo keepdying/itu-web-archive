@@ -1,0 +1,48 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21091,DEN 102,Bilgisayar Destek.Teknik Resim,,Sevil Deniz Yakan Dündar,GDB,Cuma,0830/1029,R403,40,31,Yok/None,DEN,Yok/None,Yok/None
+1,21111,DEN 102,Bilgisayar Destek.Teknik Resim,,Sevil Deniz Yakan Dündar,GDB,Cuma,1030/1229,R403,40,39,Yok/None,DEN,Yok/None,Yok/None
+2,21121,DEN 208E,Const.of Ship&Offshore Strc.,,Serdar Aytekin Köroğlu,GDB,Perşembe,0930/1129,D401,85,77,Yok/None,"DEN, DENE","MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD",Yok/None
+3,21122,DEN 312,Gemi & Dnz Yapılarının Direnci,,Burcu Erbaş,GDB,Pazartesi,1130/1329,D311,70,52,Yok/None,DEN,"AKM 205 MIN DD
+veya AKM 205E MIN DD",Yok/None
+4,24961,DEN 323E,Wave Mechanics,,Bilge Tutak,GDB,Salı,1330/1629,D309,20,20,Yok/None,DEN,"(MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (AKM 205 MIN DD
+veya AKM 205E MIN DD)",Yok/None
+5,21127,DEN 328E,Oceanography,,"Sevil Deniz Yakan Dündar, Deniz Bayraktar Bural",GDB,Perşembe,0830/1129,410,70,42,Yok/None,"DEN, DENE","AKM 205 MIN DD
+veya AKM 205E MIN DD",Yok/None
+6,21126,DEN 330E,Marine Engines&Aux.,,Ahmet Ergün Palaz,GDB,Çarşamba,1330/1529,D311,70,68,Yok/None,"DEN, DENE","TER 201 MIN DD
+veya TER 201E MIN DD",Yok/None
+7,21123,DEN 332,Deniz ve İş Hukuku,,H Murat Demirkıran,GDB,Pazartesi,1330/1529,410,70,69,Yok/None,DEN,Yok/None,Yok/None
+8,21128,DEN 334,Deniz Suyu Kimyası,,Sevil Deniz Yakan Dündar,GDB,Perşembe,1330/1529,D401,60,32,Yok/None,DEN,Yok/None,Yok/None
+9,21125,DEN 342E,Ship Design,,Kadir Sarıöz,GDB,Çarşamba,0930/1229,D401,70,66,Yok/None,"DEN, DENE",Yok/None,Yok/None
+10,21131,DEN 406E,Offshore Structural Analysis,,Özgür Özgüç,GDB,Perşembe,1430/1729,D311,70,62,Yok/None,"DEN, DENE",DEN 431E MIN DD,4.Sınıf
+11,21139,DEN 414,Deniz Dibi Boru Döşeme Tekniği,,Deniz Bayraktar Bural,GDB,Perşembe,1230/1429,D303,31,36,Yok/None,DEN,Yok/None,Yok/None
+12,21136,DEN 418E,Marine Energy Technology,,Şafak Nur Ertürk Bozkurtoğlu,GDB,Pazartesi,1530/1729,D406,20,20,Yok/None,"DEN, DENE",Yok/None,Yok/None
+13,21132,DEN 422E,Marine Structures Project II,,Hakan Akyıldız,GDB,Çarşamba,1330/1529,---,500,5,Yok/None,"DEN, DENE","DEN 441 MIN DD
+veya DEN 441E MIN DD
+veya DEN 4901 MIN DD
+veya DEN 4901E MIN DD",Yok/None
+14,21137,DEN 424E,Computer Aided Ship Design,,Kadir Sarıöz,GDB,Pazartesi,1530/1729,D401,20,11,Yok/None,"DEN, DENE",Yok/None,Yok/None
+15,21124,DEN 433E,Stability of Floating Objects,,Hakan Akyıldız,GDB,Salı,0930/1229,D308,0,0,Yok/None,"DEN, DENE",Yok/None,Yok/None
+16,21140,DEN 446,Gemi Elektr.& Kontrol Sist.,,Özgür Üstün,GDB,Perşembe,1230/1429,D304,30,19,Yok/None,DEN,Yok/None,Yok/None
+17,21138,DEN 448E,Mechanics of Mooring Lines,,Ayhan Menteş,GDB,Pazartesi,1530/1729,D407,0,0,Yok/None,"DEN, DENE",Yok/None,Yok/None
+18,21130,DEN 451E,Ship Mod.Tst.&OceanographyLab.,,"Ceren Bilgin Güney, Burcu Erbaş, Yalçın Ünsan",GDB,Salı,0930/1229,R403,70,64,Yok/None,"DEN, DENE",Yok/None,Yok/None
+19,21141,DEN 454,Gem.Klaslanma. Plan Onay Sür.,,Murat Kaplanoğlu,GDB,Çarşamba,1230/1529,D304,60,12,Yok/None,"DEN, SORM",Yok/None,Yok/None
+20,21170,DEN 456,Klas.Faal.Deniz.Huk.&DenizSig.,,H Murat Demirkıran,GDB,Pazartesi,0830/1129,D304,60,13,Yok/None,"DEN, SORM",Yok/None,Yok/None
+21,21142,DEN 458,Sörvey Faal.İş Sağ. ve Güven.,,Cem Melikoğlu,GDB,Salı,1400/1659,D303,60,23,Yok/None,"DEN, SORM",Yok/None,Yok/None
+22,21143,DEN 460,Sörv.Faal.Ulus.&Ulusl.Kur.&Dü.,,Bekir Sıtkı Türkmen,GDB,Çarşamba,0830/1129,D303,60,23,Yok/None,"DEN, SORM",Yok/None,Yok/None
+23,24804,DEN 462E,Motions&Control of Mar.Vehic.,,Ömer Kemal Kınacı,GDB,Pazartesi,1530/1729,D303,20,20,Yok/None,DEN,Yok/None,Yok/None
+24,21134,DEN 482,Bireysel Proje,,Kadir Sarıöz,GDB,----,/,---,500,61,Yok/None,DEN,Yok/None,4.Sınıf
+25,21133,DEN 4902E,Shipbuilding&Ocean Eng.Dsg.II,,"Hakan Akyıldız, Ayhan Menteş, Serdar Aytekin Köroğlu, Ömer Kemal Kınacı, Özgür Özgüç","GDB
+GDB","Cuma
+Cuma","0930/1229
+1400/1659","R409
+R409",500,49,Yok/None,DEN,"DEN 441 MIN DD
+veya DEN 441E MIN DD
+veya DEN 4901 MIN BB
+veya DEN 4901E MIN BB",4.Sınıf
+26,21135,DEN 492E,Graduation Project,,Kadir Sarıöz,GDB,----,/,---,500,7,Yok/None,"DEN, DENE",Diğer Şartlar,4.Sınıf

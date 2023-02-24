@@ -1,0 +1,202 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21021,END 112E,Intr. to Manufacturing Systems,,Vehbi Tufan Koç,MED,Perşembe,1130/1429,A16,145,145,Yok/None,"END, ENDE, IND",Yok/None,Yok/None
+1,21022,END 112E,Intr. to Manufacturing Systems,,Vehbi Tufan Koç,MED,Perşembe,1430/1729,A33,145,131,Yok/None,"END, ENDE, IND",Yok/None,Yok/None
+2,21023,END 201E,Industrial Eng.Appl. in Python,Çevrimiçi/Online,Mehmet Yasin Ulukuş,----,Salı,0830/1129,----,140,131,Yok/None,"END, ENDE, IND","BIL 110E MIN DD
+veya BIL 100E MIN DD",Yok/None
+3,21024,END 201E,Industrial Eng.Appl. in Python,Çevrimiçi/Online,Mehmet Ali Ergün,----,Salı,1430/1729,----,140,138,Yok/None,"END, ENDE, IND","BIL 110E MIN DD
+veya BIL 100E MIN DD",Yok/None
+4,24825,END 210E,Linear Algebra for Indust.Eng.,,Erkan Işıklı,MED,Çarşamba,1230/1529,A35,65,73,Yok/None,"END, ENDE","MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+5,21025,END 232,İşbilim,,Ayşe Elvan Bayraktaroğlu,INB,Pazartesi,1130/1429,A101,70,63,Yok/None,"END, IML",Yok/None,Yok/None
+6,21026,END 232,İşbilim,,Ayşe Elvan Bayraktaroğlu,INB,Salı,1130/1429,A301,70,68,Yok/None,"END, IML",Yok/None,Yok/None
+7,21027,END 232E,Ergonomics,,Fethi Çalışır,MDB,Çarşamba,0930/1229,B205,100,100,"END/5/5
+ENDE/95/95","END, ENDE, IND",Yok/None,Yok/None
+8,24835,END 252E,Theory of Probability,,Kutay Tinç,EEB,Cuma,0930/1229,4104,65,64,Yok/None,"END, ENDE","(MAT 103 MIN DD
+veya MAT 103E MIN DD
+veya MAT 101 MIN DD
+veya MAT 101E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 102 MIN DD
+veya MAT 102E MIN DD)",Yok/None
+9,21029,END 308,Kalite Mühendisliği,,Hüsnü Bülent Cerit,INB,Çarşamba,0930/1129,A105,70,33,Yok/None,END,"END 311 MIN DD
+veya END 311E MIN DD",Yok/None
+10,21032,END 308,Kalite Mühendisliği,,Hüsnü Bülent Cerit,MED,Çarşamba,1330/1529,A36,70,57,Yok/None,END,"END 311 MIN DD
+veya END 311E MIN DD",Yok/None
+11,21034,END 308E,Quality Engineering,,Seda Yanık,MED,Perşembe,0930/1129,A36,70,70,"END/5/8
+ENDE/65/59","END, ENDE","END 311 MIN DD
+veya END 311E MIN DD",Yok/None
+12,21039,END 311,İstatistik,,Cengiz Kahraman,MED,Pazartesi,1430/1729,A33,75,75,Yok/None,END,"END 252 MIN DD
+veya END 252E MIN DD",Yok/None
+13,21042,END 311,İstatistik,,Cengiz Kahraman,MED,Cuma,1400/1659,A33,70,61,Yok/None,END,"END 252 MIN DD
+veya END 252E MIN DD",Yok/None
+14,21043,END 311E,Statistics,,Seda Yanık,MDB,Salı,0830/1129,A101,90,83,"END/5/4
+ENDE/85/78","END, ENDE, IND","END 252 MIN DD
+veya END 252E MIN DD",Yok/None
+15,21048,END 312,Mühendislik Ekonomisi,,Cengiz Kahraman,INB,Pazartesi,1130/1429,A102,70,49,Yok/None,END,Yok/None,Yok/None
+16,21049,END 312,Mühendislik Ekonomisi,,İrem Uçal Sarı,MDB,Pazartesi,1130/1429,B204,70,76,Yok/None,END,Yok/None,Yok/None
+17,21050,END 312E,Engineering Economics,,İrem Uçal Sarı,MDB,Çarşamba,1230/1529,B204,100,100,"END/5/7
+ENDE/95/88","END, ENDE",Yok/None,Yok/None
+18,21051,END 314,Hizmet Sistemleri,,Cemil Ceylan,EEB,Perşembe,1130/1429,5105,50,39,Yok/None,END,Yok/None,Yok/None
+19,21052,END 318,Sistem Dinamiği,,Cafer Erhan Bozdağ,EEB,Salı,1430/1729,1303,50,40,Yok/None,END,"END 211 MIN DD
+veya END 211E MIN DD
+veya END 215 MIN DD
+veya END 215E MIN DD",Yok/None
+20,21053,END 322,Sistem Simülasyonu,,Cafer Erhan Bozdağ,"MED
+MED","Salı
+Cuma","0930/1129
+1130/1229","A16
+A16",70,52,Yok/None,END,"(END 211 MIN DD
+veya END 211E MIN DD
+veya END 215 MIN DD
+veya END 215E MIN DD)
+ve (END 311 MIN DD
+veya END 311E MIN DD)",Yok/None
+21,21054,END 322,Sistem Simülasyonu,,Cafer Erhan Bozdağ,"INB
+INB","Salı
+Cuma","1230/1429
+0930/1029","B203
+B203",70,46,Yok/None,END,"(END 211 MIN DD
+veya END 211E MIN DD
+veya END 215 MIN DD
+veya END 215E MIN DD)
+ve (END 311 MIN DD
+veya END 311E MIN DD)",Yok/None
+22,21055,END 322E,System Simulation,,Mehmet Ali Ergün,KMB,Salı,1130/1429,D203,82,94,Yok/None,"END, ENDE","(END 211 MIN DD
+veya END 211E MIN DD
+veya END 215 MIN DD
+veya END 215E MIN DD)
+ve (END 311 MIN DD
+veya END 311E MIN DD)",Yok/None
+23,21056,END 331,Yöneylem Araştırması I,,Özgür Kabak,EEB,Pazartesi,0830/1129,5302,120,82,Yok/None,END,"MAT 261 MIN DD
+veya MAT 261E MIN DD
+veya MAT 121 MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya END 210 MIN DD
+veya END 210E MIN DD",Yok/None
+24,21057,END 331E,Operations Research I,,Kutay Tinç,MED,Pazartesi,1130/1429,A11,120,110,Yok/None,"END, ENDE, IND, KOME, PETE","MAT 121 MIN DD
+veya MAT 121E MIN DD
+veya MAT 261 MIN DD
+veya MAT 261E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya END 210 MIN DD
+veya END 210E MIN DD",Yok/None
+25,21059,END 339,Proje Yönetimi,,Ayberk Soyer,MED,Perşembe,0830/1129,B35,50,50,Yok/None,END,Yok/None,Yok/None
+26,21061,END 344,Davranış Bilimleri,,Cahit Ali Bayraktar,KMB,Pazartesi,1430/1729,D103,45,33,Yok/None,"END, IML",Yok/None,Yok/None
+27,21060,END 365E,People Analytics,,Hasan Karabakkal,MED,Salı,0830/1129,B33,36,36,Yok/None,"END, ENDE",Yok/None,Yok/None
+28,21062,END 374,Rekabet Yönetimi,,Cahit Ali Bayraktar,KMB,Pazartesi,1130/1429,D103,40,10,Yok/None,END,Yok/None,Yok/None
+29,21063,END 382,Üretim Yöntemleri,,Hüsnü Bülent Cerit,INB,Cuma,0830/1129,A203,60,34,Yok/None,END,END 112E MIN DD,Yok/None
+30,21064,END 382E,Production Methods,,Esra Baş,INB,Cuma,0930/1229,A304,60,60,Yok/None,"END, ENDE",END 112E MIN DD,Yok/None
+31,21066,END 412,İnsn Kynkları Yntmnin Temeller,,Cemil Ceylan,MED,Salı,1430/1729,A11,80,68,Yok/None,END,"END 431 MIN DD
+veya END 431E MIN DD",Yok/None
+32,21065,END 412,İnsn Kynkları Yntmnin Temeller,,Seçkin Polat,MED,Çarşamba,1230/1529,A11,70,47,Yok/None,END,"END 431 MIN DD
+veya END 431E MIN DD",Yok/None
+33,21092,END 412E,Human Resource Management,,Gaye Karaçay Aydın,MED,Perşembe,1430/1729,A35,80,81,Yok/None,"END, ENDE","END 431 MIN DD
+veya END 431E MIN DD",Yok/None
+34,21093,END 426,Kurumsl Kaynaklrn Planlnmasi,,"Emre Çevikcan, Murat Durucu",MED,Pazartesi,0830/1129,B33,20,14,"END/10/10
+ISL/10/4","END, ISL","END 421 MIN DD
+veya END 421E MIN DD
+veya ISL 384 MIN DD
+veya ISL 384E MIN DD",Yok/None
+35,21094,END 432E,Facility Layout,,Ufuk Cebeci,KMB,Salı,1430/1729,D203,50,28,Yok/None,"END, ENDE, IML, IMLE",Yok/None,4.Sınıf
+36,21095,END 434,Stratejik Yönetimin Temelleri,,Cahit Ali Bayraktar,INB,Çarşamba,0930/1229,B303,40,11,Yok/None,END,"END 323 MIN DD
+veya END 431 MIN DD
+veya END 431E MIN DD",Yok/None
+37,21096,END 434E,Intro.to Strategic Management,,Gaye Karaçay Aydın,MED,Cuma,1430/1729,A16,50,35,Yok/None,"END, ENDE","END 323 MIN DD
+veya END 431 MIN DD
+veya END 431E MIN DD",Yok/None
+38,21097,END 439E,Neural Network Mod.in Ind.Sys.,,"Ömer Faruk Beyca, Kutay Tinç",MED,Cuma,1400/1659,A32,75,74,Yok/None,"END, ENDE","(END 332 MIN DD
+veya END 332E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya END 210 MIN DD
+veya END 210E MIN DD)",Yok/None
+39,21098,END 441,Endüstri Mühendisliği Projesi,,Ömer Faruk Beyca,"MED
+MED","Pazartesi
+Çarşamba","1730/1829
+1730/1829","---
+---",500,2,Yok/None,END,Yok/None,4.Sınıf
+40,21099,END 441E,Industrial Engineering Project,,Alp Üstündağ,"MED
+MED","Çarşamba
+Perşembe","1730/1829
+1730/1829","---
+---",0,0,Yok/None,"END, ENDE",Yok/None,4.Sınıf
+41,25053,END 449,End. Müh. Uyg. Seminer Dersi,Çevrimiçi/Online,Ayberk Soyer,----,Çarşamba,0930/1229,----,0,4,Yok/None,"END, ENDE",Yok/None,"4.Sınıf, 3.Sınıf"
+42,21100,END 454E,Energy Markets & Optimization,,Kutay Tinç,MED,Pazartesi,1430/1729,A34,120,122,Yok/None,"END, ENDE, ISL, ISLE","END 331 MIN DD
+veya END 331E MIN DD
+veya ISL 323 MIN DD
+veya ISL 323E MIN DD","4.Sınıf, 3.Sınıf"
+43,22249,END 458E,Nonlinear Optimization,,Gülşah Hançerlioğulları,INB,Cuma,0930/1229,D202,51,50,Yok/None,"END, ENDE, ISL, ISLE","END 331 MIN DD
+veya END 331E MIN DD
+veya ISL 323 MIN DD
+veya ISL 323E MIN DD","4.Sınıf, 3.Sınıf"
+44,21102,END 472E,Advanced Spreadsheet Modeling,,Murat Durucu,UUB,Perşembe,1130/1429,BIL1,60,60,Yok/None,"END, ENDE",Yok/None,Yok/None
+45,21103,END 478E,Applied Optimization Models,,Burhaneddin Sandıkçı,MED,Çarşamba,0930/1229,B37,50,43,Yok/None,"END, ENDE",Yok/None,Yok/None
+46,21104,END 482E,Supply Chain Management,,Şeyda Serdar Asan,KMB,Pazartesi,0830/1129,D105,45,45,Yok/None,"END, ENDE","END 421 MIN DD
+veya END 421E MIN DD",Yok/None
+47,21105,END 488,ERP Süreçleri ve Kurulumu,,Cemil Ceylan,KMB,Salı,1130/1429,D103,50,50,Yok/None,END,Yok/None,Yok/None
+48,21108,END 4901,Endüstri Müh. Tasarımı I,,Alp Üstündağ,MED,----,/,---,500,25,Yok/None,END,"(END 421 MIN DD
+veya END 421E MIN DD
+veya END 322 MIN DD
+veya END 322E MIN DD)
+ve (END 332 MIN DD
+veya END 332E MIN DD
+veya END 305 MIN DD
+veya END 305E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (END 210 MIN DD
+veya END 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+49,21109,END 4901E,Industrial Engin. Design I,,Alp Üstündağ,MED,----,/,---,500,17,Yok/None,"END, ENDE","(END 421 MIN DD
+veya END 421E MIN DD
+veya END 322 MIN DD
+veya END 322E MIN DD)
+ve (END 332 MIN DD
+veya END 332E MIN DD
+veya END 305 MIN DD
+veya END 305E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (END 210 MIN DD
+veya END 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+50,21110,END 4902,Endüstri Müh. Tasarımı II,,Alp Üstündağ,MED,----,/,---,500,43,Yok/None,END,"END 4901 MIN BB
+veya END 4901E MIN BB",Yok/None
+51,21112,END 4902E,Industrial Engin. Design II,,Alp Üstündağ,MED,----,/,---,500,89,Yok/None,"END, ENDE","END 4901 MIN BB
+veya END 4901E MIN BB",Yok/None
+52,21106,END 492,Bitirme Çalışması,,Alp Üstündağ,MED,----,/,---,500,12,Yok/None,END,"END 441 MIN DD
+veya END 441E MIN DD
+Diğer Şartlar",4.Sınıf
+53,21107,END 492E,Graduation Thesis,,Alp Üstündağ,MED,----,/,---,500,0,Yok/None,"END, ENDE","END 441 MIN DD
+veya END 441E MIN DD
+Diğer Şartlar",4.Sınıf

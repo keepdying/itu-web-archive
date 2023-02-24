@@ -1,0 +1,27 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22237,MOD 125,Fashion Research & Inspiration,,"Gizem Turan, Merve Gizem Ogan Yazgan",MKB,Salı,0930/1229,451,40,20,Yok/None,SMT,MOD 143 MIN DD,Yok/None
+1,22233,MOD 127,Design Studio II- Soft Draping,,Şükriye Yüksel Filiz,"MKB
+MKB","Pazartesi
+Çarşamba","1330/1629
+0930/1229","453
+---",40,18,Yok/None,SMT,"MOD 117 MIN DD
+ve MOD 133 MIN DD",Yok/None
+2,22231,MOD 134,Materials & Construction II,,Gizem Turan,MKB,Salı,1330/1729,455,40,17,Yok/None,SMT,"MOD 133 MIN DD
+ve MOD 117 MIN DD",Yok/None
+3,22235,MOD 162,Fashion Art Studio,,"Nihan Topaloğlu, Elif Taşel","MKB
+MKB","Pazartesi
+Perşembe","0930/1229
+1330/1629","451
+---",40,16,Yok/None,SMT,MOD 113 MIN DD,Yok/None
+4,22238,MOD 270,Statistical Analysis,,Ömer Berk Berkalp,MKB,Cuma,1400/1759,D368B,40,18,Yok/None,SMT,Yok/None,Yok/None
+5,22247,MOD 311,Leather Apparel Design,,Rüveyde Oder,MKB,Perşembe,0830/1229,453,40,18,Yok/None,SMT,Yok/None,Yok/None
+6,22246,MOD 342,CAD for FD & Development,,Belgin Görgün,MKB,Çarşamba,0930/1229,455,40,15,Yok/None,SMT,Yok/None,Yok/None
+7,22245,MOD 363,Design Directions in R-T-W,,"Belgin Görgün, Şükriye Yüksel Filiz",MKB,Salı,1330/1729,453,40,12,Yok/None,SMT,"MOD 357 MIN DD
+ve MOD 359 MIN DD",Yok/None
+8,22244,MOD 369,Sportswear Dev. Concepts,,"Şükriye Yüksel Filiz, Belgin Görgün","MKB
+MKB","Çarşamba
+Perşembe","1330/1529
+1330/1729","---
+YDRAP",40,12,Yok/None,SMT,"MOD 357 MIN DD
+veya MOD 359 MIN DD",Yok/None

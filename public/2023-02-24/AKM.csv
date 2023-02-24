@@ -1,0 +1,62 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23059,AKM 204,Akışkanlar Mekaniği,,Hafzüllah Aksoy,INB,Pazartesi,0930/1229,D202,80,81,Yok/None,"CEV, CHZ, GEM, IML, INS, KMM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+1,23181,AKM 204,Akışkanlar Mekaniği,,Şakir Bal,GDB,Salı,0830/1129,D407,45,45,Yok/None,"CEV, CHZ, GEM, IML, INS, KMM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+2,23182,AKM 204,Akışkanlar Mekaniği,,Ali Can Takinacı,GDB,Salı,0830/1129,D406,45,45,Yok/None,"CEV, CHZ, GEM, IML, INS, KMM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+3,23057,AKM 204,Akışkanlar Mekaniği,,Necati Erdem Ünal,INB,Çarşamba,0930/1229,A202,60,60,Yok/None,"CEV, CHZ, GEM, IML, INS, KMM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+4,23058,AKM 204,Akışkanlar Mekaniği,,Erdal Kesgin,INB,Çarşamba,0930/1229,A203,60,59,Yok/None,"CEV, CHZ, GEM, IML, INS, KMM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+5,23060,AKM 204E,Fluid Mechanics,,Abdüsselam Altunkaynak,INB,Pazartesi,0930/1229,D203,80,79,Yok/None,"CEV, CEVE, CHZ, CHZE, FIZ, FIZE, GEM, GID, GIDE, IML, IMLE, INS, INSE, JEF, JEO, KMM, KMME, MAD, MEN, MTM, MTO, MTOE, NAE, PET, PETE, TEK, TEKE, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+6,24871,AKM 204E,Fluid Mechanics,,Murat Çakan,"MKB
+MKB","Pazartesi
+Perşembe","1530/1729
+1630/1729","D357
+D357",60,67,Yok/None,"CEV, CEVE, CHZ, CHZE, FIZ, FIZE, GEM, GID, GIDE, IML, IMLE, INS, INSE, JEF, JEO, KMM, KMME, MAD, MEN, MTM, MTO, MTOE, NAE, PET, PETE, TEK, TEKE, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+7,21041,AKM 204E,Fluid Mechanics,,Zerefşan Kaymaz,UUB,Çarşamba,0830/1129,D-Z08,70,73,Yok/None,"CEV, CEVE, CHZ, CHZE, FIZ, FIZE, GEM, GID, GIDE, IML, IMLE, INS, INSE, JEF, JEO, KMM, KMME, MAD, MEN, MTM, MTO, MTOE, NAE, PET, PETE, TEK, TEKE, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+8,23061,AKM 204E,Fluid Mechanics,,Mehmet Özger,INB,Çarşamba,0930/1229,B205,65,64,Yok/None,"CEV, CEVE, CHZ, CHZE, FIZ, FIZE, GEM, GID, GIDE, IML, IMLE, INS, INSE, JEF, JEO, KMM, KMME, MAD, MEN, MTM, MTO, MTOE, NAE, PET, PETE, TEK, TEKE, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+9,24775,AKM 204E,Fluid Mechanics,,Veysel Şadan Özgür Kırca,MDB,Cuma,0830/1129,B208,100,80,Yok/None,"PET, PETE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+10,21119,AKM 205,Akışkanlar Mekaniği,,Şafak Nur Ertürk Bozkurtoğlu,"GDB
+GDB","Salı
+Perşembe","1330/1629
+1500/1659","D311
+R409",85,86,Yok/None,"DEN, GEM, MAK, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+11,24872,AKM 214E,Fluid Mechanics I,,Ayşe Gül Güngör,UUB,Pazartesi,0830/1129,D209,50,51,Yok/None,"UCK, UZB, UZBE, UZBM","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+12,21572,AKM 219,Akışkanlar Mekaniği,,Nuriye Leman Okşan Çetiner Yıldırım,UUB,Salı,0830/1129,D216,120,117,Yok/None,UCK,"MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+13,21571,AKM 219E,Fluid Mechanics,,Fırat Oğuz Edis,UUB,Salı,0830/1129,D-Z08,120,111,Yok/None,"UZB, UZBE","MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None

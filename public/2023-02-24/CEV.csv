@@ -1,0 +1,267 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23165,CEV 104,Yer Bilimi,,Erkan Bozkurtoğlu,INB,Pazartesi,0830/1029,B104,80,78,Yok/None,CEV,Yok/None,Yok/None
+1,23166,CEV 104E,Earth Science,,Şaziye Özge Dinç Göğüş,INB,Perşembe,1130/1329,B104,80,75,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+2,21954,CEV 202E,Enviromental Chemistry II,,Derya Yüksel İmer,INB,Salı,0830/1129,A104,90,89,Yok/None,"CEV, CEVE","CEV 201 MIN DD
+veya CEV 201E MIN DD",Yok/None
+3,22004,CEV 202EL,Enviromental Chemistry II Lab.,,Kübra Altuntaş,INB,Cuma,1400/1559,---,38,41,Yok/None,"CEV, CEVE","(CEV 201 MIN DD
+veya CEV 201E MIN DD)
+ve (CEV 201L MIN DD
+veya CEV 201EL MIN DD)",Yok/None
+4,21955,CEV 202L,Çevre Kimyası II Lab.,,Ayşe Yüksekdağ,INB,Cuma,0830/1029,---,38,34,Yok/None,CEV,"(CEV 201 MIN DD
+veya CEV 201E MIN DD)
+ve (CEV 201L MIN DD
+veya CEV 201EL MIN DD)",Yok/None
+5,21950,CEV 212,Çevre Kimyası II,,"İsmail Toröz, Ayşe Yüksekdağ","INB
+INB","Salı
+Çarşamba","1030/1229
+1030/1229","A103
+A103",30,20,Yok/None,CEV,"CEV 211 MIN DD
+veya CEV 211E MIN DD",Yok/None
+6,21951,CEV 212,Çevre Kimyası II,,"Nuray Işık Kabdaşlı, Serdar Doğruel","INB
+INB","Salı
+Perşembe","1030/1229
+1330/1529","B306
+A104",30,18,Yok/None,CEV,"CEV 211 MIN DD
+veya CEV 211E MIN DD",Yok/None
+7,21952,CEV 212E,Enviromental Chemistry II,,"İdil Arslan Alaton, Elif Pehlivanoğlu Mantaş","INB
+INB","Pazartesi
+Salı","0830/1029
+1130/1329","A101
+A101",30,25,Yok/None,"CEV, CEVE","CEV 211 MIN DD
+veya CEV 211E MIN DD",Yok/None
+8,21953,CEV 212E,Enviromental Chemistry II,,"Tuğba Ölmez Hancı, Serdar Doğruel","INB
+INB","Pazartesi
+Salı","0830/1029
+0830/1029","A103
+A103",30,29,Yok/None,"CEV, CEVE","CEV 211 MIN DD
+veya CEV 211E MIN DD",Yok/None
+9,21956,CEV 216,Çevre Müh. Bilg. Uyg.,,"Alpaslan Ekdal, Onur Yılmaz Özcan",INB,Cuma,0830/1229,D103,60,45,Yok/None,CEV,"BIL 100E MIN DD
+veya BIL 101E MIN DD",Yok/None
+10,21957,CEV 216E,Comp. App. in Environment.Eng.,,Onur Yılmaz Özcan,INB,Pazartesi,1330/1729,D101,40,40,Yok/None,"CEV, CEVE","BIL 100E MIN DD
+veya BIL 101E MIN DD",Yok/None
+11,21958,CEV 216E,Comp. App. in Environment.Eng.,,"Alpaslan Ekdal, Börte Köse Mutlu",INB,Pazartesi,1330/1729,D103,45,50,Yok/None,"CEV, CEVE","BIL 100E MIN DD
+veya BIL 101E MIN DD",Yok/None
+12,23238,CEV 234E,Soil Mechanics,,Mustafa Hatipoğlu,INB,Çarşamba,0830/1029,B307,35,9,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+13,22211,CEV 243E,Environmental Chemistry,,Umut Kıvanç Şahin,MKB,Pazartesi,0830/1129,D357,60,61,Yok/None,"ISL, ISLE, TEK, TEKE",Yok/None,Yok/None
+14,21959,CEV 246E,Marine and Lake Sciences,,"Melike Gürel, Elif Pehlivanoğlu Mantaş",INB,Perşembe,1330/1529,B306,35,33,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+15,21960,CEV 248,Ölçme Bilgisi,,Turan Erden,INB,Salı,0830/1029,A101,35,31,Yok/None,CEV,Yok/None,Yok/None
+16,21961,CEV 250,Halk ve İşyeri Sağlığı,,"Fatma Gülen İskender, Naciye Esra Genceli",INB,Çarşamba,1330/1529,A203,60,47,"CEV/35/22
+GID/25/25","CEV, GID",Yok/None,Yok/None
+17,21962,CEV 250E,Public and Occupational Health,,"Elif Pehlivanoğlu Mantaş, Burçak Kaynak Tezel",INB,Çarşamba,1030/1229,A101,35,30,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+18,21963,CEV 302,Biyolojik Prosesler,,Emine Çokgör,"INB
+INB","Çarşamba
+Cuma","1330/1529
+1030/1229","A304
+A201",60,53,Yok/None,CEV,"(CEV 213 MIN DD
+veya CEV 213E MIN DD
+veya CEV 222 MIN DD
+veya CEV 222E MIN DD
+veya CEV 203 MIN DD
+veya CEV 203E MIN DD)
+ve (CEV 311 MIN DD
+veya CEV 311E MIN DD
+veya CEV 347 MIN DD
+veya CEV 347E MIN DD)",Yok/None
+19,24905,CEV 302E,Biological Processes,,"Ebru Dülekgürgen, Özlem Karahan Özgün","INB
+INB","Pazartesi
+Cuma","1330/1529
+1030/1229","B303
+B303",45,21,Yok/None,"CEV, CEVE","(CEV 213 MIN DD
+veya CEV 213E MIN DD
+veya CEV 222 MIN DD
+veya CEV 222E MIN DD
+veya CEV 203 MIN DD
+veya CEV 203E MIN DD)
+ve (CEV 311 MIN DD
+veya CEV 311E MIN DD
+veya CEV 347 MIN DD
+veya CEV 347E MIN DD)",Yok/None
+20,21965,CEV 302E,Biological Processes,,"Seval Sözen, Rüya Taşlı","INB
+INB","Çarşamba
+Cuma","1330/1529
+1030/1229","A105
+A105",65,71,Yok/None,"CEV, CEVE","(CEV 213 MIN DD
+veya CEV 213E MIN DD
+veya CEV 222 MIN DD
+veya CEV 222E MIN DD
+veya CEV 203 MIN DD
+veya CEV 203E MIN DD)
+ve (CEV 311 MIN DD
+veya CEV 311E MIN DD
+veya CEV 347 MIN DD
+veya CEV 347E MIN DD)",Yok/None
+21,21966,CEV 304,Temel İşlemler&Prosesler Lab.,,"Çiğdem Gömeç, Ebru Dülekgürgen",INB,Perşembe,0830/1229,A103,30,23,Yok/None,CEV,"(CEV 203 MIN DD
+veya CEV 203E MIN DD
+veya CEV 213 MIN DD
+veya CEV 213E MIN DD)
+ve (CEV 347 MIN DD
+veya CEV 347E MIN DD)
+ve (CEV 327 MIN DD
+veya CEV 327E MIN DD
+veya CEV 301 MIN DD
+veya CEV 301E MIN DD)",Yok/None
+22,21967,CEV 304,Temel İşlemler&Prosesler Lab.,,"Seval Sözen, Serdar Doğruel",INB,Perşembe,0830/1229,A1,30,30,Yok/None,CEV,"(CEV 203 MIN DD
+veya CEV 203E MIN DD
+veya CEV 213 MIN DD
+veya CEV 213E MIN DD)
+ve (CEV 347 MIN DD
+veya CEV 347E MIN DD)
+ve (CEV 327 MIN DD
+veya CEV 327E MIN DD
+veya CEV 301 MIN DD
+veya CEV 301E MIN DD)",Yok/None
+23,21968,CEV 304E,Unit Operations&Processes Lab.,,"Tuğba Ölmez Hancı, Derya Yüksel İmer",INB,Çarşamba,0830/1229,A201,30,30,Yok/None,"CEV, CEVE","(CEV 203 MIN DD
+veya CEV 203E MIN DD
+veya CEV 213 MIN DD
+veya CEV 213E MIN DD)
+ve (CEV 347 MIN DD
+veya CEV 347E MIN DD)
+ve (CEV 327 MIN DD
+veya CEV 327E MIN DD
+veya CEV 301 MIN DD
+veya CEV 301E MIN DD)",Yok/None
+24,21969,CEV 304E,Unit Operations&Processes Lab.,,İdil Arslan Alaton,INB,Çarşamba,0830/1229,A3,30,23,Yok/None,"CEV, CEVE","(CEV 203 MIN DD
+veya CEV 203E MIN DD
+veya CEV 213 MIN DD
+veya CEV 213E MIN DD)
+ve (CEV 347 MIN DD
+veya CEV 347E MIN DD)
+ve (CEV 327 MIN DD
+veya CEV 327E MIN DD
+veya CEV 301 MIN DD
+veya CEV 301E MIN DD)",Yok/None
+25,21970,CEV 306,Su Temini &Atıksuların Uzakl.,,"Ali Fuat Aydın, Hüseyin Güven","INB
+INB","Salı
+Salı","1130/1329
+1330/1529","A105
+A105",63,63,Yok/None,CEV,"(INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD
+veya INS 321 MIN DD
+veya INS 321E MIN DD)",Yok/None
+26,21971,CEV 306E,Water Supply&Wastewater Dispo.,,"Mahmut Ekrem Karpuzcu, Börte Köse Mutlu","INB
+INB","Salı
+Cuma","1130/1329
+0830/1029","B302
+A105",60,54,Yok/None,"CEV, CEVE","(INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD
+veya INS 321 MIN DD
+veya INS 321E MIN DD)",Yok/None
+27,21972,CEV 308,Hava Kirlenmesi,,"İsmail Toröz, Vedat Uyak",INB,Perşembe,1330/1629,A102,69,73,Yok/None,CEV,"KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+28,21973,CEV 308E,Air Pollution,,Burçak Kaynak Tezel,INB,Perşembe,1330/1629,A105,67,68,Yok/None,"CEV, CEVE","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+29,21974,CEV 318E,Comp Appl of Infrastr Planning,,Ali Fuat Aydın,INB,Perşembe,1330/1529,D102,30,22,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+30,21975,CEV 330,Su Arıtma Tesisi Tasarımı,,"İsmail Koyuncu, Mustafa Evren Erşahin, Naciye Esra Genceli",INB,Pazartesi,1330/1729,A304,60,58,Yok/None,CEV,"(CEV 347 MIN DD
+veya CEV 347E MIN DD
+veya CEV 311 MIN DD
+veya CEV 311E MIN DD)
+ve (CEV 327 MIN DD
+veya CEV 327E MIN DD
+veya CEV 301 MIN DD
+veya CEV 301E MIN DD
+veya CEV 311 MIN DD
+veya CEV 311E MIN DD)
+ve (INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD)",Yok/None
+31,21976,CEV 330E,Water Treatment Plant Design,,"Mustafa Evren Erşahin, Hale Özgün, Türker Türken",INB,Pazartesi,0830/1229,A204,60,42,Yok/None,"CEV, CEVE","(CEV 347 MIN DD
+veya CEV 347E MIN DD
+veya CEV 311 MIN DD
+veya CEV 311E MIN DD)
+ve (CEV 327 MIN DD
+veya CEV 327E MIN DD
+veya CEV 301 MIN DD
+veya CEV 301E MIN DD
+veya CEV 311 MIN DD
+veya CEV 311E MIN DD)
+ve (INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD)",Yok/None
+32,21977,CEV 402,Toprak&Yeraltı Suyu Kirl.Kont.,,Mahmut Ekrem Karpuzcu,INB,Salı,1530/1729,A104,60,55,Yok/None,CEV,Yok/None,"4.Sınıf, 3.Sınıf"
+33,21978,CEV 402E,Soil&Groundwater Pollut.Cont.,,"Bülent İnanç, Mahmut Ekrem Karpuzcu",INB,Cuma,1500/1659,A202,60,56,Yok/None,"CEV, CEVE",Yok/None,"4.Sınıf, 3.Sınıf"
+34,21979,CEV 424E,Wastewtr Mngmnt in Smll Cmmnts,,Mahmut Altınbaş,INB,Pazartesi,1530/1729,A103,30,31,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+35,21980,CEV 428E,Envirn.Plan.of Catchment Areas,,"Melike Gürel, Alpaslan Ekdal",INB,Salı,0830/1029,A3,30,20,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+36,21981,CEV 432,Çevre Ekonomisi,,Naciye Esra Genceli,INB,Pazartesi,1030/1229,A304,60,59,Yok/None,CEV,Yok/None,"4.Sınıf, 3.Sınıf"
+37,21982,CEV 432E,Environmental Economics,,"Hale Özgün, Hüseyin Erdem Görgün",INB,Salı,1330/1529,A104,72,75,Yok/None,"CEV, CEVE",Yok/None,"4.Sınıf, 3.Sınıf"
+38,21983,CEV 442,Çevre Hukuku,,"Fatma Gülen İskender, Osman Devrim Elvan",INB,Çarşamba,1030/1229,A104,60,57,Yok/None,CEV,Yok/None,"4.Sınıf, 3.Sınıf"
+39,21984,CEV 442E,Environmental Law,,Derya Yüksel İmer,INB,Pazartesi,1330/1529,A302,60,60,Yok/None,"CEV, CEVE",Yok/None,"4.Sınıf, 3.Sınıf"
+40,24906,CEV 452,Gürültü ve Kontrolü,,İsmail Toröz,INB,Çarşamba,0830/1029,A103,30,31,Yok/None,CEV,Yok/None,Yok/None
+41,21985,CEV 454E,Opr.ofWtr&Wastewtr.Treat.Plnts,,"Hüseyin Erdem Görgün, Gülsüm Emel Zengin Balcı",INB,Salı,1030/1229,B304,30,26,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+42,21986,CEV 456,İş Sağlığı ve Güvenliği,,"Fatma Gülen İskender, Ayşegül Bayın Sarıahmetoğlu",INB,Pazartesi,0930/1029,A102,50,47,Yok/None,CEV,Yok/None,Yok/None
+43,21987,CEV 456E,Occupational Health and Safety,,"Bülent İnanç, Ayşegül Bayın Sarıahmetoğlu",INB,Cuma,1400/1459,A202,53,51,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+44,21988,CEV 458E,Design of Marine Disposal Sys.,,"Ali Fuat Aydın, Hüseyin Güven",INB,Çarşamba,1330/1529,A103,30,9,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+45,21989,CEV 464E,Adv. Comp.App.in Envir. Eng.,,"Alpaslan Ekdal, Onur Yılmaz Özcan",INB,Perşembe,0830/1029,A201,30,28,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+46,21990,CEV 466,Kentsel Hava Kalitesi Yönetimi,,İsmail Toröz,INB,Perşembe,1030/1229,B303,30,12,Yok/None,CEV,Yok/None,Yok/None
+47,21991,CEV 466E,Urban Air Quality Management,,Burçak Kaynak Tezel,INB,Perşembe,1030/1229,B304,30,14,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+48,21992,CEV 468,Bireysel Araştırma,,"İsmail Toröz, Mahmut Ekrem Karpuzcu",INB,Pazartesi,1030/1229,---,0,2,Yok/None,CEV,Yok/None,Yok/None
+49,25122,CEV 468,Bireysel Araştırma,,"Osman Atilla Arıkan, Hüseyin Güven",INB,Cuma,1400/1559,---,0,1,Yok/None,CEV,Yok/None,Yok/None
+50,25118,CEV 468E,Individual Studies,,"Burçak Kaynak Tezel, Börte Köse Mutlu",INB,Çarşamba,0830/1029,---,0,2,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+51,25119,CEV 468E,Individual Studies,,"Fatma Fatoş Babuna, Derya Yüksel İmer",INB,Perşembe,1130/1329,---,0,2,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+52,25081,CEV 468E,Individual Studies,,Mustafa Sait Yazgan,INB,Perşembe,1330/1529,---,0,2,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+53,25084,CEV 468E,Individual Studies,,"Çiğdem Gömeç, Derya Yüksel İmer",INB,Perşembe,1330/1529,---,0,2,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+54,25181,CEV 468E,Individual Studies,,"Mustafa Sait Yazgan, Hüseyin Güven",INB,Cuma,0830/1029,---,0,1,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+55,21993,CEV 468E,Individual Studies,,Çiğdem Gömeç,INB,Cuma,1400/1559,---,0,2,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+56,21994,CEV 470E,Global Envirn.Issues&Sustain.,,--,INB,Cuma,0830/1129,---,0,0,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+57,21995,CEV 4901,Çevre Müh. Tasarımı I,,Vedat Uyak,INB,----,/,---,500,4,Yok/None,CEV,"(CEV 303 MIN DD
+veya CEV 303E MIN DD)
+ve (CEV 330 MIN DD
+veya CEV 330E MIN DD
+veya CEV 401 MIN DD
+veya CEV 401E MIN DD)
+ve (CEV 302 MIN DD
+veya CEV 302E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (CEV 210 MIN DD
+veya CEV 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+58,21996,CEV 4901E,Environmental Eng. Design I,,Vedat Uyak,INB,----,/,---,500,1,Yok/None,"CEV, CEVE","(CEV 303 MIN DD
+veya CEV 303E MIN DD)
+ve (CEV 330 MIN DD
+veya CEV 330E MIN DD
+veya CEV 401 MIN DD
+veya CEV 401E MIN DD)
+ve (CEV 302 MIN DD
+veya CEV 302E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (CEV 210 MIN DD
+veya CEV 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+59,21997,CEV 4902,Çevre Müh. Tasarımı II,,Vedat Uyak,INB,----,/,---,500,24,Yok/None,CEV,"CEV 4901 MIN BB
+veya CEV 4901E MIN BB",Yok/None
+60,21998,CEV 4902E,Environmental Eng. Design II,,Vedat Uyak,INB,----,/,---,500,33,Yok/None,"CEV, CEVE","CEV 4901 MIN BB
+veya CEV 4901E MIN BB",Yok/None
+61,21999,CEV 492,Bitirme Tasarım Projesi,,Vedat Uyak,INB,----,/,---,500,1,Yok/None,CEV,Diğer Şartlar,4.Sınıf
+62,22000,CEV 492E,Graduation Design Project,,Vedat Uyak,INB,----,/,---,500,0,Yok/None,"CEV, CEVE",Diğer Şartlar,4.Sınıf
