@@ -1,18 +1,13 @@
-// @ts-check
+/** @type {import('next').NextConfig} */
 
-/**
- * @type {import('next').NextConfig}
- **/
-const path = require("path");
+const isProd = process.env.NODE_ENV === 'production'
 
 const nextConfig = {
-  basePath: "/itu-web-archive",
+  reactStrictMode: true,
+  assetPrefix: isProd ? '/itu-web-archive/' : '',
   images: {
-    unoptimized: true,
-  },
-  sassOptions: {
-    includePaths: [path.join(__dirname, "styles")],
-  },
-};
+    unoptimized : true
+  }
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig

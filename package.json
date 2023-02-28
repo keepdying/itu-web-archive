@@ -1,29 +1,22 @@
 {
+  "name": "itu-web-archive-next",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next",
-    "build": "next build && next export",
-    "deploy": "next build && touch out/.nojekyll && git add out/ && git commit -m \"Deploy\" && git subtree push --prefix out origin gh-pages"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "bootstrap": "^5.2.3",
-    "next": "latest",
-    "react": "^18.2.0",
-    "react-bootstrap": "^2.7.0",
-    "react-calendar": "^4.0.0",
-    "react-dom": "^18.2.0",
-    "react-select": "^5.7.0",
-    "react-table": "^7.8.0"
-  },
-  "devDependencies": {
-    "@types/node": "^18.11.5",
-    "@types/react": "^18.0.23",
-    "@types/react-dom": "^18.0.7",
-    "css-loader": "^6.7.3",
-    "papaparse": "^5.3.2",
-    "prettier": "2.8.3",
-    "sass": "^1.57.1",
-    "style-loader": "^3.3.1",
-    "typescript": "^4.8.4"
+    "@types/node": "18.14.2",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.1",
+    "next": "13.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.5"
   }
 }
