@@ -1,0 +1,77 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21534,UZB 106E,Int.Astronaut. Eng.&Des.,,Alim Rüstem Aslan,UUB,Salı,0830/1229,D214,100,81,Yok/None,"UZB, UZBE",Yok/None,Yok/None
+1,21553,UZB 112E,Computer Aided Drafting,,Hüsnü Barbaros Soyer,UUB,Perşembe,0830/1129,BIL1,80,73,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+2,21555,UZB 218E,Int.to Partial Diff.Eq. in Eng,,Mehmet Şahin,UUB,Cuma,1430/1729,D109,60,35,Yok/None,"UCK, UCKE, UZB, UZBE","MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+3,21530,UZB 220E,Mechanical Vibrations,,Özge Özdemir,UUB,Pazartesi,1130/1429,D-Z08,120,66,Yok/None,UCK,Yok/None,Yok/None
+4,21536,UZB 220E,Mechanical Vibrations,,Özge Özdemir,UUB,Perşembe,0830/1129,D216,120,52,Yok/None,UZBE,Yok/None,Yok/None
+5,21558,UZB 310E,Compressible Aerodynamics,,Bayram Çelik,UUB,Salı,1130/1429,D-Z08,130,117,Yok/None,"UCK, UCKE",Yok/None,Yok/None
+6,21559,UZB 310E,Compressible Aerodynamics,,Aydın Mısırlıoğlu,UUB,Salı,1130/1429,D216,130,99,Yok/None,"UZB, UZBE",Yok/None,Yok/None
+7,21592,UZB 317E,Heat Transfer,,Cemil Kurtcebe,UUB,Pazartesi,1130/1429,D-Z09,60,70,Yok/None,"UCK, UCKE, UZB, UZBE","UCK 212 MIN DD
+veya UCK 212E MIN DD
+veya UCK 205 MIN DD
+veya UCK 205E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+8,21591,UZB 317E,Heat Transfer,,Bülent Tutkun,GDB,Çarşamba,0830/1129,410,100,100,Yok/None,"UCK, UCKE, UZB, UZBE","UCK 212 MIN DD
+veya UCK 212E MIN DD
+veya UCK 205 MIN DD
+veya UCK 205E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+9,21593,UZB 317E,Heat Transfer,,Onur Tunçer,UUB,Çarşamba,0830/1129,D-Z09,100,47,Yok/None,"UCK, UCKE, UZB, UZBE","UCK 212 MIN DD
+veya UCK 212E MIN DD
+veya UCK 205 MIN DD
+veya UCK 205E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+10,21556,UZB 318E,Finite Element Method,,Vedat Ziya Doğan,UUB,Pazartesi,1430/1729,D213,60,65,Yok/None,"UCK, UCKE, UZB, UZBE","BIL 104E MIN DD
+veya BIL 104 MIN DD
+veya BIL 106E MIN DD
+veya BIL 106 MIN DD
+veya BIL 108E MIN DD
+veya BIL 108E MIN DD
+veya BIL 110E MIN DD
+veya BIL 112E MIN DD
+veya BIL 113E MIN DD",Yok/None
+11,21513,UZB 337E,Aerospace Structures,,Seher Durmaz,UUB,Pazartesi,0830/1229,D216,120,79,Yok/None,UZBE,"MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya MUK 211 MIN DD
+veya MUK 211E MIN DD",Yok/None
+12,21598,UZB 386E,Boundary Layer Theory,,Ayşe Gül Güngör,UUB,Pazartesi,1430/1729,D209,60,46,Yok/None,"UCK, UCKE, UZB, UZBE","AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 215 MIN DD
+veya AKM 215E MIN DD",Yok/None
+13,21561,UZB 416E,Spacecraft Systems Design II,,Alim Rüstem Aslan,UUB,Pazartesi,0830/1129,D-Z09,50,31,Yok/None,"UZB, UZBE, UZBM",UZB 415E MIN DD,Yok/None
+14,21560,UZB 416E,Spacecraft Systems Design II,,Alim Rüstem Aslan,UUB,Salı,1430/1729,D-Z09,50,56,Yok/None,"UZB, UZBE, UZBM",UZB 415E MIN DD,Yok/None
+15,22031,UZB 421E,Attitude Determination & Ctrl.,,Demet Çilden Güler,UUB,Cuma,0930/1229,D216,100,97,Yok/None,"UZB, UZBE",DNK 201E MIN DD,Yok/None
+16,21594,UZB 451E,Spacecraft Communications,,Ramazan Yeniçeri,UUB,Salı,0830/1129,D111,100,77,Yok/None,"UZB, UZBE",Yok/None,Yok/None
+17,21562,UZB 479E,Air and Space Law,,Nazlı Can,UUB,Perşembe,1430/1729,D108,60,52,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+18,21607,UZB 4901E,Astronautical Eng. Design I,,Aydın Mısırlıoğlu,UUB,----,/,---,500,20,Yok/None,UZBE,"(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+19,21608,UZB 4902E,Astronautical Eng. Design II,,Aydın Mısırlıoğlu,UUB,----,/,---,500,62,Yok/None,UZBE,UZB 4901E MIN BB,Yok/None
+20,21605,UZB 492,Bitirme Çalışması,,Aydın Mısırlıoğlu,UUB,----,/,---,500,0,Yok/None,UZB,Diğer Şartlar,4.Sınıf
+21,21606,UZB 492E,Graduation Project,,Aydın Mısırlıoğlu,UUB,----,/,---,500,8,Yok/None,"UZB, UZBE",Diğer Şartlar,4.Sınıf

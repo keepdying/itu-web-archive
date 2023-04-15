@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21301,RES 102,Bilg. Destekli Teknik Resim,,Melek Ertogan,DZB,Salı,1030/1429,---,40,16,Yok/None,"DEN, DUI, GMI",Yok/None,Yok/None
+1,21302,RES 102,Bilg. Destekli Teknik Resim,,Melek Ertogan,DZB,Perşembe,1330/1729,---,40,41,Yok/None,"DEN, DUI, GMI",Yok/None,Yok/None
+2,23866,RES 102E,Com.Aided Technical Drawing,,Burak Zincir,DZB,Cuma,1400/1759,---,70,63,Yok/None,"MEN, MTM",Yok/None,Yok/None
+3,22170,RES 107E,Technical Drawing,,Sena Duru,MKB,Pazartesi,1330/1629,406,40,40,Yok/None,"END, ENDE, FIZ, GID, GIDE, ISL, ISLE, KMM, KMME, MET, METE, PETE, TEK, TEKE",Yok/None,Yok/None
+4,21426,RES 107E,Technical Drawing,,Selim Ertürk,KMB,Perşembe,0830/1129,D301,50,50,Yok/None,"END, ENDE, FIZ, GID, GIDE, ISL, ISLE, KMM, KMME, MET, METE, PETE, TEKE",Yok/None,Yok/None
+5,21431,RES 107E,Technical Drawing,,Selim Ertürk,KMB,Perşembe,1330/1629,D301,50,50,Yok/None,"END, ENDE, FIZ, GID, GIDE, ISL, ISLE, KMM, KMME, MET, METE, PETE, TEKE",Yok/None,Yok/None
+6,24873,RES 107E,Technical Drawing,,İdil Vedia Evcimen,GDB,Perşembe,1430/1729,R403,50,51,Yok/None,"END, ENDE, FIZ, GID, GIDE, ISL, ISLE, KMM, KMME, MET, METE, PETE, TEKE",Yok/None,Yok/None
+7,21631,RES 107E,Technical Drawing,,Münir Cansın Özden,KMB,Cuma,0830/1129,D301,45,56,Yok/None,"END, ENDE, FIZ, GID, GIDE, ISL, ISLE, KMM, KMME, MET, METE, PETE, TEKE",Yok/None,Yok/None
+8,24773,RES 111E,Technical Drawing (CAD),,Özlem Karahan Özgün,MDB,Perşembe,1330/1629,B207,60,59,Yok/None,"CHZ, CHZE",Yok/None,Yok/None

@@ -1,0 +1,137 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22134,TEK 116E,Fiber Science,,"İkilem Göcek, Meltem Yanılmaz",MKB,Perşembe,0830/1129,D374,40,34,Yok/None,"TEKE, TEKM",Yok/None,Yok/None
+1,22166,TEK 116E,Fiber Science,,Alper Gürarslan,MKB,Perşembe,0830/1129,D360,40,39,Yok/None,"TEKE, TEKM",Yok/None,Yok/None
+2,22171,TEK 233E,Introduction to Yarn Spinning,,"Fatma Banu Nergis, Yeşim Beceren",MKB,Salı,0830/1129,D361A,40,23,Yok/None,"TEK, TEKE, TEKM","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+3,22172,TEK 234E,Weaving Preparation,,Burçak Karagüzel Kayaoğlu,MKB,Pazartesi,1330/1629,D376,40,32,Yok/None,"TEKE, TEKM","TEK 221 MIN DD
+veya TEK 231E MIN DD
+veya TEK 233E MIN DD",Yok/None
+4,22173,TEK 234E,Weaving Preparation,,İlkay Özsev Yüksek,MKB,Salı,0830/1129,D361B,40,35,Yok/None,"TEKE, TEKM","TEK 221 MIN DD
+veya TEK 231E MIN DD
+veya TEK 233E MIN DD",Yok/None
+5,22175,TEK 254E,Knitting Technology,,Cevza Candan,MKB,Salı,1330/1629,D378,40,39,Yok/None,"TEKE, TEKM","TEK 221 MIN DD
+veya TEK 231E MIN DD
+veya TEK 233E MIN DD",Yok/None
+6,22176,TEK 254E,Knitting Technology,,Sena Duru,MKB,Salı,1330/1629,D380A,40,31,Yok/None,"TEK, TEKE, TEKM","TEK 221 MIN DD
+veya TEK 231E MIN DD
+veya TEK 233E MIN DD",Yok/None
+7,22187,TEK 308E,Yarn Technology II,,Nazan Okur,"MKB
+MKB","Pazartesi
+Çarşamba","0830/1029
+1330/1529","D368B
+D357",55,56,Yok/None,"TEKE, TEKM","TEK 231E MIN DD
+veya TEK 233E MIN DD
+veya TEK 221 MIN DD",Yok/None
+8,22189,TEK 308E,Yarn Technology II,,"Fatma Banu Nergis, Yeşim Beceren","MKB
+MKB","Pazartesi
+Çarşamba","0830/1029
+1330/1529","D374
+D361B",55,53,Yok/None,"TEKE, TEKM","TEK 231E MIN DD
+veya TEK 233E MIN DD
+veya TEK 221 MIN DD",Yok/None
+9,22177,TEK 316E,Int.toColoration&Finishing Prc,,Berdan Kalav,"MKB
+MKB","Salı
+Perşembe","0830/1029
+1030/1229","D368B
+D378",45,45,Yok/None,"TEK, TEKE, TEKM","TEK 211 MIN DD
+veya TEK 211E MIN DD
+veya TEK 213E MIN DD",Yok/None
+10,22185,TEK 316E,Int.toColoration&Finishing Prc,,Nevin Çiğdem Gürsoy,"MKB
+MKB","Salı
+Perşembe","1030/1229
+0830/1029","D380B
+D359",45,44,Yok/None,"TEK, TEKE, TEKM","TEK 211 MIN DD
+veya TEK 211E MIN DD
+veya TEK 213E MIN DD",Yok/None
+11,22206,TEK 327E,Machine Elements,,Hande Sezgin,MKB,Perşembe,1230/1429,D380B,40,28,Yok/None,"TEK, TEKE","MUK 207 MIN DD
+veya MUK 207E MIN DD",Yok/None
+12,22190,TEK 352E,Weaving Technology II,,Emel Önder Karaoğlu,"MKB
+MKB","Pazartesi
+Cuma","1330/1529
+1030/1229","D378
+D378",45,42,Yok/None,"TEK, TEKE, TEKM","TEK 232E MIN DD
+veya TEK 232 MIN DD
+veya TEK 234E MIN DD",Yok/None
+13,22192,TEK 352E,Weaving Technology II,,Ömer Berk Berkalp,"MKB
+MKB","Pazartesi
+Cuma","1330/1529
+1030/1229","D381A
+D381B",45,45,Yok/None,"TEK, TEKE, TEKM","TEK 232E MIN DD
+veya TEK 232 MIN DD
+veya TEK 234E MIN DD",Yok/None
+14,22212,TEK 354E,Mathematical Programming,,Berdan Kalav,MKB,Perşembe,1330/1629,D381B,30,27,Yok/None,"TEK, TEKE","MAT 121 MIN DD
+veya MAT 121E MIN DD
+veya MAT 261 MIN DD
+veya MAT 261E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+15,22195,TEK 392E,Design in Textile Engineering,,Ali Kılıç,MKB,Pazartesi,1130/1229,D353,105,89,Yok/None,TEKE,Yok/None,Yok/None
+16,22218,TEK 412E,Textile Finishing Processes,,Umut Kıvanç Şahin,MKB,Pazartesi,1330/1629,D380A,30,18,Yok/None,"TEK, TEKE","TEK 312 MIN DD
+veya TEK 316E MIN DD
+veya TEK 302E MIN DD",Yok/None
+17,22213,TEK 414E,Structure&Properties of Fibers,,Ali Kılıç,MKB,Perşembe,1330/1629,D380A,30,9,Yok/None,"TEK, TEKE","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+18,22219,TEK 416E,Garment Design Management,,"Selin Hanife Eryürük, Belgin Görgün",MKB,Cuma,1400/1659,D360,30,28,Yok/None,"TEK, TEKE","TEK 341 MIN DD
+veya TEK 343E MIN DD
+veya TEK 345E MIN DD",Yok/None
+19,22214,TEK 418E,Int. to Technical Textiles,,İpek Yalçın Eniş,MKB,Perşembe,0830/1129,D380A,30,6,Yok/None,"TEK, TEKE","(TEK 232 MIN DD
+veya TEK 232E MIN DD
+veya TEK 234E MIN DD)
+ve (TEK 252 MIN DD
+veya TEK 252E MIN DD
+veya TEK 254E MIN DD)",Yok/None
+20,22215,TEK 419E,Special Woven Fabrics,,Hande Sezgin,MKB,Cuma,0830/1129,D380B,30,9,Yok/None,"TEK, TEKE","TEK 232 MIN DD
+veya TEK 232E MIN DD
+veya TEK 234E MIN DD",Yok/None
+21,22216,TEK 422E,Dyeing &Printing Technologies,,Berdan Kalav,MKB,Salı,1330/1629,D380B,30,7,Yok/None,"TEK, TEKE","TEK 312 MIN DD
+veya TEK 316E MIN DD
+veya TEK 302E MIN DD",Yok/None
+22,22217,TEK 424E,Design of Knitted Fabrics,,"Cevza Candan, Sena Duru",MKB,Salı,0830/1129,D380A,30,6,Yok/None,"TEK, TEKE","TEK 252 MIN DD
+veya TEK 252E MIN DD
+veya TEK 254E MIN DD",Yok/None
+23,22220,TEK 426E,Quality Cnt in Tex. &Clot.Prod,,"Canan Sarıçam, Fatma Kalaoğlu",MKB,Pazartesi,0830/1129,D380A,30,10,Yok/None,"TEK, TEKE","TEK 311E MIN DD
+veya TEK 305E MIN DD
+veya TEK 307E MIN DD",Yok/None
+24,22221,TEK 434E,Int.toSmart Tex.&Wearable Tec.,,"Özgür Atalay, Alper Gürarslan",MKB,Çarşamba,0830/1129,D360,30,18,Yok/None,"TEK, TEKE","TEK 232 MIN DD
+veya TEK 232E MIN DD
+veya TEK 234E MIN DD
+veya TEK 252 MIN DD
+veya TEK 252E MIN DD
+veya TEK 254E MIN DD",Yok/None
+25,22223,TEK 458E,Knitted Apparel Production,,Belgin Görgün,MKB,Pazartesi,1330/1629,D381B,30,7,Yok/None,"TEK, TEKE","TEK 341 MIN DD
+veya TEK 343E MIN DD
+veya TEK 345E MIN DD",Yok/None
+26,22227,TEK 464E,Automatic Control,,Özgür Atalay,MKB,Salı,1330/1629,D317,75,78,Yok/None,"MKN, TEK, TEKE","MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+27,22226,TEK 466E,Heat Transfer,,Sena Duru,MKB,Cuma,1400/1659,D381A,40,8,Yok/None,"TEK, TEKE","TEK 314 MIN DD
+veya TER 201E MIN DD
+veya TER 201 MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD",Yok/None
+28,22225,TEK 478E,Colour Analysis,,Nevin Çiğdem Gürsoy,MKB,Çarşamba,1230/1529,D378,30,29,Yok/None,"TEK, TEKE","TEK 211 MIN DD
+veya TEK 211E MIN DD
+veya TEK 213E MIN DD",Yok/None
+29,22229,TEK 4901E,Textile Engineering Design I,,Ömer Berk Berkalp,MKB,----,/,---,500,8,Yok/None,TEKE,"(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+30,22230,TEK 4902E,Textile Engineering Design II,,Ömer Berk Berkalp,MKB,----,/,---,500,55,Yok/None,TEKE,TEK 4901E MIN BB,Yok/None
+31,22228,TEK 492E,Senior Design Project,,Ömer Berk Berkalp,MKB,----,/,---,500,2,Yok/None,"TEK, TEKE",Diğer Şartlar,4.Sınıf

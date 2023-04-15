@@ -1,0 +1,12 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23180,STA 201,Statik,,İsmail Yalçın,GDB,Pazartesi,1400/1659,D304,25,23,Yok/None,"DEN, EHB, ELE, ELH, ELK, GEM, JEO, KOM, MAK, TEK, TEL, UCK, UZB",Yok/None,Yok/None
+1,21116,STA 201,Statik,,Ceren Bilgin Güney,GDB,Perşembe,0930/1229,409,75,78,Yok/None,"DEN, EHB, ELE, ELH, ELK, GEM, JEO, KOM, MAK, TEK, TEL, UCK, UZB",Yok/None,Yok/None
+2,21566,STA 201,Statik,,Cemil Kurtcebe,UUB,Perşembe,1430/1729,D-Z08,80,80,Yok/None,"UCK, UZB",Yok/None,Yok/None
+3,21568,STA 201E,Statics,,Kaan Yıldız,UUB,Cuma,1430/1729,D209,80,81,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+4,21570,STA 201E,Statics,,Cuma Yarım,UUB,Cuma,1430/1729,D213,80,55,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+5,24721,STA 204,Statik ve Mukavemet,,--,EEB,Salı,1230/1529,---,0,0,Yok/None,"CEV, CHZ, EHB, ELE, ELH, ELK, EUT, GID, ISL, KMM, KOM, KON, MET, MTO, PET, TEL",Yok/None,Yok/None
+6,21035,STA 204,Statik ve Mukavemet,,Cemil Kurtcebe,UUB,Çarşamba,1130/1429,D-Z08,70,56,Yok/None,"CEV, CHZ, EHB, ELE, ELH, ELK, EUT, GID, ISL, KMM, KOM, KON, MET, MTO, PET, TEL",Yok/None,Yok/None
+7,24776,STA 204,Statik ve Mukavemet,,Bahattin Kimençe,MDB,Perşembe,0830/1129,A302,70,58,Yok/None,"CEV, CHZ, EHB, ELE, ELH, ELK, EUT, GID, ISL, KMM, KOM, KON, MET, MTO, PET, TEL",Yok/None,Yok/None
+8,24722,STA 204E,Statics&Strength of Materials,,Murat Yılmaz,EEB,Çarşamba,1230/1529,5107,50,49,Yok/None,"CEV, CEVE, CHZ, EHB, EHBE, ELE, ELH, ELK, ELKE, EUT, EUTE, GID, GIDE, ISL, ISLE, JEF, KMM, KMME, KOM, KOME, KON, KONE, MET, METE, MTO, PET, PETE, TEL",Yok/None,Yok/None
+9,24606,STA 204E,Statics&Strength of Materials,,Arcan Yanık,INB,Perşembe,1430/1729,B302,65,66,Yok/None,"CEV, CEVE, CHZ, EHB, EHBE, ELE, ELH, ELK, ELKE, EUT, EUTE, GID, GIDE, ISL, ISLE, JEF, KMM, KMME, KOM, KOME, KON, KONE, MET, METE, MTO, PET, PETE, TEL",Yok/None,Yok/None

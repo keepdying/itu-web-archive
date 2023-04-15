@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24052,MTM 202,Cargo Handling and Stowage I,,Tanzer Satır,DZB,Pazartesi,1230/1429,---,60,25,Yok/None,"DUIK, MTM",Yok/None,Yok/None
+1,23959,MTM 211,Onboard Training-I,,Selim Aksoy,DZB,----,/,---,60,12,Yok/None,"DUIK, MTM",Yok/None,"1.Sınıf, 4.Sınıf, 2.Sınıf, 3.Sınıf"
+2,24050,MTM 212,Electronic Navigation,,Serdar Kum,DZB,Pazartesi,0830/1129,---,60,23,Yok/None,"DUIK, MTM, MTTM",Yok/None,Yok/None
+3,24061,MTM 302,Onboard Training-III,,Selim Aksoy,DZB,----,/,---,60,47,Yok/None,"DUIK, MTM, MTTM","MTM 331 MIN DD
+ve MST 212 MIN DD
+ve MST 102 MIN DD
+ve MTM 112 MIN DD",Yok/None
+4,24987,MTM 321,Celestial Navigation,,Orhan Gönel,DZB,Perşembe,1030/1329,---,20,9,Yok/None,MTM,Yok/None,Yok/None
+5,24055,MTM 341,Onboard Training-II,,Selim Aksoy,DZB,----,/,---,60,21,Yok/None,"DUIK, MTM",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+6,24070,MTM 401,Cargo Handling Simulator,,Yunus Emre Şenol,DZB,Çarşamba,1730/1929,---,15,11,Yok/None,"DUIK, MTM",Yok/None,Yok/None
+7,24131,MTM 402,Graduation Design Project,,Selim Aksoy,DZB,----,/,---,60,30,Yok/None,"DUIK, MTM",Yok/None,"4.Sınıf, 3.Sınıf"
+8,24087,MTM 412,Ship Management and Leadership,,Cemil Yurtören,DZB,Salı,0830/1229,---,60,23,Yok/None,"DUIK, MTM, MTTM","MTM 302 MIN DD
+veya DUI 302E MIN DD
+veya GUV 391E MIN DD",Yok/None

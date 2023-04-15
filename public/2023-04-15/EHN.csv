@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,20987,EHN 101,Engineering Ethics,,Tayfun Akgül,EEB,Salı,1130/1229,1303,30,9,Yok/None,"EHN, SEH",Yok/None,Yok/None
+1,20988,EHN 105,Intr to Sci&Eng Comp (C),Çevrimiçi/Online,Serkan Şimşek,----,Perşembe,0830/1229,----,30,8,Yok/None,"EHN, SEH",Yok/None,Yok/None
+2,20990,EHN 121,Fundamentals of Eng. Dsgn.,,İsmail Serdar Özoğuz,EEB,Pazartesi,0830/1029,1301,30,9,Yok/None,"EHN, SEH",Yok/None,Yok/None
+3,20991,EHN 313,Electromagnetic Waves,,İbrahim Akduman,EEB,Salı,0830/1129,1303,30,3,Yok/None,"EHN, SEH","EHN 212 MIN DD
+veya EHB 212E MIN DD",Yok/None
+4,20992,EHN 314,Electronic Devices,,--,EEB,Çarşamba,0830/1129,---,0,0,Yok/None,"EHN, SEH",Yok/None,Yok/None
+5,24891,EHN 316,Electronic Devices,,Mustafa Berke Yelten,"EEB
+EEB","Salı
+Çarşamba","1330/1529
+0830/1129","Z4
+1303",30,4,Yok/None,"EHN, SEH",Yok/None,Yok/None
+6,20993,EHN 334,Random Signals and Noise,,Hakan Ali Çırpan,EEB,Çarşamba,1230/1529,1303,30,3,Yok/None,"EHN, SEH","MTH 271 MIN DD
+veya MAT 271E MIN DD",Yok/None
+7,20994,EHN 351,Analog Communications,,Ender Mete Ekşioğlu,EEB,Perşembe,0830/1129,5206,30,3,Yok/None,"EHN, SEH",Yok/None,Yok/None

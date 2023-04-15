@@ -1,0 +1,21 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24270,ENR 102,Manufacturing Process,,Necip Ünlü,GDB,Perşembe,1430/1629,D304,50,4,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+1,24308,ENR 112,Workshop,,Tanju Kurtuluş,DZB,Cuma,0830/1229,---,50,4,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+2,24279,ENR 122,Material Science,,Necip Ünlü,GDB,Çarşamba,0830/1129,D308,50,7,Yok/None,"DUIK, GEMK, GMIK, MEN, MENM, MTM, NAE",Yok/None,Yok/None
+3,24293,ENR 202,Thermodynamics,,Murat Durmaz,GDB,Salı,0930/1229,D304,50,23,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+4,24053,ENR 202,Thermodynamics,,Yasin Arslanoğlu,DZB,Perşembe,1530/1829,---,60,28,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+5,24985,ENR 211,Engineering Mechanics,,Banu Tansel Büyükçelebi,DZB,Perşembe,1730/2029,---,40,19,Yok/None,"MEN, MTM, NAE",Yok/None,Yok/None
+6,24986,ENR 212,Strength of Materials I,,Ömer Berkehan İnal,DZB,Pazartesi,0830/1129,---,5,1,Yok/None,MEN,Yok/None,Yok/None
+7,24280,ENR 222,Strength of Materials II,,İbrahim Tuğrul Ardıç,GDB,Pazartesi,0930/1229,D407,50,20,Yok/None,"GEMK, NAE","ENR 212 MIN DD
+veya MUK 208E MIN DD
+veya MUK 203E MIN DD",Yok/None
+8,24028,ENR 232,Hydraulic and Pneumatic,,Kemal Demirel,DZB,Salı,1030/1329,---,60,30,Yok/None,"DUIK, GEMK, GMIK, MEN, MENM, MTM, NAE",Yok/None,Yok/None
+9,24066,ENR 301,Heat Transfer,,Buğra Arda Zincir,DZB,Perşembe,0830/1129,---,60,16,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","ENR 202 MIN DD
+veya GMI 213E MIN DD
+veya TER 201E MIN DD",Yok/None
+10,24988,ENR 321,Otomatic Control Systems,,İsmail Çiçek,DZB,Pazartesi,1730/2029,---,40,16,Yok/None,MEN,"MST 241 MIN DD
+veya GMI 202 MIN DD
+veya GMI 202E MIN DD",Yok/None
+11,24271,ENR 351,Mechatronics,,Ali Sinan Çabuk,EEB,Salı,1330/1529,5305,50,20,Yok/None,"GEMK, GMIK, MEN, NAE",Yok/None,Yok/None
+12,24108,ENR 401,Refrigeration& HVAC Systems,,Ömer Berkehan İnal,DZB,Perşembe,1330/1529,---,60,34,Yok/None,"GEMK, GMIK, MEN, NAE",Yok/None,Yok/None

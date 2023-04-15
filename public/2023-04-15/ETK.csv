@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22263,ETK 101,Mühendislik Etiği,,Türker Hüdaverdi,MDB,Çarşamba,1330/1429,A105,85,44,Yok/None,"CHZ, EHB, IML, JEF, JEO, KOM, KON, MAD, MAK, MTO, PET, TEK",Yok/None,Yok/None
+1,22274,ETK 101,Mühendislik Etiği,,Yüksel Örgün Tutay,MDB,Çarşamba,1330/1429,A101,70,57,Yok/None,"CHZ, CHZE, EHB, IML, JEF, JEFE, JEO, JEOE, KOM, KON, MAD, MADE, MAK, MTO, PET, PETE, TEK",Yok/None,Yok/None
+2,22873,ETK 101,Mühendislik Etiği,,Murat Çakan,MKB,Çarşamba,1430/1529,---,50,11,Yok/None,"BLG, CHZ, EHB, IML, JEF, JEO, KOM, KON, MAD, MAK, MTO, PET, TEK",Yok/None,Yok/None
+3,21080,ETK 101,Mühendislik Etiği,,Ahmet Duran Şahin,UUB,Perşembe,1330/1429,D109,70,19,Yok/None,"CHZ, EHB, IML, JEF, JEO, KOM, KON, MAD, MAK, MTO, PET, TEK",Yok/None,Yok/None
+4,22200,ETK 101E,Engineering Ethics,,Yeşim Beceren,MKB,Çarşamba,1130/1229,D357,60,7,Yok/None,"CHZ, CHZE, EHB, EHBE, EHN, IML, IMLE, JEF, JEFE, JEO, JEOE, KOM, KOME, KON, KONE, MAD, MADE, MAK, MAKE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE",Yok/None,Yok/None
+5,22276,ETK 101E,Engineering Ethics,,Macid Fikret Suner,MDB,Çarşamba,1330/1429,A201,70,48,Yok/None,"CHZ, CHZE, EHB, EHBE, EHN, IML, IMLE, JEF, JEFE, JEO, JEOE, KOM, KOME, KON, KONE, MAD, MADE, MAK, MAKE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE",Yok/None,Yok/None
+6,22440,ETK 101E,Engineering Ethics,,Murat Çınar,MDB,Perşembe,0930/1029,B206,100,27,Yok/None,"CHZ, CHZE, EHB, EHBE, EHN, IML, IMLE, JEF, JEFE, JEO, JEOE, KOM, KOME, KON, KONE, MAD, MADE, MAK, MAKE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE",Yok/None,Yok/None

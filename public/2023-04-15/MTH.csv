@@ -1,0 +1,91 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24780,MTH 102,Calculus II,,Sezgin Altay Demirbağ,"KMB
+KMB","Pazartesi
+Salı","1530/1729
+0830/1129","D101
+D101",40,28,Yok/None,"MBI, SBL","MTH 101 MIN DD
+veya MAT 103E MIN DD
+veya MTH 103 MIN DD
+veya MTH 105 MIN DD
+veya MTH 107 MIN DD
+veya MTH 115 MIN DD
+veya MTH 117 MIN DD
+veya MTH 121 MIN DD
+veya MTH 122 MIN DD
+veya MTH 123 MIN DD
+veya MTH 131 MIN DD",Yok/None
+1,24781,MTH 104,Calculus II,,Burhaneddin İzgi,"FEB
+FEB","Pazartesi
+Salı","1530/1729
+0830/1129","L300
+D306",40,8,Yok/None,"MCB, SED, SEN","MTH 101 MIN DD
+veya MTH 103 MIN DD
+veya MTH 105 MIN DD
+veya MTH 107 MIN DD
+veya MTH 115 MIN DD
+veya MTH 117 MIN DD
+veya MTH 121 MIN DD
+veya MTH 122 MIN DD
+veya MTH 123 MIN DD
+veya MTH 131 MIN DD
+veya MAT 103E MIN DD",Yok/None
+2,24782,MTH 105,Calculus I,,Ahmet Duran,MED,Salı,0830/1129,B37,20,5,Yok/None,"SEK, SIS",Yok/None,Yok/None
+3,24783,MTH 106,Calculus II,,Burak Yıldıran Stodolsky,UUB,Salı,0830/1129,D108,40,20,Yok/None,"SEK, SIS","MTH 105 MIN DD
+veya MTH 101 MIN DD
+veya MTH 103 MIN DD
+veya MTH 107 MIN DD
+veya MTH 115 MIN DD
+veya MTH 117 MIN DD
+veya MTH 121 MIN DD
+veya MTH 122 MIN DD
+veya MTH 123 MIN DD
+veya MTH 131 MIN DD
+veya MAT 103E MIN DD",Yok/None
+4,24832,MTH 107,Calculus I,,İzzet Göksel,"FEB
+FEB","Çarşamba
+Perşembe","1230/1529
+1330/1629","L300
+L300",20,7,Yok/None,"SCE, SGI, SIN",Yok/None,Yok/None
+5,24784,MTH 108,Calculus II,,Nurhan Çolakoğlu,"INB
+INB","Pazartesi
+Salı","1430/1729
+0830/1129","A101
+A203",40,10,Yok/None,SIN,"MTH 107 MIN DD
+veya MTH 101 MIN DD
+veya MTH 103 MIN DD
+veya MTH 105 MIN DD
+veya MTH 115 MIN DD
+veya MTH 117 MIN DD
+veya MTH 121 MIN DD
+veya MTH 122 MIN DD
+veya MTH 123 MIN DD
+veya MTH 131 MIN DD
+veya MAT 103E MIN DD",Yok/None
+6,24785,MTH 132,Mathematics II,,Güler Arsan,"EEB
+EEB","Pazartesi
+Salı","1530/1729
+0830/1129","5101
+5207",40,8,Yok/None,"EHN, SEH","MTH 101 MIN DD
+veya MTH 103 MIN DD
+veya MTH 105 MIN DD
+veya MTH 107 MIN DD
+veya MTH 115 MIN DD
+veya MTH 117 MIN DD
+veya MTH 121 MIN DD
+veya MTH 122 MIN DD
+veya MTH 123 MIN DD
+veya MTH 131 MIN DD
+veya MAT 103E MIN DD",Yok/None
+7,24984,MTH 203,Differential Equations,,Sabire Cömert,DZB,Perşembe,1430/1829,---,40,2,Yok/None,"MEN, MTM, NAE","MTH 118 MIN DD
+veya MTH 116 MIN DD
+veya MAT 104E MIN DD
+veya MTH 102 MIN DD
+veya MTH 104 MIN DD
+veya MTH 106 MIN DD
+veya MTH 108 MIN DD
+veya MTH 124 MIN DD
+veya MTH 132 MIN DD",Yok/None
+8,24276,MTH 204,Linear Algebra,,Mehmet Ali Karaca,GDB,Pazartesi,1430/1729,D308,55,47,Yok/None,"ARC, DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+9,24049,MTH 204,Linear Algebra,,Sabire Cömert,DZB,Perşembe,1030/1329,---,60,27,Yok/None,"ARC, DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+10,20995,MTH 271,Probability and Statistics,,Tuba Yılmaz Abdolsaheb,EEB,Cuma,0830/1129,1303,30,8,Yok/None,"EHN, SEH",Yok/None,Yok/None

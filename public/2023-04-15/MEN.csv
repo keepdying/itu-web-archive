@@ -1,0 +1,23 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23984,MEN 202,Marine Diesel Engines II,,Cumali Seçkin Mengeçin,DZB,Pazartesi,0830/1129,---,60,31,Yok/None,"GMIK, MEN, MENM","MEN 201 MIN DD
+veya GMI 232E MIN DD",Yok/None
+1,23954,MEN 211,Workshop Training-I,,Tolga Köse,DZB,----,/,---,60,8,Yok/None,"GMIK, MEN",Yok/None,"1.Sınıf, 4.Sınıf, 2.Sınıf, 3.Sınıf"
+2,24029,MEN 212,Marine Auxialiary Machinery I,,Kemal Demirel,DZB,Pazartesi,1330/1729,---,60,28,Yok/None,"GEMK, GMIK, MEN, MENM, NAE, NAEM",Yok/None,Yok/None
+3,24262,MEN 212,Marine Auxialiary Machinery I,,Ahmet Ergün Palaz,GDB,Perşembe,1330/1729,D309,50,31,Yok/None,"GEMK, GMIK, MEN, MENM, NAE, NAEM",Yok/None,Yok/None
+4,24058,MEN 302,Onboard Training,,Tolga Köse,DZB,----,/,---,60,24,Yok/None,"GMIK, MEN, MENM","(MST 102 MIN DD
+veya DFH 102E MIN DD
+veya DHF 191E MIN DD
+veya DFH 111E MIN DD)
+ve (MEN 321 MIN DD
+veya GMI 322E MIN DD)
+ve (MEN 301 MIN DD
+veya GMI 383E MIN DD)",Yok/None
+5,23956,MEN 331,Workshop Training-II,,Tolga Köse,DZB,----,/,---,60,10,Yok/None,"GMIK, MEN",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+6,24083,MEN 402,Graduation Design Project,,Tolga Köse,DZB,----,/,---,60,29,Yok/None,"GMIK, MEN",Yok/None,"4.Sınıf, 3.Sınıf"
+7,24837,MEN 411,Marine Auxialiary Machinery II,,Ahmet Ergün Palaz,GDB,Salı,0930/1229,D309,40,9,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
+8,24078,MEN 412,Engine Room Simulator (ERS) II,,Kemal Demirel,DZB,Çarşamba,1230/1529,---,15,8,Yok/None,"GMIK, MEN","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
+9,24076,MEN 412,Engine Room Simulator (ERS) II,,Kemal Demirel,DZB,Perşembe,0830/1129,---,15,5,Yok/None,"GMIK, MEN","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
