@@ -1,0 +1,62 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30312,GEO 109E,Analy. Geom. and Vect. Algeb.,,Ramazan Alper Kuçak,"INB
+INB","Salı
+Perşembe","0830/1259
+0830/1059","---
+---",30,26,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+1,30277,GEO 212E,Engineering Surveying,,Mustafa Yanalak,"INB
+INB","Perşembe
+Cuma","1330/1629
+0830/1229","---
+---",70,58,Yok/None,"GEO, GEOE","GEO 213 MIN DD
+veya GEO 213E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD",Yok/None
+2,30325,GEO 216E,Computer Aided Map Design,,Mehmet Ufuk Özerman,"INB
+INB","Salı
+Perşembe","0830/1329
+0830/1259","D103
+D103",45,41,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+3,30313,GEO 220E,Mathematics for Geomatics Eng.,,Mehmet Ufuk Özerman,"INB
+INB
+INB","Pazartesi
+Çarşamba
+Çarşamba","1330/1559
+0830/1059
+1330/1529","---
+---
+---",30,23,Yok/None,"GEO, GEOE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+4,30298,GEO 225E,Prob.and Stat. for Geom. Eng.,,Mustafa Yanalak,"INB
+INB","Perşembe
+Cuma","0830/1329
+1400/1559","---
+---",40,35,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+5,30300,GEO 301,Özel Ölçme Uygulamaları,,Reha Metin Alkan,"INB
+INB","Salı
+Perşembe","1430/1729
+1330/1729","B305
+B305",30,21,Yok/None,GEO,"GEO 104 MIN DD
+veya GEO 104E MIN DD
+veya JDF 112 MIN DD
+veya JDF 112E MIN DD
+veya JDF 182 MIN DD
+veya JDF 182E MIN DD",Yok/None
+6,30278,GEO 303E,Cadastre,,Mustafa Yanalak,INB,Pazartesi,0830/1329,---,35,34,Yok/None,"GEO, GEOE","GEO 209 MIN DD
+veya GEO 209E MIN DD
+veya JDF 252 MIN DD
+veya JDF 252E MIN DD",Yok/None
+7,30220,GEO 308,Taşınmaz Değerlemesi,,Reha Metin Alkan,INB,Salı,0830/1329,B305,30,21,Yok/None,GEO,Yok/None,Yok/None
+8,30299,GEO 314E,Geodesy II and Projections,,Mustafa Yanalak,"INB
+INB","Salı
+Salı","0830/1329
+1430/1629","---
+---",30,26,Yok/None,"GEO, GEOE","GEO 203 MIN DD
+veya GEO 203E MIN DD
+veya JDF 341 MIN DD
+veya JDF 341E MIN DD",Yok/None
+9,30281,GEO 401E,Physical Geodesy,,Serdar Erol,INB,Çarşamba,0830/1329,---,35,29,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+10,30221,GEO 476,Geo. Müh. Proje Planlama Yön.,,Reha Metin Alkan,INB,Perşembe,0830/1329,B305,30,22,Yok/None,GEO,Yok/None,Yok/None

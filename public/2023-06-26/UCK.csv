@@ -1,0 +1,24 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30319,UCK 322E,Flight Mechanics,,Hayri Acar,"UUB
+UUB","Çarşamba
+Perşembe","1400/1759
+0900/1159","D216
+D216",70,70,Yok/None,"UCK, UCKE, UCKM",Yok/None,Yok/None
+1,30316,UCK 421,Tepki ile Tahrik,,Cemil Kurtcebe,"UUB
+UUB","Salı
+Perşembe","1300/1659
+1300/1559","D216
+D216",70,64,Yok/None,"UCK, UCKM",Yok/None,4.Sınıf
+2,30318,UCK 441E,Flight Stability and Control,,Hayri Acar,"UUB
+UUB","Salı
+Çarşamba","0900/1259
+0900/1159","D213
+D213",50,35,Yok/None,"UCK, UCKE, UCKM","UCK 360 MIN DD
+veya UCK 360E MIN DD
+veya UCK 362 MIN DD
+veya UCK 362E MIN DD
+veya UCK 303 MIN DD
+veya UCK 303E MIN DD
+ve (UCK 322 MIN DD
+veya UCK 322E MIN DD)",Yok/None

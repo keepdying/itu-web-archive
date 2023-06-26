@@ -1,0 +1,46 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30343,CAB 143,Yrd.Çalgı Piyano I,,Alper Rumelioğlu,"TMB
+TMB
+TMB","Pazartesi
+Çarşamba
+Perşembe","1330/1529
+1030/1129
+1030/1229","---
+---
+---",15,0,Yok/None,"BST, CAB, CEB, KMP",Yok/None,Yok/None
+1,30138,CAB 177,Piyano I,,Alper Rumelioğlu,"TMB
+TMB","Pazartesi
+Çarşamba","0930/1229
+1330/1529","---
+---",17,4,Yok/None,"DUI, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+2,30139,CAB 178,Piyano II,,--,"TMB
+TMB","Pazartesi
+Çarşamba","1330/1629
+1030/1229","---
+---",0,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","CAB 177 MIN CC
+veya CAB 177E MIN CC
+veya CAB 141 MIN CC",Yok/None
+3,30140,CAB 277,Piyano III,,Alper Rumelioğlu,"TMB
+TMB","Salı
+Perşembe","0930/1229
+1330/1529","---
+---",17,7,Yok/None,"MTR, MUT, MZT, SES","CAB 178 MIN CC
+veya CAB 178E MIN CC
+veya CAB 142 MIN CC",Yok/None
+4,30141,CAB 278,Piyano IV,,--,"TMB
+TMB","Salı
+Perşembe","1330/1529
+0930/1229","---
+---",0,0,Yok/None,"MTR, MUT, MZT, SES","CAB 277 MIN CC
+veya CAB 241 MIN CC
+veya CAB 277E MIN CC",Yok/None
+5,30285,CAB 343,Yrd.Çalgı Piyano V,,Alper Rumelioğlu,"TMB
+TMB
+TMB","Salı
+Çarşamba
+Perşembe","1530/1729
+0930/1029
+1530/1729","---
+---
+---",15,6,Yok/None,"BST, CAB, CEB, KMP",Yok/None,Yok/None

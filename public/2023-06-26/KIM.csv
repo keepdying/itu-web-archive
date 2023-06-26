@@ -1,0 +1,78 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30223,KIM 101,Genel Kimya I,,Altuğ Mert Sevim,"FEB
+FEB
+FEB","Salı
+Çarşamba
+Perşembe","0830/1059
+0830/1059
+0830/1029","---
+---
+---",100,100,Yok/None,"BIO, BLG, CHZ, DEN, EHB, ELE, ELH, ELK, GID, IML, INS, JEF, JEO, KIMM, KMM, KMMM, KOM, MAD, MAK, MAT, MET, PET, TEK, TEKM, TEL, UCK, UCKM, UZB, UZBM",Yok/None,Yok/None
+1,30224,KIM 101,Genel Kimya I,,Cüneyt Hüseyin Ünlü,"FEB
+FEB
+FEB","Salı
+Çarşamba
+Perşembe","0830/1059
+0830/1059
+0830/1029","---
+---
+---",100,60,Yok/None,"BIO, BLG, CHZ, DEN, EHB, ELE, ELH, ELK, GID, IML, INS, JEF, JEO, KIMM, KMM, KMMM, KOM, MAD, MAK, MAT, MET, PET, TEK, TEKM, TEL, UCK, UCKM, UZB, UZBM",Yok/None,Yok/None
+2,30226,KIM 101E,General Chemistry I,,Muhammet Übeydullah Kahveci,"FEB
+FEB
+FEB","Pazartesi
+Salı
+Perşembe","0900/1129
+0900/1129
+0900/1059","---
+---
+---",100,97,Yok/None,"BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, IML, IMLE, IND, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MEN, MET, METE, MTM, MTO, MTOE, NAE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+3,30227,KIM 101E,General Chemistry I,,Muhammet Übeydullah Kahveci,"FEB
+FEB
+FEB","Pazartesi
+Salı
+Perşembe","1400/1629
+1400/1629
+1400/1559","---
+---
+---",100,99,Yok/None,"BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, IML, IMLE, IND, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MEN, MET, METE, MTM, MTO, MTOE, NAE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+4,30228,KIM 101E,General Chemistry I,,Altuğ Mert Sevim,"FEB
+FEB
+FEB","Salı
+Çarşamba
+Perşembe","1130/1359
+1130/1359
+1130/1329","---
+---
+---",100,70,Yok/None,"BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, IML, IMLE, IND, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MEN, MET, METE, MTM, MTO, MTOE, NAE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+5,30225,KIM 101E,General Chemistry I,,Cüneyt Hüseyin Ünlü,"FEB
+FEB
+FEB","Salı
+Çarşamba
+Perşembe","1330/1559
+1330/1559
+1330/1529","---
+---
+---",100,94,Yok/None,"BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, IML, IMLE, IND, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MEN, MET, METE, MTM, MTO, MTOE, NAE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+6,30229,KIM 224E,Inorganic Chemistry II,,Altuğ Mert Sevim,"FEB
+FEB
+FEB","Salı
+Çarşamba
+Perşembe","1430/1659
+1430/1659
+1430/1629","---
+---
+---",30,13,Yok/None,KIM,"KIM 351 MIN DD
+veya KIM 351E MIN DD
+veya KIM 223 MIN DD
+veya KIM 223E MIN DD",Yok/None
+7,30230,KIM 231,Organik Kimya I,,Turan Öztürk,"FEB
+FEB
+FEB","Pazartesi
+Salı
+Cuma","1400/1729
+1400/1729
+1000/1229","---
+---
+---",45,39,Yok/None,"KIM, KIMM","KIM 111 MIN DD
+veya KIM 111E MIN DD",Yok/None

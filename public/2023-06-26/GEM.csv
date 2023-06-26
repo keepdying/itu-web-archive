@@ -1,0 +1,41 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30306,GEM 203,Mukavemet I,,İsmail Yalçın,GDB,Pazartesi,0830/1759,409,-,-,Yok/None,GEM,Yok/None,Yok/None
+1,30145,GEM 312,Gemi Yardımcı Makinaları,,Osman Azmi Özsoysal,"GDB
+GDB","Salı
+Çarşamba","0830/1229
+0930/1229","410
+410",30,8,Yok/None,GEM,Yok/None,Yok/None
+2,30254,GEM 321E,Ship Theory,,Erdem Üçer,"GDB
+GDB","Çarşamba
+Perşembe","0930/1429
+1000/1429","D401
+D401",-,-,Yok/None,"DEN, GEM, GEMK","GEM 102 MIN DD
+veya GEM 211 MIN DD",Yok/None
+3,30255,GEM 325,Gemi Yapı Elemanları,,Yalçın Ünsan,GDB,Salı,0830/1759,D401,40,32,Yok/None,GEM,"GEM 203 MIN DD
+veya MUK 203 MIN DD
+veya MUK 209 MIN DD",Yok/None
+4,30307,GEM 326E,Ship Design,,Burcu Erbaş Ünal,"GDB
+GDB","Cuma
+Cuma","0900/1229
+1400/1729","D311
+D311",40,11,Yok/None,GEM,"(GEM 321 MIN DD
+veya GEM 321E MIN DD)
+ve (GEM 327E MIN DD
+veya GEM 341 MIN DD
+veya GEM 341E MIN DD)",Yok/None
+5,30256,GEM 332,Gemi Elektrik Sistemleri,,Yalçın Ünsan,GDB,Çarşamba,0830/1329,D311,40,12,Yok/None,"DEN, GEM",Yok/None,Yok/None
+6,30262,GEM 421,Gemi Hareket ve Manevraları,,Erdem Üçer,"GDB
+GDB","Pazartesi
+Perşembe","0830/1659
+0900/0959","410
+410",50,48,Yok/None,GEM,"AKM 202 MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD",Yok/None
+7,30146,GEM 445,Gemi Boru Donanımları,,Osman Azmi Özsoysal,"GDB
+GDB","Çarşamba
+Perşembe","1430/1729
+1430/1629","410
+410",40,30,Yok/None,GEM,Yok/None,Yok/None

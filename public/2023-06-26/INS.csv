@@ -1,0 +1,149 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30147,INS 217,Mukavemet I,,Teoman Özer,"INB
+INB
+INB","Pazartesi
+Pazartesi
+Çarşamba","0830/1229
+1330/1729
+0830/0959","B206
+B206
+B206",25,25,Yok/None,INS,"STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya INS 102 MIN DD
+veya INS 102E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+1,30148,INS 218,Mukavemet II,,Teoman Özer,"INB
+INB
+INB","Salı
+Salı
+Çarşamba","0830/1229
+1330/1729
+1030/1159","B206
+B206
+B206",25,25,Yok/None,INS,"MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya INS 217 MIN DD
+veya INS 217E MIN DD
+veya MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD",Yok/None
+2,30329,INS 218E,Strength of Materials II,,Reşat Atalay Oyguç,"INB
+INB
+INB","Perşembe
+Cuma
+Cuma","1530/1729
+0830/1229
+1400/1729","---
+---
+---",-,-,Yok/None,"INS, INSE","MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya INS 217 MIN DD
+veya INS 217E MIN DD
+veya MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD",Yok/None
+3,30309,INS 325E,Railway Engineering,,Kemal Selçuk Öğüt,"INB
+INB","Salı
+Çarşamba","1430/1659
+1430/1659","---
+---",30,22,Yok/None,"AIN, INS, INSE","INS 212 MIN DD
+veya INS 212E MIN DD
+veya INS 252 MIN DD
+veya INS 252E MIN DD
+veya INS 232 MIN DD
+veya INS 232E MIN DD",Yok/None
+4,30326,INS 332E,Foundation Engineering I,,Ümit Karadoğan,"INB
+INB","Çarşamba
+Cuma","0830/1129
+0830/1229","---
+---",-,-,Yok/None,"AIN, INS, INSE","INS 331 MIN DD
+veya INS 331E MIN DD
+veya INS 303 MIN DD
+veya INS 303E MIN DD",Yok/None
+5,30149,INS 338E,Reinforced Concrete I,,Ali Sarı,"INB
+INB
+INB
+INB","Salı
+Salı
+Perşembe
+Perşembe","1030/1229
+1430/1729
+1030/1229
+1430/1659","---
+---
+---
+---",40,16,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+6,30310,INS 342E,Highway Engineering,,Kemal Selçuk Öğüt,"INB
+INB
+INB","Pazartesi
+Salı
+Çarşamba","1200/1459
+1200/1359
+1200/1359","---
+---
+---",30,18,Yok/None,"AIN, INS, INSE","INS 351 MIN DD
+veya INS 351E MIN DD
+veya INS 325 MIN DD
+veya INS 325E MIN DD",Yok/None
+7,30151,INS 354,Hidroloji,,Yavuz Selim Güçlü,"INB
+INB","Pazartesi
+Salı","0830/1159
+0830/1159","---
+---",40,40,Yok/None,INS,Yok/None,Yok/None
+8,30344,INS 360,Hidrolik,,Necati Erdem Ünal,"INB
+INB
+INB","Pazartesi
+Pazartesi
+Cuma","0830/1229
+1330/1729
+1100/1229","---
+---
+---",30,23,Yok/None,"CEV, INS","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+9,30261,INS 360,Hidrolik,,Necati Erdem Ünal,"INB
+INB
+INB","Salı
+Perşembe
+Cuma","1330/1729
+0830/1229
+0900/1029","---
+---
+---",30,30,Yok/None,"CEV, INS","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+10,30342,INS 360E,Hydraulics,,--,"INB
+INB
+INB","Salı
+Çarşamba
+Çarşamba","1330/1729
+0830/1229
+1330/1459","---
+---
+---",-,-,Yok/None,"AIN, CEV, CEVE, INS, INSE","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+11,30355,INS 360E,Hydraulics,,Mehmet Melih Koşucu,"INB
+INB
+INB","Salı
+Çarşamba
+Çarşamba","1330/1729
+0830/1229
+1330/1459","---
+---
+---",-,-,Yok/None,"AIN, CEV, CEVE, INS, INSE","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+12,30311,INS 403E,Earthworks,,Kemal Selçuk Öğüt,"INB
+INB","Pazartesi
+Perşembe","1530/1729
+0900/1159","---
+---",40,34,Yok/None,"AIN, INS, INSE","INS 342 MIN DD
+veya INS 342E MIN DD
+veya INS 302 MIN DD
+veya INS 302E MIN DD",Yok/None
