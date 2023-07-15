@@ -1,0 +1,124 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30360,MAK 219,Mukavemet I,,Adil Yücel,"MKB
+MKB","Salı
+Çarşamba","1230/1759
+1400/1759","D318
+D318",120,97,Yok/None,"MAK, MKN","MAK 118 MIN DD
+veya MAK 118E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+1,30320,MAK 220,Mukavemet II,,Adil Yücel,"MKB
+MKB","Perşembe
+Cuma","1200/1759
+1430/1759","D318
+D318",120,71,Yok/None,"MAK, MKN","MAK 219 MIN DD
+veya MAK 219E MIN DD
+veya MUK 209 MIN DD
+veya MUK 209E MIN DD",Yok/None
+2,30087,MAK 228,Akışkanlar Mekaniği I,,Hasan Güneş,"MKB
+MKB
+MKB","Pazartesi
+Salı
+Çarşamba","0930/1229
+1030/1229
+1030/1229","R362
+R362
+R362",120,85,Yok/None,"MAK, MAKM","(MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 215 MIN DD
+veya MAK 215E MIN DD)",Yok/None
+3,30088,MAK 229,Akışkanlar Mekaniği II,,Hasan Güneş,"MKB
+MKB
+MKB","Pazartesi
+Salı
+Çarşamba","1330/1629
+1330/1529
+1330/1529","R362
+R362
+R362",80,19,Yok/None,MAK,"MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 208 MIN DD
+veya AKM 208E MIN DD",Yok/None
+4,30358,MAK 312,Ölçme Değerlendirme,,Bülent Bölat,"MKB
+MKB","Perşembe
+Cuma","0800/1159
+0800/1329","D317
+D317",60,11,Yok/None,"IML, MAK, MAKM, MKN","(MUK 209 MIN DD
+veya MUK 209E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD
+veya MAK 219 MIN DD
+veya MAK 219E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya IML 205 MIN DD
+veya IML 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 216 MIN DD
+veya MAK 216E MIN DD
+veya MAK 218 MIN DD
+veya MAK 218E MIN DD
+veya MAK 215 MIN DD
+veya MAK 215E MIN DD)
+ve (MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 208 MIN DD
+veya AKM 208E MIN DD
+veya IML 206 MIN DD
+veya IML 206E MIN DD)",Yok/None
+5,30327,MAK 313,Isı Geçişi,,Bayram Şahin,"MKB
+MKB","Pazartesi
+Salı","1200/1659
+1200/1629","A201
+A201",80,46,Yok/None,"MAK, MAKM","(MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD)
+ve (AKM 208 MIN DD
+veya AKM 208E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD)",Yok/None
+6,30361,MAK 4032,Metallerin Plastik Şekillendrl,,Canan Gamze Güleryüz Parasız,"MKB
+MKB","Salı
+Perşembe","1300/1629
+1300/1629","---
+---",20,5,Yok/None,"IML, MAK","MAK 353 MIN DD
+veya MAK 353E MIN DD
+veya IML 313 MIN DD
+veya IML 313E MIN DD
+veya MAK 351 MIN DD
+veya MAK 351E MIN DD
+veya IML 312 MIN DD
+veya IML 312E MIN DD",4.Sınıf

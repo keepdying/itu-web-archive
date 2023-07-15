@@ -1,0 +1,54 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30213,JEO 112,Genel Jeoloji,,Kürşad Kadir Eriş,"MDB
+MDB","Çarşamba
+Perşembe","1500/1729
+1300/1729","A203
+A203",35,11,Yok/None,"MAD, MADM",Yok/None,Yok/None
+1,30215,JEO 117,Genel Jeoloji,,Kürşad Kadir Eriş,"MDB
+MDB
+MDB","Perşembe
+Cuma
+Cuma","0900/1129
+0900/1129
+1430/1629","A203
+A202
+A202",40,15,Yok/None,"JEO, JEOM",Yok/None,Yok/None
+2,30283,JEO 204E,Petrog. of Magmatic Rocks,,"Şafak Altunkaynak, Alp Ünal","MDB
+MDB","Salı
+Salı","0900/1159
+1300/1659","A203
+A203",20,11,Yok/None,JEO,"JEO 242 MIN DD
+veya JEO 242E MIN DD",Yok/None
+3,30304,JEO 223E,Paleontology,,Emin Çiftçi,"MDB
+MDB","Salı
+Salı","0900/1159
+1300/1659","A202
+A202",50,30,Yok/None,JEO,Yok/None,Yok/None
+4,30216,JEO 307E,Geochemistry,,Emin Çiftçi,"MDB
+MDB","Çarşamba
+Çarşamba","0900/1159
+1300/1659","A201
+A202",25,14,Yok/None,"JEO, JEOM",Yok/None,Yok/None
+5,30218,JEO 330,Maden Yatakları,,--,"MDB
+MDB
+MDB","Pazartesi
+Cuma
+Cuma","1300/1659
+0900/1159
+1430/1659","A204
+A201
+A201",0,0,Yok/None,"JEO, JEOM","(JEO 305 MIN DD
+veya JEO 305E MIN DD)
+ve (JEO 211 MIN DD
+veya JEO 211E MIN DD)",Yok/None
+6,30212,JEO 348,Sedimenter Kayaç Petrografisi,,Kürşad Kadir Eriş,"MDB
+MDB","Pazartesi
+Pazartesi","0900/1159
+1300/1659","A203
+A203",30,24,Yok/None,"JEO, JEOM",Yok/None,Yok/None
+7,30264,JEO 355E,Sedimentology,,Gülsen Uçarkuş,"MDB
+MDB","Çarşamba
+Çarşamba","0900/1159
+1300/1459","A202
+A201",40,37,Yok/None,JEO,Yok/None,Yok/None

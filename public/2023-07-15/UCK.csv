@@ -1,0 +1,34 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30364,UCK 207,Termodinamik,,Birgül Benli,"UUB
+UUB","Cuma
+Cuma","0900/1259
+1400/1659","D214
+D214",50,20,Yok/None,"UCK, UZB","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)",Yok/None
+1,30319,UCK 322E,Flight Mechanics,,Hayri Acar,"UUB
+UUB","Çarşamba
+Perşembe","1400/1759
+0900/1159","D-Z08
+D-Z08",80,72,Yok/None,"UCK, UCKE, UCKM",Yok/None,Yok/None
+2,30316,UCK 421,Tepki ile Tahrik,,Cemil Kurtcebe,"UUB
+UUB","Salı
+Perşembe","1300/1659
+1300/1559","D-Z08
+D-Z08",70,61,Yok/None,"UCK, UCKM",Yok/None,4.Sınıf
+3,30318,UCK 441E,Flight Stability and Control,,Hayri Acar,"UUB
+UUB","Salı
+Çarşamba","0900/1259
+0900/1159","D213
+D213",50,32,Yok/None,"UCK, UCKE, UCKM","UCK 360 MIN DD
+veya UCK 360E MIN DD
+veya UCK 362 MIN DD
+veya UCK 362E MIN DD
+veya UCK 303 MIN DD
+veya UCK 303E MIN DD
+ve (UCK 322 MIN DD
+veya UCK 322E MIN DD)",Yok/None

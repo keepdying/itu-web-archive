@@ -1,0 +1,34 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30259,AKM 204,Akışkanlar Mekaniği,,Necati Erdem Ünal,"INB
+INB","Salı
+Çarşamba","0930/1229
+1330/1729","A102
+A102",30,26,Yok/None,"CEV, CHZ, GEM, GEMM, IML, INS, KMM, KMMM, MAKM, PET, PETM, UCKM","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+1,30260,AKM 204,Akışkanlar Mekaniği,,Necati Erdem Ünal,"INB
+INB","Çarşamba
+Perşembe","0930/1229
+1330/1729","A102
+A102",30,27,Yok/None,"CEV, CHZ, GEM, IML, INS, KMM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+2,30257,AKM 204E,Fluid Mechanics,,Hafzüllah Aksoy,"INB
+INB","Salı
+Çarşamba","0930/1229
+1330/1729","A104
+A104",30,26,Yok/None,"CEV, CEVE, CHZ, CHZE, FIZ, FIZE, GEM, GID, GIDE, IML, IMLE, INS, INSE, JEF, JEO, KMM, KMME, MAD, MEN, MTM, MTO, MTOE, NAE, PET, PETE, TEK, TEKE, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+3,30258,AKM 204E,Fluid Mechanics,,Hafzüllah Aksoy,"INB
+INB","Çarşamba
+Perşembe","0930/1229
+1330/1729","A104
+A104",30,28,Yok/None,"CEV, CEVE, CHZ, CHZE, FIZ, FIZE, GEM, GID, GIDE, IML, IMLE, INS, INSE, JEF, JEO, KMM, KMME, MAD, MEN, MTM, MTO, MTOE, NAE, PET, PETE, TEK, TEKE, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
