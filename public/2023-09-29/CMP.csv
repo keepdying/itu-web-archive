@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12395,CMP 103,Intr. to Comp. & Info. Sys.,,Ömer Özyıldırım,KMB,Perşembe,1030/1229,GZ104,40,9,Yok/None,"MBI, MCB, SCE, SIN",Yok/None,Yok/None
+1,13715,CMP 111,Intr.to Engineering and Comput,,Gazi Koçak,DZB,Salı,1330/1729,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+2,12121,CMP 113,Intr.to Business Computing,,Muhsin Kadıoğlu,DZB,Perşembe,0830/1229,---,10,1,Yok/None,SDU,Yok/None,Yok/None

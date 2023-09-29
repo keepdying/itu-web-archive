@@ -1,0 +1,37 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10653,MUZ 101,Müzik Tarihi I,,Ozan Baysal,TMB,Pazartesi,1330/1529,---,25,13,Yok/None,MUZ,Yok/None,Yok/None
+1,10656,MUZ 111,Müzikte Araştırma Yönt. Giriş,,Eray Cömert,TMB,Çarşamba,0930/1229,---,35,14,Yok/None,"ETMM, MTR, MUZ",Yok/None,Yok/None
+2,10655,MUZ 111,Müzikte Araştırma Yönt. Giriş,,Eray Cömert,TMB,Perşembe,1330/1629,---,35,14,Yok/None,"ETMM, MTR, MUZ",Yok/None,Yok/None
+3,10657,MUZ 121,Müzik Tarihi I,,Yalçın Çetinkaya,TMB,Pazartesi,1330/1529,---,40,11,Yok/None,"CAB, CEB, MTR, MUT, SES",Yok/None,Yok/None
+4,11223,MUZ 121,Müzik Tarihi I,,Günay Koçhan Flower,TMB,Salı,0830/1029,---,40,24,Yok/None,"CAB, CEB, MTR, MUT, SES",Yok/None,Yok/None
+5,10658,MUZ 201,Müzik Tarihi III,,Serhan Dilhan Konan,TMB,Salı,0930/1229,---,25,12,Yok/None,MUZ,Yok/None,Yok/None
+6,10659,MUZ 211,Osmanlıca I,,Serhan Dilhan Konan,TMB,Cuma,0930/1229,---,25,14,Yok/None,MUZ,Yok/None,Yok/None
+7,11452,MUZ 221,Etnomüzikolojiye Giriş,,Zeynep Gonca İncedere,TMB,Çarşamba,1030/1229,---,25,13,Yok/None,"ETMM, MUZ",Yok/None,Yok/None
+8,11224,MUZ 301,Müzik Tarihi V,,Günay Koçhan Flower,TMB,Cuma,0930/1229,---,25,13,Yok/None,MUZ,Yok/None,Yok/None
+9,10660,MUZ 311,Folklor ve Etnografya,,Eray Cömert,TMB,Salı,0930/1229,---,25,12,Yok/None,"ETMM, MUZ",Yok/None,Yok/None
+10,10661,MUZ 315,Halk Müziği Literatürü I,,Süleyman Şenel,TMB,Perşembe,1330/1529,---,10,0,Yok/None,"BST, KMP",Yok/None,Yok/None
+11,11225,MUZ 321,Organolojiye Giriş,,Serkan Şener,TMB,Pazartesi,1030/1229,---,35,10,Yok/None,"CAB, CEB, ETMM, MTR, MUT, MUZ",Yok/None,Yok/None
+12,10662,MUZ 321,Organolojiye Giriş,,Günay Koçhan Flower,TMB,Pazartesi,1330/1529,---,35,19,Yok/None,"CAB, CEB, ETMM, MTR, MUT, MUZ",Yok/None,Yok/None
+13,15104,MUZ 322,Alan Araştırma Metodları,,Süleyman Şenel,TMB,Salı,0930/1229,---,10,2,Yok/None,"CAB, CEB, ETMM, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+14,10663,MUZ 341,Seminer I,,Şeyma Ersoy Çak,TMB,Çarşamba,1330/1529,---,25,12,Yok/None,MUZ,Yok/None,Yok/None
+15,10664,MUZ 367,İtalyanca I,,Valentina Elmetti,TMB,Perşembe,1330/1529,---,15,15,Yok/None,"MUZ, MUZE",Yok/None,Yok/None
+16,10665,MUZ 377,17. YY. Osmanlı Müziği,,Serhan Dilhan Konan,TMB,Cuma,1400/1559,---,15,2,Yok/None,MUZ,Yok/None,Yok/None
+17,10667,MUZ 379,Dini Müzik I,,Süleyman Erguner,TMB,Çarşamba,1030/1229,---,30,20,Yok/None,"BST, KMP, MTR, MUZ, SES",Yok/None,Yok/None
+18,10666,MUZ 379,Dini Müzik I,,Süleyman Erguner,TMB,Perşembe,1530/1729,---,30,20,Yok/None,"BST, KMP, MTR, MUZ, SES",Yok/None,Yok/None
+19,10668,MUZ 401,Müzik Tarihi VII,,Atilla Coşkun Toksoy,TMB,Perşembe,1030/1229,---,25,11,Yok/None,MUZ,Yok/None,Yok/None
+20,10669,MUZ 411,Türkiye Müzik Kültrlerne Giriş,,Günay Koçhan Flower,TMB,Salı,1030/1229,---,25,9,Yok/None,"ETMM, MUZ",Yok/None,Yok/None
+21,10672,MUZ 431,Gelnksl Drama Snatı ve Müzik,,Süleyman Şenel,TMB,Çarşamba,0930/1229,---,10,3,Yok/None,MUZ,Yok/None,Yok/None
+22,11454,MUZ 441,Seminer III,,Zeynep Gonca İncedere,TMB,Çarşamba,1330/1529,---,25,13,Yok/None,MUZ,Yok/None,Yok/None
+23,10674,MUZ 447,19. Yüzyıl Osmanlı Müziği,,Serhan Dilhan Konan,TMB,Salı,1330/1629,---,10,5,Yok/None,MUZ,Yok/None,Yok/None
+24,10675,MUZ 457,İleri Osmanlıca III,,Serhan Dilhan Konan,TMB,Perşembe,1330/1529,---,25,7,Yok/None,"MUZ, MUZE","MUZ 358 MIN DD
+veya MUZ 358E MIN DD",Yok/None
+25,10676,MUZ 475,Türk Halk Müziği Bilgileri I,,Süleyman Şenel,TMB,Çarşamba,1330/1529,---,40,22,Yok/None,"BST, CAB, CEB, ETMM, KMP, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+26,10678,MUZ 475,Türk Halk Müziği Bilgileri I,,Süleyman Şenel,TMB,Perşembe,1530/1729,---,40,13,Yok/None,"BST, CAB, CEB, ETMM, KMP, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+27,10679,MUZ 477,Etnomüzikljnin Temellr. Giriş,,Serkan Şener,TMB,Cuma,1030/1229,---,20,2,Yok/None,"ETMM, MUZ",Yok/None,Yok/None
+28,10681,MUZ 486,Müzik Pedagojisine Giriş,,Atilla Coşkun Toksoy,TMB,Salı,0930/1229,---,25,5,Yok/None,"CAB, CEB, MUZ",Yok/None,Yok/None
+29,10682,MUZ 487,Müzik Felsefesine Giriş,,Yalçın Çetinkaya,TMB,Pazartesi,0930/1229,---,25,5,Yok/None,MUZ,Yok/None,Yok/None
+30,10684,MUZ 491,Eleştirel Okumak ve Yazmak,,Şeyma Ersoy Çak,TMB,Pazartesi,1330/1629,---,25,5,Yok/None,MUZ,Yok/None,Yok/None
+31,10685,MUZ 492,Bitirme Çalışması,,Gözde Çolakoğlu Sarı,TMB,----,/,---,100,2,Yok/None,MUZ,Diğer Şartlar,4.Sınıf
+32,15106,MUZ 494,Müzik Sosyolojisine Giriş,,Yalçın Çetinkaya,TMB,Salı,1330/1529,---,10,5,Yok/None,"BST, CAB, CEB, KMP, MTR, MUT",Yok/None,Yok/None
+33,10686,MUZ 497,Müzik Felsefesine Giriş,,Yalçın Çetinkaya,TMB,Pazartesi,1530/1729,---,30,13,Yok/None,"BST, CAB, CEB, KMP, MTR, MUT, MZT",Yok/None,Yok/None

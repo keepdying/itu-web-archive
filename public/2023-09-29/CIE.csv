@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13698,CIE 305,Fundamentals of Geomatics,,Himmet Karaman,"INB
+INB","Salı
+Perşembe","0830/1029
+0830/1129","A103
+D202",50,4,Yok/None,SIN,Yok/None,Yok/None
+1,13677,CIE 307,Structural Analysis,,Burcu Güneş,"INB
+INB","Salı
+Çarşamba","1030/1229
+1230/1529","D202
+A201",50,5,Yok/None,SIN,Yok/None,Yok/None
+2,13678,CIE 308,Engineering Statistics,,Kemal Selçuk Öğüt,INB,Cuma,1400/1659,B206,50,4,Yok/None,SIN,MTH 108 MIN DD,Yok/None
+3,13679,CIE 329,Civil Engineering Materials,,Oğuz Güneş,"INB
+INB","Çarşamba
+Perşembe","0830/1129
+1530/1729","B303
+D202",50,4,Yok/None,SIN,Yok/None,Yok/None
+4,13680,CIE 354,Fluid Mechanics,,İsmail Duranyıldız,INB,Pazartesi,1330/1629,A1,50,4,Yok/None,"SCE, SIN",Yok/None,Yok/None

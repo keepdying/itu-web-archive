@@ -1,0 +1,91 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12030,DEN 101,Gemi&Deniz Tek.Müh.Giriş&Etik,,Ayhan Menteş,GDB,Çarşamba,1330/1529,410,110,110,Yok/None,"DEN, SORM",Yok/None,Yok/None
+1,12038,DEN 210E,Engineering Mathematics,,Ayhan Menteş,GDB,Pazartesi,0830/1229,D311,90,63,Yok/None,"DEN, DENE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+2,12039,DEN 211,Mühendislik Tasarımına Giriş,,"Kadir Sarıöz, Ebru Sarıöz",GDB,Çarşamba,1330/1529,D303,30,12,Yok/None,DEN,Yok/None,Yok/None
+3,12047,DEN 323E,Wave Mechanics,,Şafak Nur Ertürk Bozkurtoğlu,GDB,Perşembe,0930/1229,409,60,55,Yok/None,DEN,"(MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya DEN 210 MIN DD
+veya DEN 210E MIN DD)
+ve (AKM 205 MIN DD
+veya AKM 205E MIN DD)",Yok/None
+4,12049,DEN 325E,Adv. Manufacturing Process,,Necip Ünlü,GDB,Salı,1330/1629,409,60,39,Yok/None,DEN,"MAL 201 MIN DD
+veya MAL 201E MIN DD",Yok/None
+5,12050,DEN 326,Bilg.Dest.Açık Deniz Yap.Hes.,,Münir Cansın Özden,GDB,Çarşamba,0830/1129,BGLAB,25,11,Yok/None,DEN,Yok/None,"4.Sınıf, 3.Sınıf"
+6,12043,DEN 327E,Safety Mang.&Risk Analy.,,Ayhan Menteş,GDB,Pazartesi,1330/1529,D311,80,72,Yok/None,"DEN, DENE","MAT 271 MIN DD
+veya MAT 271E MIN DD",Yok/None
+7,12042,DEN 337E,Intr. to Marine Ecolo. Process,,Burak Karacık,GDB,Salı,1130/1329,D406,40,40,Yok/None,DEN,Yok/None,Yok/None
+8,12044,DEN 340E,Hydrostatics of Marine Vehic.,,Hakan Akyıldız,GDB,Çarşamba,1130/1329,D303,60,47,Yok/None,DEN,Yok/None,Yok/None
+9,15090,DEN 341E,Ship Theory,,Hakan Akyıldız,GDB,Çarşamba,0830/1129,409,60,32,Yok/None,"DEN, DENE","DEN 111 MIN DD
+veya DEN 111E MIN DD
+veya DEN 101 MIN DD",Yok/None
+10,12041,DEN 345E,Dynamics of Marine Ecosystems,,Sevil Deniz Yakan Dündar,GDB,Salı,1130/1329,D308,40,31,Yok/None,"DEN, DENE",Yok/None,Yok/None
+11,12045,DEN 351,Sörvey&Sertifikasyon Sür.Gir.,,Erdal Gedikoğlu,GDB,Cuma,0930/1229,D303,30,30,Yok/None,"DEN, SORM",Yok/None,Yok/None
+12,12046,DEN 353,Gemi Yönetimi Sistem.Giriş,,Osman Çamözü,GDB,Pazartesi,0930/1229,D303,30,30,Yok/None,"DEN, SORM",Yok/None,Yok/None
+13,12058,DEN 405E,Coastal Engineering,,Bilge Tutak,GDB,Salı,1330/1629,R409,80,66,Yok/None,DEN,Yok/None,Yok/None
+14,12059,DEN 411,Hidrodinamik,,Deniz Bayraktar Bural,GDB,Perşembe,0830/1129,R409,50,50,Yok/None,DEN,"AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya DEN 323E MIN DD",Yok/None
+15,12053,DEN 412E,Underwater Acoustics,,Münir Cansın Özden,GDB,Pazartesi,1030/1229,409,60,49,Yok/None,"DEN, DENE","(MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya DEN 210 MIN DD
+veya DEN 210E MIN DD)
+ve (DNK 201E MIN DD
+veya DNK 201 MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD)",Yok/None
+16,12060,DEN 421E,Ship Propulsion,,Ömer Kemal Kınacı,GDB,Çarşamba,1130/1329,409,60,0,Yok/None,"DEN, DENE","(DEN 312E MIN DD
+veya DEN 312 MIN DD)
+ve (AKM 205E MIN DD
+veya AKM 205 MIN DD)",Yok/None
+17,12063,DEN 422,Deniz Yapıları Proje II,,"Hakan Akyıldız, Kadir Sarıöz, Serdar Aytekin Köroğlu",GDB,Pazartesi,1330/1529,D303,500,1,Yok/None,DEN,"DEN 441 MIN DD
+veya DEN 441E MIN DD
+veya DEN 4901 MIN DD
+veya DEN 4901E MIN DD",Yok/None
+18,12048,DEN 431E,Stgth of Shps & Offshr Strctrs,,Serdar Aytekin Köroğlu,GDB,Salı,0830/1129,409,80,61,Yok/None,"DEN, DENE","DEN 331 MIN DD
+veya DEN 331E MIN DD
+veya DEN 218E MIN DD
+veya MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya DEN 208 MIN DD
+veya DEN 208E MIN DD",Yok/None
+19,12056,DEN 436E,Ecotoxicology in the Marine En,,Sevil Deniz Yakan Dündar,GDB,Salı,0930/1129,D308,20,4,Yok/None,"DEN, DENE",Yok/None,Yok/None
+20,12062,DEN 441,Deniz Yapıları Proje I,,"Hakan Akyıldız, Burak Karacık, Kadir Sarıöz",GDB,Salı,1530/1729,D303,500,0,Yok/None,DEN,"DEN 331E MIN DD
+veya DEN 331 MIN DD
+veya DEN 218E MIN DD
+veya DEN 208 MIN DD
+veya DEN 208E MIN DD",Yok/None
+21,12057,DEN 445E,Experim.Design & Data Analysis,,Burcu Erbaş,GDB,Salı,0930/1129,D309,20,6,Yok/None,DEN,Yok/None,Yok/None
+22,12054,DEN 447E,Engineering Optimisation,,Kadir Sarıöz,GDB,Salı,0930/1129,D406,20,12,Yok/None,DEN,Yok/None,Yok/None
+23,12055,DEN 449E,Inr. to the Analysis of Oce.Da,,Bilge Tutak,GDB,Salı,0930/1129,D407,20,20,Yok/None,DEN,Yok/None,Yok/None
+24,12051,DEN 450E,Ballast Water Management,,Ceren Bilgin Güney,GDB,Çarşamba,0930/1129,D309,25,10,Yok/None,DEN,Yok/None,Yok/None
+25,12052,DEN 479E,Underwater Vehicle Technology,,Bilge Tutak,GDB,Çarşamba,0930/1129,D308,25,25,Yok/None,"DEN, DENE",Yok/None,Yok/None
+26,12064,DEN 482,Bireysel Proje,,Kadir Sarıöz,GDB,----,/,---,500,20,Yok/None,DEN,Yok/None,4.Sınıf
+27,12061,DEN 4901E,Shipbuilding&Ocean Eng.Desig.I,,"Hakan Akyıldız, Burak Karacık, Kadir Sarıöz, Serdar Aytekin Köroğlu","GDB
+GDB","Cuma
+Cuma","0930/1229
+1400/1659","R403
+R403",500,52,Yok/None,DEN,"(DEN 331 MIN DD
+veya DEN 331E MIN DD
+veya DEN 218E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (DEN 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+28,12065,DEN 492E,Graduation Project,,Kadir Sarıöz,GDB,----,/,---,500,0,Yok/None,"DEN, DENE",Diğer Şartlar,4.Sınıf

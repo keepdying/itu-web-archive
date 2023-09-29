@@ -1,0 +1,64 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,11879,UZB 112,Bilgisayarla Teknik Resim,,Hüsnü Barbaros Soyer,UUB,Perşembe,1430/1729,BIL1,70,69,Yok/None,"UCK, UZB",Yok/None,Yok/None
+1,11880,UZB 112E,Computer Aided Drafting,,Hüsnü Barbaros Soyer,UUB,Perşembe,0830/1129,BIL1,70,68,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+2,11881,UZB 112E,Computer Aided Drafting,,Hüsnü Barbaros Soyer,UUB,Cuma,0830/1129,BIL1,70,17,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+3,14878,UZB 218E,Int.to Partial Diff.Eq. in Eng,,Mehmet Şahin,UUB,Çarşamba,0930/1229,D-Z09,40,22,Yok/None,"UCK, UCKE, UZB, UZBE","MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+4,11892,UZB 242E,Basic Astronomy,,Cuma Yarım,UUB,Çarşamba,0830/1129,D113,40,28,Yok/None,"UZB, UZBE",Yok/None,Yok/None
+5,11896,UZB 301,Ölçme Tekniği,,Duygu Erdem,UUB,Pazartesi,1430/1729,D209,30,30,Yok/None,"UCK, UZB",Yok/None,Yok/None
+6,11960,UZB 301E,Measurement Techniques,,Nuriye Leman Okşan Çetiner Yıldırım,UUB,Salı,0930/1229,D110,30,30,Yok/None,"UCK, UZB, UZBE",Yok/None,Yok/None
+7,11961,UZB 301E,Measurement Techniques,,Nuriye Leman Okşan Çetiner Yıldırım,UUB,Çarşamba,0930/1229,D215,30,30,Yok/None,"UCK, UZB, UZBE",Yok/None,Yok/None
+8,11889,UZB 301E,Measurement Techniques,,Saliha Banu Yılmaz,UUB,Perşembe,0930/1229,D113,30,29,Yok/None,"UCK, UZB, UZBE",Yok/None,Yok/None
+9,11999,UZB 318E,Finite Element Method,,Vedat Ziya Doğan,UUB,Perşembe,1430/1729,D-Z09,50,50,Yok/None,"UCK, UCKE, UCKM, UZB, UZBE, UZBM","BIL 104E MIN DD
+veya BIL 104 MIN DD
+veya BIL 106E MIN DD
+veya BIL 106 MIN DD
+veya BIL 108E MIN DD
+veya BIL 108E MIN DD
+veya BIL 110E MIN DD
+veya BIL 112E MIN DD
+veya BIL 113E MIN DD",Yok/None
+10,11992,UZB 337,Hava Uzay Yapıları,,Metin Orhan Kaya,UUB,Cuma,0830/1229,D111,45,45,Yok/None,UCK,"MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya MUK 211 MIN DD
+veya MUK 211E MIN DD",Yok/None
+11,11988,UZB 337E,Aerospace Structures,,İbrahim Özkol,UUB,Cuma,0830/1229,D213,45,45,Yok/None,"UCK, UCKE","MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya MUK 211 MIN DD
+veya MUK 211E MIN DD",Yok/None
+12,11895,UZB 352E,Orbital Mechanics,,Demet Çilden Güler,UUB,Pazartesi,1430/1729,D216,130,124,Yok/None,"UZB, UZBE, UZBM","DNK 201E MIN DD
+veya DNK 201 MIN DD
+veya DNK 203E MIN DD
+veya DNK 203 MIN DD",Yok/None
+13,12015,UZB 411E,Space Environment,,Zerefşan Kaymaz,UUB,Perşembe,0830/1129,D-Z08,100,100,Yok/None,"MTO, MTOE, UZB, UZBE, UZBM",Yok/None,Yok/None
+14,11939,UZB 415E,Spacecraft Systems Design I,,Alim Rüstem Aslan,UUB,Pazartesi,1130/1429,D213,50,50,Yok/None,"UZB, UZBE, UZBM",Yok/None,4.Sınıf
+15,11938,UZB 415E,Spacecraft Systems Design I,,Alim Rüstem Aslan,UUB,Salı,0830/1129,D213,50,21,Yok/None,"UZB, UZBE, UZBM",Yok/None,4.Sınıf
+16,11980,UZB 441E,Rocket Propulsion,,Fırat Oğuz Edis,UUB,Perşembe,1430/1729,D216,120,92,Yok/None,"UZB, UZBE, UZBM","UCK 207 MIN DD
+veya UCK 207E MIN DD
+veya UCK 205 MIN DD
+veya UCK 205E MIN DD
+veya UCK 212 MIN DD
+veya UCK 212E MIN DD",Yok/None
+17,11875,UZB 487E,CAD/CAM,,Hüsnü Barbaros Soyer,UUB,Cuma,1430/1729,BIL1,50,50,Yok/None,"UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+18,11964,UZB 4901E,Astronautical Eng. Design I,,Aydın Mısırlıoğlu,UUB,----,/,---,500,70,Yok/None,"UZB, UZBE","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+19,11967,UZB 4902E,Astronautical Eng. Design II,,Aydın Mısırlıoğlu,UUB,----,/,---,500,16,Yok/None,"UZB, UZBE",UZB 4901E MIN BB,Yok/None
+20,11970,UZB 492,Bitirme Çalışması,,Aydın Mısırlıoğlu,UUB,----,/,---,500,1,Yok/None,UZB,Diğer Şartlar,4.Sınıf
+21,11973,UZB 492E,Graduation Project,,Aydın Mısırlıoğlu,UUB,----,/,---,500,1,Yok/None,"UZB, UZBE",Diğer Şartlar,4.Sınıf

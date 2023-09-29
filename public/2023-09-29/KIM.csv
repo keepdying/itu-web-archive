@@ -1,0 +1,335 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10192,KIM 101,Genel Kimya I,,--,MED,Pazartesi,1430/1729,---,340,335,Yok/None,"BIO, BLG, CHZ, DEN, EHB, ELE, ELH, ELK, GID, IML, INS, JEF, JEO, KIMM, KMM, KMMM, KOM, MAD, MAK, MAT, MET, PET, TEK, TEKM, TEL, UCK, UCKM, UZB, UZBM",Yok/None,Yok/None
+1,10197,KIM 101,Genel Kimya I,,--,INB,Salı,0830/1129,---,400,282,Yok/None,"BIO, BLG, CHZ, DEN, EHB, ELE, ELH, ELK, GID, IML, INS, JEF, JEO, KIMM, KMM, KMMM, KOM, MAD, MAK, MAT, MET, PET, TEK, TEKM, TEL, UCK, UCKM, UZB, UZBM",Yok/None,Yok/None
+2,10203,KIM 101,Genel Kimya I,,--,INB,Çarşamba,0830/1129,---,255,255,Yok/None,"BIO, BLG, CHZ, DEN, EHB, ELE, ELH, ELK, GID, IML, INS, JEF, JEO, KIMM, KMM, KMMM, KOM, MAD, MAK, MAT, MET, PET, TEK, TEKM, TEL, UCK, UCKM, UZB, UZBM",Yok/None,Yok/None
+3,10207,KIM 101,Genel Kimya I,,--,FEB,Perşembe,1430/1729,---,170,170,Yok/None,"BIO, BLG, CHZ, DEN, EHB, ELE, ELH, ELK, GID, IML, INS, JEF, JEO, KIMM, KMM, KMMM, KOM, MAD, MAK, MAT, MET, PET, TEK, TEKM, TEL, UCK, UCKM, UZB, UZBM",Yok/None,Yok/None
+4,11682,KIM 101E,General Chemistry I,,Emrah Şık,DZB,Pazartesi,1130/1429,---,120,120,Yok/None,"DUI, GMI, GMIE",Yok/None,Yok/None
+5,10210,KIM 101E,General Chemistry I,,--,INB,Pazartesi,1430/1729,---,400,338,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+6,11686,KIM 101E,General Chemistry I,,Emrah Şık,DZB,Pazartesi,1430/1729,---,60,60,Yok/None,"DUI, GMI, GMIE",Yok/None,Yok/None
+7,10216,KIM 101E,General Chemistry I,,--,MED,Salı,0830/1129,---,340,340,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+8,10223,KIM 101E,General Chemistry I,,--,INB,Çarşamba,0830/1129,---,255,254,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+9,13700,KIM 101E,General Chemistry I,,Argun Talat Gökçeören,EEB,Perşembe,0830/1129,4104,100,100,Yok/None,"CEN, EEE, IND, MEN, MTM, NAE",Yok/None,Yok/None
+10,13868,KIM 101E,General Chemistry I,,Muhammet Übeydullah Kahveci,KMB,Perşembe,0830/1129,D202,100,80,Yok/None,"CEN, EEE, IND, MEN, MTM, NAE",Yok/None,Yok/None
+11,13742,KIM 101E,General Chemistry I,,Yasin Arslanoğlu,DZB,Perşembe,1030/1329,---,55,47,Yok/None,"MEN, MTM",Yok/None,Yok/None
+12,10228,KIM 101E,General Chemistry I,,--,INB,Perşembe,1430/1729,---,170,170,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+13,13743,KIM 101E,General Chemistry I,,Yasin Arslanoğlu,DZB,Perşembe,1530/1829,---,65,56,Yok/None,"MEN, MTM",Yok/None,Yok/None
+14,10232,KIM 101E,General Chemistry I,,Fuat Topuz,INB,Cuma,0830/1129,A204,85,85,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+15,10234,KIM 101EL,General Chemistry I Lab,,--,FEB,Pazartesi,0930/1129,---,150,150,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+16,10244,KIM 101EL,General Chemistry I Lab,,--,FEB,Pazartesi,1130/1329,---,300,281,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+17,10252,KIM 101EL,General Chemistry I Lab,,--,FEB,Pazartesi,1530/1729,---,188,170,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+18,10257,KIM 101EL,General Chemistry I Lab,,Ufuk Saim Günay,FEB,Salı,0930/1129,---,50,50,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+19,10258,KIM 101EL,General Chemistry I Lab,,--,FEB,Salı,1130/1329,---,200,183,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+20,10264,KIM 101EL,General Chemistry I Lab,,--,FEB,Salı,1330/1529,---,100,100,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+21,10268,KIM 101EL,General Chemistry I Lab,,--,FEB,Salı,1530/1729,---,200,200,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+22,10274,KIM 101EL,General Chemistry I Lab,,Ayfer Kalkan Burat,FEB,Çarşamba,0830/1029,---,50,50,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+23,13702,KIM 101EL,General Chemistry I Lab,,Argun Talat Gökçeören,---,Çarşamba,0830/1029,---,100,100,Yok/None,"CEN, IND, MEN, MTM, NAE",Yok/None,Yok/None
+24,13869,KIM 101EL,General Chemistry I Lab,,Muhammet Übeydullah Kahveci,---,Çarşamba,0830/1029,---,100,30,Yok/None,"CEN, IND, MEN, MTM, NAE",Yok/None,Yok/None
+25,11689,KIM 101EL,General Chemistry I Lab,,Emrah Şık,DZB,Perşembe,0830/1029,---,40,39,Yok/None,"DUI, GMI, GMIE",Yok/None,Yok/None
+26,13740,KIM 101EL,General Chemistry I Lab,,Yasin Arslanoğlu,DZB,Perşembe,0830/1029,---,45,45,Yok/None,"MEN, MTM",Yok/None,Yok/None
+27,10276,KIM 101EL,General Chemistry I Lab,,Altuğ Mert Sevim,FEB,Perşembe,0930/1129,---,50,50,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+28,11706,KIM 101EL,General Chemistry I Lab,,Emrah Şık,DZB,Perşembe,1030/1229,---,67,67,Yok/None,"DUI, GMI, GMIE",Yok/None,Yok/None
+29,10277,KIM 101EL,General Chemistry I Lab,,--,FEB,Perşembe,1130/1329,---,100,98,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+30,10281,KIM 101EL,General Chemistry I Lab,,Barış Kışkan,FEB,Perşembe,1330/1529,---,50,50,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+31,11707,KIM 101EL,General Chemistry I Lab,,Emrah Şık,DZB,Perşembe,1330/1529,---,30,30,Yok/None,"DUI, GMI, GMIE",Yok/None,Yok/None
+32,13741,KIM 101EL,General Chemistry I Lab,,Yasin Arslanoğlu,DZB,Perşembe,1330/1529,---,45,45,Yok/None,"MEN, MTM",Yok/None,Yok/None
+33,11708,KIM 101EL,General Chemistry I Lab,,Emrah Şık,DZB,Perşembe,1530/1729,---,32,32,Yok/None,"DUI, GMI, GMIE",Yok/None,Yok/None
+34,10282,KIM 101EL,General Chemistry I Lab,,Sevgi Güney,FEB,Cuma,1000/1159,---,50,50,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+35,10283,KIM 101EL,General Chemistry I Lab,,--,FEB,Cuma,1400/1559,---,50,50,Yok/None,"BIO, BIOE, BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MTO, MTOE, PET, PETE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+36,10651,KIM 104,Organik Kimya,,"Hacer Ayşen Önen, İbrahim Ersin Serhatlı",FEB,Çarşamba,1230/1529,D103,65,65,Yok/None,"GID, KIMM, KMM","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+37,10652,KIM 104L,Organik Kimya Lab.,,"Hacer Ayşen Önen, İbrahim Ersin Serhatlı",FEB,Perşembe,0830/1029,LAB-D,60,54,Yok/None,"GID, KMM","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+38,10654,KIM 111,Genel Kimya I,,İsmail Yılmaz,"FEB
+FEB","Pazartesi
+Salı","1030/1229
+1130/1329","D101
+D101",35,35,Yok/None,"KIM, KIMM",Yok/None,Yok/None
+39,10670,KIM 111,Genel Kimya I,,Ozan Sanlı Şentürk,"FEB
+FEB","Pazartesi
+Salı","1030/1229
+1130/1329","D103
+D201",35,30,Yok/None,"KIM, KIMM",Yok/None,Yok/None
+40,10671,KIM 111L,Genel Kimya I Lab,,İsmail Yılmaz,FEB,Salı,0930/1129,LAB-E,35,35,Yok/None,KIM,Yok/None,Yok/None
+41,10673,KIM 111L,Genel Kimya I Lab,,Ozan Sanlı Şentürk,FEB,Salı,0930/1129,LAB-F,35,27,Yok/None,KIM,Yok/None,Yok/None
+42,10677,KIM 113,Kimyaya Giriş ve Etik,,Barış Yücel,FEB,Çarşamba,1330/1529,D202,105,95,Yok/None,KIM,Yok/None,Yok/None
+43,10683,KIM 114,Genel Kimya II,,Ayfer Kalkan Burat,"FEB
+FEB","Pazartesi
+Çarşamba","1130/1329
+1030/1229","D105
+D101",45,35,Yok/None,"KIM, KIMM","KIM 111 MIN DD
+veya KIM 111E MIN DD",Yok/None
+44,10688,KIM 114L,Genel Kimya II Lab.,,Ayfer Kalkan Burat,FEB,Pazartesi,1330/1629,LAB-E,40,30,Yok/None,KIM,"(KIM 111 MIN DD
+veya KIM 111E MIN DD)
+ve (KIM 111L MIN DD
+veya KIM 111EL MIN DD)",Yok/None
+45,10691,KIM 202,Fiziksel Kimya,,Esma Sezer,FEB,Pazartesi,1430/1729,D104,40,29,Yok/None,"BIO, CEV, CHZ, DEN, EHB, ELE, ELH, ELK, GEM, GID, GMI, INS, JEF, JEO, KIMM, KMM, KMMM, KYD, MAD, MET, PET, TEL","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+46,10697,KIM 202E,Physical Chemistry,,Fuat Topuz,MED,Pazartesi,1430/1729,B33,45,40,Yok/None,"BIO, BIOE, CEV, CEVE, CHZE, DENE, EHB, EHBE, ELK, ELKE, GEME, GEMK, GIDE, INS, INSE, JEOE, KMM, KMME, KOM, KOME, MADE, MEN, MET, METE, PETE","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+47,10699,KIM 202E,Physical Chemistry,,Erdem Yavuz,FEB,Pazartesi,1430/1729,L400,45,22,Yok/None,"BIO, BIOE, CEV, CEVE, CHZE, DENE, EHB, EHBE, ELK, ELKE, GEME, GEMK, GIDE, INS, INSE, JEOE, KMM, KMME, KOM, KOME, MADE, MEN, MET, METE, PETE","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+48,10700,KIM 203,Analitik Kimya,,Gülçin Yılmaz,FEB,Pazartesi,1430/1729,D202,35,18,Yok/None,"BIO, CHZ, DEN, ELE, ELH, ELK, GEM, JEO, MAD, MET, PET, TEL","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+49,10701,KIM 203E,Analytical Chemistry,,Ferah Çalışır,FEB,Pazartesi,1430/1729,D203,45,45,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ELE, ELH, ELK, ELKE, GEM, GEME, GEMK, JEO, JEOE, MAD, MADE, MET, METE, PET, PETE, TEL","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+50,10706,KIM 203E,Analytical Chemistry,,Sevgi Güney,FEB,Pazartesi,1430/1729,D204,45,35,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ELE, ELH, ELK, ELKE, GEM, GEME, GEMK, JEO, JEOE, MAD, MADE, MET, METE, PET, PETE, TEL","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+51,10713,KIM 205,Organik Kimya,,Gönül Yapar,FEB,Çarşamba,0830/1129,D205,40,32,Yok/None,"BIO, BIOM, CEV, CHZ, DEN, ELE, ELH, ELK, GEM, INS, JEO, KIMM, KYD, MAD, MET, PET, TEL","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+52,10716,KIM 205E,Organic Chemistry,,Hakan Durmaz,MED,Çarşamba,0830/1129,B33,40,40,Yok/None,"BIOM, CEV, CEVE, CHZE, DENE, ELKE, GEME, GEMK, INS, INSE, JEOE, KIM, KIMM, MADE, MET, METE, PETE, TEKE","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+53,10720,KIM 205E,Organic Chemistry,,Nesrin Köken,FEB,Çarşamba,0830/1129,L400,40,32,Yok/None,"BIOM, CEV, CEVE, CHZE, DENE, ELKE, GEME, GEMK, INS, INSE, JEOE, KIM, KIMM, MADE, MET, METE, PETE, TEKE","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+54,10724,KIM 206,Analitik Kimya & Enst Analizi,,Nevin Öztekin,FEB,Salı,1430/1729,D105,45,34,Yok/None,"GID, KIMM, KMM, KYD","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+55,10727,KIM 207,İnorganik Kimya,,Ayfer Kalkan Burat,FEB,Perşembe,1430/1729,D103,40,31,Yok/None,"CHZ, DEN, ELE, ELH, ELK, FIZ, GEM, JEF, JEO, KIMM, KMM, KYD, MAD, PET, TEL","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+56,10730,KIM 208,İleri Organik Kimya,,Nilgün Kızılcan,FEB,Salı,0830/1129,L300,30,0,Yok/None,"CHZ, DEN, ELE, ELH, ELK, GEM, JEO, KIMM, KMM, KYD, MAD, PET, TEL","KIM 104 MIN DD
+veya KIM 104E MIN DD
+veya KIM 205 MIN DD
+veya KIM 205E MIN DD
+veya KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD",Yok/None
+57,10733,KIM 210E,Intro to Polymer Chemistry,,Barış Kışkan,FEB,Pazartesi,1430/1729,D205,40,21,Yok/None,"BIO, BIOE, KIM, KIME, KIMM, TEK, TEKE","KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya KIM 104 MIN DD
+veya KIM 104E MIN DD
+veya KIM 205 MIN DD
+veya KIM 205E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD",Yok/None
+58,10736,KIM 211E,Analytical Chemistry,,Fatma Bedia Berker,"FEB
+FEB","Salı
+Cuma","1330/1529
+1030/1229","D205
+D205",45,45,Yok/None,"KIM, KIME, KIMM","KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD",Yok/None
+59,10740,KIM 211E,Analytical Chemistry,,Mustafa Özcan,"FEB
+FEB","Salı
+Cuma","1330/1529
+1030/1229","D206
+D206",45,9,Yok/None,"KIM, KIME, KIMM","KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD",Yok/None
+60,10744,KIM 211L,Analitik Kimya Lab,,Fatma Bedia Berker,FEB,Çarşamba,1030/1529,LAB-A,100,67,Yok/None,KIM,"KIM 112L MIN DD
+veya KIM 112EL MIN DD
+veya KIM 114L MIN DD
+veya KIM 114EL MIN DD",Yok/None
+61,10748,KIM 212,Enstrumental Analitik Yönteml,,Ayşegül Gölcü,"FEB
+FEB","Pazartesi
+Salı","1230/1429
+1130/1329","D106
+D203",30,23,Yok/None,"KIM, KIMM","KIM 211 MIN DD
+veya KIM 211E MIN DD",Yok/None
+62,13818,KIM 219E,Comp.Applications in Chemistry,,Abdullah Aydoğan,FEB,Çarşamba,0830/1229,L300,22,21,Yok/None,KIM,"KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD",Yok/None
+63,10777,KIM 223,Anorganik Kimya I,,Esin Hamuryudan,FEB,Perşembe,0830/1129,D105,40,34,Yok/None,"KIM, KIMM","KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD",Yok/None
+64,10781,KIM 223,Anorganik Kimya I,,Zehra Bayır,FEB,Perşembe,0830/1129,D106,40,40,Yok/None,"KIM, KIMM","KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD",Yok/None
+65,10783,KIM 223E,Inorganic Chemistry I,,Ozan Sanlı Şentürk,FEB,Perşembe,0830/1129,D205,35,18,Yok/None,KIM,"KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD",Yok/None
+66,10785,KIM 224E,Inorganic Chemistry II,,Altuğ Mert Sevim,FEB,Cuma,0830/1129,D105,25,17,Yok/None,KIM,"KIM 351 MIN DD
+veya KIM 351E MIN DD
+veya KIM 223 MIN DD
+veya KIM 223E MIN DD",Yok/None
+67,10788,KIM 231,Organik Kimya I,,Turan Öztürk,"FEB
+FEB","Pazartesi
+Salı","1230/1429
+1030/1229","D201
+D105",50,34,Yok/None,"KIM, KIMM","KIM 111 MIN DD
+veya KIM 111E MIN DD",Yok/None
+68,10794,KIM 231L,Organik Kimya Lab. I,,Ufuk Saim Günay,FEB,Perşembe,1230/1729,LAB-D,60,56,Yok/None,KIM,"KIM 231 MIN DD
+veya KIM 231E MIN DD",Yok/None
+69,10801,KIM 232,Organik Kimya II,,Okan Sirkecioğlu,"FEB
+FEB","Pazartesi
+Salı","1130/1329
+1130/1329","D206
+D206",80,64,Yok/None,KIM,"KIM 231 MIN DD
+veya KIM 231E MIN DD",Yok/None
+70,10805,KIM 232L,Organik Kimya Lab. II,,Nesrin Köken,"FEB
+FEB","Cuma
+Cuma","1130/1259
+1400/1729","LAB-D
+LAB-D",35,18,Yok/None,KIM,"KIM 242 MIN DD
+veya KIM 242E MIN DD
+veya KIM 231L MIN DD
+veya KIM 231EL MIN DD",Yok/None
+71,10809,KIM 252,Kimyasal Termodinamik,,Nermin Orakdöğen,FEB,Pazartesi,0830/1129,D205,50,39,Yok/None,"KIM, KIMM","(MAT 103 MIN DD
+veya MAT 103E MIN DD
+veya MAT 101 MIN DD
+veya MAT 101E MIN DD)
+ve (KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD)",Yok/None
+72,10811,KIM 262E,Int. Quantum Chemistry,,Nurcan Tüzün,FEB,Çarşamba,1230/1529,D105,25,25,Yok/None,"KIM, KIME","(KIM 111 MIN DD
+veya KIM 111E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",Yok/None
+73,10812,KIM 262E,Int. Quantum Chemistry,,Mine Yurtsever,FEB,Çarşamba,1230/1529,D106,25,20,Yok/None,"KIM, KIME","(KIM 111 MIN DD
+veya KIM 111E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",Yok/None
+74,10813,KIM 271,Kimyacılar için Matematik,,Berkay Sütay,FEB,Salı,0830/1129,D203,70,35,Yok/None,KIM,"MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+75,10816,KIM 303E,Organic Chemistry I,,Hacer Ayşen Önen,FEB,Perşembe,1030/1229,D101,45,9,Yok/None,"BIO, BIOE, BIOM, KIMM","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+76,10820,KIM 311,Fiziksel Kimya I,,Candan Erbil,FEB,Pazartesi,0830/1129,D105,45,41,Yok/None,KIM,"KIM 252 MIN DD
+veya KIM 252E MIN DD",Yok/None
+77,10823,KIM 311,Fiziksel Kimya I,,Caner Ünlü,FEB,Pazartesi,0830/1129,D106,45,45,Yok/None,KIM,"KIM 252 MIN DD
+veya KIM 252E MIN DD",Yok/None
+78,10827,KIM 311L,Fiziksel Kimya Lab. I,,Candan Erbil,FEB,Perşembe,1330/1729,LAB-C,50,33,Yok/None,KIM,"KIM 311 MIN DD
+veya KIM 311E MIN DD",Yok/None
+79,10830,KIM 312E,Physical Chemistry II,,Orhan Güney,FEB,Pazartesi,1430/1729,D201,50,0,Yok/None,"KIM, KIME","KIM 252 MIN DD
+veya KIM 252E MIN DD",Yok/None
+80,10834,KIM 312L,Fiziksel Kimya Lab. II,,Orhan Güney,FEB,Salı,1330/1729,LAB-C,50,50,Yok/None,KIM,"KIM 312 MIN DD
+veya KIM 312E MIN DD",Yok/None
+81,10835,KIM 315E,The Chemistry of Elements,,Özgül Sağlam,FEB,Cuma,1430/1729,L200,22,22,Yok/None,"KIM, KIME, KIMM","KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD",Yok/None
+82,10837,KIM 318,Kolloid Kimyası,,Nevin Öztekin,FEB,Çarşamba,1230/1529,L200,20,10,Yok/None,"KIM, KIMM, KMM","KIM 101 MIN DD
+veya KIM 101E MIN DD
+veya KIM 111 MIN DD
+veya KIM 111E MIN DD",Yok/None
+83,10840,KIM 323E,Natural Products Chemistry,,Nesrin Köken,FEB,Perşembe,0830/1129,L200,20,7,Yok/None,"KIM, KIME, KIMM","KIM 104 MIN DD
+veya KIM 104E MIN DD
+veya KIM 205 MIN DD
+veya KIM 205 MIN DD
+veya KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD",Yok/None
+84,10841,KIM 325E,Intr. to Bioinorganic Chem.,,Behice Şebnem Sesalan,FEB,Çarşamba,0830/1129,L200,22,22,Yok/None,"KIM, KIME, KIMM","KIM 111 MIN DD
+veya KIM 111E MIN DD
+veya KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+85,10842,KIM 326E,Introduction to Biochemistry,,Onur Alptürk,MED,Cuma,0830/1129,B33,50,49,Yok/None,"KIM, KIMM","KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya KIM 104 MIN DD
+veya KIM 104E MIN DD
+veya KIM 205 MIN DD
+veya KIM 205E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD",Yok/None
+86,10843,KIM 326E,Introduction to Biochemistry,,Muhammet Übeydullah Kahveci,MED,Cuma,0830/1129,B34,50,39,Yok/None,"KIM, KIMM","KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya KIM 104 MIN DD
+veya KIM 104E MIN DD
+veya KIM 205 MIN DD
+veya KIM 205E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD",Yok/None
+87,10844,KIM 414,Gıda Kimyası,,Cüneyt Hüseyin Ünlü,FEB,Çarşamba,0830/1129,D106,22,21,Yok/None,"BIO, KIM, KIMM","KIM 104 MIN DD
+veya KIM 104E MIN DD
+veya KIM 205 MIN DD
+veya KIM 205E MIN DD
+veya KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD",Yok/None
+88,10845,KIM 422,Endüstriyel Kimya,,Bünyamin Karagöz,FEB,Çarşamba,0830/1129,D105,40,30,Yok/None,"KIM, KIMM",Yok/None,4.Sınıf
+89,10846,KIM 425,Su Kimyası,,Behice Şebnem Sesalan,FEB,Salı,0830/1129,L200,20,17,Yok/None,"KIM, KIMM","KIM 211E MIN DD
+veya KIM 211 MIN DD",Yok/None
+90,10847,KIM 427,Seramik Kimyası,,Gülcemal Yıldız,FEB,Salı,1430/1729,L200,22,20,Yok/None,"KIM, KIMM, KMM","KIM 101 MIN DD
+veya KIM 101E MIN DD
+veya KIM 112 MIN DD
+veya KIM 112E MIN DD
+veya KIM 114 MIN DD
+veya KIM 114E MIN DD",Yok/None
+91,10848,KIM 429,Yeşil Kimya,,Füsun Şeyma Kışkan,FEB,Cuma,0830/1129,L200,20,5,Yok/None,"KIM, KIMM","KIM 104 MIN DD
+veya KIM 104E MIN DD
+veya KIM 205 MIN DD
+veya KIM 205E MIN DD
+veya KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD",Yok/None
+92,10849,KIM 435,Çevre Kimyası I,Çevrimiçi/Online,Aslı Baysal,----,Salı,1430/1729,----,22,22,Yok/None,"KIM, KIMM",Yok/None,Yok/None
+93,10852,KIM 454E,Intr. to Computational Chem.,,Berkay Sütay,FEB,Salı,1430/1729,OBL1,20,4,Yok/None,KIM,Yok/None,Yok/None
+94,10857,KIM 471,Organik Kimya III,,Ayşe Özdemir,FEB,Perşembe,0830/1129,D206,35,21,Yok/None,"KIM, KIMM",Yok/None,4.Sınıf
+95,10858,KIM 472E,Electrochemistry,,Belkız Ustamehmetoğlu,FEB,Cuma,0830/1129,D306,22,20,Yok/None,"KIM, KIMM",Yok/None,4.Sınıf
+96,10860,KIM 473E,Organic Structure Analysis,,Turan Öztürk,FEB,Cuma,1430/1729,D106,30,13,Yok/None,KIM,Yok/None,4.Sınıf
+97,10864,KIM 474,Polimer Kimyası,,Ümit Tunca,FEB,Salı,0830/1129,D101,45,45,Yok/None,KIM,Yok/None,4.Sınıf
+98,10866,KIM 482E,Organic Reactions,,Gürkan Hızal,FEB,Perşembe,1430/1729,D106,25,15,Yok/None,KIM,Yok/None,4.Sınıf
+99,10869,KIM 4901,Araştırma Projesi I,,Bahire Filiz Şenkal,FEB,----,/,---,500,32,Yok/None,KIM,"(KIM 111 MIN DD
+veya KIM 111E MIN DD
+veya KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (KIM 111L MIN DD
+veya KIM 111EL MIN DD
+veya KIM 101L MIN DD
+veya KIM 101EL MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 114 MIN DD
+veya KIM 114E MIN DD)
+ve (KIM 114L MIN DD
+veya KIM 114EL MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (KIM 271 MIN DD
+veya KIM 271E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+100,10871,KIM 4901E,Research Project I,,Bahire Filiz Şenkal,FEB,----,/,---,500,19,Yok/None,KIM,"(KIM 111 MIN DD
+veya KIM 111E MIN DD
+veya KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (KIM 111L MIN DD
+veya KIM 111EL MIN DD
+veya KIM 101L MIN DD
+veya KIM 101EL MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 114 MIN DD
+veya KIM 114E MIN DD)
+ve (KIM 114L MIN DD
+veya KIM 114EL MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (KIM 271 MIN DD
+veya KIM 271E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+101,10874,KIM 4902,Araştırma Projesi II,,Bahire Filiz Şenkal,FEB,----,/,---,500,12,Yok/None,KIM,"KIM 4901 MIN BB
+veya KIM 4901E MIN BB",Yok/None
+102,10876,KIM 4902E,Research Project II,,Bahire Filiz Şenkal,FEB,----,/,---,500,4,Yok/None,KIM,"KIM 4901 MIN BB
+veya KIM 4901E MIN BB",Yok/None
+103,10879,KIM 492,Bitirme Çalışması,,Bahire Filiz Şenkal,FEB,----,/,---,500,0,Yok/None,KIM,Diğer Şartlar,4.Sınıf
+104,10881,KIM 492E,Graduation Project,,Bahire Filiz Şenkal,FEB,----,/,---,500,1,Yok/None,"KIM, KIME",Diğer Şartlar,4.Sınıf

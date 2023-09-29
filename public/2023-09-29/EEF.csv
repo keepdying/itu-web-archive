@@ -1,0 +1,34 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10083,EEF 110E,Intr. to Prog. Language (C),Çevrimiçi/Online,--,----,"Pazartesi
+Pazartesi","1230/1329
+1330/1529",----,160,133,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+1,10087,EEF 205,Lojik Tasarıma Giriş,,--,EEB,Cuma,0830/1129,---,280,260,Yok/None,"EHB, ELK, KOM",Yok/None,Yok/None
+2,10092,EEF 205E,Introduction to Logic Design,,--,EEB,Cuma,0830/1129,---,370,370,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+3,10102,EEF 210,Diferansiyel Denklemler,,--,EEB,Perşembe,1230/1529,---,140,112,Yok/None,"EHB, ELK, KOM","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+4,10112,EEF 210E,Differential Equations,,--,EEB,Perşembe,1230/1529,---,350,322,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+5,10121,EEF 211,Elektrik Devre Temelleri,,--,EEB,Pazartesi,0830/1129,---,180,180,Yok/None,"EHB, ELK, KOM","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+6,10124,EEF 211E,Basics of Electrical Circuits,,--,EEB,Pazartesi,0830/1129,---,511,365,Yok/None,"CEN, EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+7,10139,EEF 271,Olasılık ve İstatistik,,Murat Tayfun Günel,EEB,Salı,0830/1129,5102,90,90,Yok/None,"EHB, ELK, KOM",Yok/None,Yok/None
+8,10142,EEF 271E,Probability and Statistics,,--,EEB,Salı,0830/1129,---,365,365,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+9,10166,EEF 281,Lineer Cebir ve Uygulamaları,,Fikret Çalışkan,EEB,Perşembe,1330/1629,4102,70,52,Yok/None,"EHB, ELK, KOM",Yok/None,Yok/None
+10,10169,EEF 281E,Linear Algebra & Applications,,Zehra Elif Batman,EEB,Perşembe,1330/1629,4104,55,55,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+11,14297,EEF 281E,Linear Algebra & Applications,,Cemanur Aydınalp,EEB,Cuma,1400/1659,5304,55,55,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+12,10171,EEF 311E,Numerical Analysis with Python,,--,EEB,Cuma,1400/1659,---,360,310,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 287 MIN DD
+veya MAT 287E MIN DD",Yok/None

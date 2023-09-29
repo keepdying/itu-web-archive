@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,15126,CEN 101E,Intr. to Information Systems,,Ali Çakmak,MED,Pazartesi,0830/1129,---,60,59,Yok/None,CEN,Yok/None,Yok/None
+1,15127,CEN 113E,Intr.toComp.Eng.and Ethics,,Yusuf Yaslan,MED,Salı,0830/1029,---,60,58,Yok/None,CEN,Yok/None,Yok/None
+2,15129,CEN 231E,Digital Circuits,,Yusuf Yaslan,MED,Pazartesi,1430/1729,---,60,60,Yok/None,CEN,Yok/None,Yok/None
+3,15128,CEN 351E,Microcomputer Lab.,,İlkay Öksüz,MED,Salı,1030/1229,---,20,0,Yok/None,CEN,"BLG 212 MIN DD
+veya BLG 212E MIN DD
+veya BLG 222 MIN DD
+veya BLG 222E MIN DD
+veya CEN 222E MIN DD",Yok/None

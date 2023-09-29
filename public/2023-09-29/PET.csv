@@ -1,0 +1,51 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12290,PET 113E,Intr.to Petr.&Nat Gas.Eng.,,İbrahim Metin Mıhçakan,MDB,Çarşamba,1430/1529,A204,100,81,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+1,12301,PET 211E,Petroleum Fluid Properties,,Şenol Yamanlar,MDB,Salı,0830/1129,A105,100,74,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+2,12304,PET 309E,Fluid and Rock Properties Lab.,,Yıldıray Palabıyık,MDB,Pazartesi,1130/1329,---,14,14,Yok/None,"PET, PETE, PETM","PET 211E MIN DD
+ve PET 212E MIN DD",Yok/None
+3,12307,PET 309E,Fluid and Rock Properties Lab.,,Yıldıray Palabıyık,MDB,Salı,1130/1329,---,14,14,Yok/None,"PET, PETE, PETM","PET 211E MIN DD
+ve PET 212E MIN DD",Yok/None
+4,12308,PET 309E,Fluid and Rock Properties Lab.,,Yıldıray Palabıyık,MDB,Perşembe,1130/1329,A301,14,14,Yok/None,"PET, PETE, PETM","PET 211E MIN DD
+ve PET 212E MIN DD",Yok/None
+5,12309,PET 309E,Fluid and Rock Properties Lab.,,Yıldıray Palabıyık,MDB,Cuma,0930/1129,A301,14,12,Yok/None,"PET, PETE, PETM","PET 211E MIN DD
+ve PET 212E MIN DD",Yok/None
+6,12311,PET 333E,Drilling Engineering,,Gürşat Altun,MDB,Pazartesi,1330/1629,A101,100,52,Yok/None,"PET, PETE, PETM","STA 204E MIN DD
+ve AKM 204E MIN DD",Yok/None
+7,12313,PET 335E,Well Logging I,,Emine Didem Korkmaz Başel,MDB,Salı,1330/1629,A101,100,78,Yok/None,"PET, PETE, PETM",PET 212E MIN DD,Yok/None
+8,12315,PET 342E,Reservoir Engineering,,Ömer İnanç Türeyen,MDB,Perşembe,1330/1629,A105,100,70,Yok/None,"PET, PETE, PETM","(PET 212E MIN DD
+veya PET 212 MIN DD)
+ve (PET 311E MIN DD
+veya PET 211E MIN DD)",Yok/None
+9,12318,PET 409E,Well Design and Completions,,Gürşat Altun,MDB,Pazartesi,0830/1129,A202,100,58,Yok/None,"PET, PETE, PETM","STA 204E MIN DD
+ve AKM 204E MIN DD",Yok/None
+10,12321,PET 412E,Petroleum& Natural Gas Eco.,,Gürşat Altun,MDB,Salı,0830/1129,A101,100,69,Yok/None,"PET, PETE, PETM","EKO 201E MIN DD
+veya EKO 201 MIN DD",Yok/None
+11,12323,PET 416E,Well Logging II,,Emine Didem Korkmaz Başel,MDB,Perşembe,1330/1629,B205,40,13,Yok/None,"PET, PETE, PETM",PET 415E MIN DD,Yok/None
+12,12327,PET 428E,Simulation of Geosystems,,İhsan Burak Kulga,MDB,Perşembe,0830/1129,B204,40,12,Yok/None,"PET, PETE, PETM",PET 342E MIN DD,Yok/None
+13,12365,PET 441E,Enhanced Oil Recovery,,Hasan Özgür Yıldız,MDB,Çarşamba,0830/1129,B205,40,27,Yok/None,"PET, PETE, PETM",PET 342E MIN DD,Yok/None
+14,13138,PET 447E,Selected Topics in PE,,İsmail Hakkı Gücüyener,MDB,Perşembe,0930/1229,B208,50,18,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+15,12366,PET 467E,Anly. of Well Pressure Tests,,Yıldıray Palabıyık,MDB,Salı,1330/1629,B206,25,25,Yok/None,"PET, PETE, PETM",PET 342E MIN DD,Yok/None
+16,11514,PET 487E,Petroleum Fuels Market&Segment,,Hamit Topuz,MDB,Pazartesi,1330/1629,A201,40,39,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+17,12367,PET 4901E,Petr. & Nat. Gas Eng. Design I,,Ömer İnanç Türeyen,MDB,----,/,---,500,44,Yok/None,"PET, PETE, PETM","PET 333E MIN DD
+ve PET 332E MIN DD
+ve PET 342E MIN DD
+ve PET 335E MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 102 MIN DD
+veya KIM 102E MIN DD)
+ve KIM 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf

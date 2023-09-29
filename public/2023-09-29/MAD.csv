@@ -1,0 +1,54 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12413,MAD 101E,Tech.Draw.Appl.in Mining Eng.,,Hakan Tunçdemir,MDB,Perşembe,0830/1129,B207,95,92,Yok/None,MAD,Yok/None,Yok/None
+1,12414,MAD 111,Maden Müh Giriş,,Türker Hüdaverdi,MDB,Çarşamba,1430/1529,A101,105,93,Yok/None,MAD,Yok/None,Yok/None
+2,15200,MAD 213,Maden Üretim Teknolojisi,,Ataç Başçetin,MDB,Perşembe,1130/1329,A205,65,62,Yok/None,CHZ,Yok/None,Yok/None
+3,12418,MAD 232,Açık İşletmeler,,"Selamet Gürbüz Erçelebi, Ataç Başçetin",MDB,Pazartesi,1430/1729,A105,100,90,Yok/None,"MAD, MADM",Yok/None,Yok/None
+4,12419,MAD 241E,Blasting Tech&its Applications,,Türker Hüdaverdi,MDB,Salı,1130/1329,A203,80,71,Yok/None,"MAD, MADE",Yok/None,Yok/None
+5,13925,MAD 254E,Strngth of Mat.for Mining Eng.,,Pınar Teymür,MDB,Çarşamba,1330/1529,A201,50,14,Yok/None,"MAD, MADE","MEK 205 MIN DD
+veya MEK 205E MIN DD",Yok/None
+6,12420,MAD 307,Cevher Hazırlama I,,Murat Olgaç Kangal,MDB,Perşembe,1030/1329,A102,75,68,Yok/None,MAD,Yok/None,Yok/None
+7,12421,MAD 311,Jeofizik,,Seda Yolsal Çevikbilen,MDB,Perşembe,0830/1029,A105,70,47,Yok/None,MAD,Yok/None,Yok/None
+8,12422,MAD 319,Doğal Taş Üretim Teknolojisi,,Deniz Tumaç,MDB,Salı,1330/1529,A103,50,40,Yok/None,"MAD, MADM",Yok/None,Yok/None
+9,12423,MAD 327,Madenlerde Ulaşım ve Su Atımı,,Cemal Balcı,MDB,Pazartesi,0830/1029,A105,85,49,Yok/None,"MAD, MADM","MEK 205 MIN DD
+veya MEK 205E MIN DD",Yok/None
+10,12424,MAD 351E,Rock Mechanics,,Hakan Tunçdemir,MDB,Çarşamba,0830/1129,B207,85,48,Yok/None,"MAD, MADE, MADM","MAD 243 MIN DD
+veya MAD 243E MIN DD",Yok/None
+11,12425,MAD 361,Maden Yatakları,,Yüksel Örgün Tutay,MDB,Pazartesi,1130/1329,B208,70,64,Yok/None,MAD,Yok/None,Yok/None
+12,12426,MAD 362E,Engineering Geology,,Kayhan Develi,MDB,Salı,1530/1729,A102,75,63,Yok/None,"MAD, MADE",Yok/None,Yok/None
+13,12427,MAD 413E,Tunneling,,"Hanifi Çopur, Deniz Tumaç",MDB,Salı,0830/1129,A202,65,43,Yok/None,"MAD, MADE, MADM",Yok/None,Yok/None
+14,15172,MAD 415E,Cement Technology,,Hasan Ergin,MDB,Salı,0830/1129,A203,30,12,Yok/None,"MAD, MADE","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAD 307 MIN DD
+veya MAD 307E MIN DD)",Yok/None
+15,12432,MAD 441E,Mine System Analysis,,"Selamet Gürbüz Erçelebi, Muhammet Mustafa Kahraman",MDB,Perşembe,1330/1629,A101,100,49,Yok/None,"MAD, MADE","(MAD 232 MIN DD
+veya MAD 232E MIN DD)
+ve (MAD 243 MIN DD
+veya MAD 243E MIN DD)
+ve (MAT 271 MIN DD
+veya MAT 271E MIN DD)",Yok/None
+16,12433,MAD 451,Maden Makinaları,,"Hanifi Çopur, Deniz Tumaç",MDB,Cuma,0830/1129,A102,70,56,Yok/None,"MAD, MADM","MEK 205 MIN DD
+veya MEK 205E MIN DD",Yok/None
+17,12460,MAD 461,Madenlerde Havalandırma,,Abdullah Fişne,MDB,Pazartesi,1430/1729,A203,70,39,Yok/None,"MAD, MADM","MAD 243 MIN DD
+veya MAD 243E MIN DD",Yok/None
+18,12463,MAD 467,Jeoloji Haritaları,,Ufuk Tarı,MDB,Pazartesi,0830/1129,A301,50,5,Yok/None,MAD,Yok/None,Yok/None
+19,10597,MAD 471E,Electro-Techniques in Mines,,Murat İmeryüz,MDB,Çarşamba,1130/1329,A202,55,50,Yok/None,"MAD, MADE",Yok/None,Yok/None
+20,12472,MAD 4901,Maden Müh.Tasarım Projesi I,,Türker Hüdaverdi,MDB,----,/,---,500,35,Yok/None,MAD,"(MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+21,12494,MAD 4902,Maden Müh.Tasarım Projesi II,,Türker Hüdaverdi,MDB,----,/,---,500,10,Yok/None,MAD,"MAD 4901 MIN BB
+veya MAD 4901E MIN BB",4.Sınıf
+22,12496,MAD 492,Bitirme Çalışması,,Türker Hüdaverdi,MDB,----,/,---,500,5,Yok/None,MAD,Diğer Şartlar,4.Sınıf
+23,12499,MAD 492E,Graduation Project,,Türker Hüdaverdi,MDB,----,/,---,500,2,Yok/None,"MAD, MADE",Diğer Şartlar,4.Sınıf

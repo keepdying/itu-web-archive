@@ -1,0 +1,124 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12518,JEO 112,Genel Jeoloji,,Kürşad Kadir Eriş,MDB,Salı,0830/1129,A201,45,39,Yok/None,"MAD, MADM",Yok/None,Yok/None
+1,12285,JEO 112E,General Geology,,Gürsel Sunal,MDB,Pazartesi,1430/1729,A204,60,60,Yok/None,"JEF, JEFE, MAD, MADE, PET, PETE",Yok/None,Yok/None
+2,12514,JEO 112E,General Geology,,Ziyadin Çakır,MDB,Cuma,1400/1659,B204,60,56,Yok/None,"JEF, JEFE, MAD, MADE, PET, PETE",Yok/None,Yok/None
+3,12516,JEO 112E,General Geology,,Nilgün Okay,MDB,Cuma,1400/1659,B205,60,49,Yok/None,"JEF, JEFE, MAD, MADE, PET, PETE",Yok/None,Yok/None
+4,12507,JEO 113,Kristalografi,,"Recep Fahri Esenli, Bala Ekinci Şans",MDB,Pazartesi,0830/1129,B205,70,70,Yok/None,"JEO, JEOM",Yok/None,Yok/None
+5,12522,JEO 117,Genel Jeoloji,,Cenk Yaltırak,MDB,Çarşamba,1230/1529,A301,40,38,Yok/None,"JEO, JEOM",Yok/None,Yok/None
+6,12525,JEO 117,Genel Jeoloji,,Cengiz Zabcı,MDB,Çarşamba,1230/1529,A302,40,38,Yok/None,"JEO, JEOM",Yok/None,Yok/None
+7,12526,JEO 121,Yer Bilimlerinde Tas. Geometri,,Ömer Ündül,MDB,Cuma,0830/1129,A302,75,75,Yok/None,JEO,Yok/None,Yok/None
+8,12528,JEO 131,Jeoloji Mühendisliğine Giriş,,Emin Çiftçi,MDB,Perşembe,1230/1329,A203,100,75,Yok/None,JEO,Yok/None,Yok/None
+9,12531,JEO 218,Jeolojide Termodinamik,,Murat Budakoğlu,MDB,Salı,1530/1729,A105,55,42,Yok/None,JEO,Yok/None,Yok/None
+10,12288,JEO 222,Jeomekanik,,Yılmaz Mahmutoğlu,MDB,Pazartesi,0830/1229,A302,70,70,Yok/None,"JEF, JEO, JEOM","FIZ 101 MIN DD
+veya FIZ 101E MIN DD",Yok/None
+11,12539,JEO 223E,Paleontology,,Demet Biltekin,MDB,Perşembe,1130/1429,A202,65,56,Yok/None,"JEO, JEOE",Yok/None,Yok/None
+12,12542,JEO 242,Optik Mineraloji,,Şengül Can Genç,MDB,Pazartesi,1430/1729,A301,37,33,Yok/None,"JEO, JEOM","JEO 211 MIN DD
+veya JEO 211E MIN DD",Yok/None
+13,12547,JEO 242,Optik Mineraloji,,Zekiye Karacık,MDB,Perşembe,1430/1729,A302,37,36,Yok/None,"JEO, JEOM","JEO 211 MIN DD
+veya JEO 211E MIN DD",Yok/None
+14,14895,JEO 256E,Structural Geology,,Boris Nataline,MDB,Perşembe,1130/1429,A302,25,24,Yok/None,"JEO, JEOM","JEO 115 MIN DD
+veya JEO 115E MIN DD
+veya JEO 114 MIN DD
+veya JEO 114E MIN DD
+veya JEO 112 MIN DD
+veya JEO 112E MIN DD",Yok/None
+15,12574,JEO 301,Metamorfik Kayaç Petrografisi,,Şenel Özdamar,MDB,Perşembe,0830/1129,A203,60,20,Yok/None,JEO,JEO 242 MIN DD,Yok/None
+16,12576,JEO 303E,Introduction to Geophysics,,Ahmet Murat Akoğlu,MDB,Çarşamba,1330/1529,A102,60,35,Yok/None,JEO,Yok/None,Yok/None
+17,15250,JEO 305E,Geochemistry,,Nurgül Çelik Balcı,MDB,Çarşamba,0830/1129,---,70,0,Yok/None,"JEO, JEOE, JEOM",Yok/None,Yok/None
+18,15152,JEO 307E,Geochemistry,,Nurgül Çelik Balcı,MDB,Çarşamba,0830/1129,B206,70,51,Yok/None,"JEO, JEOM",Yok/None,Yok/None
+19,12582,JEO 311,Şev Stabilitesi Analizleri,,Erkan Bozkurtoğlu,MDB,Pazartesi,1330/1629,---,30,3,Yok/None,JEO,Yok/None,Yok/None
+20,12586,JEO 314,Kayaç Yapıcı Mineraller,,Şafak Altunkaynak,MDB,Pazartesi,1330/1629,B206,30,3,Yok/None,JEO,Yok/None,Yok/None
+21,12611,JEO 325,Jeolojide Bilgisayar Uygul,,Fuat Yavuz,MDB,Pazartesi,1330/1629,315,25,25,Yok/None,"JEF, JEO",Yok/None,Yok/None
+22,12612,JEO 326,Yapı Gereçleri Jeolojisi,,"Ömer Ündül, Erkan Bozkurtoğlu",MDB,Salı,1330/1629,B205,30,10,Yok/None,JEO,Yok/None,Yok/None
+23,12614,JEO 335,Uygulamalı Zemin Mekaniği,,Erkan Bozkurtoğlu,MDB,Salı,0830/1129,A204,30,3,Yok/None,JEO,Yok/None,Yok/None
+24,12615,JEO 338,Maden Aramaları,,"Emin Çiftçi, Mustafa Kumral",MDB,Salı,0930/1229,B208,30,14,Yok/None,JEO,Yok/None,Yok/None
+25,12616,JEO 342,Metamorfik Petroloji,,Şenel Özdamar,MDB,Pazartesi,0830/1129,B208,30,2,Yok/None,JEO,Yok/None,Yok/None
+26,15251,JEO 343,Sondaj Tekniği,,Erkan Bozkurtoğlu,MDB,Çarşamba,1400/1659,---,50,0,Yok/None,"JEO, JEOE, JEOM",Yok/None,Yok/None
+27,12617,JEO 350,Müh.Tas.Temel İlke.&Yönt.,,Macid Fikret Suner,MDB,Salı,0930/1229,A103,30,1,Yok/None,JEO,Yok/None,Yok/None
+28,15253,JEO 351,Jeoistatistik,,"Fuat Yavuz, Demet Yıldırım",MDB,Salı,1330/1529,---,50,0,Yok/None,"JEO, JEOE, JEOM","MAT 103 MIN DD
+veya MAT 103E MIN DD
+veya MAT 101 MIN DD
+veya MAT 101E MIN DD",Yok/None
+29,14894,JEO 355E,Sedimentology,,Gülsen Uçarkuş,MDB,Çarşamba,1330/1529,---,13,13,Yok/None,"JEO, JEOM",Yok/None,Yok/None
+30,12618,JEO 357E,Experimental Rock Mechanics,,"Ömer Ündül, Kayhan Develi",MDB,Perşembe,1430/1729,A301,30,2,Yok/None,"JEO, JEOE",Yok/None,Yok/None
+31,12619,JEO 361,Jeolojik Haritalar&Kartografya,,"Hüsnü Serdar Akyüz, Ufuk Tarı",MDB,Salı,0830/1029,A301,45,31,Yok/None,JEO,Yok/None,Yok/None
+32,12620,JEO 370,Sondaj Tekniği,,Erkan Bozkurtoğlu,MDB,Cuma,1400/1659,B206,50,33,Yok/None,JEO,Yok/None,Yok/None
+33,12621,JEO 371,Jeoistatistik,,"Fuat Yavuz, Demet Yıldırım",MDB,Salı,1330/1529,A203,50,29,Yok/None,JEO,"MAT 101 MIN DD
+veya MAT 101E MIN DD
+veya MAT 103 MIN DD
+veya MAT 103E MIN DD",Yok/None
+34,12622,JEO 391,Zemin Mekaniğine Giriş,,Erkan Bozkurtoğlu,MDB,Cuma,0830/1129,A201,30,2,Yok/None,JEO,Yok/None,Yok/None
+35,12624,JEO 409,Türkiye Jeolojisi,,Cenk Yaltırak,MDB,Perşembe,1330/1529,B204,65,63,Yok/None,"JEF, JEO",Yok/None,Yok/None
+36,12625,JEO 413,Jeologlar için Autocad,,Ömer Ündül,MDB,Salı,0930/1229,315,20,13,Yok/None,JEO,Yok/None,Yok/None
+37,12626,JEO 416,Kömür Yatakları,,Sedat İnan,MDB,Pazartesi,1330/1629,B208,30,0,Yok/None,JEO,Yok/None,Yok/None
+38,12627,JEO 419,Uygulamalı Mineraloji,,Recep Fahri Esenli,MDB,Çarşamba,0930/1229,---,30,6,Yok/None,JEO,Yok/None,Yok/None
+39,12628,JEO 423,Maden Yataklarının Değerl,,"Mustafa Kumral, Demet Yıldırım",MDB,Çarşamba,0930/1229,A301,30,3,Yok/None,JEO,Yok/None,Yok/None
+40,12629,JEO 425,Magmatik Petroloji,,"Şafak Altunkaynak, Alp Ünal",MDB,Çarşamba,0930/1229,A302,30,6,Yok/None,JEO,Yok/None,Yok/None
+41,13062,JEO 429,Termal Hidrojeoloji,,İrfan Yolcubal,MDB,Çarşamba,0930/1229,---,30,2,Yok/None,JEO,Yok/None,Yok/None
+42,12631,JEO 431,Mühendislik Jeolojisi,,"Yılmaz Mahmutoğlu, Ömer Ündül",MDB,Perşembe,0830/1229,A204,65,57,Yok/None,"JEO, JEOM","JEO 115 MIN DD
+veya JEO 115E MIN DD
+veya JEO 114 MIN DD
+veya JEO 114E MIN DD
+veya JEO 112 MIN DD
+veya JEO 112E MIN DD",Yok/None
+43,12632,JEO 437,Tıbbi Jeoloji,,Yüksel Örgün Tutay,MDB,Pazartesi,1330/1629,A302,30,7,Yok/None,JEO,Yok/None,Yok/None
+44,13064,JEO 438,Çevre Jeolojisi,,İrfan Yolcubal,MDB,Cuma,0830/1129,B204,30,30,Yok/None,"JEF, JEO",Yok/None,Yok/None
+45,12368,JEO 445E,Petroleum and Natural Gas Geo.,,"Sedat İnan, Zeynep Döner",MDB,Çarşamba,1230/1529,A205,64,64,Yok/None,"JEF, JEFE, JEO, JEOE, PET, PETE","JEO 112E MIN DD
+veya JEO 112 MIN DD
+veya JEO 114 MIN DD
+veya JEO 114E MIN DD
+veya JEO 115 MIN DD
+veya JEO 115E MIN DD",Yok/None
+46,12634,JEO 449E,Chrc.of Disc.Medi-Mch.&Hyd.Pr.,,Kayhan Develi,MDB,Pazartesi,1330/1629,---,30,1,Yok/None,JEO,Yok/None,Yok/None
+47,12635,JEO 450,Biojeokimya,,"Murat Budakoğlu, Zeynep Döner",MDB,Çarşamba,0930/1229,---,30,3,Yok/None,JEO,Yok/None,Yok/None
+48,12638,JEO 451,Doğal Suların İzotop Jeokim,,Murat Budakoğlu,MDB,Cuma,0830/1129,B205,30,1,Yok/None,JEO,Yok/None,Yok/None
+49,12640,JEO 452,Yerbilimler. Jeokim.Veri Kull.,,Murat Budakoğlu,MDB,Pazartesi,1330/1629,---,30,1,Yok/None,JEO,Yok/None,Yok/None
+50,12662,JEO 4901,Jeoloji Müh. Tasarımı I,,Ömer Ündül,MDB,----,/,---,500,23,Yok/None,JEO,"(JEO 312 MIN DD
+veya JEO 312E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+51,12663,JEO 4901E,Geological Engin. Design I,,Ömer Ündül,MDB,----,/,---,500,4,Yok/None,JEO,"(JEO 312 MIN DD
+veya JEO 312E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+52,12644,JEO 4902,Jeoloji Müh. Tasarımı II,,Emin Çiftçi,MDB,----,/,---,500,13,Yok/None,JEO,"(JEO 4901 MIN BB
+veya JEO 4901E MIN BB)
+ve (JEO 312 MIN DD
+veya JEO 312E MIN DD)",4.Sınıf
+53,12646,JEO 4902E,Geological Engin. Design II,,Emin Çiftçi,MDB,----,/,---,500,0,Yok/None,JEO,"(JEO 4901 MIN BB
+veya JEO 4901E MIN BB)
+ve (JEO 312 MIN DD
+veya JEO 312E MIN DD)",4.Sınıf
+54,12641,JEO 492,Bitirme Tasarım Projesi,,Emin Çiftçi,MDB,----,/,---,500,3,Yok/None,JEO,"JEO 312 MIN DD
+veya JEO 312E MIN DD
+Diğer Şartlar",4.Sınıf
+55,12643,JEO 492E,Graduation Design Project,,Emin Çiftçi,MDB,----,/,---,500,1,Yok/None,"JEO, JEOE","JEO 312 MIN DD
+veya JEO 312E MIN DD
+Diğer Şartlar",4.Sınıf

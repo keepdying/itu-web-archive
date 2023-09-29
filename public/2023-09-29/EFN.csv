@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,14765,EFN 105E,Principles of Microeconomics,,Şerife Genç İleri,EEB,Çarşamba,0830/1229,5107,50,49,Yok/None,EFN,Yok/None,Yok/None
+1,15160,EFN 306E,Financial Markets&Institutions,,Erhan Çetinkaya,MED,Cuma,0930/1229,---,30,2,Yok/None,EFN,"ECN 102E MIN DD
+veya EFN 102E MIN DD",Yok/None
+2,15077,EFN 424E,Financial Management,,Ahmet Göncü,MED,Çarşamba,1230/1529,B37,30,1,Yok/None,"EFN, MMD","END 222 MIN DD
+veya END 222E MIN DD
+veya ISL 224 MIN DD
+veya ISL 224E MIN DD
+veya EFN 224E MIN DD",Yok/None

@@ -1,0 +1,182 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10687,SES 105,Korrepetisyon I,,"Erhan Uslu, Gülaram Baltayeva",TMB,----,/,---,5,2,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+1,10689,SES 105,Korrepetisyon I,,"Erhan Uslu, Laçin Modiri",TMB,----,/,---,5,2,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+2,10690,SES 105,Korrepetisyon I,,"Erhan Uslu, Alper Göçeri",TMB,----,/,---,5,2,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+3,10692,SES 105,Korrepetisyon I,,"Erhan Uslu, Tuğçem Kar",TMB,----,/,---,5,2,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+4,10693,SES 105,Korrepetisyon I,,"Sinem Özdemir, Gülaram Baltayeva",TMB,----,/,---,5,1,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+5,10694,SES 105,Korrepetisyon I,,"Sinem Özdemir, Laçin Modiri",TMB,----,/,---,5,1,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+6,10695,SES 105,Korrepetisyon I,,"Sinem Özdemir, Alper Göçeri",TMB,----,/,---,5,3,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+7,10696,SES 105,Korrepetisyon I,,"Sinem Özdemir, Tuğçem Kar",TMB,----,/,---,5,3,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+8,10698,SES 113,Ses Eğitimi I,,Gülaram Baltayeva,TMB,----,/,---,5,3,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+9,10702,SES 113,Ses Eğitimi I,,Laçin Modiri,TMB,----,/,---,5,2,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+10,10703,SES 113,Ses Eğitimi I,,Alper Göçeri,TMB,----,/,---,5,5,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+11,10704,SES 113,Ses Eğitimi I,,Tuğçem Kar,TMB,----,/,---,5,5,Yok/None,"SEMH, SEMS, SES",Yok/None,Yok/None
+12,10705,SES 122,Diksiyon,,Kemal Akdoğan,TMB,Pazartesi,0830/1029,---,30,19,Yok/None,SES,Yok/None,Yok/None
+13,10707,SES 131,THM Repertuvarı I,,Erhan Uslu,"TMB
+TMB","Salı
+Perşembe","1330/1529
+1330/1529","---
+---",10,8,Yok/None,SES,Yok/None,Yok/None
+14,10708,SES 133,TSM Repertuvarı I,,Sinem Özdemir,"TMB
+TMB","Salı
+Perşembe","1330/1529
+1530/1729","---
+---",10,9,Yok/None,SES,Yok/None,Yok/None
+15,10709,SES 209,Korrepetisyon III,,"Deniz Güneş, Laçin Modiri",TMB,----,/,---,5,1,Yok/None,"SEMH, SEMS, SES","SES 106 MIN CC
+ve SES 114 MIN CC
+ve (SES 112 MIN CC
+veya SES 116 MIN CC
+veya SES 132 MIN CC
+veya SES 134 MIN CC)",Yok/None
+16,10710,SES 209,Korrepetisyon III,,"Deniz Güneş, Tuğçem Kar",TMB,----,/,---,5,3,Yok/None,"SEMH, SEMS, SES","SES 106 MIN CC
+ve SES 114 MIN CC
+ve (SES 112 MIN CC
+veya SES 116 MIN CC
+veya SES 132 MIN CC
+veya SES 134 MIN CC)",Yok/None
+17,10711,SES 209,Korrepetisyon III,,"Deniz Güneş, Fidan Kurt Kasapbaşı",TMB,----,/,---,5,5,Yok/None,"SEMH, SEMS, SES","SES 106 MIN CC
+ve SES 114 MIN CC
+ve (SES 112 MIN CC
+veya SES 116 MIN CC
+veya SES 132 MIN CC
+veya SES 134 MIN CC)",Yok/None
+18,10712,SES 209,Korrepetisyon III,,"Gülşah Sönmez, Laçin Modiri",TMB,----,/,---,5,2,Yok/None,"SEMH, SEMS, SES","SES 106 MIN CC
+ve SES 114 MIN CC
+ve (SES 112 MIN CC
+veya SES 116 MIN CC
+veya SES 132 MIN CC
+veya SES 134 MIN CC)",Yok/None
+19,10714,SES 209,Korrepetisyon III,,"Gülşah Sönmez, Tuğçem Kar",TMB,----,/,---,5,3,Yok/None,"SEMH, SEMS, SES","SES 106 MIN CC
+ve SES 114 MIN CC
+ve (SES 112 MIN CC
+veya SES 116 MIN CC
+veya SES 132 MIN CC
+veya SES 134 MIN CC)",Yok/None
+20,10715,SES 209,Korrepetisyon III,,"Gülşah Sönmez, Fidan Kurt Kasapbaşı",TMB,----,/,---,5,2,Yok/None,"SEMH, SEMS, SES","SES 106 MIN CC
+ve SES 114 MIN CC
+ve (SES 112 MIN CC
+veya SES 116 MIN CC
+veya SES 132 MIN CC
+veya SES 134 MIN CC)",Yok/None
+21,10717,SES 213,Ses Eğitimi III,,Laçin Modiri,TMB,----,/,---,5,5,Yok/None,"SEMH, SEMS, SES",SES 114 MIN CC,Yok/None
+22,10718,SES 213,Ses Eğitimi III,,Tuğçem Kar,TMB,----,/,---,6,4,Yok/None,"SEMH, SEMS, SES",SES 114 MIN CC,Yok/None
+23,10719,SES 213,Ses Eğitimi III,,Fidan Kurt Kasapbaşı,TMB,----,/,---,9,5,Yok/None,"SEMH, SEMS, SES",SES 114 MIN CC,Yok/None
+24,10721,SES 221,Koro I (Kredisiz),,Fidan Kurt Kasapbaşı,"TMB
+TMB","Salı
+Perşembe","1030/1229
+1030/1229","---
+---",40,16,Yok/None,SES,Yok/None,Yok/None
+25,10722,SES 231,Ağız ve Hançere Teknikleri I,,Deniz Güneş,"TMB
+TMB","Salı
+Cuma","1530/1729
+1400/1559","---
+---",20,10,Yok/None,SES,Yok/None,Yok/None
+26,10723,SES 233,Türk Halk Müziği Repert. III,,Deniz Güneş,"TMB
+TMB","Pazartesi
+Çarşamba","1330/1529
+1030/1229","---
+---",10,6,Yok/None,SES,SES 132 MIN CC,Yok/None
+27,10725,SES 281,15.-17.Yüzyıl Türk Müziği Rep.,,Gülşah Sönmez,"TMB
+TMB","Pazartesi
+Salı","1330/1529
+0830/1029","---
+---",20,10,Yok/None,SES,Yok/None,Yok/None
+28,10726,SES 283,Türk Sanat Müziği Repert. III,,Gülşah Sönmez,"TMB
+TMB","Salı
+Cuma","1530/1729
+1400/1559","---
+---",10,6,Yok/None,SES,SES 134 MIN CC,Yok/None
+29,10729,SES 301,Türk Halk Müziği Repertuarı V,,Seval Eroğlu,"TMB
+TMB","Çarşamba
+Cuma","1030/1229
+1030/1229","---
+---",20,10,Yok/None,SES,SES 234 MIN CC,Yok/None
+30,10731,SES 307,Yöre Ağızları I,,Deniz Güneş,"TMB
+TMB","Pazartesi
+Perşembe","1530/1729
+1330/1529","---
+---",20,10,Yok/None,SES,Yok/None,Yok/None
+31,10732,SES 309,Korrepetisyon V,,"Seval Eroğlu, Tuğçem Kar",TMB,----,/,---,6,3,Yok/None,SES,SES 210 MIN CC,Yok/None
+32,10734,SES 309,Korrepetisyon V,,"Seval Eroğlu, Laçin Modiri",TMB,----,/,---,6,1,Yok/None,SES,SES 210 MIN CC,Yok/None
+33,10735,SES 309,Korrepetisyon V,,"Seval Eroğlu, Kemal Akdoğan",TMB,----,/,---,6,1,Yok/None,SES,SES 210 MIN CC,Yok/None
+34,10737,SES 309,Korrepetisyon V,,"Seval Eroğlu, Gülaram Baltayeva",TMB,----,/,---,7,4,Yok/None,SES,SES 210 MIN CC,Yok/None
+35,10738,SES 309,Korrepetisyon V,,"Güzün Değişmez, Tuğçem Kar",TMB,----,/,---,5,1,Yok/None,SES,SES 210 MIN CC,Yok/None
+36,10739,SES 309,Korrepetisyon V,,"Güzün Değişmez, Laçin Modiri",TMB,----,/,---,5,0,Yok/None,SES,SES 210 MIN CC,Yok/None
+37,10741,SES 309,Korrepetisyon V,,"Güzün Değişmez, Kemal Akdoğan",TMB,----,/,---,5,1,Yok/None,SES,SES 210 MIN CC,Yok/None
+38,10742,SES 309,Korrepetisyon V,,"Güzün Değişmez, Gülaram Baltayeva",TMB,----,/,---,5,1,Yok/None,SES,SES 210 MIN CC,Yok/None
+39,10749,SES 313,Dünya Vokal Teknikleri I,,Tuğçem Kar,TMB,----,/,---,5,4,Yok/None,SES,SES 214 MIN CC,Yok/None
+40,10750,SES 313,Dünya Vokal Teknikleri I,,Laçin Modiri,TMB,----,/,---,5,0,Yok/None,SES,SES 214 MIN CC,Yok/None
+41,10751,SES 313,Dünya Vokal Teknikleri I,,Kemal Akdoğan,TMB,----,/,---,7,6,Yok/None,SES,SES 214 MIN CC,Yok/None
+42,10752,SES 313,Dünya Vokal Teknikleri I,,Gülaram Baltayeva,TMB,----,/,---,6,5,Yok/None,SES,SES 214 MIN CC,Yok/None
+43,10753,SES 321,Koro III (Kredisiz),,Fidan Kurt Kasapbaşı,"TMB
+TMB","Salı
+Perşembe","1030/1229
+1030/1229","---
+---",40,18,Yok/None,SES,Yok/None,Yok/None
+44,10754,SES 355,Zeybek Repertuvarı,,Erhan Uslu,TMB,Cuma,1400/1659,---,10,0,Yok/None,SES,Yok/None,Yok/None
+45,10755,SES 359,Deyiş Repertuvarı,,Seval Eroğlu,TMB,Cuma,1400/1659,---,10,6,Yok/None,SES,Yok/None,Yok/None
+46,10756,SES 365,Ses Fizyolojisine Giriş,,Laçin Modiri,TMB,Çarşamba,1330/1529,---,30,6,Yok/None,SES,Yok/None,Yok/None
+47,10757,SES 371,Repertuar I,,Gülşah Sönmez,TMB,Perşembe,1530/1729,---,10,1,Yok/None,"BST, KMP",Yok/None,Yok/None
+48,10758,SES 373,Köçekçe Repertuarı,,Cengizhan Sönmez,TMB,Perşembe,1330/1529,---,10,6,Yok/None,SES,Yok/None,Yok/None
+49,10759,SES 381,19.YY Türk Müziği Repertuarı,,Gülşah Sönmez,"TMB
+TMB","Çarşamba
+Cuma","1030/1229
+1030/1229","---
+---",12,8,Yok/None,SES,Yok/None,Yok/None
+50,10760,SES 391,Türk Sanat Müziği Repertuarı V,,Güzün Değişmez,"TMB
+TMB","Salı
+Perşembe","1530/1729
+1530/1729","---
+---",10,7,Yok/None,SES,SES 284 MIN CC,Yok/None
+51,10761,SES 401,THM Repertuarı VII,,Erhan Uslu,"TMB
+TMB","Pazartesi
+Perşembe","1330/1529
+1530/1729","---
+---",15,15,Yok/None,SES,SES 234 MIN CC,Yok/None
+52,10762,SES 407,Yöre Ağızları III,,Erhan Uslu,"TMB
+TMB","Pazartesi
+Perşembe","1530/1729
+0830/1029","---
+---",20,16,Yok/None,SES,Yok/None,Yok/None
+53,10763,SES 409,Korrepetisyon VII,,"Erhan Uslu, Kemal Akdoğan",TMB,----,/,---,6,5,Yok/None,SES,SES 210 MIN CC,Yok/None
+54,10764,SES 409,Korrepetisyon VII,,"Erhan Uslu, Fidan Kurt Kasapbaşı",TMB,----,/,---,5,4,Yok/None,SES,SES 210 MIN CC,Yok/None
+55,10765,SES 409,Korrepetisyon VII,,"Erhan Uslu, Laçin Modiri",TMB,----,/,---,5,0,Yok/None,SES,SES 210 MIN CC,Yok/None
+56,10766,SES 409,Korrepetisyon VII,,"Erhan Uslu, Gülaram Baltayeva",TMB,----,/,---,5,2,Yok/None,SES,SES 210 MIN CC,Yok/None
+57,10767,SES 409,Korrepetisyon VII,,"Sinem Özdemir, Kemal Akdoğan",TMB,----,/,---,5,2,Yok/None,SES,SES 210 MIN CC,Yok/None
+58,10768,SES 409,Korrepetisyon VII,,"Sinem Özdemir, Fidan Kurt Kasapbaşı",TMB,----,/,---,5,3,Yok/None,SES,SES 210 MIN CC,Yok/None
+59,10769,SES 409,Korrepetisyon VII,,"Sinem Özdemir, Laçin Modiri",TMB,----,/,---,5,0,Yok/None,SES,SES 210 MIN CC,Yok/None
+60,10770,SES 409,Korrepetisyon VII,,"Sinem Özdemir, Gülaram Baltayeva",TMB,----,/,---,5,2,Yok/None,SES,SES 210 MIN CC,Yok/None
+61,10771,SES 413,Dünya Vokal Teknikleri III,,Fidan Kurt Kasapbaşı,TMB,----,/,---,7,7,Yok/None,SES,SES 214 MIN CC,Yok/None
+62,10772,SES 413,Dünya Vokal Teknikleri III,,Kemal Akdoğan,TMB,----,/,---,8,8,Yok/None,SES,SES 214 MIN CC,Yok/None
+63,10773,SES 413,Dünya Vokal Teknikleri III,,Laçin Modiri,TMB,----,/,---,5,1,Yok/None,SES,SES 214 MIN CC,Yok/None
+64,10774,SES 413,Dünya Vokal Teknikleri III,,Gülaram Baltayeva,TMB,----,/,---,5,4,Yok/None,SES,SES 214 MIN CC,Yok/None
+65,10775,SES 417,Fasıl I,,Gülşah Sönmez,"TMB
+TMB","Salı
+Perşembe","1330/1529
+1330/1529","---
+---",20,13,Yok/None,"CAB, CEB, SES",Yok/None,Yok/None
+66,10776,SES 421,Koro V (Kredisiz),,Fidan Kurt Kasapbaşı,"TMB
+TMB","Salı
+Perşembe","1030/1229
+1030/1229","---
+---",40,20,Yok/None,SES,Yok/None,Yok/None
+67,10778,SES 423,Yrd. Repertuvar I (TSM),,Gülşah Sönmez,TMB,Çarşamba,0830/1029,---,20,10,Yok/None,SES,Yok/None,Yok/None
+68,10779,SES 425,Yrd. Repertuvar I (THM),,Seval Eroğlu,TMB,Pazartesi,1330/1529,---,20,6,Yok/None,SES,Yok/None,Yok/None
+69,10780,SES 427,Sahne Bilgisi ve Jest Mimik,,Kemal Akdoğan,TMB,Cuma,1030/1229,---,20,9,Yok/None,"CAB, CEB, SES",Yok/None,Yok/None
+70,10782,SES 433,Yrd. Repertuvar III (THM),,Seval Eroğlu,TMB,Çarşamba,0830/1029,---,10,7,Yok/None,SES,Yok/None,Yok/None
+71,10784,SES 435,Yrd. Repertuvar III (TSM),,Gülşah Sönmez,TMB,Çarşamba,1330/1529,---,20,15,Yok/None,SES,Yok/None,Yok/None
+72,10786,SES 455,Barak Ağzı Repertuvarı,,Deniz Güneş,TMB,Cuma,0930/1229,---,20,3,Yok/None,SES,Yok/None,Yok/None
+73,10787,SES 465,Sahne Psikolojisi,,Kemal Akdoğan,TMB,Pazartesi,1030/1229,---,20,2,Yok/None,SES,Yok/None,Yok/None
+74,10789,SES 473,Sözlü Oyun Ezgileri Rep.,,Cenap Güngör,"TMB
+TMB","Pazartesi
+Salı","1530/1729
+1030/1229","---
+---",10,0,Yok/None,THO,Yok/None,Yok/None
+75,10790,SES 491,TSM Repertuarı VII,,Sinem Özdemir,"TMB
+TMB","Pazartesi
+Çarşamba","1330/1529
+1330/1529","---
+---",7,6,Yok/None,SES,SES 284 MIN CC,Yok/None
+76,10791,SES 492,Bitirme Çalışması,,Sinem Özdemir,TMB,----,/,---,100,5,Yok/None,SES,Diğer Şartlar,4.Sınıf
+77,10792,SES 497,III Selim Dönemi Repertuvarı,,Cengizhan Sönmez,TMB,Perşembe,1530/1729,---,10,3,Yok/None,SES,Yok/None,Yok/None

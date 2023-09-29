@@ -1,0 +1,160 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12212,KMM 111,Kimya Müh. Giriş ve Etik,,Filiz Karaosmanoğlu,KMB,Çarşamba,1430/1529,D204,100,100,Yok/None,KMM,Yok/None,Yok/None
+1,12213,KMM 211,Kütle ve Enerji Denklikleri,,Fatoş Yüksel Güvenilir,KMB,Salı,1330/1629,D301,60,33,Yok/None,"KMM, KMMM",Yok/None,Yok/None
+2,12214,KMM 211,Kütle ve Enerji Denklikleri,,Fatma Elif Genceli Güner,KMB,Salı,1330/1629,D302,60,60,Yok/None,"KMM, KMMM",Yok/None,Yok/None
+3,12215,KMM 220,Akışkanlar Mekaniği,,Ömer Şahin,KMB,Perşembe,1230/1529,D302,32,32,Yok/None,KMM,"MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+4,12216,KMM 224,Kimya Müh.Termodinamiği,,"Ayşegül Meriçboyu, Melek Mümine Erol Taygun","KMB
+KMB","Çarşamba
+Perşembe","1230/1529
+0930/1129","D103
+D302",45,45,Yok/None,"KMM, KMMM","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)",Yok/None
+5,12217,KMM 224,Kimya Müh.Termodinamiği,,Reha Yavuz,"KMB
+KMB","Perşembe
+Cuma","0930/1129
+0930/1229","D104
+D103",45,30,Yok/None,"KMM, KMMM","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)",Yok/None
+6,12218,KMM 305E,Heat and Mass Transfer,,Şerife Birgül Ersolmaz,"KMB
+KMB","Pazartesi
+Salı","1330/1529
+1030/1229","D304
+D304",60,60,Yok/None,"KMM, KMMM","KMM 211 MIN DD
+ve (KMM 224 MIN DD
+veya KMM 220 MIN DD)",Yok/None
+7,12219,KMM 305E,Heat and Mass Transfer,,Ahmet Sirkecioğlu,"KMB
+KMB","Pazartesi
+Salı","1330/1529
+1030/1229","D202
+D301",60,44,Yok/None,"KMM, KMMM","KMM 211 MIN DD
+ve (KMM 224 MIN DD
+veya KMM 220 MIN DD)",Yok/None
+8,12220,KMM 311E,Thermodynamics II,,Ramazan Kızıl,KMB,Perşembe,0930/1229,D303,30,0,Yok/None,"KMM, KMME, KMMM","TER 201 MIN DD
+veya TER 201E MIN DD
+veya TER 203 MIN DD
+veya TER 203E MIN DD",Yok/None
+9,12221,KMM 315E,Physical Che.for Chemical Eng.,,Fethiye Aylin Sungur,"KMB
+KMB","Salı
+Perşembe","1330/1529
+1530/1629","D201
+D203",60,60,Yok/None,"KMM, KMMM","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)",Yok/None
+10,12222,KMM 315E,Physical Che.for Chemical Eng.,,Nil Özbek,"KMB
+KMB","Salı
+Perşembe","1330/1529
+1530/1629","D203
+D102",60,52,Yok/None,"KMM, KMMM","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)",Yok/None
+11,12225,KMM 321E,Heat Transfer,,Fatma Elif Genceli Güner,KMB,Pazartesi,1330/1629,D303,20,0,Yok/None,"KMM, KMME, KMMM","(TER 201 MIN DD
+veya TER 201E MIN DD
+veya KIM 252 MIN DD
+veya KIM 252E MIN DD
+veya TER 203 MIN DD
+veya TER 203E MIN DD)
+ve (AKM 202 MIN DD
+veya AKM 202E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya AKM 207 MIN DD
+veya AKM 207E MIN DD)",Yok/None
+12,12226,KMM 331,Kütle Aktarımı,,Sinan Kutluay,KMB,Pazartesi,0930/1229,D301,20,0,Yok/None,"KMM, KMMM","KMM 211 MIN DD
+veya KMM 211E MIN DD",Yok/None
+13,12228,KMM 332,Ayırma İşlemleri,,Gülhayat Saygılı,"KMB
+KMB","Pazartesi
+Perşembe","1130/1329
+1130/1329","D203
+D202",32,32,Yok/None,"KMM, KMMM","KMM 211 MIN DD
+veya KMM 211E MIN DD",Yok/None
+14,12229,KMM 411E,Process Control,,Serdar Yaman,KMB,Pazartesi,0830/1129,D103,55,55,Yok/None,"KMM, KMME, KMMM",Yok/None,Yok/None
+15,12231,KMM 411E,Process Control,,Devrim Barış Kaymak,KMB,Pazartesi,0900/1159,D104,55,55,Yok/None,"KMM, KMME, KMMM",Yok/None,Yok/None
+16,12233,KMM 412,Kimyasal Teknolojiler,Çevrimiçi/Online,"Melek Tüter, Filiz Karaosmanoğlu",----,Pazartesi,1330/1629,----,100,87,Yok/None,"KMM, KMMM","KMM 211 MIN DD
+veya KMM 211E MIN DD",Yok/None
+17,12234,KMM 413,Biyokatalizörler ve Karakter,,Fatoş Yüksel Güvenilir,KMB,Çarşamba,0930/1229,D101,15,15,Yok/None,KMM,Yok/None,Yok/None
+18,12236,KMM 413E,Biocatatlysts &Their Character,,Ramazan Kızıl,KMB,Çarşamba,0930/1229,D205,15,15,Yok/None,"KMM, KMME",Yok/None,Yok/None
+19,12237,KMM 421E,Chemical Reaction Eng II,,Ahmet Sirkecioğlu,KMB,Perşembe,1330/1629,D101,20,2,Yok/None,"KMM, KMME, KMMM","KMM 312 MIN DD
+veya KMM 312E MIN DD",Yok/None
+20,12238,KMM 428E,Special Seperation Techniques,,Nil Özbek,KMB,Salı,0930/1229,D106,15,15,Yok/None,KMM,Yok/None,Yok/None
+21,12240,KMM 429,Kimya End Korozyon & Malz Seçi,,Hanzade Açma,KMB,Salı,0930/1229,D202,15,15,Yok/None,KMM,Yok/None,Yok/None
+22,12241,KMM 431E,Chemical Engineering Design I,,Alper Sarıoğlan,"KMB
+KMB","Çarşamba
+Perşembe","1230/1529
+1030/1229","D304
+D203",20,2,Yok/None,"KMM, KMME","KMM 332 MIN DD
+veya KMM 332E MIN DD",Yok/None
+23,12242,KMM 438,İlaç Hammaddeleri Üretimi,,Ayşe Banu Kocaağa,KMB,Salı,1330/1629,D303,15,15,Yok/None,KMM,Yok/None,Yok/None
+24,12243,KMM 446,Atık Yönetimi,,Ömer Şahin,KMB,Çarşamba,0900/1159,---,15,15,Yok/None,KMM,Yok/None,Yok/None
+25,12244,KMM 451,Kimya Mühendisliği Lab. I,,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın",KMB,Salı,0830/1229,K209,40,40,Yok/None,KMM,"(KMM 312E MIN DD
+veya KMM 312 MIN DD
+veya KMM 308E MIN DD)
+ve (KMM 220 MIN DD
+veya AKM 207 MIN DD
+veya AKM 207E MIN DD)
+ve (KMM 321E MIN DD
+veya KMM 321 MIN DD
+veya KMM 305E MIN DD)
+ve (KMM 331 MIN DD
+veya KMM 331E MIN DD
+veya KMM 305E MIN DD)",Yok/None
+26,12246,KMM 451,Kimya Mühendisliği Lab. I,,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın",KMB,Salı,1330/1729,K209,40,40,Yok/None,KMM,"(KMM 312E MIN DD
+veya KMM 312 MIN DD
+veya KMM 308E MIN DD)
+ve (KMM 220 MIN DD
+veya AKM 207 MIN DD
+veya AKM 207E MIN DD)
+ve (KMM 321E MIN DD
+veya KMM 321 MIN DD
+veya KMM 305E MIN DD)
+ve (KMM 331 MIN DD
+veya KMM 331E MIN DD
+veya KMM 305E MIN DD)",Yok/None
+27,12248,KMM 453,Kimya Müh.Bilg.Dest.Tasarım,,Sinan Kutluay,KMB,Çarşamba,0930/1229,BIL.LAB1,15,15,Yok/None,KMM,Yok/None,Yok/None
+28,12249,KMM 455E,Optimization in Chemical Eng.,,Elif Öztürk Er,KMB,Perşembe,0930/1229,D305,15,13,Yok/None,"KMM, KMME",Yok/None,Yok/None
+29,12250,KMM 458,Ölçme ve Kontrol Cihazları,,Sinan Kutluay,KMB,Salı,1330/1629,D305,15,14,Yok/None,KMM,Yok/None,Yok/None
+30,12252,KMM 459,Yüzey Kimyası ve Kolloidler,,Ömer Şahin,KMB,Salı,0900/1159,D103,15,10,Yok/None,KMM,Yok/None,Yok/None
+31,12254,KMM 465,Çevre Kimyası ve Teknolojisi,,Ahmet Alper Aydın,KMB,Çarşamba,0930/1229,D106,15,15,Yok/None,KMM,Yok/None,Yok/None
+32,12255,KMM 465E,Environmental Chemistry&Techn.,,Ahmet Alper Aydın,KMB,Salı,1330/1629,D202,15,4,Yok/None,"KMM, KMME",Yok/None,Yok/None
+33,12257,KMM 466E,Boron Technology,,Hale Gürbüz,KMB,Salı,0930/1229,D302,15,0,Yok/None,KMME,Yok/None,Yok/None
+34,12258,KMM 468E,Energy Conservation in Indstry,,Serdar Yaman,KMB,Perşembe,0930/1229,D101,15,9,Yok/None,"KMM, KMME",Yok/None,Yok/None
+35,12259,KMM 485,Polimer Kimyası ve Teknolojisi,,Fatma Seniha Güner,KMB,Çarşamba,0930/1229,D304,15,15,Yok/None,"FIZ, KMM",Yok/None,Yok/None
+36,12261,KMM 4901,Kimya Mühendisliği Tasarımı I,,"Hale Gürbüz, Ayşe Özge Kürkçüoğlu Levitas, Devrim Barış Kaymak","KMB
+KMB","Çarşamba
+Perşembe","1230/1529
+1030/1229","D301
+D204",90,90,Yok/None,"KMM, KMMM","(KMM 305E MIN DD
+veya KMM 331 MIN DD)
+ve KMM 332 MIN DD
+ve (KMM 308E MIN DD
+veya KMM 312E MIN DD)
+ve (KMM 305E MIN DD
+veya KMM 321E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+37,12263,KMM 492,Bitirme Çalışması,,Gülhayat Saygılı,KMB,----,/,---,50,2,Yok/None,KMM,Diğer Şartlar,4.Sınıf
+38,12264,KMM 492E,Graduation Project,,Gülhayat Saygılı,KMB,----,/,---,50,0,Yok/None,"KMM, KMME",Diğer Şartlar,4.Sınıf

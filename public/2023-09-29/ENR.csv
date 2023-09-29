@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,15240,ENR 201,Fluid Mechanics,,Burcu Erbaş,"GDB
+GDB","Salı
+Perşembe","1130/1329
+1230/1329","D302
+D302",10,0,Yok/None,"NAE, NAEM",Yok/None,Yok/None
+1,15226,ENR 211,Engineering Mechanics,,İsmail Yalçın,GDB,Salı,1430/1729,D302,20,3,Yok/None,NAE,Yok/None,Yok/None
+2,13822,ENR 212,Strength of Materials I,,İsmail Çiçek,DZB,Cumartesi,0930/1229,---,60,42,Yok/None,"GEMK, GMIK, MEN, NAE, NAEM",Yok/None,Yok/None
+3,13827,ENR 301,Heat Transfer,,Buğra Arda Zincir,DZB,Pazartesi,0830/1129,---,60,30,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","ENR 202 MIN DD
+veya GMI 213E MIN DD
+veya TER 201E MIN DD",Yok/None
+4,15039,ENR 301,Heat Transfer,,Murat Durmaz,GDB,Çarşamba,1530/1829,D308,50,28,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","ENR 202 MIN DD
+veya GMI 213E MIN DD
+veya TER 201E MIN DD",Yok/None
+5,13828,ENR 311,Machinery Elements,,Tanju Kurtuluş,DZB,Cuma,1400/1659,---,60,33,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+6,13821,ENR 321,Otomatic Control Systems,,İsmail Çiçek,DZB,Salı,0830/1129,---,60,40,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","MST 241 MIN DD
+veya GMI 202 MIN DD
+veya GMI 202E MIN DD",Yok/None

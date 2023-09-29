@@ -1,0 +1,42 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,11466,ECN 103E,Markets and Ethics,,Umut Kuruüzüm,MED,Salı,0830/1129,A12,130,122,Yok/None,"ECNE, EFN",Yok/None,Yok/None
+1,11463,ECN 105E,Principles of Microeconomics,,Resul Aydemir,INB,Perşembe,0830/1229,A102,100,64,Yok/None,"ECNE, ECNM",Yok/None,Yok/None
+2,11470,ECN 201E,Intermediate Microeconomics,,Shourjo Chakravorty,INB,Perşembe,0830/1229,B104,120,92,Yok/None,"ECNE, EFN, END, ENDE, ISL, ISLE","ECN 101E MIN DD
+veya ISL 233 MIN DD
+veya ISL 233E MIN DD
+veya ECN 105E MIN DD
+veya EKO 201E MIN DD",Yok/None
+3,11471,ECN 207E,Mathematical Economics,,Resul Aydemir,EEB,Çarşamba,0830/1229,5202,120,110,Yok/None,"ECNE, ECNM",Yok/None,Yok/None
+4,11469,ECN 211E,Statistical Meth. in Economics,,Murat Güven,INB,Perşembe,1330/1729,A305,110,93,Yok/None,"ECNE, EFN",Yok/None,Yok/None
+5,11472,ECN 301E,Econometrics I,,Osman Doğan,KMB,Salı,1330/1729,D104,120,82,Yok/None,"ECNE, ECNM, EFN, ESS","ECN 206E MIN DD
+veya ECN 205E MIN DD
+veya ECN 209E MIN DD
+veya ECN 212E MIN DD
+veya ECN 211E MIN DD",Yok/None
+6,11473,ECN 303E,Development Economics,,Umut Kuruüzüm,FEB,Pazartesi,1130/1429,D104,100,85,Yok/None,"ECNE, ECNM, ESS",ECN 201E MIN DD,Yok/None
+7,11475,ECN 305E,Industrial Organisation,,Tolga Yuret,MDB,Pazartesi,0830/1129,A103,100,88,Yok/None,"ECNE, ECNM, EFN, ESS",ECN 201E MIN DD,Yok/None
+8,11474,ECN 307E,Game Theory,,Mustafa Doğan,EEB,Çarşamba,0830/1129,4102,110,71,"ECNE/90/60
+MAT/10/10
+Diğer/10/1","ECNE, EFN, MAT","ECN 201E MIN DD
+veya (EKO 201E MIN DD
+ve END 252E MIN DD)
+veya (EKO 201 MIN DD
+ve MAT 221 MIN DD)
+veya (EKO 201E MIN DD
+ve MAT 221 MIN DD)
+veya (EKO 201 MIN DD
+ve MAT 221E MIN DD)
+veya (EKO 201E MIN DD
+ve MAT 221E MIN DD)",Yok/None
+9,11477,ECN 309E,"Money, Banking&Financial Mark.",,Resul Aydemir,MED,Salı,0830/1129,A36,100,93,Yok/None,"ECNE, ECNM, EFN, ESS",ECN 202E MIN DD,Yok/None
+10,11476,ECN 311E,International Trade,,Serdar Altay,INB,Perşembe,0830/1129,D203,110,102,Yok/None,"ECNE, ECNM, ESS",ECN 201E MIN DD,Yok/None
+11,11478,ECN 401E,Turkish Economy,,Mete Han Yağmur,GDB,Cuma,0830/1129,410,100,71,Yok/None,"ECNE, ESS","ECN 301E MIN DD
+veya ECN 202E MIN DD",Yok/None
+12,11482,ECN 420E,Behavioural Economics,,Tolga Yuret,MED,Pazartesi,1430/1729,A13,100,77,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+13,11481,ECN 431E,Europ.Economics & Institutions,,Serdar Altay,MED,Cuma,1430/1729,A12,100,55,Yok/None,"ECNE, EFN, ESS",ECN 202E MIN DD,Yok/None
+14,11479,ECN 432E,Labor Economics,,Şerife Genç İleri,MDB,Perşembe,1130/1429,A201,100,61,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+15,11480,ECN 433E,Regulatory Econ.& Reg. Markets,Çevrimiçi/Online,Mathias Peter Finger,----,Salı,1130/1429,----,100,44,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+16,14830,ECN 4902E,Graduation Project,,Bülent Güloğlu,MED,----,/,---,100,22,Yok/None,"ECNE, EFN, ESS","ECN 301E MIN DD
+Diğer Şartlar / Other Prerequisites",4.Sınıf
+17,11483,ECN 492E,Graduation Project,,Bülent Güloğlu,MED,----,/,---,100,7,Yok/None,ECNE,Diğer Şartlar,4.Sınıf

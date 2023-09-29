@@ -1,0 +1,53 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,11412,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,--,----,"Pazartesi
+Pazartesi","1030/1129
+1130/1329",----,150,148,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ECNE, EHB, EHBE, ELE, ELH, END, ENDE, ENTE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, ICM, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+1,11418,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,--,----,"Pazartesi
+Pazartesi","1430/1529
+1530/1729",----,150,146,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ECNE, EHB, EHBE, ELE, ELH, END, ENDE, ENTE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, ICM, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+2,13045,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Onur Yılmaz Özcan,----,Pazartesi,1430/1729,----,60,21,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+3,11423,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,--,----,"Salı
+Salı","1030/1129
+1130/1329",----,150,136,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ECNE, EHB, EHBE, ELE, ELH, END, ENDE, ENTE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, ICM, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+4,11428,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,--,----,"Salı
+Salı","1430/1529
+1530/1729",----,150,149,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ECNE, EHB, EHBE, ELE, ELH, END, ENDE, ENTE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, ICM, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+5,11436,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,--,----,"Çarşamba
+Çarşamba","0930/1029
+1030/1229",----,150,146,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ECNE, EHB, EHBE, ELE, ELH, END, ENDE, ENTE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, ICM, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+6,15122,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Evren Dağlarlı,----,Çarşamba,0930/1229,----,50,42,Yok/None,IND,Yok/None,Yok/None
+7,10340,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Halil Bayraktar,----,Çarşamba,1230/1529,----,35,24,Yok/None,"BIO, BIOE",Yok/None,Yok/None
+8,11432,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,--,----,"Çarşamba
+Çarşamba","1230/1329
+1330/1529",----,150,150,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ECNE, EHB, EHBE, ELE, ELH, END, ENDE, ENTE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, ICM, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+9,15123,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Erke Arıbaş,----,Çarşamba,1530/1829,----,50,50,Yok/None,EFN,Yok/None,Yok/None
+10,11440,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,--,----,"Perşembe
+Perşembe","1030/1129
+1130/1329",----,150,149,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ECNE, EHB, EHBE, ELE, ELH, END, ENDE, ENTE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, ICM, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+11,11443,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,--,----,"Perşembe
+Perşembe","1430/1529
+1530/1729",----,150,149,Yok/None,"BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, ECNE, EHB, EHBE, ELE, ELH, END, ENDE, ENTE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, ICM, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+12,13049,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Onur Yılmaz Özcan,----,Perşembe,1430/1729,----,60,22,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+13,10338,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Halil Bayraktar,----,Cuma,0930/1229,----,35,35,Yok/None,"BIO, BIOE",Yok/None,Yok/None
+14,15124,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Berfin Kalay,----,Cuma,1400/1659,----,50,38,Yok/None,ARC,Yok/None,Yok/None
+15,11203,BIL 109,Bilgisayar,,Zeynep Ayşe Hatipoğlu,TMB,Pazartesi,0830/1029,---,25,25,Yok/None,"BST, CAB, CEB, KMP, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+16,11206,BIL 109,Bilgisayar,,Zeynep Ayşe Hatipoğlu,TMB,Çarşamba,0830/1029,---,25,20,Yok/None,"BST, CAB, CEB, KMP, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+17,11207,BIL 109,Bilgisayar,,Zeynep Ayşe Hatipoğlu,TMB,Çarşamba,1030/1229,---,25,9,Yok/None,"BST, CAB, CEB, KMP, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+18,11208,BIL 109,Bilgisayar,,Zeynep Ayşe Hatipoğlu,TMB,Perşembe,0830/1029,---,25,19,Yok/None,"BST, CAB, CEB, KMP, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+19,11934,BIL 110E,Intr. to Prog. Language (C),,Egnar Özdikililer,UUB,Salı,0930/1229,BIL1,90,90,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+20,11937,BIL 110E,Intr. to Prog. Language (C),,Egnar Özdikililer,UUB,Çarşamba,0830/1129,BIL1,90,90,Yok/None,"UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+21,12503,BIL 110E,Intr. to Prog. Language (C),,Ömür Acaroğlu Ergün,MDB,Çarşamba,1130/1429,B207,60,60,Yok/None,"CHZ, MAD, MADE",Yok/None,Yok/None
+22,12014,BIL 110E,Intr. to Prog. Language (C),,Ayşe Elvan Bayraktaroğlu,MED,Cuma,1430/1729,---,70,10,Yok/None,"END, ENDE",Yok/None,Yok/None
+23,11734,BIL 112E,Intr.to Prog.Language(FORTRAN),,Ahmet Öztopal,UUB,Çarşamba,1130/1429,BIL1,60,27,Yok/None,"MTO, MTOE, UCK, UCKE",Yok/None,Yok/None
+24,12268,BIL 112E,Intr.to Prog.Language(FORTRAN),,Neslihan Ocakoğlu Gökaşan,MDB,Cuma,1430/1729,B207,50,50,Yok/None,"JEF, JEFE",Yok/None,Yok/None
+25,13699,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),,Ata Bilgili,DZB,Pazartesi,0830/1129,---,31,31,Yok/None,"GMI, GMIE",Yok/None,Yok/None
+26,12374,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),,Celale Kırkın Gözükırmızı,KMB,Pazartesi,0930/1229,BIL.LAB1,55,55,Yok/None,"GID, GIDE",Yok/None,Yok/None
+27,12405,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),,Şükriye Beste Aydın,MDB,Pazartesi,1330/1629,B207,50,50,Yok/None,"CHZ, CHZE",Yok/None,Yok/None
+28,13325,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),,Gökhan Çevikbilen,INB,Pazartesi,1330/1629,D103,60,40,Yok/None,"INS, INSE",Yok/None,Yok/None
+29,11484,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),,Aydın Mert,DZB,Salı,0830/1129,---,50,50,Yok/None,"DUI, DUIE, GMI, GMIE",Yok/None,Yok/None
+30,13594,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Çevrimiçi/Online,İlkay Özsev Yüksek,----,Salı,0830/1129,----,40,20,Yok/None,"TEK, TEKE",Yok/None,Yok/None
+31,11485,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),,Aydın Mert,DZB,Salı,1130/1429,---,50,50,Yok/None,"DUI, DUIE, GMI, GMIE",Yok/None,Yok/None
+32,12343,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Çevrimiçi/Online,"Cem Örnek, Selim Ertürk",----,Salı,1330/1629,----,35,35,Yok/None,"MET, METE",Yok/None,Yok/None
+33,11486,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),,Aydın Mert,DZB,Salı,1430/1729,---,50,50,Yok/None,"DUI, DUIE, GMI, GMIE",Yok/None,Yok/None
+34,13763,BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),,Ata Bilgili,DZB,Çarşamba,1230/1529,---,70,62,Yok/None,"EFN, MEN, MTM",Yok/None,Yok/None

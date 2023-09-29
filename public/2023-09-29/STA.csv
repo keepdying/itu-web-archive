@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12194,STA 201,Statik,,Bahattin Kimençe,EEB,Salı,1230/1529,5103,50,50,Yok/None,"EHB, ELK, KOM",Yok/None,Yok/None
+1,15215,STA 201E,Statics,,Sedat Kömürcü,MDB,Cuma,0830/1129,A205,80,58,Yok/None,"JEO, JEOE, MAD, MADE",Yok/None,Yok/None
+2,12195,STA 201E,Statics,,Murat Yılmaz,EEB,Cuma,1400/1659,5103,50,50,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+3,12196,STA 204,Statik ve Mukavemet,,Bahattin Kimençe,EEB,Cuma,0830/1129,5103,50,22,Yok/None,"EHB, ELK, GID, KMM, KOM",Yok/None,Yok/None
+4,13139,STA 204,Statik ve Mukavemet,,Bahattin Kimençe,INB,Cuma,1430/1729,A104,60,54,Yok/None,CEV,Yok/None,Yok/None
+5,13951,STA 204E,Statics&Strength of Materials,,Sedat Kömürcü,MDB,Pazartesi,0830/1129,A201,80,67,Yok/None,"PET, PETE",Yok/None,Yok/None
+6,13053,STA 204E,Statics&Strength of Materials,,Arcan Yanık,INB,Pazartesi,1430/1729,A304,60,56,Yok/None,"ISL, ISLE",Yok/None,Yok/None
+7,12197,STA 204E,Statics&Strength of Materials,,Hale Ergün,EEB,Çarşamba,0830/1129,5103,50,0,Yok/None,"EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+8,13140,STA 204E,Statics&Strength of Materials,,Pelin Gündeş Bakır,INB,Cuma,1430/1729,A205,65,64,Yok/None,"CEV, CEVE",Yok/None,Yok/None

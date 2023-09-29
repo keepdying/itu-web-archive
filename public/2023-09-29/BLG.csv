@@ -1,0 +1,217 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12150,BLG 101E,Intr. to Information Systems,,Kemal Bıçakçı,"INB
+INB","Perşembe
+Perşembe","0830/1029
+1030/1129","D101
+D102",100,87,Yok/None,"BLG, BLGE",Yok/None,Yok/None
+1,12151,BLG 101E,Intr. to Information Systems,,Mehmet Tahir Sandıkkaya,"GDB
+GDB","Perşembe
+Perşembe","0830/1029
+1030/1129","339
+BGLAB",100,39,Yok/None,"BLG, BLGE",Yok/None,Yok/None
+2,13911,BLG 101E,Intr. to Information Systems,,Muhammed Sebul Beratoğlu,"KMB
+FEB","Perşembe
+Perşembe","0830/1029
+1030/1129","D103
+OBL1",100,64,Yok/None,YZVE,Yok/None,Yok/None
+3,12152,BLG 113E,Intr.toComp.Eng.and Ethics,Çevrimiçi/Online,Gökhan İnce,----,Çarşamba,1330/1529,----,180,135,Yok/None,"BLG, BLGE",Yok/None,Yok/None
+4,12155,BLG 210E,Engineering Mathematics,,Mehmet Akif Yazıcı,EEB,Pazartesi,1300/1659,---,100,45,"YZVE/10/2
+Diğer/90/43","BLG, BLGE, YZVE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 287 MIN DD
+veya MAT 287E MIN DD",Yok/None
+5,12156,BLG 210E,Engineering Mathematics,,Enver Özdemir,EEB,Perşembe,1300/1659,---,100,91,"YZVE/10/2
+Diğer/90/89","BLG, BLGE, YZVE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 287 MIN DD
+veya MAT 287E MIN DD",Yok/None
+6,13521,BLG 212,Mikroişlemci Sistemleri,,Tamer Ölmez,EEB,Perşembe,1330/1629,2106,50,26,Yok/None,"EHB, ELE, ELH, ELK, KOM","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+7,12164,BLG 212E,Microprocessor Systems,,Ayşe Yılmazer,EEB,Pazartesi,0830/1129,---,130,130,Yok/None,"BLG, BLGE, CEN","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+8,12165,BLG 212E,Microprocessor Systems,,Gökhan İnce,EEB,Pazartesi,0830/1129,---,130,61,Yok/None,"BLG, BLGE, CEN","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+9,12163,BLG 212E,Microprocessor Systems,,Yaşar Erenler,EEB,Perşembe,1330/1629,---,120,119,Yok/None,"CEN, EHB, EHBE, EHS, ELE, ELH, ELK, ELKE, KOM, KOME","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+10,12157,BLG 223E,Data Structures,,Tolga Ovatman,"EEB
+EEB","Salı
+Perşembe","0930/1129
+1030/1229","---
+---",130,130,Yok/None,"BLG, BLGE, CEN","BLG 102 MIN DD
+veya BLG 102E MIN DD
+veya BIL 104 MIN DD
+veya BIL 104E MIN DD
+veya BIL 105 MIN DD
+veya BIL 105E MIN DD",Yok/None
+11,12158,BLG 223E,Data Structures,,Mehmet Baysan,"EEB
+EEB","Salı
+Perşembe","0930/1129
+1030/1229","---
+---",130,127,Yok/None,"BLG, BLGE, CEN","BLG 102 MIN DD
+veya BLG 102E MIN DD
+veya BIL 104 MIN DD
+veya BIL 104E MIN DD
+veya BIL 105 MIN DD
+veya BIL 105E MIN DD",Yok/None
+12,12159,BLG 231E,Digital Circuits,,Feza Buzluca,EEB,Cuma,0830/1129,---,90,90,"END/2/2
+ENDE/3/3
+Diğer/85/85","BLG, BLGE, END, ENDE",Yok/None,Yok/None
+13,12160,BLG 231E,Digital Circuits,,Sanem Kabadayı,EEB,Cuma,0830/1129,---,90,90,Yok/None,"BLG, BLGE",Yok/None,Yok/None
+14,12161,BLG 231E,Digital Circuits,,Mustafa Ersel Kamaşak,EEB,Cuma,0830/1129,---,90,30,Yok/None,"BLG, BLGE",Yok/None,Yok/None
+15,12166,BLG 317E,Database Systems,,Ali Çakmak,EEB,Çarşamba,0830/1129,---,120,117,Yok/None,"BLG, BLGE, CEN, YZVE","BLG 252 MIN DD
+veya BLG 252E MIN DD
+veya MUH 212 MIN DD
+veya MUH 212E MIN DD
+veya YZV 201E MIN DD",Yok/None
+16,13730,BLG 317E,Database Systems,,Yaşar Erenler,EEB,Çarşamba,0830/1129,---,120,85,Yok/None,"BLG, BLGE, CEN, YZVE","BLG 252 MIN DD
+veya BLG 252E MIN DD
+veya MUH 212 MIN DD
+veya MUH 212E MIN DD
+veya YZV 201E MIN DD",Yok/None
+17,12167,BLG 335E,Analysis of Algorithms I,,Hazım Kemal Ekenel,EEB,Salı,0830/1129,---,120,115,Yok/None,"BLG, BLGE, CEN, YZVE","(BLG 221 MIN DD
+veya BLG 221E MIN DD
+veya BLG 223 MIN DD
+veya BLG 223E MIN DD
+veya BLG 233 MIN DD
+veya BLG 233E MIN DD
+veya YZV 201E MIN DD)
+ve (BLG 252 MIN DD
+veya BLG 252E MIN DD
+veya YZV 201E MIN DD)",Yok/None
+18,12168,BLG 335E,Analysis of Algorithms I,,İlkay Öksüz,EEB,Perşembe,0830/1129,---,120,89,Yok/None,"BLG, BLGE, CEN, YZVE","(BLG 221 MIN DD
+veya BLG 221E MIN DD
+veya BLG 223 MIN DD
+veya BLG 223E MIN DD
+veya BLG 233 MIN DD
+veya BLG 233E MIN DD
+veya YZV 201E MIN DD)
+ve (BLG 252 MIN DD
+veya BLG 252E MIN DD
+veya YZV 201E MIN DD)",Yok/None
+19,15087,BLG 337E,Principles of Computer Comm.,,Burak Berk Üstündağ,EEB,Pazartesi,1430/1729,---,80,80,Yok/None,"BLG, BLGE, CEN",Yok/None,Yok/None
+20,12180,BLG 348E,Introduction to Bioinformatics,,Mehmet Baysan,EEB,Perşembe,1330/1629,---,100,76,Yok/None,"BLG, BLGE",Yok/None,Yok/None
+21,12169,BLG 351E,Microcomputer Lab.,,İlkay Öksüz,EEB,Pazartesi,1230/1429,---,60,60,Yok/None,"BLG, BLGE","BLG 212 MIN DD
+veya BLG 212E MIN DD
+veya BLG 222 MIN DD
+veya BLG 222E MIN DD",Yok/None
+22,12170,BLG 351E,Microcomputer Lab.,,İlkay Öksüz,EEB,Salı,0830/1029,---,60,34,Yok/None,"BLG, BLGE","BLG 212 MIN DD
+veya BLG 212E MIN DD
+veya BLG 222 MIN DD
+veya BLG 222E MIN DD",Yok/None
+23,12171,BLG 351E,Microcomputer Lab.,,İlkay Öksüz,EEB,Cuma,1430/1629,---,60,38,Yok/None,"BLG, BLGE","BLG 212 MIN DD
+veya BLG 212E MIN DD
+veya BLG 222 MIN DD
+veya BLG 222E MIN DD",Yok/None
+24,12172,BLG 411E,Software Engineering,,Ayşe Tosun,EEB,Salı,1330/1629,---,100,100,Yok/None,"BLG, BLGE, YZVE","BLG 252 MIN DD
+veya BLG 252E MIN DD",Yok/None
+25,12173,BLG 411E,Software Engineering,,Ahmet Cüneyd Tantuğ,KMB,Salı,1330/1629,D103,100,68,Yok/None,"BLG, BLGE, YZVE","BLG 252 MIN DD
+veya BLG 252E MIN DD",Yok/None
+26,12175,BLG 433E,Computer Communications,,Gökhan Seçinti,EEB,Çarşamba,0830/1029,---,80,37,Yok/None,"BLG, BLGE","BLG 252 MIN DD
+veya BLG 252E MIN DD",Yok/None
+27,12174,BLG 435E,Artificial Intelligence,,Sanem Sarıel,EEB,Salı,1030/1229,---,80,80,Yok/None,"BLG, BLGE","BLG 372 MIN DD
+veya BLG 372E MIN DD
+veya BLG 336 MIN DD
+veya BLG 336E MIN DD",Yok/None
+28,12176,BLG 439E,Computer Project I,,Deniz Turgay Altılar,EEB,Pazartesi,1230/1529,---,80,11,Yok/None,"BLG, BLGE","(BLG 221 MIN DD
+veya BLG 221E MIN DD
+veya BLG 223 MIN DD
+veya BLG 223E MIN DD
+veya BLG 233 MIN DD
+veya BLG 233E MIN DD)
+ve (BLG 212E MIN DD
+veya BLG 212 MIN DD
+veya ELK 323 MIN DD
+veya ELK 323E MIN DD)",Yok/None
+29,13729,BLG 440E,Computer Project II,,Mehmet Keskinöz,"EEB
+EEB","Salı
+Çarşamba","1030/1129
+1030/1229","---
+---",80,10,Yok/None,"BLG, BLGE","BLG 221 MIN DD
+veya BLG 221E MIN DD
+veya BLG 223 MIN DD
+veya BLG 223E MIN DD
+veya BLG 233 MIN DD
+veya BLG 233E MIN DD",Yok/None
+30,12177,BLG 450E,Real-Time Systems Software,,Deniz Turgay Altılar,EEB,Perşembe,0830/1029,---,80,7,Yok/None,"BLG, BLGE","BLG 312 MIN DD
+veya BLG 312E MIN DD",Yok/None
+31,12178,BLG 453E,Computer Vision,,Mehmet Keskinöz,EEB,Salı,0830/1029,---,80,63,Yok/None,"BLG, BLGE","(MAT 281 MIN DD
+veya MAT 281E MIN DD)
+ve BLG 202E MIN DD",Yok/None
+32,12183,BLG 454E,Learning From Data,,Yusuf Yaslan,EEB,Pazartesi,0930/1229,---,100,72,Yok/None,"BLG, BLGE, CEN, ECNE, YZVE","MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya ECN 301E MIN DD
+veya YZV 231E MIN DD",Yok/None
+33,14669,BLG 458E,Functional Programming,,Tolga Ovatman,EEB,Çarşamba,0830/1029,---,80,80,Yok/None,"BLG, BLGE","BLG 233 MIN DD
+veya BLG 233E MIN DD
+veya BLG 221 MIN DD
+veya BLG 221E MIN DD
+veya BLG 223 MIN DD
+veya BLG 223E MIN DD",Yok/None
+34,12179,BLG 459E,Computer Security,,Şerif Bahtiyar,EEB,Çarşamba,1030/1229,---,80,54,Yok/None,"BLG, BLGE","BLG 336 MIN DD
+veya BLG 336E MIN DD
+veya BLG 372 MIN DD
+veya BLG 372E MIN DD",Yok/None
+35,12185,BLG 463E,Innov. Leadership in Comp.Eng.,,Alper Almelek,EEB,Cuma,0930/1229,---,40,39,Yok/None,"BLG, BLGE, CEN, YZVE",Yok/None,Yok/None
+36,12186,BLG 4901,Bilgisayar Müh. Tasarımı I,,Yusuf Yaslan,EEB,----,/,---,500,2,Yok/None,BLG,"(BLG 322 MIN DD
+veya BLG 322E MIN DD
+veya BLG 312 MIN DD
+veya BLG 312E MIN DD
+veya BLG 336 MIN DD
+veya BLG 336E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+37,12187,BLG 4901E,Computer Engineering Design I,,Yusuf Yaslan,EEB,----,/,---,500,113,Yok/None,"BLG, BLGE","(BLG 322 MIN DD
+veya BLG 322E MIN DD
+veya BLG 312 MIN DD
+veya BLG 312E MIN DD
+veya BLG 336 MIN DD
+veya BLG 336E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+38,12188,BLG 4902,Bilgisayar Mühen. Tasarımı II,,Yusuf Yaslan,EEB,----,/,---,500,1,Yok/None,BLG,"BLG 4901 MIN BB
+veya BLG 4901E MIN BB",Yok/None
+39,12189,BLG 4902E,Computer Engineering Design II,,Yusuf Yaslan,EEB,----,/,---,500,22,Yok/None,"BLG, BLGE","BLG 4901 MIN BB
+veya BLG 4901E MIN BB",Yok/None
+40,12190,BLG 492,Bitirme Çalışması,,Yusuf Yaslan,EEB,----,/,---,500,5,Yok/None,BLG,Diğer Şartlar,4.Sınıf
+41,12191,BLG 492E,Graduation Project,,Yusuf Yaslan,EEB,----,/,---,500,14,Yok/None,"BLG, BLGE",Diğer Şartlar,4.Sınıf

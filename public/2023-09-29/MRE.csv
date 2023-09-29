@@ -1,0 +1,22 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13719,MRE 101,Maritime Eng. Drawing and Des,,Burak Zincir,DZB,Çarşamba,0830/1229,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+1,13725,MRE 105,Professional Studies,,Yalçın Durmuşoğlu,DZB,Perşembe,0830/1229,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+2,13724,MRE 107,English for Eng. Officers,,Müjgan Özenir,DZB,Çarşamba,1330/1529,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+3,13718,MRE 311,Marine Electronics,,Gazi Koçak,DZB,Çarşamba,0830/1229,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+4,13705,MRE 313,Numerical Analysis&Comp.Prog.,,Ata Bilgili,DZB,Pazartesi,1330/1729,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+5,13726,MRE 321,Fluid Mechanics,,Ata Bilgili,DZB,Perşembe,0830/1129,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+6,13736,MRE 330,Long Term Sea Training,,Ata Bilgili,DZB,----,/,---,200,0,Yok/None,SGM,Yok/None,Yok/None
+7,13723,MRE 342,Maritime Conventions,,Fırat Bolat,DZB,Çarşamba,1230/1529,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+8,13731,MRE 343,Ship Sys.III:Mar. Disl Eng.I,,Burak Zincir,DZB,Perşembe,1330/1729,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+9,13712,MRE 361,Naval Arch.&Ship Construction,,Hakan Demirel,DZB,Salı,0830/1129,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+10,13701,MRE 371,Engine Room Simulator I,,İsmail Çiçek,DZB,Pazartesi,0830/1329,---,10,1,Yok/None,SGM,Yok/None,Yok/None
+11,13716,MRE 381,Engineering Economics,,Kadir Çiçek,DZB,Salı,1330/1729,---,10,0,Yok/None,SGM,Yok/None,Yok/None
+12,13722,MRE 383,Ship Management,,Metin Çelik,DZB,Çarşamba,1230/1529,---,10,0,Yok/None,SGM,Yok/None,Yok/None
+13,13713,MRE 387,Hydraulic & Pneumatic Syst,,Burak Zincir,DZB,Salı,0830/1129,---,10,0,Yok/None,SGM,Yok/None,Yok/None
+14,13734,MRE 432,Maritime Law,,Hakan Muran,DZB,Cuma,1400/1659,---,10,0,Yok/None,SGM,Yok/None,Yok/None
+15,13727,MRE 443,Ship Sys.IV:Mar. Disl Eng.II,,Cengiz Deniz,DZB,Perşembe,0830/1229,---,10,0,Yok/None,SGM,Yok/None,Yok/None
+16,13709,MRE 453,Ship Sys.V:Mar.Auxl. Mach. III,,Ömer Berkehan İnal,DZB,Pazartesi,1330/1729,---,10,0,Yok/None,SGM,Yok/None,Yok/None
+17,13703,MRE 463,Marine Engineering Materials,,Yasin Arslanoğlu,DZB,Pazartesi,0830/1129,---,10,0,Yok/None,SGM,Yok/None,Yok/None
+18,13720,MRE 471,Automatic Control Systems,,İsmail Çiçek,DZB,Çarşamba,0830/1129,---,10,0,Yok/None,SGM,Yok/None,Yok/None
+19,13737,MRE 492,Design Project,,Ata Bilgili,DZB,----,/,---,10,0,Yok/None,SGM,Diğer Şartlar,Yok/None

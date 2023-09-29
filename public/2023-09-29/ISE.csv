@@ -1,0 +1,17 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12656,ISE 101,Intro.to Information Sys. and,,Mustafa Ersel Kamaşak,"EEB
+EEB","Perşembe
+Cuma","0930/1229
+1430/1629","---
+---",45,17,Yok/None,SBL,Yok/None,Yok/None
+1,12654,ISE 111,Linear Algebra,,Deniz Turgay Altılar,EEB,Perşembe,1330/1629,---,35,14,Yok/None,SBL,Yok/None,Yok/None
+2,12657,ISE 302,Operating Systems,,Gökhan Seçinti,EEB,Çarşamba,1030/1329,---,45,9,Yok/None,SBL,Yok/None,Yok/None
+3,12658,ISE 304,SW Engineering,,Ahmet Cüneyd Tantuğ,EEB,Perşembe,1230/1529,---,45,9,Yok/None,SBL,Yok/None,Yok/None
+4,12659,ISE 308,Artifical Intell. & Expert Sys,,Sanem Sarıel,EEB,Perşembe,0930/1229,---,45,2,Yok/None,SBL,Yok/None,Yok/None
+5,12660,ISE 315,Analysis of Algorithms,,Hazım Kemal Ekenel,"EEB
+EEB","Pazartesi
+Çarşamba","0830/1129
+0830/1029","---
+---",45,13,Yok/None,SBL,Yok/None,Yok/None
+6,12661,ISE 333,Int. to Comp. & Inf. Security,,Şerif Bahtiyar,EEB,Salı,1330/1629,---,45,8,Yok/None,SBL,Yok/None,Yok/None

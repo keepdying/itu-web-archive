@@ -1,0 +1,115 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13337,IML 305,Isı Geçişi,,Turgut Yılmaz,"MKB
+MKB","Pazartesi
+Perşembe","0930/1029
+0830/1029","D376
+D376",40,7,Yok/None,IML,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+1,13338,IML 311,İmal Usülleri I,,Şafak Yılmaz,"MKB
+MKB","Salı
+Perşembe","1030/1229
+1030/1229","D376
+D376",40,1,Yok/None,IML,"MAL 201 MIN DD
+veya MAL 201E MIN DD
+veya MAK 213 MIN DD
+veya MAK 213E MIN DD",Yok/None
+2,15078,IML 312,İmal Usülleri II,,Şafak Yılmaz,"MKB
+MKB","Salı
+Perşembe","1330/1529
+1330/1529","D381B
+D381B",40,3,Yok/None,IML,"MAL 201 MIN DD
+veya MAL 201E MIN DD
+veya MAK 213 MIN DD
+veya MAK 213E MIN DD",Yok/None
+3,13339,IML 320,Makina Elemanları,,Atakan Altınkaynak,"MKB
+MKB","Salı
+Perşembe","1330/1529
+1430/1729","D376
+D376",40,5,Yok/None,"IML, IMLM","(MAK 105 MIN DD
+veya MAK 105E MIN DD
+veya RES 105 MIN DD
+veya RES 105E MIN DD)
+ve (MUK 205 MIN DD
+veya MUK 205E MIN DD
+veya MUK 207 MIN DD
+veya MUK 207E MIN DD)",Yok/None
+4,13340,IML 337,İmalat Planlama ve Kontrol,,Ramazan Murat Tabanlı,"MKB
+MKB","Pazartesi
+Çarşamba","1030/1229
+0930/1029","D376
+D376",40,3,Yok/None,IML,"MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya MAK 211 MIN DD
+veya MAK 211E MIN DD",Yok/None
+5,13341,IML 338,İmalat Sistemleri,,Ramazan Murat Tabanlı,MKB,Salı,0830/1129,D378,40,0,Yok/None,IML,"IML 337 MIN DD
+veya IML 337E MIN DD",Yok/None
+6,13346,IML 401,İmalat Lab I,,Canan Gamze Güleryüz Parasız,MKB,----,/,---,40,9,Yok/None,"IML, IMLM",Yok/None,4.Sınıf
+7,13342,IML 405,Uygulamalı İmalat Projesi,,Hacı Abdullah Taşdemir,MKB,----,/,---,40,0,Yok/None,IML,"(IML 311 MIN DD
+veya IML 311E MIN DD
+veya IML 212 MIN DD
+veya IML 212E MIN DD)
+ve (IML 312 MIN DD
+veya IML 312E MIN DD
+veya IML 313 MIN DD
+veya IML 313E MIN DD)
+ve (IML 338 MIN DD
+veya IML 338E MIN DD)",Yok/None
+8,13343,IML 425E,Comp.Integra.Manufact. (CIM),,Erkan Günpınar,MKB,Çarşamba,0930/1229,D378,40,0,Yok/None,"IML, IMLE, IMLM","IML 313 MIN DD
+veya IML 313E MIN DD",Yok/None
+9,13344,IML 431,Kalite Mühendisliği,,Ali Gökşenli,MKB,Salı,0830/1129,D380A,40,2,Yok/None,IML,"MAT 271 MIN DD
+veya MAT 271E MIN DD",Yok/None
+10,13345,IML 451,İmalat Makineleri,,Murat Vural,MKB,Çarşamba,0830/1129,D381B,40,0,Yok/None,IML,"IML 313 MIN DD
+veya IML 313E MIN DD",Yok/None
+11,13920,IML 4901,İmalat Müh. Tasarımı I,,Adil Yücel,MKB,----,/,---,100,13,Yok/None,IML,"(IML 311 MIN DD
+veya IML 311E MIN DD)
+ve (IML 312 MIN DD
+veya IML 312E MIN DD)
+ve (IML 338 MIN DD
+veya IML 338E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101EL MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (KIM 101L MIN DD
+veya KIM 101EL MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAK 210 MIN DD
+veya MAK 210E MIN DD)",4.Sınıf
+12,13921,IML 4901E,Manufacturing Eng. Design I,,Adil Yücel,MKB,----,/,---,100,2,Yok/None,IML,"(IML 311 MIN DD
+veya IML 311E MIN DD)
+ve (IML 312 MIN DD
+veya IML 312E MIN DD)
+ve (IML 338 MIN DD
+veya IML 338E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (KIM 101L MIN DD
+veya KIM 101EL MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAK 210 MIN DD
+veya MAK 210E MIN DD)",4.Sınıf
+13,13922,IML 4902,İmalat Müh. Tasarımı II,,Adil Yücel,MKB,----,/,---,100,2,Yok/None,IML,"IML 4901 MIN BB
+veya IML 4901E MIN BB",Yok/None
+14,13923,IML 4902E,Manufacturing Eng. Design II,,Adil Yücel,MKB,----,/,---,100,2,Yok/None,IML,"IML 4901 MIN BB
+veya IML 4901E MIN BB",Yok/None
+15,13918,IML 492,İmalat Tasarım Projesi,,Adil Yücel,MKB,----,/,---,100,0,Yok/None,IML,Diğer Şartlar,4.Sınıf
+16,13919,IML 492E,Manufacturing Design Project,,Adil Yücel,MKB,----,/,---,100,0,Yok/None,"IML, IMLE",Diğer Şartlar,4.Sınıf

@@ -1,0 +1,239 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,11183,CAB 1013,Viyola I,,Zeynep Barut,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"MTR, MUT, MUZ, MZT",Yok/None,Yok/None
+1,15093,CAB 107,Bağlama I,,Cihangir Terzi,TMB,----,/,---,5,0,Yok/None,"CAB, CEB",Yok/None,Yok/None
+2,15094,CAB 107,Bağlama I,,Adnan Koç,TMB,----,/,---,5,2,Yok/None,"CAB, CEB",Yok/None,Yok/None
+3,15095,CAB 107,Bağlama I,,Erdem Şimşek,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",Yok/None,Yok/None
+4,15100,CAB 109,Ud I,,Sarper Eroğlu,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",Yok/None,Yok/None
+5,11184,CAB 1101,Keman I,,Pınar Tezişçi,TMB,Pazartesi,1330/1529,---,5,5,Yok/None,"MTR, MUT, MUZ, MZT",Yok/None,Yok/None
+6,15099,CAB 113,Ney I,,Burak Malçok,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",Yok/None,Yok/None
+7,15098,CAB 115,Mey I,,Cem Ekmen,TMB,----,/,---,5,0,Yok/None,"CAB, CEB",Yok/None,Yok/None
+8,15096,CAB 123,Flüt I,,Cem Önertürk,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",Yok/None,Yok/None
+9,15102,CAB 133,Viyolonsel I,,Cenk Öztürk,TMB,----,/,---,5,3,Yok/None,"CAB, CEB",Yok/None,Yok/None
+10,15101,CAB 135,Viyola I,,Barış Kerem Bahar,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",Yok/None,Yok/None
+11,15097,CAB 139,Kemane I,,Kadir Verim,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",Yok/None,Yok/None
+12,10985,CAB 143,Yrd.Çalgı Piyano I,,Devlet Devrim Öztaş,TMB,Çarşamba,1330/1529,---,17,15,Yok/None,"BST, CAB, CEB, KMP",Yok/None,Yok/None
+13,10986,CAB 151,Kanun I,,Safinaz Rizeli,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM3, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+14,11006,CAB 151,Kanun I,,Ayşegül Kostak Toksoy,TMB,Pazartesi,1330/1529,---,5,4,Yok/None,"CGM3, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+15,11007,CAB 153,Tanbur I,,Birol Yayla,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+16,11008,CAB 153,Tanbur I,,Göknil Bişak Özdemir,TMB,Pazartesi,1330/1529,---,5,1,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+17,11009,CAB 155,Tar I,,Ahmet Serhat Turunç,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUZ, SES, THO",Yok/None,Yok/None
+18,11010,CAB 157,Bağlama I,,Erdem Şimşek,TMB,Pazartesi,1330/1529,---,6,6,Yok/None,"CGM1, CGM6, CGM7, CGM8, DUI, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+19,11011,CAB 157,Bağlama I,,Metin Eke,TMB,Pazartesi,1330/1529,---,5,3,Yok/None,"CGM1, CGM6, CGM7, CGM8, DUI, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+20,11012,CAB 157,Bağlama I,,Cihangir Terzi,TMB,Pazartesi,1330/1529,---,5,2,Yok/None,"CGM1, CGM6, CGM7, CGM8, DUI, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+21,11013,CAB 157,Bağlama I,,Engin Şafak Gürler,TMB,Pazartesi,1330/1529,---,5,1,Yok/None,"CGM1, CGM6, CGM7, CGM8, DUI, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+22,11014,CAB 157,Bağlama I,,Adnan Koç,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM1, CGM6, CGM7, CGM8, DUI, MTR, MUT, MUZ, MZT, SES, THO",Yok/None,Yok/None
+23,11016,CAB 159,Ud I,,Osman Kırklıkçı,TMB,Pazartesi,1330/1529,---,5,4,Yok/None,"CGM4, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+24,11017,CAB 159,Ud I,,Sarper Eroğlu,TMB,Pazartesi,1330/1529,---,5,5,Yok/None,"CGM4, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+25,11018,CAB 161,Ney I,,Burak Malçok,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM6, CGM7, CGM8, DUI, MTR, MUZ",Yok/None,Yok/None
+26,11019,CAB 163,Mey I,,Cem Ekmen,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUZ, THO",Yok/None,Yok/None
+27,11020,CAB 165,Kaval I,,Cihan Yurtcu,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUZ, THO",Yok/None,Yok/None
+28,11021,CAB 167,Klarnet I,,Sezgin Unan,TMB,Pazartesi,1330/1529,---,5,1,Yok/None,"MTR, MUZ, THO",Yok/None,Yok/None
+29,11022,CAB 167,Klarnet I,,Ünsal Çeliksu,TMB,Pazartesi,1330/1529,---,5,1,Yok/None,"MTR, MUZ, THO",Yok/None,Yok/None
+30,11023,CAB 169,3 Telli Kemençe I,,Hatice Doğan Sevinç,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT",Yok/None,Yok/None
+31,11024,CAB 169,3 Telli Kemençe I,,Neva Özgen Kösoğlu,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT",Yok/None,Yok/None
+32,11025,CAB 171,4 Telli Kemençe I,,Nermin Kaygusuz,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT",Yok/None,Yok/None
+33,11026,CAB 173,Karadeniz Kemençesi I,,Aydın Balcı,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"MUZ, THO",Yok/None,Yok/None
+34,11027,CAB 175,Kemane I,,Ferhan Yeprem,TMB,Pazartesi,1330/1529,---,5,1,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, THO",Yok/None,Yok/None
+35,11030,CAB 177,Piyano I,,Sıtkı Kandemir Basmacıoğlu,TMB,Pazartesi,1030/1229,---,17,14,Yok/None,"DUI, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+36,11029,CAB 177,Piyano I,,Alper Rumelioğlu,TMB,Çarşamba,1330/1529,---,17,17,Yok/None,"DUI, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+37,11031,CAB 177,Piyano I,,Mehru Ensari,TMB,Cuma,1030/1229,---,17,17,Yok/None,"DUI, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+38,11028,CAB 177,Piyano I,,Devlet Devrim Öztaş,TMB,Cuma,1400/1559,---,17,17,Yok/None,"DUI, MTR, MUT, MUZ, MZT, SES",Yok/None,Yok/None
+39,11032,CAB 179,Asmalı Davul I,,Eyüp Uzunkaya,TMB,Pazartesi,1330/1529,---,8,8,Yok/None,THO,Yok/None,Yok/None
+40,11033,CAB 181,Kudüm I,,Serhat Tansu Altuğ,TMB,Pazartesi,1330/1529,---,5,1,Yok/None,"CGM6, CGM7, CGM8, MTR, MUZ",Yok/None,Yok/None
+41,11034,CAB 187,Gitar I,,Tufan Kurdoğlu,TMB,Pazartesi,1330/1529,---,5,5,Yok/None,"CGM2, CGM6, CGM7, CGM8, DUI, MTR, MUT, MUZ, MZT",Yok/None,Yok/None
+42,11035,CAB 189,Çalgılama I,,"Ahmet Hakan Şensoy, Sıtkı Kandemir Basmacıoğlu, Ünsal Çeliksu",TMB,Salı,1530/1729,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+43,11036,CAB 193,Zurna I,,Ünal Yürük,TMB,Pazartesi,1330/1529,---,5,0,Yok/None,"MUZ, THO",Yok/None,Yok/None
+44,11037,CAB 195,Viyolonsel I,,Gülyar Say,TMB,Pazartesi,1330/1529,---,5,2,Yok/None,"MTR, MUT, MUZ, MZT",Yok/None,Yok/None
+45,11186,CAB 2013,Viyola III,,Zeynep Barut,TMB,Pazartesi,1530/1729,---,5,1,Yok/None,"MTR, MUT, MUZ, MZT","CAB 1014 MIN CC
+veya CAB 136 MIN CC",Yok/None
+46,11038,CAB 207,Bağlama III,,Engin Şafak Gürler,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 108 MIN CC,Yok/None
+47,11039,CAB 209,Ud III,,Sarper Eroğlu,TMB,----,/,---,5,2,Yok/None,"CAB, CEB",CAB 110 MIN CC,Yok/None
+48,11187,CAB 2101,Keman III,,İbragım Orazov,TMB,Pazartesi,1530/1729,---,5,4,Yok/None,"MTR, MUT, MUZ, MZT","CAB 1102 MIN CC
+veya CAB 132 MIN CC",Yok/None
+49,11040,CAB 215,Mey III,,Cem Ekmen,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",Yok/None,Yok/None
+50,11041,CAB 229,4 Telli Kemençe III,,Lale Akay,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 130 MIN CC,Yok/None
+51,11042,CAB 243,Yrd.Çalgı Piyano III,,Devlet Devrim Öztaş,TMB,Pazartesi,1530/1729,---,17,11,Yok/None,"BST, CAB, CEB, KMP",Yok/None,Yok/None
+52,11043,CAB 251,Kanun III,,Safinaz Rizeli,TMB,Pazartesi,1530/1729,---,5,3,Yok/None,"CGM3, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES","CAB 152 MIN CC
+veya CAB 152E MIN CC",Yok/None
+53,11044,CAB 251,Kanun III,,Ayşegül Kostak Toksoy,TMB,Pazartesi,1530/1729,---,5,4,Yok/None,"CGM3, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES","CAB 152 MIN CC
+veya CAB 152E MIN CC",Yok/None
+54,11045,CAB 253,Tanbur III,,Birol Yayla,TMB,Pazartesi,1530/1729,---,5,2,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES",CAB 154 MIN CC,Yok/None
+55,11046,CAB 257,Bağlama III,,Metin Eke,TMB,Pazartesi,1530/1729,---,5,0,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES, THO","CAB 158 MIN CC
+veya CAB 158E MIN CC",Yok/None
+56,11047,CAB 257,Bağlama III,,Erdem Şimşek,TMB,Pazartesi,1530/1729,---,5,4,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES, THO","CAB 158 MIN CC
+veya CAB 158E MIN CC",Yok/None
+57,11048,CAB 257,Bağlama III,,Engin Şafak Gürler,TMB,Pazartesi,1530/1729,---,5,0,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES, THO","CAB 158 MIN CC
+veya CAB 158E MIN CC",Yok/None
+58,11049,CAB 257,Bağlama III,,Cihangir Terzi,TMB,Pazartesi,1530/1729,---,5,1,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES, THO","CAB 158 MIN CC
+veya CAB 158E MIN CC",Yok/None
+59,11050,CAB 257,Bağlama III,,Adnan Koç,TMB,Pazartesi,1530/1729,---,5,1,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES, THO","CAB 158 MIN CC
+veya CAB 158E MIN CC",Yok/None
+60,11051,CAB 259,Ud III,,Serkan Mesut Halili,TMB,Pazartesi,1530/1729,---,5,2,Yok/None,"CGM4, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES","CAB 160 MIN CC
+veya CAB 160E MIN CC",Yok/None
+61,11052,CAB 259,Ud III,,Sarper Eroğlu,TMB,Pazartesi,1530/1729,---,5,5,Yok/None,"CGM4, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, SES","CAB 160 MIN CC
+veya CAB 160E MIN CC",Yok/None
+62,11053,CAB 265,Kaval III,,Haydar Tanrıverdi,TMB,Pazartesi,1530/1729,---,5,1,Yok/None,"CGM6, CGM7, CGM8, MTR, MUZ, THO","CAB 166 MIN CC
+veya CAB 166E MIN CC",Yok/None
+63,11054,CAB 267,Klarnet III,,Sezgin Unan,TMB,Pazartesi,1530/1729,---,5,0,Yok/None,"MTR, MUZ, THO",Yok/None,Yok/None
+64,14979,CAB 269,3 Telli Kemençe III,,Neva Özgen Kösoğlu,TMB,Pazartesi,1530/1729,---,5,0,Yok/None,"MTR, MUT, MUZ, MZT","CAB 170 MIN CC
+veya CAB 170E MIN CC",Yok/None
+65,11055,CAB 271,4 Telli Kemençe III,,Lale Akay,TMB,Pazartesi,1530/1729,---,5,1,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT","CAB 172 MIN CC
+veya CAB 172E MIN CC",Yok/None
+66,11056,CAB 273,Karadeniz Kemençesi III,,Aydın Balcı,TMB,Pazartesi,1530/1729,---,5,0,Yok/None,"MUZ, THO",CAB 174 MIN CC,Yok/None
+67,11057,CAB 275,Kemane III,,Ferhan Yeprem,TMB,Pazartesi,1530/1729,---,5,2,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT, THO","CAB 176 MIN CC
+veya CAB 176E MIN CC",Yok/None
+68,11194,CAB 277,Piyano III,,Alper Rumelioğlu,TMB,Cuma,0830/1029,---,17,17,Yok/None,"MTR, MUT, MZT, SES","CAB 178 MIN CC
+veya CAB 178E MIN CC
+veya CAB 142 MIN CC",Yok/None
+69,11061,CAB 277,Piyano III,,Devlet Devrim Öztaş,TMB,Cuma,1030/1229,---,17,7,Yok/None,"MTR, MUT, MZT, SES","CAB 178 MIN CC
+veya CAB 178E MIN CC
+veya CAB 142 MIN CC",Yok/None
+70,11059,CAB 277,Piyano III,,Mehru Ensari,TMB,Cuma,1600/1759,---,17,17,Yok/None,"MTR, MUT, MZT, SES","CAB 178 MIN CC
+veya CAB 178E MIN CC
+veya CAB 142 MIN CC",Yok/None
+71,11062,CAB 279,Koltuk Davul I,,Salim Sınar,TMB,Pazartesi,1530/1729,---,5,4,Yok/None,THO,Yok/None,Yok/None
+72,11092,CAB 281,Def,,Serhat Tansu Altuğ,TMB,Pazartesi,1530/1729,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUZ",CAB 182 MIN CC,Yok/None
+73,11093,CAB 287,Gitar III,,Tufan Kurdoğlu,TMB,Pazartesi,1530/1729,---,5,4,Yok/None,"CGM2, CGM6, CGM7, CGM8, MTR, MUT, MUZ, MZT","CAB 188 MIN CC
+veya CAB 150 MIN CC",Yok/None
+74,11094,CAB 289,Çalgılama III,,"Neva Özgen Kösoğlu, Burak Malçok, Kadir Verim, Sarper Eroğlu",TMB,Perşembe,1530/1729,---,10,1,Yok/None,"BST, KMP",Yok/None,Yok/None
+75,11095,CAB 293,Zurna III,,Ünal Yürük,TMB,Pazartesi,1530/1729,---,5,1,Yok/None,"MUZ, THO",CAB 194 MIN CC,Yok/None
+76,11096,CAB 295,Viyolonsel III,,Gülyar Say,TMB,Pazartesi,1530/1729,---,5,2,Yok/None,"MTR, MUT, MUZ, MZT","CAB 196 MIN CC
+veya CAB 134 MIN CC",Yok/None
+77,11188,CAB 3013,Viyola V,,Zeynep Barut,TMB,Çarşamba,1030/1229,---,5,0,Yok/None,MTR,CAB 2014 MIN CC,Yok/None
+78,11097,CAB 307,Bağlama V,,Adnan Koç,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 208 MIN CC,Yok/None
+79,11098,CAB 307,Bağlama V,,Cihangir Terzi,TMB,----,/,---,5,2,Yok/None,"CAB, CEB",CAB 208 MIN CC,Yok/None
+80,11099,CAB 309,Ud V,,Bilen Işıktaş,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 210 MIN CC,Yok/None
+81,11190,CAB 3101,Keman V,,İbragım Orazov,TMB,Çarşamba,1030/1229,---,5,3,Yok/None,MTR,CAB 2102 MIN CC,Yok/None
+82,11191,CAB 3101,Keman V,,Ali Cihat Aşkın,TMB,Çarşamba,1030/1229,---,5,1,Yok/None,MTR,CAB 2102 MIN CC,Yok/None
+83,11100,CAB 315,Mey V,,Cem Ekmen,TMB,----,/,---,5,0,Yok/None,"CAB, CEB",CAB 216 MIN CC,Yok/None
+84,11101,CAB 319,Klarnet V,,Ünsal Çeliksu,TMB,----,/,---,5,2,Yok/None,"CAB, CEB",CAB 220 MIN CC,Yok/None
+85,11102,CAB 331,Keman V,,İbragım Orazov,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 232 MIN CC,Yok/None
+86,11103,CAB 339,Kemane V,,Kadir Verim,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 240 MIN CC,Yok/None
+87,11104,CAB 343,Yrd.Çalgı Piyano V,,Sıtkı Kandemir Basmacıoğlu,TMB,Cuma,1400/1559,---,17,6,Yok/None,"BST, CAB, CEB, KMP, SES",Yok/None,Yok/None
+88,11105,CAB 345,Kanun V,,Safinaz Rizeli,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 246 MIN CC,Yok/None
+89,11107,CAB 351,Kanun V,,Ayşegül Kostak Toksoy,TMB,Çarşamba,1030/1229,---,5,1,Yok/None,"CGM3, CGM6, CGM7, CGM8, MTR, MUT, SES",CAB 252 MIN CC,Yok/None
+90,11108,CAB 353,Tanbur V,,Birol Yayla,TMB,Çarşamba,1030/1229,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT, SES",CAB 254 MIN CC,Yok/None
+91,11109,CAB 357,Bağlama V,,Engin Şafak Gürler,TMB,Çarşamba,1030/1229,---,5,1,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, MUT, SES",CAB 258 MIN CC,Yok/None
+92,11110,CAB 357,Bağlama V,,Erdem Şimşek,TMB,Çarşamba,1030/1229,---,5,5,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, MUT, SES",CAB 258 MIN CC,Yok/None
+93,11111,CAB 357,Bağlama V,,Adnan Koç,TMB,Çarşamba,1030/1229,---,5,0,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, MUT, SES",CAB 258 MIN CC,Yok/None
+94,11112,CAB 359,Ud V,,Osman Kırklıkçı,TMB,Çarşamba,1030/1229,---,5,0,Yok/None,"CGM4, CGM6, CGM7, CGM8, MTR, MUT, SES",CAB 260 MIN CC,Yok/None
+95,11113,CAB 359,Ud V,,Sarper Eroğlu,TMB,Çarşamba,1030/1229,---,5,3,Yok/None,"CGM4, CGM6, CGM7, CGM8, MTR, MUT, SES",CAB 260 MIN CC,Yok/None
+96,11114,CAB 363,Mey V,,Cem Ekmen,TMB,Çarşamba,1030/1229,---,5,0,Yok/None,"CGM6, CGM7, CGM8, MTR",CAB 264 MIN CC,Yok/None
+97,11115,CAB 367,Klarnet V,,Ünsal Çeliksu,TMB,Çarşamba,1030/1229,---,5,0,Yok/None,MTR,CAB 268 MIN CC,Yok/None
+98,11116,CAB 375,Kemane V,,Kadir Verim,TMB,Çarşamba,1030/1229,---,5,1,Yok/None,"CGM6, CGM7, CGM8, MTR, MUT",CAB 276 MIN CC,Yok/None
+99,11117,CAB 389,Gitar V,,Tufan Kurdoğlu,TMB,Çarşamba,1030/1229,---,5,2,Yok/None,"CGM2, CGM6, CGM7, CGM8, MTR, THO",CAB 288 MIN CC,Yok/None
+100,15164,CAB 405,Tar VII,,Ahmet Serhat Turunç,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 306 MIN CC,Yok/None
+101,11118,CAB 407,Bağlama VII,,Erdem Şimşek,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 308 MIN CC,Yok/None
+102,11119,CAB 409,Ud VII,,Sarper Eroğlu,TMB,----,/,---,5,2,Yok/None,"CAB, CEB",CAB 310 MIN CC,Yok/None
+103,11192,CAB 4101,Keman VII,,Pınar Tezişçi,TMB,Çarşamba,1330/1529,---,5,2,Yok/None,MTR,CAB 3102 MIN CC,Yok/None
+104,15245,CAB 419,Klarnet VII,,Ünsal Çeliksu,TMB,----,/,---,5,0,Yok/None,"CAB, CEB",CAB 320 MIN CC,Yok/None
+105,11120,CAB 441,Piyano VII,,Mehru Ensari,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 342 MIN CC,Yok/None
+106,11121,CAB 443,Yrd.Çalgı Piyano VII,,Alper Rumelioğlu,TMB,Perşembe,1530/1729,---,17,11,Yok/None,"BST, CAB, CEB, KMP, SES",Yok/None,Yok/None
+107,11122,CAB 445,Kanun VII,,Ayşegül Kostak Toksoy,TMB,----,/,---,5,1,Yok/None,"CAB, CEB",CAB 346 MIN CC,Yok/None
+108,11123,CAB 457,Bağlama VII,,Metin Eke,TMB,Çarşamba,1330/1529,---,5,1,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, SES",CAB 358 MIN CC,Yok/None
+109,11124,CAB 457,Bağlama VII,,Engin Şafak Gürler,TMB,Çarşamba,1330/1529,---,5,1,Yok/None,"CGM1, CGM6, CGM7, CGM8, MTR, SES",CAB 358 MIN CC,Yok/None
+110,15109,CAB 457,Bağlama VII,,Engin Şafak Gürler,TMB,Perşembe,0830/1029,---,5,1,Yok/None,"MTR, SES",CAB 358 MIN CC,Yok/None
+111,11125,CAB 459,Ud VII,,Sarper Eroğlu,TMB,Çarşamba,1330/1529,---,5,3,Yok/None,"CGM4, CGM6, CGM7, CGM8, MTR, SES",CAB 360 MIN CC,Yok/None
+112,11126,CAB 467,Klarnet VII,,Sezgin Unan,TMB,Çarşamba,1330/1529,---,5,1,Yok/None,MTR,CAB 368 MIN CC,Yok/None
+113,11127,CAB 485,Gitar VII,,Tufan Kurdoğlu,TMB,Çarşamba,1330/1529,---,5,1,Yok/None,"CGM2, CGM6, CGM7, CGM8, MTR",CAB 386 MIN CC,Yok/None
+114,11128,CAB 492,Bitirme Çalışması,,Serkan Mesut Halili,TMB,----,/,---,100,3,Yok/None,"CAB, CEB",Diğer Şartlar,4.Sınıf
+115,11129,CAB 495,Viyolonsel VII,,Cenk Öztürk,TMB,Çarşamba,1330/1529,---,5,0,Yok/None,MTR,CAB 396 MIN CC,Yok/None
+116,11130,CAB 723,Oda Müziği III,,Gülyar Say,"TMB
+TMB","Çarşamba
+Cuma","1330/1529
+1030/1229","---
+---",10,3,Yok/None,"CAB, CEB",Yok/None,Yok/None
+117,11131,CAB 729,Uslup Tavır ve Yorum III,,Engin Şafak Gürler,"TMB
+TMB","Salı
+Perşembe","1330/1529
+1330/1529","---
+---",10,2,Yok/None,"CAB, CEB",Yok/None,Yok/None
+118,11132,CAB 731,Toplu Uygulama I (Orkestra),,Gülyar Say,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,3,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+119,11133,CAB 733,Toplu Uygulama I (THM),,Haydar Tanrıverdi,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,5,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+120,11134,CAB 735,Toplu Uygulama I (TSM),,Hatice Doğan Sevinç,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,2,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+121,11135,CAB 741,Toplu Uygulama III (Orkestra),,Gülyar Say,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,2,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+122,11137,CAB 743,Toplu Uygulama III (THM),,Haydar Tanrıverdi,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,2,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+123,11140,CAB 745,Toplu Uygulama III (TSM),,Hatice Doğan Sevinç,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,2,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+124,11142,CAB 751,Toplu Uygulama V (Orkestra),,Gülyar Say,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,0,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+125,11159,CAB 753,Toplu Uygulama V (THM),,Haydar Tanrıverdi,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,3,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+126,11162,CAB 755,Toplu Uygulama V (TSM),,Hatice Doğan Sevinç,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,3,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+127,11163,CAB 761,Toplu Uygulama VII (Orkestra)K,,Gülyar Say,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,1,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+128,11165,CAB 763,Toplu Uygulama VII (THM),,Haydar Tanrıverdi,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,3,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+129,11167,CAB 765,Toplu Uygulama VII (TSM),,Hatice Doğan Sevinç,"TMB
+TMB","Pazartesi
+Çarşamba","1030/1229
+1030/1229","---
+---",20,3,Yok/None,"CAB, CEB, CGM1, CGM2, CGM3, CGM4, CGM5, CGM8",Yok/None,Yok/None
+130,11169,CAB 775,17.yy Saz Eserleri Repertuarı,,Yelda Özgen Öztürk,TMB,Cuma,0930/1229,---,15,3,Yok/None,"CAB, CEB",Yok/None,Yok/None
+131,11170,CAB 777,Oyun Havaları Repertuarı I,,Metin Eke,TMB,Cuma,0930/1229,---,15,4,Yok/None,"CAB, CEB",Yok/None,Yok/None
+132,11172,CAB 781,Uslup Tavır ve Yorum I,,Engin Şafak Gürler,"TMB
+TMB","Salı
+Perşembe","1530/1729
+1530/1729","---
+---",15,3,Yok/None,"CAB, CEB",Yok/None,Yok/None
+133,11176,CAB 781,Uslup Tavır ve Yorum I,,Nermin Kaygusuz,"TMB
+TMB","Salı
+Perşembe","1530/1729
+1530/1729","---
+---",15,0,Yok/None,"CAB, CEB",Yok/None,Yok/None
+134,11178,CAB 783,Alto Kemençe I,,Lale Akay,"TMB
+TMB","Salı
+Perşembe","1530/1729
+1530/1729","---
+---",10,1,Yok/None,"CAB, CEB",Yok/None,Yok/None
+135,11179,CAB 785,Oda Müziği I,,Pınar Tezişçi,"TMB
+TMB","Salı
+Perşembe","1530/1729
+1530/1729","---
+---",15,2,Yok/None,"CAB, CEB",Yok/None,Yok/None
+136,11181,CAB 791,Bağlmda Çalp Söylme Gelneği I,,Metin Eke,TMB,Perşembe,1030/1229,---,10,2,Yok/None,"CAB, CEB",Yok/None,Yok/None
+137,11182,CAB 793,Doğaçlama Yöntemleri I,,Ali Kazım Akdağ,"TMB
+TMB","Pazartesi
+Çarşamba","1330/1529
+1330/1529","---
+---",10,0,Yok/None,"CAB, CEB",Yok/None,Yok/None

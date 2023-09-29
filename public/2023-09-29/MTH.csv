@@ -1,0 +1,54 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10946,MTH 101,Calculus I,,Ali Sait Demir,"MED
+MED","Pazartesi
+Salı","1530/1729
+0830/1129","B36
+B36",30,22,Yok/None,"MBI, SBL",Yok/None,Yok/None
+1,10951,MTH 103,Calculus I,,Fatma Özdemir,"FEB
+FEB","Pazartesi
+Salı","1530/1729
+0830/1129","L200
+D201",30,15,Yok/None,"MCB, SED, SEN",Yok/None,Yok/None
+2,10955,MTH 105,Calculus I,,Sultan Erdoğan Demir,MED,Salı,0830/1129,B31,30,20,Yok/None,"SEK, SIS",Yok/None,Yok/None
+3,11468,MTH 106,Calculus II,,Cihangir Özemir,MED,Salı,0830/1129,B33,20,6,Yok/None,"SEK, SIS","MTH 105 MIN DD
+veya MTH 101 MIN DD
+veya MTH 103 MIN DD
+veya MTH 107 MIN DD
+veya MTH 115 MIN DD
+veya MTH 117 MIN DD
+veya MTH 121 MIN DD
+veya MTH 122 MIN DD
+veya MTH 123 MIN DD
+veya MTH 131 MIN DD
+veya MAT 103E MIN DD",Yok/None
+4,10959,MTH 107,Calculus I,,Ahmet Duran,"MED
+MED","Pazartesi
+Salı","1430/1729
+0830/1129","B35
+B35",30,28,Yok/None,"SCE, SGI, SIN",Yok/None,Yok/None
+5,15067,MTH 108,Calculus II,,Gülçin Mihriye Muslu,"INB
+INB","Perşembe
+Cuma","1330/1629
+0830/1129","B102
+B102",20,3,Yok/None,"SCE, SGI, SIN","MTH 107 MIN DD
+veya MTH 101 MIN DD
+veya MTH 103 MIN DD
+veya MTH 105 MIN DD
+veya MTH 115 MIN DD
+veya MTH 117 MIN DD
+veya MTH 121 MIN DD
+veya MTH 122 MIN DD
+veya MTH 123 MIN DD
+veya MTH 131 MIN DD
+veya MAT 103E MIN DD",Yok/None
+6,12184,MTH 121,Calculus I,,Bayram Barış Kızılsaç,DZB,Pazartesi,1330/1729,---,10,2,Yok/None,"SDU, SGM",Yok/None,Yok/None
+7,10963,MTH 123,Calculus,,Nalan Antar,MED,Salı,0830/1129,B32,30,5,Yok/None,STP,Yok/None,Yok/None
+8,10586,MTH 131,Mathematics I,,Elif Canfes,"MED
+MED","Pazartesi
+Salı","1530/1729
+0830/1129","B37
+B37",30,9,Yok/None,"EHN, SEH",Yok/None,Yok/None
+9,10585,MTH 281,Linear Algebra and Applicat.,,İbrahim Akduman,EEB,Cuma,0830/1129,1303,30,9,Yok/None,"EHN, SEH",Yok/None,Yok/None
+10,15259,MTH 401E,Rlsc-V Architecture &Processor,Çevrimiçi/Online,Mustafa Berke Yelten,----,Çarşamba,1400/1659,----,50,0,Yok/None,"EHB, EHBE",Yok/None,4.Sınıf
+11,15258,MTH 402,Uçuş Mekaniğive Uygulamaları,Çevrimiçi/Online,İlker Üstoğlu,----,Salı,1230/1529,----,50,0,Yok/None,KOM,Yok/None,4.Sınıf

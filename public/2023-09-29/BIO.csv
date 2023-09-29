@@ -1,0 +1,141 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10312,BIO 103E,Int.to Mol.Biol.&Genet.&Ethics,,Ceren Çıracı,FEB,Çarşamba,1330/1529,D204,100,74,Yok/None,"BIO, BIOE",Yok/None,Yok/None
+1,10313,BIO 105E,General Biology I,,Pelin Dilsiz Erim,GDB,Salı,1430/1729,D311,103,103,Yok/None,"BIO, BIOE, BIOM",Yok/None,Yok/None
+2,10314,BIO 207E,Cell Biology,,Aslı Kumbasar,"FEB
+FEB","Salı
+Perşembe","1330/1429
+1230/1429","D104
+D304",80,62,Yok/None,"BIO, BIOE, BIOM","BIO 111 MIN DD
+veya BIO 111E MIN DD
+veya BIO 105E MIN DD",Yok/None
+3,10315,BIO 207EL,Cell Biology Lab.,,Aslı Kumbasar,FEB,Salı,0930/1229,---,80,52,Yok/None,"BIO, BIOE, BIOM",BIO 106EL MIN CC,Yok/None
+4,10316,BIO 210E,Mathematics for Biologists,,Ayşegül Tepe,FEB,Çarşamba,1230/1529,D304,85,58,Yok/None,BIOE,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 287 MIN DD
+veya MAT 287E MIN DD",Yok/None
+5,12267,BIO 214E,Microbiology,,Pervin Başaran Akocak,KMB,Çarşamba,0930/1229,D302,15,15,Yok/None,"KMM, KMME",Yok/None,Yok/None
+6,12269,BIO 215,Biyokimya,,Ayşe Banu Kocaağa,KMB,Pazartesi,0930/1229,D305,15,11,Yok/None,KMM,Yok/None,Yok/None
+7,12375,BIO 215,Biyokimya,,Kadriye Nur Kasapoğlu,KMB,Cuma,0930/1229,D101,45,38,Yok/None,"FIZ, GID, KMM",Yok/None,Yok/None
+8,12379,BIO 224E,Molecular Biology,,Fatih Ortakcı,KMB,Pazartesi,0930/1229,D106,30,7,"GID/24/7
+GIDE/1/0
+KMM/5/0","GID, GIDE, KMME",Yok/None,Yok/None
+9,10341,BIO 301E,Fundamentals of Biology,,Deniz Şahin,EEB,Çarşamba,0830/1129,5105,55,52,"CHZ/5/5
+EHB/5/5
+EHBE/5/4
+FIZ/5/3
+GID/5/5
+KIM/5/5
+KMM/5/5
+KOM/5/5
+KOME/5/5
+Diğer/10/10","BIOM, CEV, CEVE, CHZ, CHZE, DEN, EEE, EHB, EHBE, EHS, ELE, ELH, ELK, ELKE, FIZ, FIZE, GEM, GID, GIDE, INS, INSE, ISL, ISLE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MET, METE, PET, PETE, TEL",Yok/None,Yok/None
+10,12377,BIO 301E,Fundamentals of Biology,,Ayşe Saygün,KMB,Çarşamba,0930/1229,D203,45,30,"CEV/10/2
+CEVE/5/3
+GID/13/13
+GIDE/2/0
+KIM/4/2
+KIME/1/0
+KMM/5/5
+MET/2/2
+METE/3/3","BIOM, CEV, CEVE, CHZ, CHZE, DEN, EEE, EHB, EHBE, EHS, ELE, ELH, ELK, ELKE, FIZ, FIZE, GEM, GID, GIDE, INS, INSE, ISL, ISLE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MET, METE, PET, PETE, TEL",Yok/None,Yok/None
+11,10346,BIO 301E,Fundamentals of Biology,,Deniz Şahin,FEB,Çarşamba,1230/1529,L400,55,51,"CHZ/5/5
+EHB/5/5
+EHBE/5/5
+FIZ/5/5
+GID/5/5
+KIM/5/5
+KMM/5/5
+KOM/5/5
+KOME/5/1
+Diğer/10/10","BIOM, CEV, CEVE, CHZ, CHZE, DEN, EEE, EHB, EHBE, EHS, ELE, ELH, ELK, ELKE, FIZ, FIZE, GEM, GID, GIDE, INS, INSE, ISL, ISLE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MET, METE, PET, PETE, TEL",Yok/None,Yok/None
+12,12270,BIO 303,Biyomalzemeler,,Fatma Seniha Güner,KMB,Pazartesi,0930/1229,D303,15,15,Yok/None,KMM,Yok/None,Yok/None
+13,10317,BIO 315E,Biochemistry I,,Nevin Gül Karagüler,FEB,Salı,1430/1729,D304,80,61,Yok/None,"BIO, BIOE, BIOM","(BIO 207E MIN DD
+ve KIM 303 MIN DD)
+veya (BIO 211E MIN DD
+ve KIM 205E MIN DD)
+veya (BIO 211E MIN DD
+ve KIM 303E MIN DD)
+veya (BIO 211E MIN DD
+ve KIM 303 MIN DD)
+veya (BIO 207E MIN DD
+ve KIM 303E MIN DD)
+veya (BIO 207E MIN DD
+ve KIM 231 MIN DD)
+veya (BIO 207E MIN DD
+ve KIM 231E MIN DD)
+veya (BIO 207E MIN DD
+ve BIO 232E MIN DD)
+veya (BIO 211E MIN DD
+ve BIO 232E MIN DD)
+veya (BIO 207E MIN DD
+ve KIM 104 MIN DD)
+veya (BIO 207E MIN DD
+ve KIM 104E MIN DD)",Yok/None
+14,10318,BIO 315EL,Biochemistry I Lab.,,Nevin Gül Karagüler,FEB,Cuma,1430/1729,---,80,67,Yok/None,"BIO, BIOE",BIO 207EL MIN CC,Yok/None
+15,10319,BIO 317E,Molecular Genetics,,Arzu Karabay Korkmaz,FEB,Pazartesi,1130/1429,D304,86,86,Yok/None,"BIO, BIOE, BIOM","BIO 212 MIN DD
+veya BIO 212E MIN DD",Yok/None
+16,10320,BIO 317EL,Molecular Genetics Lab.,,Arzu Karabay Korkmaz,FEB,Çarşamba,0930/1229,---,80,64,Yok/None,"BIO, BIOE",BIO 207EL MIN CC,Yok/None
+17,10321,BIO 322E,Physiology,,Ayça Sayı Yazgan,FEB,Perşembe,1430/1729,D304,80,43,Yok/None,"BIO, BIOE","BIO 112 MIN DD
+veya BIO 112E MIN DD
+veya BIO 106E MIN DD",Yok/None
+18,10322,BIO 325E,Ecology,,Deniz Şahin,FEB,Perşembe,0830/1029,D304,80,70,Yok/None,"BIO, BIOE","BIO 106E MIN DD
+veya BIO 112E MIN DD",Yok/None
+19,10323,BIO 341E,General Biotechnology,,Abdulhalim Kılıç,FEB,Pazartesi,0830/1129,D304,80,80,Yok/None,"BIO, BIOE","BIO 111 MIN DD
+veya BIO 111E MIN DD
+veya BIO 105E MIN DD",Yok/None
+20,10324,BIO 351E,Biophysics,,Gizem Dinler Doğanay,FEB,Pazartesi,1430/1729,D304,80,76,Yok/None,"BIO, BIOE, FIZ, FIZE","KIM 303 MIN DD
+veya KIM 303E MIN DD
+veya BIO 301E MIN DD
+veya KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya BIO 232E MIN DD
+veya KIM 104 MIN DD
+veya KIM 104E MIN DD",Yok/None
+21,10325,BIO 412E,Recombinant DNA Technology,,Ayten Karataş,FEB,Perşembe,1430/1729,D206,40,29,Yok/None,"BIO, BIOE, BIOM","BIO 331E MIN DD
+veya BIO 331 MIN DD
+veya BIO 317E MIN DD",Yok/None
+22,10326,BIO 432E,Microbial Physiology,,Zeynep Petek Çakar,FEB,Salı,0830/1129,D206,40,32,Yok/None,"BIO, BIOE, BIOM","BIO 321 MIN DD
+veya BIO 321E MIN DD
+veya BIO 216E MIN DD",Yok/None
+23,10328,BIO 441E,Modelling in Biological System,,Bülent Balta,FEB,Perşembe,1130/1429,D106,40,8,Yok/None,"BIO, BIOE","KIM 202 MIN DD
+veya KIM 202E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD
+veya BIO 232E MIN DD",Yok/None
+24,10329,BIO 452E,Virology,,Ceren Çıracı,FEB,Salı,1130/1429,D106,45,45,Yok/None,"BIO, BIOE, BIOM","BIO 321 MIN DD
+veya BIO 321E MIN DD
+veya BIO 216E MIN DD",Yok/None
+25,10331,BIO 468E,Current Topics in Ecology,,Emrah Çoraman,FEB,Perşembe,1130/1429,D206,30,30,Yok/None,"BIO, BIOE, BIOM","BIO 221 MIN DD
+veya BIO 221E MIN DD
+veya BIO 325E MIN DD",Yok/None
+26,10335,BIO 4901E,Mol Bio & Genetics Design I,,Bülent Balta,FEB,----,/,---,100,51,Yok/None,"BIO, BIOE","(KIM 101 MIN DD
+veya KIM 101E MIN DD
+veya KIM 111 MIN DD)
+ve (KIM 101EL MIN DD
+veya KIM 111L MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 113 MIN DD)
+ve (FIZ 101EL MIN DD
+veya FIZ 113EL MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD
+veya FIZ 114 MIN DD
+veya FIZ 116 MIN DD)
+ve (FIZ 102EL MIN DD
+veya FIZ 114EL MIN DD
+veya FIZ 116EL MIN DD)
+ve (BIO 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+27,10337,BIO 4902E,Mol Bio & Genetics Design II,,Bülent Balta,FEB,----,/,---,100,11,Yok/None,"BIO, BIOE",BIO 4901E MIN BB,Yok/None
+28,10332,BIO 491E,Molecular Biotechnology,,Abdulhalim Kılıç,FEB,Cuma,0830/1129,D304,75,71,Yok/None,"BIO, BIOE","BIO 341E MIN DD
+veya BIO 341 MIN DD",Yok/None
+29,10333,BIO 492E,Graduation Project,,Bülent Balta,FEB,----,/,---,100,2,Yok/None,"BIO, BIOE",Diğer Şartlar,4.Sınıf
