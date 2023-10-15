@@ -1,0 +1,39 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10625,DAN 101,Akademik Danışmanlık,,İzzet Göksel,FEB,Çarşamba,1530/1729,D204,20,9,Yok/None,MAT,Yok/None,Yok/None
+1,11467,DAN 101,Akademik Danışmanlık,,Resul Aydemir,MED,Çarşamba,1530/1729,---,20,1,Yok/None,ECNE,Yok/None,Yok/None
+2,11824,DAN 101,Akademik Danışmanlık,,Emrah Tuncay Özdemir,UUB,Çarşamba,1530/1729,D214,300,0,Yok/None,MTO,Yok/None,Yok/None
+3,11897,DAN 101,Akademik Danışmanlık,,Duygu Erdem,UUB,Çarşamba,1530/1729,D-Z08,70,1,Yok/None,"UCK, UZB, UZBE",Yok/None,Yok/None
+4,12013,DAN 101,Akademik Danışmanlık,Çevrimiçi/Online,Ömer Faruk Beyca,----,Çarşamba,1530/1729,----,500,6,Yok/None,"END, ENDE",Yok/None,Yok/None
+5,12265,DAN 101,Akademik Danışmanlık,,Fatma Elif Genceli Güner,KMB,Çarşamba,1530/1729,D301,300,2,Yok/None,KMM,Yok/None,Yok/None
+6,12289,DAN 101,Akademik Danışmanlık,,Doğa Doğan,MDB,Çarşamba,1530/1729,---,300,0,Yok/None,JEF,Yok/None,Yok/None
+7,12342,DAN 101,Akademik Danışmanlık,,Mohammadreza Nofar,KMB,Çarşamba,1530/1729,D205,200,2,Yok/None,"MET, METE",Yok/None,Yok/None
+8,12373,DAN 101,Akademik Danışmanlık,,Fazıl Emre Artun,MDB,Çarşamba,1530/1729,---,70,0,Yok/None,"PET, PETE",Yok/None,Yok/None
+9,12412,DAN 101,Akademik Danışmanlık,,Kudret Tahsin Perek,MDB,Çarşamba,1530/1729,---,300,0,Yok/None,"CHZ, CHZE",Yok/None,Yok/None
+10,12506,DAN 101,Akademik Danışmanlık,,Abdullah Fişne,MDB,Çarşamba,1530/1729,---,70,0,Yok/None,"MAD, MADE",Yok/None,Yok/None
+11,12608,DAN 101,Akademik Danışmanlık,,Dilek Yıldız,MMB,Çarşamba,1530/1729,229,200,3,Yok/None,"MIM, MIME",Yok/None,Yok/None
+12,12665,DAN 101,Akademik Danışmanlık,,Ömer Ündül,MDB,Çarşamba,1530/1729,---,70,2,Yok/None,"JEO, JEOE",Yok/None,Yok/None
+13,12766,DAN 101,Akademik Danışmanlık,,Ekrem Cem Alppay,MMB,Çarşamba,1530/1729,227,10,3,Yok/None,"ENTE, EUT, EUTE",Yok/None,Yok/None
+14,12852,DAN 101,Akademik Danışmanlık,,Tüzin Baycan,MMB,Çarşamba,1530/1729,215,300,0,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+15,12888,DAN 101,Akademik Danışmanlık,,Elif Kısar Koramaz,MMB,Çarşamba,1530/1729,231,300,1,Yok/None,"PEM, PEME",Yok/None,Yok/None
+16,13776,DAN 101,Akademik Danışmanlık,,Berna Morova,FEB,Çarşamba,1530/1729,---,10,4,Yok/None,"FIZ, FIZE",Yok/None,Yok/None
+17,13779,DAN 101,Akademik Danışmanlık,,Selma Ergin,GDB,Çarşamba,1530/1729,---,100,5,Yok/None,GEM,Yok/None,Yok/None
+18,13926,DAN 101,Akademik Danışmanlık,,Adil Yücel,MKB,Çarşamba,1530/1729,---,100,9,Yok/None,"IML, IMLE, MAK, MAKE",Yok/None,Yok/None
+19,14670,DAN 101,Akademik Danışmanlık,,Yusuf Yaslan,EEB,Çarşamba,1530/1729,---,100,5,Yok/None,"BLG, BLGE",Yok/None,Yok/None
+20,14674,DAN 101,Akademik Danışmanlık,,Ahmet Cüneyd Tantuğ,EEB,Çarşamba,1530/1729,---,100,0,Yok/None,YZVE,Yok/None,Yok/None
+21,14716,DAN 101,Akademik Danışmanlık,,Ethem Gürer,MMB,Çarşamba,1530/1729,213,100,2,Yok/None,ICM,Yok/None,Yok/None
+22,14751,DAN 101,Akademik Danışmanlık,,Fatma Ebru Fıratlıgil,KMB,Çarşamba,1530/1729,---,50,2,Yok/None,"GID, GIDE",Yok/None,Yok/None
+23,14987,DAN 101,Akademik Danışmanlık,Çevrimiçi/Online,--,----,Çarşamba,1530/1729,----,0,0,Yok/None,YZVE,Yok/None,Yok/None
+24,15155,DAN 101,Akademik Danışmanlık,,Kadir Sarıöz,GDB,Çarşamba,1530/1729,409,100,1,Yok/None,DEN,Yok/None,Yok/None
+25,15205,DAN 101,Akademik Danışmanlık,,Hüseyin Güven,INB,Çarşamba,1530/1729,---,30,7,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+26,15206,DAN 101,Akademik Danışmanlık,,--,INB,Çarşamba,1530/1729,---,0,0,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+27,15210,DAN 101,Akademik Danışmanlık,,Mehmet Ufuk Özerman,INB,Çarşamba,1530/1729,---,30,3,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+28,15262,DAN 101,Akademik Danışmanlık,Çevrimiçi/Online,"Ece Olcay Güneş, Suat İlhan, İlker Üstoğlu",----,Çarşamba,1530/1729,----,300,11,Yok/None,"EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+29,15277,DAN 101,Akademik Danışmanlık,,Sinan Çakır,DZB,Çarşamba,1530/1729,---,5,4,Yok/None,GMI,Yok/None,Yok/None
+30,15297,DAN 101,Akademik Danışmanlık,Çevrimiçi/Online,Murat Yılmaz,----,Çarşamba,1530/1729,----,500,3,Yok/None,"AIN, INS, INSE, SCE, SIN",Yok/None,Yok/None
+31,15272,DAN 102,Girişimcilik & Kariyer Danış.,,Numan Kılınç,MMB,Çarşamba,1530/1729,---,5,4,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+32,15278,DAN 102,Girişimcilik & Kariyer Danış.,,Gazi Koçak,DZB,Çarşamba,1530/1729,---,15,15,Yok/None,GMI,Yok/None,Yok/None
+33,14616,DAN 301,Kariyer Danışmanlığı,,Yunus Emre Şenol,DZB,Çarşamba,1530/1729,---,150,57,Yok/None,DUI,Yok/None,"4.Sınıf, 3.Sınıf"
+34,15339,DAN 301,Kariyer Danışmanlığı,,Mustafa Gençoğlu,INB,Çarşamba,1530/1729,---,100,9,Yok/None,"AIN, INS, INSE, SCE, SIN",Yok/None,"4.Sınıf, 3.Sınıf"
+35,15345,DAN 301,Kariyer Danışmanlığı,,Alper Gürarslan,MKB,Çarşamba,1530/1729,---,50,12,Yok/None,"TEK, TEKE",Yok/None,"4.Sınıf, 3.Sınıf"
+36,15352,DAN 301,Kariyer Danışmanlığı,,Emrecan Söylemez,MKB,Çarşamba,1530/1729,---,50,1,Yok/None,"IML, IMLE, MAK, MAKE",Yok/None,"4.Sınıf, 3.Sınıf"

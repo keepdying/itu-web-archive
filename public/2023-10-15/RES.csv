@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12283,RES 107,Teknik Resim,,Münir Cansın Özden,KMB,Perşembe,0830/1129,D301,45,50,Yok/None,"GID, KMM",Yok/None,Yok/None
+1,12282,RES 107,Teknik Resim,,Selim Ertürk,KMB,Cuma,0830/1129,D301,45,51,Yok/None,"GID, KMM",Yok/None,Yok/None
+2,12384,RES 107,Teknik Resim,,Selim Ertürk,KMB,Cuma,1400/1659,D301,45,50,Yok/None,"GID, KMM",Yok/None,Yok/None
+3,13592,RES 107E,Technical Drawing,,Sena Duru,MKB,Pazartesi,1330/1629,409,40,10,Yok/None,"END, ENDE, FIZ, GID, GIDE, ISL, ISLE, KMM, KMME, MET, METE, PETE, TEK, TEKE",Yok/None,Yok/None
+4,13593,RES 107E,Technical Drawing,,Sena Duru,MKB,Salı,1330/1629,409,65,66,Yok/None,"END, ENDE, FIZ, GID, GIDE, ISL, ISLE, KMM, KMME, MET, METE, PETE, TEK, TEKE",Yok/None,Yok/None
+5,15091,RES 107E,Technical Drawing,,İhsan Burak Kulga,MDB,Perşembe,1430/1729,B207,75,75,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None

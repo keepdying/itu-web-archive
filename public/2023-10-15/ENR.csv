@@ -1,0 +1,32 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,15240,ENR 201,Fluid Mechanics,,Burcu Erbaş,"GDB
+GDB","Salı
+Perşembe","1130/1329
+1230/1329","D302
+D302",10,9,Yok/None,"NAE, NAEM",Yok/None,Yok/None
+1,15322,ENR 201,Fluid Mechanics,,Banu Tansel Büyükçelebi,DZB,Çarşamba,1730/2029,---,10,15,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE, NAEM",Yok/None,Yok/None
+2,15226,ENR 211,Engineering Mechanics,,İsmail Yalçın,GDB,Salı,1430/1729,D302,20,5,Yok/None,NAE,Yok/None,Yok/None
+3,13822,ENR 212,Strength of Materials I,,İsmail Çiçek,DZB,Cumartesi,0930/1229,---,60,42,Yok/None,"GEMK, GMIK, MEN, NAE, NAEM",Yok/None,Yok/None
+4,15321,ENR 221,Num.Analysis of Eng.Sys,,Ata Bilgili,DZB,Salı,1030/1229,---,10,6,Yok/None,"GEMK, GMIK, MEN, NAE","MTH 115 MIN DD
+veya MTH 116 MIN DD
+veya MAT 103E MIN DD
+veya MAT 104E MIN DD
+veya MTH 117 MIN DD
+veya MTH 118 MIN DD",Yok/None
+5,15163,ENR 221,Num.Analysis of Eng.Sys,,Serdar Turgut İnce,GDB,Çarşamba,1630/1829,D407,50,15,Yok/None,"GEMK, GMIK, MEN, NAE","MTH 115 MIN DD
+veya MTH 116 MIN DD
+veya MAT 103E MIN DD
+veya MAT 104E MIN DD
+veya MTH 117 MIN DD
+veya MTH 118 MIN DD",Yok/None
+6,13827,ENR 301,Heat Transfer,,Buğra Arda Zincir,DZB,Pazartesi,0830/1129,---,60,39,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","ENR 202 MIN DD
+veya GMI 213E MIN DD
+veya TER 201E MIN DD",Yok/None
+7,15039,ENR 301,Heat Transfer,,Murat Durmaz,GDB,Çarşamba,1530/1829,D308,50,20,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","ENR 202 MIN DD
+veya GMI 213E MIN DD
+veya TER 201E MIN DD",Yok/None
+8,13828,ENR 311,Machinery Elements,,Tanju Kurtuluş,DZB,Cuma,1400/1659,---,60,34,Yok/None,"GEMK, GMIK, MEN, MENM, NAE",Yok/None,Yok/None
+9,13821,ENR 321,Otomatic Control Systems,,İsmail Çiçek,DZB,Salı,0830/1129,---,60,44,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","MST 241 MIN DD
+veya GMI 202 MIN DD
+veya GMI 202E MIN DD",Yok/None

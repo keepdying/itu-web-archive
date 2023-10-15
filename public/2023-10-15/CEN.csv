@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,15126,CEN 101E,Intr. to Information Systems,,Nizamettin Aydın,INB,Pazartesi,0830/1129,B302,62,60,Yok/None,CEN,Yok/None,Yok/None
+1,15127,CEN 113E,Intr.toComp.Eng.and Ethics,,Abdül Halim Zaim,GDB,Salı,0830/1029,D303,62,60,Yok/None,CEN,Yok/None,Yok/None
+2,15129,CEN 231E,Digital Circuits,,Nizamettin Aydın,INB,Pazartesi,1430/1729,B206,65,61,Yok/None,CEN,Yok/None,Yok/None
+3,15128,CEN 351E,Microcomputer Lab.,,--,MED,Salı,1030/1229,---,0,0,Yok/None,CEN,"BLG 212 MIN DD
+veya BLG 212E MIN DD
+veya BLG 222 MIN DD
+veya BLG 222E MIN DD
+veya CEN 222E MIN DD",Yok/None

@@ -1,0 +1,14 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10587,PHY 123,Physics I,,Yakup Hundur,EEB,Salı,1430/1729,Z1,30,12,Yok/None,"EHN, SEH",Yok/None,Yok/None
+1,10588,PHY 123L,Physics I Lab,,Yakup Hundur,EEB,Perşembe,0930/1129,1303,30,12,Yok/None,"EHN, SEH",Yok/None,Yok/None
+2,12181,PHY 125,Physics I,,Banu Tansel Büyükçelebi,DZB,Pazartesi,0830/1129,---,10,3,Yok/None,"SDU, SGM",Yok/None,Yok/None
+3,13916,PHY 125,Physics I,,Neşe Özdemir,FEB,Salı,1330/1629,---,30,29,Yok/None,"SGI, SIN",Yok/None,Yok/None
+4,12407,PHY 125,Physics I,,Sevtap Yıldız Özbek,FEB,Cuma,0930/1229,D106,30,17,Yok/None,"MBI, SGI",Yok/None,Yok/None
+5,13506,PHY 125,Physics I,,Sevim İşçi Turutoğlu,MED,Cuma,0930/1229,B32,25,22,Yok/None,"SED, SGI",Yok/None,Yok/None
+6,12182,PHY 125L,Physics I Laboratory,,Banu Tansel Büyükçelebi,DZB,Pazartesi,1130/1329,---,10,3,Yok/None,"SDU, SGM",Yok/None,Yok/None
+7,13507,PHY 125L,Physics I Laboratory,,Sevim İşçi Turutoğlu,FEB,Çarşamba,0830/1029,L2F1,25,17,Yok/None,"SED, SGI",Yok/None,Yok/None
+8,12409,PHY 125L,Physics I Laboratory,,Sevtap Yıldız Özbek,FEB,Çarşamba,1030/1229,---,30,17,Yok/None,"MBI, SGI",Yok/None,Yok/None
+9,13917,PHY 125L,Physics I Laboratory,,Neşe Özdemir,FEB,Çarşamba,1030/1229,---,30,32,Yok/None,"SGI, SIN",Yok/None,Yok/None
+10,13768,PHY 127,Physics,,Seda Aksoy Esinoğlu,MED,Salı,1330/1629,B29,45,18,Yok/None,SBL,Yok/None,Yok/None
+11,13769,PHY 127L,Physics Lab,,Seda Aksoy Esinoğlu,FEB,Çarşamba,1330/1529,---,45,16,Yok/None,SBL,Yok/None,Yok/None

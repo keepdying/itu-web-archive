@@ -1,0 +1,730 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13209,INS 101,Teknik Resim,,Sabahat Topuz Kiremitçi,INB,Pazartesi,0930/1229,D103,63,63,Yok/None,INS,Yok/None,Yok/None
+1,13211,INS 101,Teknik Resim,,"Medine İspir Arslan, Haluk Emre Alçiçek",INB,Salı,0930/1229,D103,63,60,Yok/None,INS,Yok/None,Yok/None
+2,13210,INS 101,Teknik Resim,,Sibel Gürel,INB,Salı,1430/1729,D103,63,65,Yok/None,INS,Yok/None,Yok/None
+3,13517,INS 101E,Technical Drawing,,Gözde Bakioğlu Doğanyılmaz,INB,Perşembe,0930/1229,D103,63,65,Yok/None,"INS, INSE",Yok/None,Yok/None
+4,13212,INS 101E,Technical Drawing,,Sibel Gürel,INB,Cuma,0930/1229,D103,63,36,Yok/None,"INS, INSE",Yok/None,Yok/None
+5,13204,INS 102,Statik,,Reha Artan,"INB
+INB","Salı
+Çarşamba","1330/1529
+1030/1229","B302
+B302",50,30,Yok/None,INS,"FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD
+veya FIZ 111E MIN DD
+veya FIZ 113 MIN DD
+veya FIZ 113E MIN DD",Yok/None
+6,13205,INS 102E,Statics,,Pelin Gündeş Bakır,"INB
+INB","Salı
+Çarşamba","0830/1029
+0830/1029","A201
+A201",50,43,Yok/None,"INS, INSE","FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD
+veya FIZ 111E MIN DD
+veya FIZ 113 MIN DD
+veya FIZ 113E MIN DD",Yok/None
+7,13329,INS 107E,Int. to Prog. Lang. (Python),Çevrimiçi/Online,"Nilay Çelik Muhtaroğlu, Tolga Yılmaz Özüdoğru",----,Pazartesi,1430/1729,----,153,149,Yok/None,"INS, INSE",Yok/None,Yok/None
+8,13330,INS 107E,Int. to Prog. Lang. (Python),Çevrimiçi/Online,"Tolga Yılmaz Özüdoğru, Cem Demir",----,Cuma,1430/1729,----,153,153,Yok/None,"INS, INSE",Yok/None,Yok/None
+9,13206,INS 111,İnşaat Müh. Giriş ve Etik,,"Engin Orakdöğen, Murat Yılmaz",MED,Çarşamba,1330/1429,A11,255,255,Yok/None,INS,Yok/None,Yok/None
+10,13207,INS 111E,Int. to Civil Eng. & Ethics,,"Engin Orakdöğen, Murat Yılmaz",MED,Çarşamba,1430/1529,A11,250,74,Yok/None,INSE,Yok/None,Yok/None
+11,13213,INS 202,İnşaat Müh. Sayısal Yöntemler,,Yıldır Akkaya,INB,Pazartesi,1330/1529,A201,50,26,Yok/None,INS,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+12,13214,INS 202,İnşaat Müh. Sayısal Yöntemler,,Yavuz Durgun,INB,Çarşamba,1030/1229,A201,50,31,Yok/None,INS,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+13,13215,INS 202,İnşaat Müh. Sayısal Yöntemler,,Mehmet Günhan Aksoylu,INB,Çarşamba,1030/1229,A202,50,7,Yok/None,INS,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+14,13216,INS 202E,Numerical Methods inCivil Eng.,,Atila Sezen,INB,Pazartesi,1330/1529,A202,50,34,Yok/None,"INS, INSE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+15,13217,INS 202E,Numerical Methods inCivil Eng.,,Tuba Gürbüz Büyükkayıkcı,INB,Çarşamba,1030/1229,A203,53,53,Yok/None,"INS, INSE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+16,13327,INS 210,İnşaat Müh. için Matematik,,Erol Demirkan,INB,Pazartesi,1530/1729,A301,65,41,Yok/None,INS,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+17,13328,INS 210,İnşaat Müh. için Matematik,,Erol Demirkan,INB,Cuma,0830/1029,A301,65,37,Yok/None,INS,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+18,13326,INS 210E,Mathematics in Civil Eng.,,Mustafa Yavuz,INB,Cuma,0830/1029,A302,65,57,Yok/None,"INS, INSE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+19,13282,INS 215,Malzeme Bilimi,,Ayda Şafak Ağar,INB,Salı,1330/1629,A302,55,52,Yok/None,INS,"KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+20,13283,INS 215,Malzeme Bilimi,,Özkan Şengül,INB,Salı,1330/1629,A303,55,19,Yok/None,INS,"KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+21,13284,INS 215,Malzeme Bilimi,,Hasan Yıldırım,INB,Perşembe,1330/1629,A201,55,55,Yok/None,INS,"KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+22,13285,INS 215,Malzeme Bilimi,,Ünal Anıl Doğan,INB,Perşembe,1330/1629,A202,55,32,Yok/None,INS,"KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+23,14844,INS 215E,Materials Science,,Oğuz Güneş,INB,Salı,1330/1629,D202,50,41,Yok/None,"INS, INSE","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+24,13286,INS 215E,Materials Science,,Özgür Ekincioğlu,INB,Perşembe,1330/1629,A203,55,19,Yok/None,"INS, INSE","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+25,13218,INS 217,Mukavemet I,,Abdul Hayır,"INB
+INB","Pazartesi
+Salı","1030/1229
+1030/1229","A103
+A202",50,21,Yok/None,INS,"STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya INS 102 MIN DD
+veya INS 102E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+26,13219,INS 217,Mukavemet I,,Abdullah Gedikli,"INB
+INB","Pazartesi
+Salı","1030/1229
+1030/1229","A105
+A201",50,28,Yok/None,INS,"STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya INS 102 MIN DD
+veya INS 102E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+27,13220,INS 217,Mukavemet I,,Fethi Kadıoğlu,"INB
+INB","Çarşamba
+Perşembe","0830/1029
+1030/1229","A101
+A103",50,49,Yok/None,INS,"STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya INS 102 MIN DD
+veya INS 102E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+28,13221,INS 217,Mukavemet I,,--,"INB
+INB","Çarşamba
+Perşembe","0830/1029
+1030/1229","---
+---",0,0,Yok/None,INS,"STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya INS 102 MIN DD
+veya INS 102E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+29,13223,INS 217E,Strength of Materials I,,Ünal Aldemir,"INB
+INB","Pazartesi
+Çarşamba","1030/1229
+1330/1529","B201
+A304",50,41,Yok/None,"INS, INSE","STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya INS 102 MIN DD
+veya INS 102E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+30,13280,INS 218,Mukavemet II,,Teoman Özer,"INB
+INB","Çarşamba
+Cuma","1030/1229
+1030/1229","B202
+A205",55,57,Yok/None,INS,"MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya INS 217 MIN DD
+veya INS 217E MIN DD
+veya MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD",Yok/None
+31,13281,INS 218E,Strength of Materials II,,Pınar Özdemir Çağlayan,"INB
+INB","Salı
+Çarşamba","0930/1129
+1330/1529","A203
+A205",53,33,Yok/None,"INS, INSE","MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya INS 217 MIN DD
+veya INS 217E MIN DD
+veya MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 205 MIN DD
+veya MUK 205E MIN DD",Yok/None
+32,13518,INS 230E,Building Materials,,Bekir Yılmaz Pekmezci,INB,Pazartesi,1430/1729,D203,50,35,Yok/None,"INS, INSE","INS 201 MIN DD
+veya INS 201E MIN DD
+veya MAL 201 MIN DD
+veya MAL 201E MIN DD
+veya INS 215 MIN DD
+veya INS 215E MIN DD",Yok/None
+33,13519,INS 230E,Building Materials,,--,INB,Salı,1330/1629,---,0,0,Yok/None,"INS, INSE","INS 201 MIN DD
+veya INS 201E MIN DD
+veya MAL 201 MIN DD
+veya MAL 201E MIN DD
+veya INS 215 MIN DD
+veya INS 215E MIN DD",Yok/None
+34,13224,INS 232E,Surveying,,Adil Enis Arslan,INB,Pazartesi,1400/1659,A101,70,71,Yok/None,"INS, INSE",Yok/None,Yok/None
+35,13225,INS 301,Mühendislik Ekonomisi,,Atilla Damcı,INB,Salı,1330/1529,A301,58,59,Yok/None,INS,Yok/None,Yok/None
+36,13226,INS 301,Mühendislik Ekonomisi,,Gül Polat Tatar,INB,Salı,1330/1529,A105,58,58,Yok/None,INS,Yok/None,Yok/None
+37,13227,INS 301,Mühendislik Ekonomisi,,Feyzi Haznedaroğlu,INB,Salı,1330/1529,A201,58,55,Yok/None,INS,Yok/None,Yok/None
+38,13228,INS 301E,Engineering Economics,,Esin Ergen Pehlevan,INB,Salı,1330/1529,A202,65,69,Yok/None,"AIN, INS, INSE",Yok/None,Yok/None
+39,13316,INS 303,Zemin Mekaniği I,,Musaffa Ayşen Lav,"INB
+INB","Salı
+Perşembe","0930/1229
+1030/1229","A301
+A301",55,50,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+40,13317,INS 303,Zemin Mekaniği I,,Recep İyisan,"INB
+INB","Salı
+Perşembe","0930/1229
+1030/1229","A302
+A302",55,58,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+41,13318,INS 303,Zemin Mekaniği I,,Mustafa Hatipoğlu,"INB
+INB","Salı
+Cuma","0930/1229
+0830/1029","A303
+A303",55,52,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+42,13319,INS 303E,Soil Mechanics I,,Müge Balkaya,"INB
+INB","Salı
+Perşembe","0930/1229
+1030/1229","B202
+A202",55,56,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+43,13320,INS 303E,Soil Mechanics I,,Aslı Yalçın Dayıoğlu,"INB
+INB","Salı
+Cuma","0930/1229
+0830/1029","B203
+A202",55,34,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+44,13278,INS 305E,Probability and Statistics,,Ayda Şafak Ağar,INB,Pazartesi,0930/1129,B104,112,112,Yok/None,"AIN, INS, INSE",Yok/None,Yok/None
+45,13279,INS 305E,Probability and Statistics,,Medine İspir Arslan,INB,Cuma,1430/1629,B104,112,106,Yok/None,"AIN, INS, INSE",Yok/None,Yok/None
+46,13230,INS 314E,Dynamics of Structures,,Yasin Fahjan,INB,Perşembe,1330/1629,A101,35,6,Yok/None,"AIN, INS, INSE","DNK 201 MIN DD
+veya DNK 201E MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD",Yok/None
+47,13231,INS 316,Şantiye Tekniği,,"Murat Kuruoğlu, Feyzi Haznedaroğlu",INB,Perşembe,0930/1229,A101,67,62,Yok/None,INS,"INS 341 MIN DD
+veya INS 341E MIN DD
+veya INS 304 MIN DD
+veya INS 304E MIN DD",Yok/None
+48,13294,INS 320,Ahşap Yapılar,,"Güliz Bayramoğlu, Sibel Gürel",INB,Perşembe,1030/1329,B305,30,9,Yok/None,INS,"MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya INS 217 MIN DD
+veya INS 217E MIN DD",Yok/None
+49,13232,INS 323,Yapı Statiği I,,Konuralp Girgin,"INB
+INB","Pazartesi
+Çarşamba","1430/1629
+0830/1029","A105
+A105",50,50,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+50,13233,INS 323,Yapı Statiği I,,Mehmet Günhan Aksoylu,"INB
+INB","Perşembe
+Cuma","0830/1029
+1030/1229","A202
+A303",50,49,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+51,13234,INS 323,Yapı Statiği I,,Yavuz Durgun,"INB
+INB","Perşembe
+Cuma","0830/1029
+1030/1229","A203
+A203",50,46,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+52,13235,INS 323E,Theory of Structures I,,Burcu Güneş,"INB
+INB","Pazartesi
+Çarşamba","1430/1629
+0830/1029","B302
+A202",50,36,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+53,13236,INS 323E,Theory of Structures I,,Ülkü Hülya Çalık Karaköse,"INB
+INB","Perşembe
+Cuma","0830/1029
+1030/1229","A201
+B204",50,40,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+54,13237,INS 325,Demiryolu Müh.,,Zübeyde Öztürk,INB,Pazartesi,1230/1429,A104,60,60,Yok/None,INS,"INS 212 MIN DD
+veya INS 212E MIN DD
+veya INS 252 MIN DD
+veya INS 252E MIN DD
+veya INS 232 MIN DD
+veya INS 232E MIN DD",Yok/None
+55,13238,INS 325,Demiryolu Müh.,,Sabahat Topuz Kiremitçi,INB,Pazartesi,1230/1429,B201,60,61,Yok/None,INS,"INS 212 MIN DD
+veya INS 212E MIN DD
+veya INS 252 MIN DD
+veya INS 252E MIN DD
+veya INS 232 MIN DD
+veya INS 232E MIN DD",Yok/None
+56,13515,INS 325,Demiryolu Müh.,,Hilmi Berk Çelikoğlu,INB,Pazartesi,1230/1429,A105,60,47,Yok/None,INS,"INS 212 MIN DD
+veya INS 212E MIN DD
+veya INS 252 MIN DD
+veya INS 252E MIN DD
+veya INS 232 MIN DD
+veya INS 232E MIN DD",Yok/None
+57,13516,INS 325E,Railway Engineering,,Kemal Selçuk Öğüt,INB,Pazartesi,1130/1329,B104,85,80,Yok/None,"AIN, INS, INSE","INS 212 MIN DD
+veya INS 212E MIN DD
+veya INS 252 MIN DD
+veya INS 252E MIN DD
+veya INS 232 MIN DD
+veya INS 232E MIN DD",Yok/None
+58,13321,INS 332,Temel İnşaatı I,,Gökhan Çevikbilen,INB,Çarşamba,0930/1229,B307,40,37,Yok/None,INS,"INS 331 MIN DD
+veya INS 331E MIN DD
+veya INS 303 MIN DD
+veya INS 303E MIN DD",Yok/None
+59,13322,INS 332E,Foundation Engineering I,,Berrak Teymür,INB,Salı,0930/1229,B201,40,31,Yok/None,"AIN, INS, INSE","INS 331 MIN DD
+veya INS 331E MIN DD
+veya INS 303 MIN DD
+veya INS 303E MIN DD",Yok/None
+60,13229,INS 335E,Advanced Strength of Materials,,Hale Ergün,INB,Pazartesi,0830/1129,A201,60,38,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+61,15284,INS 335E,Advanced Strength of Materials,,Hale Ergün,INB,Cuma,1430/1729,A101,50,13,Yok/None,"INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+62,13520,INS 336,Yapı Statiği II,,Mecit Çelik,"INB
+INB","Perşembe
+Cuma","1030/1229
+0830/1029","B201
+B201",55,63,Yok/None,INS,"INS 311 MIN DD
+veya INS 311E MIN DD
+veya INS 323 MIN DD
+veya INS 323E MIN DD",Yok/None
+63,15296,INS 336E,Theory of Structures II,,Pınar Teymür,"INB
+INB","Perşembe
+Cuma","0830/1029
+1430/1629","A103
+A103",50,11,Yok/None,"AIN, INS, INSE","INS 311 MIN DD
+veya INS 311E MIN DD
+veya INS 323 MIN DD
+veya INS 323E MIN DD",Yok/None
+64,13241,INS 336E,Theory of Structures II,,Nilay Çelik Muhtaroğlu,"INB
+INB","Perşembe
+Cuma","1030/1229
+0830/1029","B202
+B202",70,64,Yok/None,"AIN, INS, INSE","INS 311 MIN DD
+veya INS 311E MIN DD
+veya INS 323 MIN DD
+veya INS 323E MIN DD",Yok/None
+65,13674,INS 336E,Theory of Structures II,,--,"INB
+INB","Perşembe
+Cuma","1030/1229
+0830/1029","---
+---",0,0,Yok/None,"AIN, INS, INSE","INS 311 MIN DD
+veya INS 311E MIN DD
+veya INS 323 MIN DD
+veya INS 323E MIN DD",Yok/None
+66,13244,INS 338,Betonarme I,,Tuba Gürbüz Büyükkayıkcı,"INB
+INB","Pazartesi
+Perşembe","1330/1529
+0830/1029","B204
+B204",45,12,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+67,13243,INS 338,Betonarme I,,Yıldır Akkaya,"INB
+INB","Salı
+Cuma","1330/1529
+1030/1229","B201
+B201",50,50,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+68,13246,INS 338E,Reinforced Concrete I,,Ali Sarı,"INB
+INB","Salı
+Cuma","1530/1729
+0830/1029","B204
+B204",45,41,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+69,13513,INS 339E,Fracture Mechanics of Concrete,,Oğuz Güneş,INB,Pazartesi,0830/1129,A302,75,80,Yok/None,"AIN, INS, INSE",Yok/None,Yok/None
+70,13247,INS 341E,Construction Management,,Onur Behzat Tokdemir,INB,Cuma,1430/1729,A204,65,59,Yok/None,"AIN, INS, INSE",Yok/None,"4.Sınıf, 3.Sınıf"
+71,13510,INS 342,Karayolu Mühendisliği,,Murat Ergün,INB,Cuma,1400/1659,B204,73,73,Yok/None,INS,"INS 351 MIN DD
+veya INS 351E MIN DD
+veya INS 325 MIN DD
+veya INS 325E MIN DD",Yok/None
+72,13511,INS 342E,Highway Engineering,,"Abdullah Hilmi Lav, Gözde Bakioğlu Doğanyılmaz",INB,Pazartesi,1330/1629,A302,58,58,Yok/None,"AIN, INS, INSE","INS 351 MIN DD
+veya INS 351E MIN DD
+veya INS 325 MIN DD
+veya INS 325E MIN DD",Yok/None
+73,13514,INS 343E,Durability of Concrete,,Ünal Anıl Doğan,INB,Cuma,1430/1729,A203,75,75,Yok/None,"AIN, INS, INSE","INS 222 MIN DD
+veya INS 222E MIN DD
+veya INS 228 MIN DD
+veya INS 228E MIN DD
+veya INS 230 MIN DD
+veya INS 230E MIN DD",Yok/None
+74,13289,INS 344,Çelik Yapılar I,,Kadir Özakgül,"INB
+INB","Çarşamba
+Perşembe","1330/1529
+1330/1529","B204
+B206",50,49,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+75,13290,INS 344,Çelik Yapılar I,,"Cavidan Yorgun, Haluk Emre Alçiçek","INB
+INB","Çarşamba
+Perşembe","1330/1529
+1330/1529","B205
+B302",50,41,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+76,13292,INS 344E,Steel Structures I,,Ömer Tuğrul Turan,"INB
+INB","Salı
+Perşembe","1330/1529
+1330/1529","B102
+B201",30,24,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+77,13291,INS 344E,Steel Structures I,,Cüneyt Vatansever,"INB
+INB","Çarşamba
+Perşembe","1330/1529
+1330/1529","B302
+A301",30,30,Yok/None,"AIN, INS, INSE","MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya INS 218 MIN DD
+veya INS 218E MIN DD",Yok/None
+78,13295,INS 354,Hidroloji,,Yavuz Selim Güçlü,INB,Pazartesi,0930/1229,A202,60,61,Yok/None,INS,Yok/None,Yok/None
+79,13296,INS 354E,Hydrology,,Tarkan Erdik,INB,Çarşamba,1030/1329,B204,58,55,Yok/None,"AIN, INS, INSE",Yok/None,Yok/None
+80,13297,INS 360,Hidrolik,,--,"INB
+INB","Çarşamba
+Perşembe","1030/1229
+1530/1729","---
+---",0,0,Yok/None,"CEV, INS","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+81,13299,INS 360,Hidrolik,,Hafzüllah Aksoy,"INB
+INB","Çarşamba
+Perşembe","1030/1229
+1530/1729","A302
+A301",55,55,Yok/None,"CEV, INS","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+82,13301,INS 360,Hidrolik,,İsmail Dabanlı,"INB
+INB","Çarşamba
+Perşembe","1130/1329
+0930/1129","D202
+B302",50,33,Yok/None,"CEV, INS","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+83,13300,INS 360,Hidrolik,,Necati Erdem Ünal,"INB
+INB","Çarşamba
+Perşembe","1330/1529
+1330/1529","A102
+A105",65,71,Yok/None,"CEV, INS","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+84,13303,INS 360E,Hydraulics,,Cihan Bayındır,"INB
+INB","Çarşamba
+Perşembe","1030/1229
+1530/1729","A105
+A204",72,72,Yok/None,"AIN, CEV, CEVE, INS, INSE","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+85,13305,INS 360E,Hydraulics,,Şevket Çokgör,"INB
+INB","Çarşamba
+Perşembe","1130/1329
+0930/1129","D203
+B103",60,28,Yok/None,"AIN, CEV, CEVE, INS, INSE","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+86,13302,INS 360E,Hydraulics,,İsmail Duranyıldız,"INB
+INB","Çarşamba
+Perşembe","1330/1529
+1330/1529","A104
+A103",65,57,Yok/None,"AIN, CEV, CEVE, INS, INSE","AKM 204 MIN DD
+veya AKM 204E MIN DD",Yok/None
+87,13254,INS 403,Toprak İşleri,,Şükrüye İyinam,INB,Çarşamba,0830/1029,B204,60,63,Yok/None,INS,"INS 342 MIN DD
+veya INS 342E MIN DD
+veya INS 302 MIN DD
+veya INS 302E MIN DD",Yok/None
+88,13460,INS 403E,Earthworks,,Hüseyin Onur Tezcan,INB,Çarşamba,0830/1029,B203,60,27,Yok/None,"AIN, INS, INSE","INS 342 MIN DD
+veya INS 342E MIN DD
+veya INS 302 MIN DD
+veya INS 302E MIN DD",Yok/None
+89,13512,INS 403E,Earthworks,,Sabahat Topuz Kiremitçi,INB,Çarşamba,0830/1029,B201,60,60,Yok/None,"AIN, INS, INSE","INS 342 MIN DD
+veya INS 342E MIN DD
+veya INS 302 MIN DD
+veya INS 302E MIN DD",Yok/None
+90,13331,INS 407,Su Getirme&Kanaliz. Sist.Tas.,,"Mehmet Melih Koşucu, Ali Fuat Aydın",INB,Pazartesi,1330/1629,B202,66,66,Yok/None,INS,"INS 321 MIN DD
+veya INS 321E MIN DD
+veya INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD",Yok/None
+91,13332,INS 407,Su Getirme&Kanaliz. Sist.Tas.,,"Yavuz Selim Güçlü, Ali Fuat Aydın",INB,Salı,1330/1629,A203,66,68,Yok/None,INS,"INS 321 MIN DD
+veya INS 321E MIN DD
+veya INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD",Yok/None
+92,13333,INS 407E,Dsgn.of Water Supp.&Sewer Sys.,,"Mehmet Cüneyd Demirel, Onur Işık",INB,Salı,1330/1629,A305,66,59,Yok/None,"AIN, INS, INSE","INS 321 MIN DD
+veya INS 321E MIN DD
+veya INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD",Yok/None
+93,13255,INS 409,İnş.İşçi Sağlığı ve İş Güven.,,Feyzi Haznedaroğlu,INB,Çarşamba,1030/1229,B201,50,48,Yok/None,INS,Yok/None,4.Sınıf
+94,13256,INS 409,İnş.İşçi Sağlığı ve İş Güven.,,Ayşegül Bayın Sarıahmetoğlu,INB,Çarşamba,1030/1229,B206,50,45,Yok/None,INS,Yok/None,4.Sınıf
+95,13257,INS 409,İnş.İşçi Sağlığı ve İş Güven.,,Murat Kuruoğlu,INB,Çarşamba,1030/1229,A301,50,28,Yok/None,INS,Yok/None,4.Sınıf
+96,13259,INS 409E,Health&Safety in Construction,,Deniz Artan,INB,Çarşamba,1030/1229,A303,50,44,Yok/None,"AIN, INS, INSE",Yok/None,4.Sınıf
+97,13334,INS 413E,Hydrologic Analysis and Design,,İsmail Duranyıldız,INB,Salı,0930/1229,A105,40,35,Yok/None,"AIN, INS, INSE","INS 352 MIN DD
+veya INS 352E MIN DD
+veya INS 354 MIN DD
+veya INS 354E MIN DD",Yok/None
+98,13260,INS 419E,Soil Mechanics II,,Aslı Yalçın Dayıoğlu,INB,Çarşamba,1230/1529,B306,40,40,Yok/None,"AIN, INS, INSE","INS 332 MIN DD
+veya INS 332E MIN DD",Yok/None
+99,13261,INS 425E,Finite Element Methods,,Murat Yılmaz,INB,Perşembe,1330/1629,A303,70,70,Yok/None,"AIN, INS, INSE",Yok/None,Yok/None
+100,13263,INS 433,Betonarme II,,Kutlu Darılmaz,"INB
+INB","Pazartesi
+Salı","1230/1429
+1030/1229","B306
+B306",20,21,Yok/None,INS,"(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+101,13262,INS 433,Betonarme II,,Alper İlki,"INB
+INB","Pazartesi
+Salı","1330/1529
+1030/1229","B305
+B305",20,23,Yok/None,INS,"(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+102,15295,INS 433,Betonarme II,,Tülay Aksu Özkul,"INB
+INB","Pazartesi
+Salı","1330/1529
+1030/1229","A3
+B304",20,13,Yok/None,INS,"(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+103,13264,INS 433,Betonarme II,,Beyza Taşkın,"INB
+INB","Salı
+Perşembe","1330/1529
+1030/1229","B306
+B306",20,20,Yok/None,INS,"(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+104,13265,INS 433,Betonarme II,,--,"INB
+INB","Salı
+Perşembe","1330/1529
+1030/1229","---
+---",0,0,Yok/None,INS,"(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+105,13266,INS 433,Betonarme II,,--,"INB
+INB","Salı
+Perşembe","1330/1529
+1030/1229","---
+---",0,0,Yok/None,INS,"(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+106,13268,INS 433,Betonarme II,,"Mustafa Gençoğlu, Turgut Öztürk","INB
+INB","Salı
+Perşembe","1330/1529
+1030/1229","B303
+B303",20,13,Yok/None,INS,"(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+107,13267,INS 433,Betonarme II,,Kadir Güler,"INB
+INB","Çarşamba
+Cuma","1330/1529
+1030/1229","B305
+B305",23,25,Yok/None,INS,"(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+108,13269,INS 433E,Reinforced Concrete II,,Fatih Sütcü,"INB
+INB","Çarşamba
+Cuma","1330/1529
+1030/1229","B206
+B206",25,21,Yok/None,"AIN, INS, INSE","(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+109,13270,INS 433E,Reinforced Concrete II,,Cem Demir,"INB
+INB","Çarşamba
+Cuma","1330/1529
+1030/1229","B303
+B304",25,25,Yok/None,"AIN, INS, INSE","(INS 322 MIN DD
+veya INS 322E MIN DD
+veya INS 338 MIN DD
+veya INS 338E MIN DD)
+ve (INS 312 MIN DD
+veya INS 312E MIN DD
+veya INS 336 MIN DD
+veya INS 336E MIN DD)",Yok/None
+110,13306,INS 441,Su Kaynakları,,Şevket Çokgör,INB,Pazartesi,0930/1229,B202,60,46,Yok/None,INS,"INS 352 MIN DD
+veya INS 352E MIN DD
+veya INS 354 MIN DD
+veya INS 354E MIN DD",Yok/None
+111,13308,INS 441,Su Kaynakları,,Mehmet Melih Koşucu,INB,Pazartesi,0930/1229,D202,60,63,Yok/None,INS,"INS 352 MIN DD
+veya INS 352E MIN DD
+veya INS 354 MIN DD
+veya INS 354E MIN DD",Yok/None
+112,13309,INS 441E,Water Resources,,Abdüsselam Altunkaynak,INB,Pazartesi,0930/1229,B203,50,44,Yok/None,"AIN, INS, INSE","INS 352 MIN DD
+veya INS 352E MIN DD
+veya INS 354 MIN DD
+veya INS 354E MIN DD",Yok/None
+113,13310,INS 441E,Water Resources,,Tarkan Erdik,INB,Pazartesi,0930/1229,B204,50,49,Yok/None,"AIN, INS, INSE","INS 352 MIN DD
+veya INS 352E MIN DD
+veya INS 354 MIN DD
+veya INS 354E MIN DD",Yok/None
+114,13311,INS 457E,Renew. Enrgy Types& Mod. Tech.,,Cihan Bayındır,INB,Perşembe,0930/1229,B206,72,69,Yok/None,"AIN, INS, INSE",Yok/None,Yok/None
+115,13271,INS 459,Çubuk Sonlu Elemanlar,,"Nihal Eratlı, Akif Kutlu",INB,Salı,1330/1629,B203,35,19,Yok/None,INS,"MUK 202 MIN DD
+veya MUK 202E MIN DD
+veya MUK 218 MIN DD
+veya MUK 218E MIN DD",Yok/None
+116,13509,INS 462E,Engineering Ethics,,Hüseyin Onur Tezcan,INB,Pazartesi,0830/0929,B104,120,120,Yok/None,"AIN, INS, INSE",Yok/None,"4.Sınıf, 3.Sınıf"
+117,13293,INS 478E,Fatigue of Metal Strc.Elements,,--,INB,Cuma,0930/1229,---,0,0,Yok/None,"AIN, INS, INSE",Yok/None,Yok/None
+118,13315,INS 490,Kıyı ve Liman Yapıları,,Cihan Bayındır,INB,Cuma,1430/1729,B205,50,20,Yok/None,INS,"INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD",Yok/None
+119,13274,INS 4901,İnşaat Müh. Tasarımı I,,Mustafa Gençoğlu,INB,----,/,---,500,122,Yok/None,INS,"(INS 323 MIN DD
+veya INS 323E MIN DD
+veya INS 311 MIN DD
+veya INS 311E MIN DD)
+ve (INS 332 MIN DD
+veya INS 332E MIN DD)
+ve (INS 360 MIN DD
+veya INS 360E MIN DD
+veya INS 361 MIN DD
+veya INS 361E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve FIZ 101EL MIN DD
+ve KIM 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (INS 210 MIN DD
+veya INS 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+120,13275,INS 4901E,Civil Eng. Design I,,Mustafa Gençoğlu,INB,----,/,---,500,36,Yok/None,"AIN, INS, INSE","(INS 323 MIN DD
+veya INS 323E MIN DD
+veya INS 311 MIN DD
+veya INS 311E MIN DD)
+ve (INS 332 MIN DD
+veya INS 332E MIN DD)
+ve (INS 360 MIN DD
+veya INS 360E MIN DD
+veya INS 361 MIN DD
+veya INS 361E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve FIZ 101EL MIN DD
+ve KIM 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (INS 210 MIN DD
+veya INS 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+121,13276,INS 4902,İnşaat Müh. Tasarımı II,,Mustafa Gençoğlu,INB,----,/,---,500,38,Yok/None,INS,"INS 4901 MIN BB
+veya INS 4901E MIN BB",Yok/None
+122,13277,INS 4902E,Civil Eng. Design II,,Mustafa Gençoğlu,INB,----,/,---,500,17,Yok/None,"AIN, INS, INSE","INS 4901 MIN BB
+veya INS 4901E MIN BB",Yok/None
+123,13312,INS 490E,Coastal and Harbor Structures,,Veysel Şadan Özgür Kırca,INB,Perşembe,1330/1629,B202,55,39,Yok/None,"AIN, INS, INSE","INS 361 MIN DD
+veya INS 361E MIN DD
+veya INS 360 MIN DD
+veya INS 360E MIN DD",Yok/None
+124,13272,INS 492,Mühendislik Tasarım Projesi,,Mustafa Gençoğlu,INB,----,/,---,500,5,Yok/None,INS,Diğer Şartlar,4.Sınıf
+125,13273,INS 492E,Engineering Design Project,,Mustafa Gençoğlu,INB,----,/,---,500,4,Yok/None,"INS, INSE",Diğer Şartlar,4.Sınıf
+126,13314,INS 499E,Hydrologic Modeling,,Mehmet Cüneyd Demirel,INB,Perşembe,1330/1629,B305,40,10,Yok/None,"INS, INSE","(BIL 113E MIN DD
+veya INS 101E MIN DD
+veya INS 107E MIN DD
+veya INS 108E MIN DD)
+ve (INS 352 MIN DD
+veya INS 352E MIN DD
+veya INS 354 MIN DD
+veya INS 354E MIN DD)",Yok/None

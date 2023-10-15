@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10590,MAL 201,Malzeme Bilimi,,Billur Deniz Karahan,EEB,Pazartesi,1230/1529,5101,50,44,Yok/None,"EHB, ELE, ELH, ELK, KOM, TEL",Yok/None,Yok/None
+1,12655,MAL 201,Malzeme Bilimi,,Emin Çiftçi,MDB,Pazartesi,1330/1629,B205,50,51,Yok/None,"CHZ, JEO",Yok/None,Yok/None
+2,12281,MAL 201,Malzeme Bilimi,,Bihter Zeytuncu Gökoğlu,KMB,Çarşamba,1230/1529,D202,75,71,Yok/None,"GID, KMM",Yok/None,Yok/None
+3,12192,MAL 201E,Materials Science,,Hasan Nuri Türkmenoğlu,EEB,Pazartesi,1330/1629,5103,50,42,Yok/None,"CEN, EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+4,12193,MAL 201E,Materials Science,,Hasan Nuri Türkmenoğlu,EEB,Salı,0930/1229,5103,53,23,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+5,12035,MAL 201E,Materials Science,,Faiz Muhaffel,GDB,Çarşamba,0930/1229,D311,100,78,Yok/None,"DEN, DENE, GEM",Yok/None,Yok/None
+6,13612,MAL 201E,Materials Science,,"Alper Gürarslan, Özlem İpek Kalaoğlu Altan",MKB,Perşembe,0930/1229,D360,50,31,Yok/None,"DEN, DENE, EEE, EHB, EHBE, ELK, ELKE, GEM, KOM, KOME, TEK, TEKE",Yok/None,Yok/None
+7,12650,MAL 201E,Materials Science,,Emin Çiftçi,MDB,Perşembe,1430/1729,A201,40,51,Yok/None,"CHZ, CHZE, JEO, JEOE, MAD, MADE, PET, PETE",Yok/None,Yok/None
+8,13613,MAL 201E,Materials Science,,"Alper Gürarslan, Özlem İpek Kalaoğlu Altan",MKB,Cuma,0930/1229,D360,50,42,Yok/None,"DEN, DENE, EEE, EHB, EHBE, ELK, ELKE, GEM, KOM, KOME, TEK, TEKE",Yok/None,Yok/None

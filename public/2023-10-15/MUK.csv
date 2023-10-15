@@ -1,0 +1,60 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12031,MUK 203,Mukavemet I,,Serdar Aytekin Köroğlu,GDB,Salı,1330/1629,D401,80,71,Yok/None,"DEN, ELE, ELH, GEM, JEO, TEL, UCK, UZB","STA 201 MIN DD
+veya STA 202 MIN DD
+veya STA 204 MIN DD
+veya STA 201E MIN DD
+veya STA 202E MIN DD
+veya STA 204E MIN DD",Yok/None
+1,11893,MUK 203E,Strength of Materials I,,Demet Balkan,UUB,Pazartesi,0830/1129,D213,60,20,Yok/None,"DEN, DENE, ELE, ELH, GEM, GEME, GEMK, JEO, JEOE, NAE, TEL, UCK, UCKE, UZB, UZBE","STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+2,15114,MUK 203E,Strength of Materials I,,İbrahim Tuğrul Ardıç,GDB,Salı,0830/1129,D304,50,17,Yok/None,NAE,"STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+3,13382,MUK 205,Mukavemet,,Oğuz Altay,"MKB
+MKB","Perşembe
+Cuma","0830/1129
+1030/1229","---
+---",40,3,Yok/None,"IML, MAK, MAKM, MKN","STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD",Yok/None
+4,13618,MUK 207E,Strength of Materials,,Şule Selçuk,MKB,Cuma,0830/1129,D376,50,32,Yok/None,"CHZ, CHZE, IML, IMLE, TEK, TEKE","MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+5,12000,MUK 211,Mukavemet,,Zahit Mecitoğlu,"UUB
+UUB","Pazartesi
+Salı","1230/1429
+1130/1329","D-Z08
+D-Z08",70,73,Yok/None,"UCK, UZB","STA 201 MIN DD
+veya STA 201E MIN DD",Yok/None
+6,11894,MUK 211E,Strength of Materials,,Demet Balkan,"UUB
+UUB","Pazartesi
+Salı","1230/1429
+1130/1329","D216
+D216",70,73,Yok/None,"UCK, UZB, UZBE","STA 201 MIN DD
+veya STA 201E MIN DD",Yok/None
+7,13456,MUK 211E,Strength of Materials,,Aytaç Arıkoğlu,"UUB
+UUB","Pazartesi
+Salı","1230/1429
+1130/1329","D214
+D214",70,45,Yok/None,"UCK, UZB, UZBE","STA 201 MIN DD
+veya STA 201E MIN DD",Yok/None

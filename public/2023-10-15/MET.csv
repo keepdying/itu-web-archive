@@ -1,0 +1,103 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12291,MET 101E,Int.toMet.&Mat.Engn.&Eng.Ethic,,"Faiz Muhaffel, Cevat Bora Derin",KMB,Çarşamba,1330/1529,D201,170,157,Yok/None,"MET, METE",Yok/None,Yok/None
+1,12292,MET 213,Malzeme Biliminin Temelleri,,"Gültekin Göller, İpek Akın Karadayı",KMB,Pazartesi,1330/1629,D301,90,72,Yok/None,MET,Yok/None,Yok/None
+2,12293,MET 213E,Fund.of Materials Science,,"Gültekin Göller, İpek Akın Karadayı",KMB,Çarşamba,0930/1229,D301,90,70,Yok/None,METE,Yok/None,Yok/None
+3,12294,MET 215,Metalurji Termodinamiğ. Tem.,,Nuri Solak,KMB,Çarşamba,0930/1229,D103,95,78,Yok/None,MET,Yok/None,Yok/None
+4,12295,MET 215E,Fund.of Metall.Thermodynamics,,Nuri Solak,KMB,Perşembe,1030/1329,D103,100,74,Yok/None,METE,Yok/None,Yok/None
+5,12296,MET 313,Kimyasal Metalurji I,,"Servet İbrahim Timur, Güldem Kartal Şireli",KMB,Pazartesi,1530/1729,D202,100,90,Yok/None,MET,"(MET 215 MIN DD
+veya MET 215E MIN DD)
+ve (MET 224 MIN DD
+veya MET 224E MIN DD)",Yok/None
+6,12297,MET 313E,Chemical Metallugry I,,"Onuralp Yücel, Cevat Bora Derin, Mehmet Şeref Sönmez",KMB,Pazartesi,1530/1729,D201,75,73,Yok/None,METE,"(MET 215 MIN DD
+veya MET 215E MIN DD)
+ve (MET 224 MIN DD
+veya MET 224E MIN DD)",Yok/None
+7,12299,MET 315E,Fund. of Physical Metallurgy,,Duygu Ağaoğulları,KMB,Pazartesi,0830/1129,D201,95,85,Yok/None,"MET, METE","MET 213E MIN DD
+veya MET 213 MIN DD",Yok/None
+8,12298,MET 315E,Fund. of Physical Metallurgy,,Mustafa Lutfi Öveçoğlu,KMB,Pazartesi,1230/1529,D201,95,94,Yok/None,"MET, METE","MET 213E MIN DD
+veya MET 213 MIN DD",Yok/None
+9,12300,MET 317E,Fund. of Transport Phenomena,,Güldem Kartal Şireli,KMB,Salı,1030/1329,D201,180,156,Yok/None,"MET, METE",Yok/None,Yok/None
+10,12302,MET 335,Mlz.Elekt. Many.&Optk Özellik.,,Hüseyin Kızıl,KMB,Perşembe,0830/1129,D105,95,89,Yok/None,MET,"MET 246 MIN DD
+veya MET 246E MIN DD",Yok/None
+11,12303,MET 335E,"Elect.,Magn.,Optic.Prop.ofMat.",,Muhammet Kürşat Kazmanlı,KMB,Cuma,1400/1659,D104,100,78,Yok/None,METE,"MET 246E MIN DD
+veya MET 246 MIN DD",Yok/None
+12,12305,MET 337,Malzeme Karakterizasyon Met.,,"Gültekin Göller, Özgül Keleş",KMB,Perşembe,1330/1629,D301,100,96,Yok/None,MET,"MET 213E MIN DD
+veya MET 213 MIN DD",Yok/None
+13,12306,MET 337E,Materials Characteriz. Meth.,,"Murat Baydoğan, Cevat Bora Derin, Duygu Ağaoğulları",KMB,Çarşamba,0830/1129,D104,100,76,Yok/None,METE,"MET 213E MIN DD
+veya MET 213 MIN DD",Yok/None
+14,12310,MET 339,Malzeme Karakterizasyon Lab.,,"Mohammadreza Nofar, Cevat Fahir Arısoy, Duygu Ağaoğulları, Filiz Şahin, Güldem Kartal Şireli, Gültekin Göller, Muhammet Kürşat Kazmanlı, Sebahattin Gürmen, Servet İbrahim Timur, İpek Akın Karadayı",KMB,Salı,0830/1029,ML2,90,84,Yok/None,MET,"MET 213E MIN DD
+veya MET 213 MIN DD",Yok/None
+15,12312,MET 339E,Materials Characterization Lab,,"Mohammadreza Nofar, Billur Deniz Karahan, Cevat Bora Derin, Cevat Fahir Arısoy, Cüneyt Arslan, Duygu Ağaoğulları, Hüseyin Kızıl, Hüseyin Çimenoğlu, Nuri Solak, Onuralp Yücel, Özgül Keleş",KMB,Salı,1330/1529,ML2,80,67,Yok/None,METE,"MET 213E MIN DD
+veya MET 213 MIN DD",Yok/None
+16,12314,MET 353,Müh.Uyg.Tasar.Pren&Malz.Seç.,,Bihter Zeytuncu Gökoğlu,KMB,Cuma,0830/1029,D104,90,75,Yok/None,MET,Yok/None,Yok/None
+17,12316,MET 353E,Dsn.Prnc.&Mat.Sel for Eng.App.,,"Özgül Keleş, Billur Deniz Karahan",KMB,Salı,1530/1729,D201,90,83,Yok/None,METE,Yok/None,Yok/None
+18,12317,MET 435E,PST Desg.&Prj.Mng. and Innov.,,"Özgül Keleş, Billur Deniz Karahan",KMB,Perşembe,1130/1329,D304,70,69,Yok/None,"MET, METE","MET 353E MIN DD
+veya MET 353 MIN DD",Yok/None
+19,12320,MET 437E,Princip.of Corros.&Corros.Prot,Çevrimiçi/Online,Cem Örnek,----,Pazartesi,1030/1229,----,95,86,Yok/None,"MET, METE","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MET 213 MIN DD
+veya MET 213E MIN DD)",Yok/None
+20,12319,MET 437E,Princip.of Corros.&Corros.Prot,,Muhammet Kürşat Kazmanlı,KMB,Pazartesi,1130/1329,D204,95,103,Yok/None,"MET, METE","(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MET 213 MIN DD
+veya MET 213E MIN DD)",Yok/None
+21,12322,MET 439E,Engineering Polymers,,Mohammadreza Nofar,KMB,Cuma,0830/1029,D201,170,173,Yok/None,"MET, METE","MET 213 MIN DD
+veya MET 213E MIN DD",Yok/None
+22,12324,MET 453E,Fund. of Ceramics Materials,,İpek Akın Karadayı,KMB,Perşembe,0930/1129,D304,80,74,Yok/None,"MET, METE","MET 213 MIN DD
+veya MET 213E MIN DD",Yok/None
+23,12325,MET 453E,Fund. of Ceramics Materials,,Filiz Şahin,KMB,Perşembe,0930/1129,D201,80,80,Yok/None,"MET, METE","MET 213 MIN DD
+veya MET 213E MIN DD",Yok/None
+24,12326,MET 455,Malzeme Proses Lab.,,"Faiz Muhaffel, Bihter Zeytuncu Gökoğlu, Filiz Şahin, Gültekin Göller, Kübra Onbaşlı, Mehmet Şeref Sönmez, Muhammet Kürşat Kazmanlı, Sebahattin Gürmen, Servet İbrahim Timur, İpek Akın Karadayı",KMB,Salı,1330/1529,ML1,80,80,Yok/None,MET,"MET 364 MIN DD
+veya MET 364E MIN DD",Yok/None
+25,13600,MET 455E,Materials Processing Lab.,,"Faiz Muhaffel, Bihter Zeytuncu Gökoğlu, Billur Deniz Karahan, Cevat Bora Derin, Cüneyt Arslan, Hüseyin Kızıl, Hüseyin Çimenoğlu, Kübra Onbaşlı, Mehmet Şeref Sönmez, Murat Baydoğan, Necip Ünlü, Onuralp Yücel",KMB,Salı,0930/1129,ML1,80,70,Yok/None,METE,"MET 364 MIN DD
+veya MET 364E MIN DD",Yok/None
+26,12329,MET 457E,Semiconductor Materials,,--,KMB,Çarşamba,0830/1029,---,0,0,Yok/None,"MET, METE",Yok/None,Yok/None
+27,12330,MET 459E,Metal Casting and Technologies,,Necip Ünlü,KMB,Pazartesi,1530/1729,D203,80,80,Yok/None,"MET, METE",Yok/None,Yok/None
+28,12331,MET 474,Demir Dışı Metal.Ekstrk.Mtlrj.,,Onuralp Yücel,KMB,Cuma,1430/1629,D106,35,24,Yok/None,MET,Yok/None,Yok/None
+29,12332,MET 475E,Powder Metallurgy,,"Mustafa Lutfi Öveçoğlu, Duygu Ağaoğulları",KMB,Perşembe,1330/1529,D102,45,26,Yok/None,"MET, METE",Yok/None,Yok/None
+30,12333,MET 477E,Intro. to Electrometallurgy,,"Cüneyt Arslan, Sebahattin Gürmen",KMB,Çarşamba,0830/1029,D202,45,6,Yok/None,"MET, METE",Yok/None,Yok/None
+31,12334,MET 479E,Iron and Steel Making,,Cevat Fahir Arısoy,KMB,Çarşamba,1330/1529,D102,45,22,Yok/None,"MET, METE",Yok/None,Yok/None
+32,12335,MET 483E,Intr.to Non Destr.Test.of Mat.,,Necip Ünlü,KMB,Çarşamba,0830/1029,D102,45,35,Yok/None,"MET, METE",Yok/None,Yok/None
+33,12336,MET 485E,Ceramic Manufacturing,,"Filiz Şahin, İpek Akın Karadayı",KMB,Salı,1130/1329,D102,45,41,Yok/None,"MET, METE",Yok/None,Yok/None
+34,12337,MET 487E,Deform. Proces.of Materials,,"Hüseyin Çimenoğlu, Murat Baydoğan",KMB,Pazartesi,1330/1529,D204,70,68,Yok/None,"MET, METE",Yok/None,Yok/None
+35,12338,MET 4901,Met. Malz. Müh. Tasarımı I,,Cevat Bora Derin,KMB,----,/,---,500,39,Yok/None,MET,"(MET 339 MIN DD
+veya MET 339E MIN DD)
+ve (MET 364 MIN DD
+veya MET 364E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+36,12339,MET 4901E,Met. & Mat. Engn. Design I,,Cevat Bora Derin,KMB,----,/,---,500,101,Yok/None,"MET, METE","(MET 339 MIN DD
+veya MET 339E MIN DD)
+ve (MET 364 MIN DD
+veya MET 364E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+37,12340,MET 492,Tasarım Projesi,,Cevat Bora Derin,KMB,----,/,---,50,2,Yok/None,MET,Diğer Şartlar,4.Sınıf
+38,12341,MET 492E,Design Project,,Cevat Bora Derin,KMB,----,/,---,50,1,Yok/None,"MET, METE",Diğer Şartlar,4.Sınıf

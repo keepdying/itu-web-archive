@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10579,EHN 111,Intr.to Electronics& Comm.Eng.,,İsmail Serdar Özoğuz,EEB,Çarşamba,1430/1529,1303,30,12,Yok/None,"EHN, SEH",Yok/None,Yok/None
+1,10580,EHN 212,Intr.to Electromagnetic Fields,,Serkan Şimşek,EEB,Pazartesi,0830/1129,1303,30,7,Yok/None,"EHN, SEH",Yok/None,Yok/None
+2,10581,EHN 252,Signals and Systems,,Hakan Ali Çırpan,EEB,Salı,0830/1129,1303,30,8,Yok/None,"EHN, SEH",Yok/None,Yok/None
+3,10582,EHN 262,Electronics II,,Mustafa Berke Yelten,EEB,Salı,1230/1529,5206,30,8,Yok/None,"EHN, SEH",Yok/None,Yok/None
+4,10583,EHN 311,Intr.to Electronics Laboratory,,İsmail Serdar Özoğuz,EEB,Perşembe,1230/1429,5306,30,8,Yok/None,"EHN, SEH",Yok/None,Yok/None
+5,10584,EHN 317,Control Systems,,Hakan Temeltaş,EEB,Cuma,1400/1659,5206,30,8,Yok/None,"EHN, SEH",Yok/None,Yok/None

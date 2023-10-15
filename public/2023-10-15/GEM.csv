@@ -1,0 +1,148 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13778,GEM 101,Gemi İnş.&Gem.Mak.Müh.Gir.&Etk,,Erdem Üçer,GDB,Çarşamba,1330/1529,410,140,95,Yok/None,"GEM, SORM",Yok/None,Yok/None
+1,13780,GEM 201E,Dynamics,,Mustafa Erden Yıldızdağ,"GDB
+GDB","Çarşamba
+Perşembe","1030/1229
+1030/1229","410
+D304",50,48,Yok/None,GEM,"(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)",Yok/None
+2,13781,GEM 201E,Dynamics,,Bahadır Uğurlu,"GDB
+GDB","Çarşamba
+Perşembe","1030/1229
+1030/1229","---
+D401",50,42,Yok/None,GEM,"(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)",Yok/None
+3,13782,GEM 203,Mukavemet I,,Bahadır Uğurlu,"GDB
+GDB","Pazartesi
+Salı","1430/1629
+1430/1629","410
+R403",55,34,Yok/None,GEM,Yok/None,Yok/None
+4,13783,GEM 203,Mukavemet I,,Fuzuli Ağrı Akçay,"GDB
+GDB","Pazartesi
+Salı","1430/1629
+1430/1629","D401
+410",55,55,Yok/None,GEM,Yok/None,Yok/None
+5,13784,GEM 205,Malzeme ve Imal Usulleri,,Gökhan Tansel Tayyar,GDB,Pazartesi,1030/1329,D401,120,113,Yok/None,GEM,Yok/None,Yok/None
+6,13785,GEM 210E,Engineering Mathematics,,Devrim Bülent Danışman,"GDB
+GDB","Pazartesi
+Çarşamba","0830/1029
+0830/1029","410
+410",120,72,Yok/None,"GEM, GEME","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+7,12040,GEM 211,Gemi Geometrisi,,Burak Karacık,GDB,Pazartesi,1430/1729,R409,30,20,Yok/None,"DEN, GEM, GEMM","RES 101 MIN DD
+veya RES 101E MIN DD
+veya RES 103 MIN DD
+veya RES 103E MIN DD
+veya GEM 112 MIN DD
+veya RES 102 MIN DD
+veya RES 102E MIN DD",Yok/None
+8,13788,GEM 313,Gemi Makinaları,,"Murat Emre Demir, Halil Saraçoğlu","GDB
+GDB","Perşembe
+Cuma","1330/1529
+1030/1229","409
+409",35,29,Yok/None,"GEM, GEMM","GEM 204 MIN DD
+veya TER 201 MIN DD
+veya TER 201E MIN DD",Yok/None
+9,13789,GEM 313,Gemi Makinaları,,"Oğuz Salim Söğüt, Ahmet Ergün Palaz","GDB
+GDB","Perşembe
+Cuma","1330/1529
+1030/1229","D401
+D401",35,35,Yok/None,"GEM, GEMM","GEM 204 MIN DD
+veya TER 201 MIN DD
+veya TER 201E MIN DD",Yok/None
+10,13790,GEM 321E,Ship Theory,,Metin Taylan,"GDB
+GDB","Salı
+Cuma","0830/1029
+0830/1029","D401
+D401",80,73,Yok/None,"GEM, GEME, GEMK","GEM 102 MIN DD
+veya GEM 211 MIN DD",Yok/None
+11,13791,GEM 322,Gemi Mukavemeti,,Ertekin Bayraktarkatal,"GDB
+GDB","Salı
+Çarşamba","1030/1229
+1330/1529","D401
+D401",50,41,Yok/None,"GEM, GEMM","(GEM 222 MIN DD
+veya GEM 222E MIN DD
+veya GEM 325 MIN DD
+veya GEM 325E MIN DD)
+ve (MUK 204 MIN DD
+veya MUK 204E MIN DD
+veya MUK 210 MIN DD
+veya MUK 210E MIN DD
+veya MUK 202 MIN DD
+veya MUK 202E MIN DD)",Yok/None
+12,13792,GEM 325,Gemi Yapı Elemanları,,Yalçın Ünsan,"GDB
+GDB","Salı
+Çarşamba","1030/1229
+1330/1529","R403
+R403",70,50,Yok/None,"GEM, GEMM","GEM 203 MIN DD
+veya MUK 203 MIN DD
+veya MUK 209 MIN DD",Yok/None
+13,13793,GEM 327E,Ship Hydrodynamics(Resistance),,"Uğur Oral Ünal, Ömer Gören",GDB,Perşembe,1530/1729,D401,85,77,Yok/None,"GEM, GEMM","AKM 202 MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD",Yok/None
+14,13794,GEM 329,Deniz ve İş Hukuku,,Hasan Murat Demirkıran,GDB,Cuma,1400/1559,409,110,78,Yok/None,GEM,Yok/None,Yok/None
+15,13795,GEM 331,Gemi Işletmeciliği,,Erdem Üçer,GDB,Perşembe,0830/1029,D401,80,58,Yok/None,"GEM, GEMM",Yok/None,Yok/None
+16,13796,GEM 407E,Methods of Ship Production,,Gökhan Tansel Tayyar,GDB,Pazartesi,1430/1729,409,75,56,Yok/None,"DEN, DENE, GEM, GEME, GEMK","GEM 205 MIN DD
+veya GEM 212 MIN DD
+veya DEN 320E MIN DD",Yok/None
+17,13797,GEM 409,Gemi Titreşimleri,,Ahmet Ergin,GDB,Pazartesi,1030/1329,410,75,67,Yok/None,GEM,"(MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya GEM 210E MIN DD)
+ve (GEM 201E MIN DD
+veya DNK 201E MIN DD)",Yok/None
+18,13800,GEM 411E,Ship Design Project I,,--,GDB,Çarşamba,1030/1229,---,0,0,Yok/None,"GEME, GEMK","(GEM 321E MIN DD
+veya GEM 321 MIN DD)
+ve (GEM 342E MIN DD
+veya GEM 342 MIN DD
+veya GEM 326E MIN DD)",Yok/None
+19,13798,GEM 421,Gemi Hareket ve Manevraları,,"Ömer Gören, Şakir Bal","GDB
+GDB","Pazartesi
+Çarşamba","0830/1029
+0830/1029","D401
+D401",90,43,Yok/None,"GEM, GEMM","AKM 202 MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD",Yok/None
+20,13801,GEM 423E,Advanced Propulsion Systems,,Ali Can Takinacı,GDB,Salı,1530/1729,D407,30,19,Yok/None,"GEM, GEME, GEMK","GEM 341E MIN DD
+veya GEM 341 MIN DD
+veya GEM 328E MIN DD",Yok/None
+21,13802,GEM 425E,Finite Elem.Anl.of MarineStrc.,,Mustafa Erden Yıldızdağ,GDB,Salı,1530/1729,D309,30,12,Yok/None,"DEN, DENE, GEM, GEME, GEMK",Yok/None,Yok/None
+22,13803,GEM 427,Makina Dairesi Dizayn Prensipl,,Osman Azmi Özsoysal,GDB,Salı,1330/1529,D304,30,22,Yok/None,GEM,Yok/None,Yok/None
+23,13804,GEM 445,Gemi Boru Donanımları,,Osman Azmi Özsoysal,GDB,Salı,1530/1729,D304,35,35,Yok/None,GEM,Yok/None,Yok/None
+24,13805,GEM 453E,Automatic Control of Ships,,"Oğuz Salim Söğüt, Ahmet Ergün Palaz",GDB,Salı,1230/1529,D309,40,38,Yok/None,"GEM, GEME, GEMK",Yok/None,Yok/None
+25,13806,GEM 482,Bireysel Bitirme Projesi,,Selma Ergin,GDB,----,/,---,100,22,Yok/None,GEM,Yok/None,Yok/None
+26,13799,GEM 4901,Gemi İnş.&Gemi Mak. Müh.Tas.I,,"Gökhan Tansel Tayyar, Devrim Bülent Danışman, Emin Korkut, Ertekin Bayraktarkatal, Metin Taylan, Oğuz Salim Söğüt, Selma Ergin, Yalçın Ünsan, Ömer Gören, İsmail Yalçın","GDB
+GDB","Çarşamba
+Perşembe","1030/1329
+1030/1329","R403
+R403",70,62,Yok/None,GEM,"GEM 326E MIN DD
+ve (GEM 328E MIN DD
+veya GEM 328 MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (GEM 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+27,13807,GEM 492,Bitirme Tasarım Projesi,,Selma Ergin,GDB,----,/,---,100,1,Yok/None,GEM,Diğer Şartlar,4.Sınıf
+28,13808,GEM 492E,Graduation Design Project,,Selma Ergin,GDB,----,/,---,100,0,Yok/None,"GEM, GEME, GEMK",Diğer Şartlar,4.Sınıf

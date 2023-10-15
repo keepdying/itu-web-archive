@@ -1,0 +1,134 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10940,THO 109,Oyun Ritim Bilgisi I,,Eyüp Uzunkaya,TMB,Çarşamba,1330/1529,---,20,6,Yok/None,"THMT, THO",Yok/None,Yok/None
+1,10941,THO 111,Hareket Anatomisi I,,Nihal Cömert,TMB,Salı,1030/1229,---,20,8,Yok/None,"THMT, THO",Yok/None,Yok/None
+2,10942,THO 113,Oyun Tekniği I,,Salim Sınar,"TMB
+TMB","Pazartesi
+Perşembe","1330/1529
+1330/1529","---
+---",20,5,Yok/None,"THMA, THMH, THMK, THMN, THMR, THMT, THMZ, THO",Yok/None,Yok/None
+3,10943,THO 115,Bale I,,Yurıy Mezokh,"TMB
+TMB","Pazartesi
+Cuma","1530/1729
+1030/1229","---
+---",20,4,Yok/None,"THMB, THO",Yok/None,Yok/None
+4,10944,THO 115,Bale I,,Funda Bozkurt,"TMB
+TMB","Salı
+Cuma","1530/1729
+1030/1229","---
+---",20,1,Yok/None,"THMB, THO",Yok/None,Yok/None
+5,10947,THO 117,Kondisyon Ve Esneme I (Krdsz),,Funda Bozkurt,"TMB
+TMB","Salı
+Cuma","1330/1529
+0830/1029","---
+---",20,1,Yok/None,"THMB, THMD, THO",Yok/None,Yok/None
+6,10945,THO 117,Kondisyon Ve Esneme I (Krdsz),,Yurıy Mezokh,"TMB
+TMB","Salı
+Cuma","1331/1529
+0830/1029","---
+---",20,5,Yok/None,"THMB, THMD, THO",Yok/None,Yok/None
+7,10948,THO 201,Oyun Ritim Bilgisi III,,Salim Sınar,TMB,Salı,1530/1729,---,20,9,Yok/None,THO,THO 110 MIN CC,Yok/None
+8,10949,THO 203,Türk Halk Oyunları I,,Salim Sınar,"TMB
+TMB","Salı
+Perşembe","1330/1529
+0830/1029","---
+---",20,9,Yok/None,THO,Yok/None,Yok/None
+9,10950,THO 205,Oyunda Yöresel Tavırlar I,,Eyüp Uzunkaya,"TMB
+TMB","Salı
+Çarşamba","0830/1029
+1030/1229","---
+---",20,4,Yok/None,THO,Yok/None,Yok/None
+10,10952,THO 207,Oyun Repertuvarı I,,Cumhur Sevinç,"TMB
+TMB","Pazartesi
+Perşembe","1030/1229
+1030/1229","---
+---",20,9,Yok/None,THO,Yok/None,Yok/None
+11,15298,THO 2653,Vurmalı Çalgılar II,,Erkan Kanat,TMB,Perşembe,1030/1229,---,5,0,Yok/None,THO,"THO 1654 MIN DD
+veya THO 1554 MIN DD",Yok/None
+12,10953,THO 303,Türk Halk Oyunları III,,Cenap Güngör,"TMB
+TMB","Pazartesi
+Salı","1330/1529
+1530/1729","---
+---",20,10,Yok/None,THO,Yok/None,Yok/None
+13,10954,THO 305,Oyunda Yöresel Tavırlar III,,Aydın Balcı,"TMB
+TMB","Salı
+Perşembe","1330/1529
+0830/1029","---
+---",20,16,Yok/None,THO,Yok/None,Yok/None
+14,10956,THO 307,Oyun Repertuvarı III,,Serdar Bombacı,"TMB
+TMB","Salı
+Çarşamba","1030/1229
+0830/1029","---
+---",20,11,Yok/None,THO,Yok/None,Yok/None
+15,10957,THO 309,Halk Oyunları Sahne Bilgisi,,İlknur Demirbağ,TMB,Cuma,0930/1229,---,20,15,Yok/None,"THMA, THMH, THMK, THMN, THMR, THMT, THMZ, THO",Yok/None,Yok/None
+16,10958,THO 311,Oyun Analizi I,,Eyüp Uzunkaya,TMB,Pazartesi,0830/1129,---,20,14,Yok/None,"THMT, THO",Yok/None,Yok/None
+17,10960,THO 313,Koreoloji I,,Nihal Cömert,"TMB
+TMB","Salı
+Perşembe","0830/1029
+1030/1229","---
+---",20,11,Yok/None,THO,Yok/None,Yok/None
+18,10961,THO 317,Sahne Projesi I (Kredisiz),,Cenap Güngör,TMB,Perşembe,1330/1729,---,5,5,Yok/None,THO,Yok/None,Yok/None
+19,10962,THO 317,Sahne Projesi I (Kredisiz),,Yurıy Mezokh,TMB,Perşembe,1330/1729,---,5,2,Yok/None,THO,Yok/None,Yok/None
+20,10964,THO 317,Sahne Projesi I (Kredisiz),,Funda Bozkurt,TMB,Perşembe,1330/1729,---,5,1,Yok/None,THO,Yok/None,Yok/None
+21,10965,THO 317,Sahne Projesi I (Kredisiz),,Cumhur Sevinç,TMB,Perşembe,1330/1729,---,5,5,Yok/None,THO,Yok/None,Yok/None
+22,10966,THO 371,Sahne ve Beden Dili I,,Kemal Akdoğan,TMB,Cuma,0830/1029,---,20,20,Yok/None,SES,Yok/None,Yok/None
+23,10967,THO 409,20.yy'da Dans,,İlknur Demirbağ,TMB,Cuma,1400/1659,---,20,13,Yok/None,THO,Yok/None,Yok/None
+24,10968,THO 411,Geleneksel Giyim Kuşam I,,İlknur Demirbağ,TMB,Pazartesi,1030/1229,---,20,11,Yok/None,"THMA, THMH, THMK, THMN, THMR, THMT, THMZ, THO",Yok/None,Yok/None
+25,10969,THO 413,Jest-Mimik,,Cumhur Sevinç,TMB,Çarşamba,0930/1229,---,20,13,Yok/None,THO,Yok/None,Yok/None
+26,15275,THO 413,Jest-Mimik,,--,TMB,Cuma,0930/1229,---,0,0,Yok/None,THO,Yok/None,Yok/None
+27,10970,THO 417,Sahne Projesi III (Kredisiz),,--,TMB,Perşembe,1330/1729,---,0,0,Yok/None,THO,Yok/None,Yok/None
+28,10971,THO 417,Sahne Projesi III (Kredisiz),,İlknur Demirbağ,TMB,Perşembe,1330/1729,---,10,7,Yok/None,THO,Yok/None,Yok/None
+29,10972,THO 421,Azeri Oyun Repertuvarı I,,Salim Sınar,"TMB
+TMB","Salı
+Perşembe","0830/1029
+1030/1229","---
+---",10,0,Yok/None,"THMA, THMT, THO",Yok/None,Yok/None
+30,10973,THO 425,Halay Oyun Repertuvarı I,,Cenap Güngör,"TMB
+TMB","Salı
+Perşembe","1330/1529
+1030/1229","---
+---",10,0,Yok/None,"THMH, THMT, THO",Yok/None,Yok/None
+31,10974,THO 427,Horon Oyun Repertuvarı I,,Aydın Balcı,"TMB
+TMB","Salı
+Perşembe","1530/1729
+1030/1229","---
+---",10,2,Yok/None,"THMN, THMT, THO",Yok/None,Yok/None
+32,10975,THO 429,Karşılama- Hora Oyun Rep. I,,Serdar Bombacı,"TMB
+TMB","Salı
+Perşembe","0830/1029
+0830/1029","---
+---",10,5,Yok/None,"THMK, THMT, THO",Yok/None,Yok/None
+33,10976,THO 431,Kaşıklı Oyunlar I,,Funda Bozkurt,"TMB
+TMB","Salı
+Perşembe","0830/1029
+0830/1029","---
+---",10,0,Yok/None,THO,Yok/None,Yok/None
+34,10977,THO 435,Zeybek Oyun Repertuvarı I,,Cumhur Sevinç,"TMB
+TMB","Salı
+Perşembe","0830/1029
+0830/1029","---
+---",10,0,Yok/None,"THMT, THMZ, THO",Yok/None,Yok/None
+35,10978,THO 443,Denge Performans I,,Cumhur Sevinç,"TMB
+TMB","Pazartesi
+Çarşamba","1330/1529
+1330/1529","---
+---",10,5,Yok/None,"THMB, THMD, THO",Yok/None,Yok/None
+36,10979,THO 445,Köy Seyirlik Oyunları I,,Eyüp Uzunkaya,"TMB
+TMB","Pazartesi
+Salı","1530/1729
+1030/1229","---
+---",10,2,Yok/None,THO,Yok/None,Yok/None
+37,15276,THO 445,Köy Seyirlik Oyunları I,,Eyüp Uzunkaya,"TMB
+TMB","Perşembe
+Cuma","1330/1529
+1400/1559","---
+---",5,2,Yok/None,THO,Yok/None,Yok/None
+38,10980,THO 447,Modern Dans I,,Yurıy Mezokh,"TMB
+TMB","Salı
+Çarşamba","1030/1229
+1330/1529","---
+---",10,4,Yok/None,"THMD, THO",Yok/None,Yok/None
+39,10981,THO 453,Dans Antropolojisine Giriş,,Fatma Belma Kurtişoğlu,TMB,Pazartesi,0830/1029,---,10,4,Yok/None,THO,Yok/None,Yok/None
+40,10982,THO 461,Koreografi I,,Yurıy Mezokh,TMB,Pazartesi,0830/1029,---,10,3,Yok/None,"THMA, THMB, THMD, THMH, THMK, THMN, THMR, THMZ, THO",Yok/None,Yok/None
+41,10983,THO 471,Türk Halk Oyunları I,,Cenap Güngör,TMB,Salı,0830/1029,---,20,20,Yok/None,SES,Yok/None,Yok/None
+42,10984,THO 492,Bitirme Çalışması,,Eyüp Uzunkaya,TMB,----,/,---,100,8,Yok/None,THO,Diğer Şartlar,4.Sınıf

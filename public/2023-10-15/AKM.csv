@@ -1,0 +1,14 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13141,AKM 204,Akışkanlar Mekaniği,,Mehmet Melih Koşucu,INB,Çarşamba,1230/1529,A305,75,75,Yok/None,"CEV, CHZ, GEM, IML, INS, KMM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+1,13324,AKM 204,Akışkanlar Mekaniği,,Necati Erdem Ünal,INB,Cuma,1400/1659,A305,75,75,Yok/None,"CEV, CHZ, GEM, IML, INS, KMM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+2,13142,AKM 204E,Fluid Mechanics,,Mehmet Özger,INB,Çarşamba,1230/1529,A204,85,93,Yok/None,"CEV, CEVE, CHZ, CHZE, FIZ, FIZE, GEM, GID, GIDE, IML, IMLE, INS, INSE, JEF, JEO, KMM, KMME, MAD, MEN, MTM, MTO, MTOE, NAE, PET, PETE, TEK, TEKE, UCK, UZB","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None

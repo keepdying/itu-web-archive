@@ -1,0 +1,36 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,15323,MST 211,Maritime Conventions,,Tanju Kurtuluş,DZB,Çarşamba,1230/1429,---,10,2,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, MTTM, NAE",Yok/None,Yok/None
+1,13861,MST 222,Marine Electronics,,Tayfun Uyanık,DZB,Salı,1530/1829,---,40,17,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE","PHY 106 MIN DD
+veya FIZ 102E MIN DD
+veya PHY 108 MIN DD",Yok/None
+2,15032,MST 222,Marine Electronics,,Ali Sinan Çabuk,EEB,Perşembe,1330/1629,5106,50,3,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE","PHY 106 MIN DD
+veya FIZ 102E MIN DD
+veya PHY 108 MIN DD",Yok/None
+3,13836,MST 232,Meteorology,,Ayşe Nak,DZB,Salı,1430/1729,---,60,34,Yok/None,"DUIK, MTM",Yok/None,Yok/None
+4,15033,MST 241,Marine Electrotechnics,,Ali Sinan Çabuk,EEB,Çarşamba,1230/1529,5204,50,21,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","PHY 106 MIN DD
+veya FIZ 102E MIN DD
+veya PHY 108 MIN DD",Yok/None
+5,15349,MST 252,Radio Watchkeeping,,Alaaddin Yıldıray Ertaş,"DZB
+DZB","Perşembe
+Perşembe","1130/1329
+1530/1629","---
+---",10,1,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+6,15325,MST 262,Maritime English II,,Müjgan Özenir,DZB,Salı,1730/1929,---,20,13,Yok/None,"GEMK, GMIK, MEN, NAE",Yok/None,Yok/None
+7,15326,MST 272,Marit. Human Resources Manag.,,Leyla Tavacıoğlu,DZB,Salı,1230/1429,---,20,10,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+8,13833,MST 311,Maritime Law I,,Onur Sabri Durak,DZB,Pazartesi,1530/1729,---,50,26,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+9,15052,MST 311,Maritime Law I,,Hasan Murat Demirkıran,GDB,Cuma,1030/1229,D407,50,19,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+10,13832,MST 321,Org.Mang.&Behavior in Maritime,,Dilek Mürüvvet Görgüç,DZB,Pazartesi,0930/1129,---,60,39,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+11,13856,MST 331,Shipping Finance,,Sinan Çakır,DZB,Pazartesi,1130/1329,---,60,27,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+12,15040,MST 331,Shipping Finance,,Erdem Üçer,GDB,Cuma,0830/1029,R409,50,26,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+13,13831,MST 341,Ship Supply Chain Management,,Selim Aksoy,DZB,Çarşamba,1030/1229,---,60,11,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+14,13848,MST 401,Maritime Safety,,Hakan Çap,DZB,Çarşamba,0830/1129,---,60,41,Yok/None,"DUIK, GMIK, MEN, MTM",Yok/None,Yok/None
+15,13849,MST 401,Maritime Safety,,Hakan Çap,DZB,Çarşamba,1230/1529,---,60,20,Yok/None,"DUIK, GMIK, MEN, MTM",Yok/None,Yok/None
+16,15330,MST 402,Mar.Sec. & Quality Manag. Sys,,Yunus Emre Şenol,DZB,Perşembe,0930/1129,---,20,9,Yok/None,"DUIK, GMIK, MEN, MENM, MTM, MTTM",Yok/None,Yok/None
+17,13851,MST 411,Marine Engines,,Cumali Seçkin Mengeçin,DZB,Pazartesi,0830/1029,---,60,11,Yok/None,"DUIK, MTM",Yok/None,Yok/None
+18,15331,MST 412,Ship Surveying Procedures,,Tanju Kurtuluş,DZB,Perşembe,1530/1729,---,20,20,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+19,13853,MST 421,Meteorology and Oceanography,,Ayşe Nak,DZB,Çarşamba,1130/1329,---,60,28,Yok/None,"DUIK, MTM, MTTM",Yok/None,Yok/None
+20,13863,MST 432,Commercial Ship Management,,Gizem Çevik,DZB,Pazartesi,0930/1129,---,30,22,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+21,13855,MST 441,Deck Machinery,,Ömer Berkehan İnal,DZB,Perşembe,0930/1129,---,60,17,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,"4.Sınıf, 3.Sınıf"
+22,15327,MST 452,Port Management,,Tanzer Satır,DZB,Pazartesi,1230/1429,---,20,18,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+23,13847,MST 461,Terminal & Tanker Operations,,Üstün Atak,DZB,Perşembe,1230/1429,---,60,60,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None

@@ -1,0 +1,95 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,11717,MTO 101,Meteoroloji Müh. Giriş ve Etik,,Ahmet Duran Şahin,UUB,Perşembe,1530/1629,D-Z08,90,88,Yok/None,MTO,Yok/None,Yok/None
+1,11721,MTO 111E,Intr. to Atmospheric Sciences,,Mikdat Kadıoğlu,UUB,Pazartesi,1430/1729,D-Z08,95,94,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+2,15171,MTO 214,Atmosfer Termodinamiği,,Kasım Koçak,"UUB
+UUB","Salı
+Çarşamba","1230/1429
+0830/1029","D215
+D214",25,26,Yok/None,MTO,Yok/None,Yok/None
+3,11788,MTO 223,Bilgisayar Grafiğine Giriş,,Barış Önol,UUB,Salı,1430/1729,BIL1,90,73,Yok/None,MTO,Yok/None,Yok/None
+4,11779,MTO 225,Güneş ve Yer Radyasyonu,,Filiz Türk Katırcıoğlu,UUB,Perşembe,1430/1729,D209,35,36,Yok/None,"FIZ, MTO",Yok/None,Yok/None
+5,11783,MTO 225E,Solar & Terrestrial Radiation,,Deniz Demirhan,UUB,Perşembe,1430/1729,D113,35,28,Yok/None,"FIZ, FIZE, MTO, MTOE",Yok/None,Yok/None
+6,11794,MTO 227,Ekosistem Ekolojisi,,Barış Çaldağ,UUB,Pazartesi,1430/1729,D108,40,41,Yok/None,MTO,Yok/None,Yok/None
+7,11792,MTO 229E,Physics ofClouds&Precipitation,,Sevinç Asilhan,UUB,Salı,1430/1729,D-Z08,70,73,Yok/None,"MTO, MTOM","MTO 212 MIN DD
+veya MTO 212E MIN DD
+veya MTO 214 MIN DD
+veya MTO 214E MIN DD",Yok/None
+8,11738,MTO 301,Meteo.Uzaktan Algılamanın Tem.,,Ahmet Öztopal,UUB,Cuma,0930/1129,D209,90,89,Yok/None,MTO,Yok/None,Yok/None
+9,11791,MTO 303E,Comput.Fluid Dyn.in Meteo.Eng.,,Elçin Tan,UUB,Çarşamba,1030/1229,D216,95,102,Yok/None,MTO,Yok/None,Yok/None
+10,11775,MTO 311E,Data Analysis,,Kasım Koçak,"UUB
+UUB","Çarşamba
+Perşembe","1330/1529
+0830/1129","D209
+D209",90,84,Yok/None,MTO,Yok/None,Yok/None
+11,11742,MTO 323,Atmosfer Kimyası,,Ceyhan Kahya,UUB,Perşembe,1130/1429,D214,15,15,Yok/None,MTO,Yok/None,Yok/None
+12,11758,MTO 337,Atmosfer Dinamiği I,,"Ali Deniz, Emrah Tuncay Özdemir","UUB
+UUB","Salı
+Perşembe","1130/1329
+1230/1429","D-Z09
+D-Z09",35,35,Yok/None,"MTO, MTOM",Yok/None,Yok/None
+13,11771,MTO 337E,Atmospheric Dynamics I,,Yurdanur Ünal,"UUB
+UUB","Salı
+Perşembe","1130/1329
+1230/1429","D213
+D213",35,31,Yok/None,MTO,Yok/None,Yok/None
+14,11747,MTO 344E,Wheather Analy. &Prediction I,,Mikdat Kadıoğlu,"UUB
+UUB","Pazartesi
+Salı","1130/1329
+0830/1129","D111
+D111",40,38,Yok/None,"MTO, MTOE","MTO 333 MIN DD
+veya MTO 333E MIN DD
+veya MTO 337 MIN DD
+veya MTO 337E MIN DD",Yok/None
+15,11754,MTO 350E,Air Pollution Fundamentals,,Ceyhan Kahya,UUB,Pazartesi,1130/1429,D210,20,38,Yok/None,MTO,Yok/None,Yok/None
+16,11795,MTO 351E,Hydrometeorology,,--,UUB,Perşembe,0930/1229,---,0,0,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+17,11785,MTO 357E,Physics of Upper Atmosphere,,Zerefşan Kaymaz,UUB,Perşembe,1430/1729,D215,20,30,Yok/None,"FIZ, FIZE, MTO",Yok/None,Yok/None
+18,11793,MTO 359,Biyometeoroloji,,Barış Çaldağ,UUB,Çarşamba,0830/1129,D111,15,13,Yok/None,MTO,Yok/None,Yok/None
+19,11790,MTO 388E,Geographic Information Science,,Filiz Türk Katırcıoğlu,UUB,Pazartesi,1430/1729,BIL1,60,29,Yok/None,MTO,Yok/None,Yok/None
+20,11751,MTO 445,Hava Analizi ve Öngörü II,,Şükran Sibel Menteş,"UUB
+UUB","Pazartesi
+Salı","1130/1429
+0830/1029","D215
+D215",40,18,Yok/None,"MTO, MTOM","MTO 321 MIN DD
+veya MTO 321E MIN DD
+veya MTO 344 MIN DD
+veya MTO 344E MIN DD",Yok/None
+21,11789,MTO 451E,Oceanography,,Elçin Tan,UUB,Cuma,1430/1729,D113,25,55,Yok/None,MTO,Yok/None,Yok/None
+22,11787,MTO 455,Hidrometri,,Kasım Koçak,UUB,Salı,1430/1729,D108,15,8,Yok/None,MTO,Yok/None,Yok/None
+23,11786,MTO 464E,Climate Change,,Yurdanur Ünal,UUB,Pazartesi,1430/1729,D109,20,26,Yok/None,"MTO, MTOE",Yok/None,Yok/None
+24,11820,MTO 466E,Atmospheric Optics & Acoustics,,Deniz Demirhan,UUB,Cuma,0930/1229,D113,22,22,Yok/None,"FIZ, FIZE, MTO, MTOE",Yok/None,Yok/None
+25,11828,MTO 4901,Meteoroloji Müh. Tasarımı I,,Mikdat Kadıoğlu,UUB,----,/,---,500,47,Yok/None,MTO,"(MTO 362 MIN DD
+veya MTO 362E MIN DD
+veya MTO 326 MIN DD
+veya MTO 326E MIN DD
+veya MTO 457 MIN DD
+veya MTO 457E MIN DD
+veya MTO 316 MIN DD
+veya MTO 316E MIN DD
+veya MTO 448E MIN DD
+veya MTO 354 MIN DD
+veya MTO 354E MIN DD
+veya MTO 460 MIN DD
+veya MTO 460E MIN DD
+veya MTO 351 MIN DD
+veya MTO 351E MIN DD
+veya MTO 456 MIN DD
+veya MTO 456E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+26,11832,MTO 492,Bitirme Çalışması,,Mikdat Kadıoğlu,UUB,----,/,---,500,1,Yok/None,MTO,Diğer Şartlar,4.Sınıf
+27,11834,MTO 492E,Graduation Project,,Mikdat Kadıoğlu,UUB,----,/,---,500,0,Yok/None,"MTO, MTOE",Diğer Şartlar,4.Sınıf
+28,11838,MTO 494,Araştırma Projesi,,Mikdat Kadıoğlu,UUB,----,/,---,500,18,Yok/None,MTO,Yok/None,4.Sınıf

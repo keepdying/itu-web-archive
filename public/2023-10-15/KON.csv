@@ -1,0 +1,210 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10527,KON 103,Kontrol & Otom. Müh.Giriş&Etik,,Mustafa Doğan,EEB,Çarşamba,0930/1229,5302,80,61,Yok/None,KOM,Yok/None,Yok/None
+1,10528,KON 103E,Intr.toCont.& Auto.Eng.&Ethics,,Mustafa Doğan,EEB,Çarşamba,1230/1529,5302,95,90,Yok/None,"KOM, KOME",Yok/None,Yok/None
+2,15261,KON 218,Ölçme Tekniği ve Algılayıcılar,,Yücel Aydın,EEB,Salı,1330/1729,5105,50,27,Yok/None,"EHB, ELK, KOM, MKN",Yok/None,Yok/None
+3,10531,KON 301E,System Modelling&Simulation,,Hakan Temeltaş,EEB,Salı,1230/1629,6309,120,113,Yok/None,"KOM, KOME",Yok/None,Yok/None
+4,10535,KON 301E,System Modelling&Simulation,,--,EEB,Cuma,0830/1229,---,0,0,Yok/None,"KOM, KOME",Yok/None,Yok/None
+5,15260,KON 306,Bilgisayar Kontrollü Sistemler,,Metin Gökaşan,EEB,Pazartesi,1130/1529,---,50,15,Yok/None,KOM,"KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+6,15333,KON 307E,Programming Techniq.in Control,,Emre Dincel,EEB,Perşembe,1030/1229,---,12,11,Yok/None,"KOM, KOME, KON, KONE",Yok/None,Yok/None
+7,10541,KON 307E,Programming Techniq.in Control,,Emre Dincel,EEB,Cuma,0930/1129,5105,140,105,Yok/None,"KOM, KOME, KON, KONE",Yok/None,Yok/None
+8,10542,KON 309E,Microcontroller Systems,,Osman Kaan Erol,EEB,Salı,0830/1229,6309,80,80,Yok/None,"KOM, KOME, MKN","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD
+veya EEF 110 MIN DD
+veya EEF 110E MIN DD",Yok/None
+9,10543,KON 309E,Microcontroller Systems,,Ahmet Onat,EEB,Cuma,0830/1229,5205,80,50,Yok/None,"KOM, KOME, MKN","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD
+veya EEF 110 MIN DD
+veya EEF 110E MIN DD",Yok/None
+10,10544,KON 313,Geribeslemeli Kontrol Sist.,,--,EEB,Pazartesi,1230/1529,---,0,0,Yok/None,"EHB, ELK, KOM, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+11,10545,KON 313,Geribeslemeli Kontrol Sist.,,Müjde Güzelkaya,EEB,Pazartesi,1230/1529,2106,70,71,Yok/None,"EHB, ELK, KOM, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD",Yok/None
+12,10546,KON 313,Geribeslemeli Kontrol Sist.,,"Erhan Yumuk, Sıddık Murat Yeşiloğlu",EEB,Pazartesi,1230/1529,5105,70,66,Yok/None,"EHB, ELK, KOM, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD",Yok/None
+13,10547,KON 313,Geribeslemeli Kontrol Sist.,,İlker Üstoğlu,EEB,Pazartesi,1230/1529,2104,70,70,Yok/None,"EHB, ELK, KOM, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD",Yok/None
+14,10548,KON 313E,Feedback Control Systems,,--,EEB,Pazartesi,1230/1529,---,0,0,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+15,10549,KON 313E,Feedback Control Systems,,Tufan Kumbasar,EEB,Pazartesi,1230/1529,5204,68,68,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD",Yok/None
+16,10550,KON 313E,Feedback Control Systems,,Volkan Sezer,EEB,Pazartesi,1230/1529,5203,67,68,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD",Yok/None
+17,10551,KON 313E,Feedback Control Systems,,Gülay Öke Günel,EEB,Pazartesi,1230/1529,5304,67,67,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD",Yok/None
+18,10552,KON 313E,Feedback Control Systems,,Aysa Jafari Farmand,EEB,Pazartesi,1230/1529,5207,67,68,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, MKN","KON 214 MIN DD
+veya KON 214E MIN DD
+veya EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD
+veya EEF 210 MIN DD
+veya EEF 210E MIN DD",Yok/None
+19,14912,KON 314E,Control System Design,Çevrimiçi/Online,Emre Dincel,----,"Pazartesi
+Cuma","1530/1729
+1400/1559",----,40,37,Yok/None,"KOM, KOME","KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+20,10553,KON 315,Elektronik Enstrümantasyon,,Yücel Aydın,EEB,Çarşamba,0830/1229,5304,70,25,Yok/None,KOM,"KON 216 MIN DD
+veya KON 216E MIN DD
+veya KON 218 MIN DD
+veya KON 218E MIN DD",Yok/None
+21,10554,KON 315E,Electronic Instrumentation,,Serhat İkizoğlu,EEB,Perşembe,0830/1229,6309,70,70,Yok/None,"KOM, KOME","KON 216 MIN DD
+veya KON 216E MIN DD
+veya KON 218 MIN DD
+veya KON 218E MIN DD",Yok/None
+22,10556,KON 318E,Introduction to Robotics,,--,EEB,Salı,1230/1529,---,0,0,Yok/None,"KOM, KOME",Yok/None,Yok/None
+23,10555,KON 318E,Introduction to Robotics,,Hakan Temeltaş,EEB,Cuma,0930/1229,5204,120,120,Yok/None,"KOM, KOME",Yok/None,Yok/None
+24,10560,KON 403,Kontrol Lab.,,Ahmet Onat,EEB,Salı,0830/1029,---,24,18,Yok/None,KOM,"KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+25,10559,KON 403,Kontrol Lab.,,Ahmet Onat,EEB,Çarşamba,0830/1029,---,24,23,Yok/None,KOM,"KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+26,10562,KON 403,Kontrol Lab.,,Ahmet Onat,EEB,Perşembe,0830/1029,---,24,18,Yok/None,KOM,"KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+27,10561,KON 403,Kontrol Lab.,,Ahmet Onat,EEB,Cuma,1430/1629,---,24,24,Yok/None,KOM,"KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+28,15308,KON 403E,Control Laboratory,,Ali Fuat Ergenç,EEB,Salı,1430/1629,---,24,23,Yok/None,"KOM, KOME","KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+29,10564,KON 403E,Control Laboratory,,Ali Fuat Ergenç,EEB,Çarşamba,1230/1429,---,24,24,Yok/None,"KOM, KOME","KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+30,10563,KON 403E,Control Laboratory,,--,EEB,Cuma,0830/1029,---,0,0,Yok/None,"KOM, KOME","KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+31,10557,KON 405E,State Space Meth.in Contr.Syst,,Fikret Çalışkan,EEB,Pazartesi,0830/1129,2102,70,63,Yok/None,"KOM, KOME, MKN","KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+32,10558,KON 405E,State Space Meth.in Contr.Syst,,İlker Üstoğlu,EEB,Pazartesi,0830/1129,2104,70,70,Yok/None,"KOM, KOME, MKN","KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+33,13914,KON 405E,State Space Meth.in Contr.Syst,,İlker Üstoğlu,EEB,Perşembe,0830/1129,5105,15,13,Yok/None,"KOM, KOME, MKN","KON 313 MIN DD
+veya KON 313E MIN DD",Yok/None
+34,15335,KON 409,Bitirme Tasarım Prj. Giriş,,Hakan Temeltaş,EEB,Perşembe,1030/1229,---,50,1,Yok/None,KOM,Yok/None,"4.Sınıf, 3.Sınıf"
+35,15336,KON 409E,Int. to Senior Design Project,,Hakan Temeltaş,EEB,Perşembe,1230/1429,---,50,0,Yok/None,"KOM, KOME",Yok/None,"4.Sınıf, 3.Sınıf"
+36,10565,KON 413,Endüstriyel Otomasyon,,--,EEB,Perşembe,1230/1629,---,0,0,Yok/None,"KOM, MKN","KON 322 MIN DD
+veya KON 322E MIN DD",Yok/None
+37,10566,KON 413E,Industrial Automation,,Yaprak Yalçın,EEB,Perşembe,1230/1629,5203,32,26,Yok/None,"KOM, KOME","KON 322 MIN DD
+veya KON 322E MIN DD",Yok/None
+38,10567,KON 419E,Control Sys. Dsgn. Project,,Ali Fuat Ergenç,EEB,Cuma,1430/1629,---,50,2,Yok/None,"KOM, KOME",Yok/None,Yok/None
+39,10568,KON 422,Elektrikli Ulaşım Sistemleri,,Salman Kurtulan,EEB,Çarşamba,1230/1529,5203,50,35,Yok/None,KOM,Yok/None,Yok/None
+40,10569,KON 425E,Process Control,,İlhan Kocaarslan,EEB,Çarşamba,0830/1129,5301,80,73,Yok/None,"KOM, KOME, MKN",Yok/None,Yok/None
+41,12428,KON 435E,Industrial Data Communications,,Ali Fuat Ergenç,EEB,Pazartesi,1230/1629,5107,80,66,Yok/None,"KOM, KOME, MKN","KON 322 MIN DD
+veya KON 322E MIN DD
+veya KON 325 MIN DD
+veya KON 325E MIN DD",Yok/None
+42,10570,KON 437E,Motion Control Systems,,Ali Fuat Ergenç,"EEB
+EEB","Salı
+Salı","0830/1029
+1030/1229","5201
+5201",50,26,Yok/None,"KOM, KOME","(KON 313 MIN DD
+veya KON 313E MIN DD)
+ve (KON 417 MIN DD
+veya KON 417E MIN DD)",Yok/None
+43,10571,KON 4901,Kontrol&Otom. Müh.Tasarımı I,,Hakan Temeltaş,EEB,----,/,---,500,58,Yok/None,KOM,"(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (EEF 210 MIN DD
+veya EEF 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD)",4.Sınıf
+44,10572,KON 4901E,Contr.&Automation Eng.Design I,,Hakan Temeltaş,EEB,----,/,---,500,59,Yok/None,"KOM, KOME","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (EEF 210 MIN DD
+veya EEF 210E MIN DD
+veya KON 201 MIN DD
+veya KON 201E MIN DD)",4.Sınıf
+45,10573,KON 4902,Kontrol&Otom. Müh.Tasarımı II,,Hakan Temeltaş,EEB,----,/,---,500,21,Yok/None,KOM,"KON 4901 MIN BB
+veya KON 4901E MIN BB",Yok/None
+46,10574,KON 4902E,Contr.&Automation Eng.DesignII,,Hakan Temeltaş,EEB,----,/,---,500,11,Yok/None,"KOM, KOME","KON 4901 MIN BB
+veya KON 4901E MIN BB",Yok/None
+47,10575,KON 492,Bitirme Tasarım Projesi,,Hakan Temeltaş,EEB,----,/,---,500,6,Yok/None,KOM,Diğer Şartlar,4.Sınıf
+48,10576,KON 492E,Senior Design Project,,Hakan Temeltaş,EEB,----,/,---,500,2,Yok/None,"KOM, KOME",Diğer Şartlar,4.Sınıf
