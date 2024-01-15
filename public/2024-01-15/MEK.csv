@@ -1,0 +1,38 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13452,MEK 205,Mühendislik Mekaniği,,Hacı Abdullah Taşdemir,MKB,Pazartesi,0930/1229,A501,50,25,Yok/None,"CHZ, END, GID, IML, ISL, JEF, JEO, MAD, MADM, MAKM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+1,12286,MEK 205,Mühendislik Mekaniği,,Erol Demirkan,MDB,Perşembe,1330/1629,B208,80,76,Yok/None,"CHZ, END, GID, IML, ISL, JEF, JEO, MAD, MADM, MAKM, PET","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+2,13611,MEK 205E,Engineering Mechanics,,Ali Kılıç,MKB,Pazartesi,1330/1629,D361B,50,42,Yok/None,"CHZ, CHZE, END, ENDE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, IND, ISL, ISLE, JEF, JEFE, JEO, JEOE, MAD, MADE, MEN, PET, PETE, TEK, TEKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+3,13453,MEK 205E,Engineering Mechanics,,Sevinç Ayşe Zaloğlu,MKB,Perşembe,0930/1229,A501,50,30,Yok/None,"CHZ, CHZE, END, ENDE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, IND, ISL, ISLE, JEF, JEFE, JEO, JEOE, MAD, MADE, MADM, MEN, PET, PETE, TEKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+4,13764,MEK 205E,Engineering Mechanics,,Banu Tansel Büyükçelebi,DZB,Perşembe,1830/2129,---,60,29,Yok/None,"CHZ, CHZE, END, ENDE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, IND, ISL, ISLE, JEF, JEFE, JEO, JEOE, MAD, MADE, MEN, MTM, PET, PETE, TEKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+5,13610,MEK 205E,Engineering Mechanics,,Özgür Atalay,MKB,Cuma,0830/1129,D378,50,32,Yok/None,"CHZ, CHZE, END, ENDE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, IND, ISL, ISLE, JEF, JEFE, JEO, JEOE, MAD, MADE, MEN, PET, PETE, TEK, TEKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+6,13735,MEK 205E,Engineering Mechanics,,Tayfun Uyanık,DZB,Cuma,1400/1659,---,50,16,Yok/None,"CHZ, CHZE, END, ENDE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, IND, ISL, ISLE, JEF, JEFE, JEO, JEOE, MAD, MADE, MEN, PET, PETE, TEKE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+7,13454,MEK 207,Mühendislik Mekaniği,,--,"MKB
+MKB","Pazartesi
+Cuma","0930/1229
+1030/1229","---
+---",0,0,Yok/None,"IML, MAKM","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None

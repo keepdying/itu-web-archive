@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12410,CHE 101,Chemistry I,,Barış Kışkan,"INB
+FEB","Pazartesi
+Perşembe","0830/1129
+0830/1029","D203
+LAB-C",55,51,Yok/None,"MBI, MCB, SCE, SED, SEN, SGI, SIN, SIS",Yok/None,Yok/None
+1,10589,CHE 123,General Chemistry I,,Caner Ünlü,EEB,Perşembe,1330/1629,1301,30,12,Yok/None,"EHN, SEH",Yok/None,Yok/None

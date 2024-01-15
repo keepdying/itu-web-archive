@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13809,SGI 101,Int.to Nav.Arch.&Mar.Eng.&Eth.,,Erdem Üçer,GDB,Cuma,1400/1559,---,10,6,Yok/None,SGI,Yok/None,Yok/None
+1,13810,SGI 102,Intr.to Prog.Language(PYTHON),,Bilge Tutak,GDB,Perşembe,1330/1629,R403,10,6,Yok/None,SGI,Yok/None,Yok/None
+2,13815,SGI 103,Intr.to Sci& Eng.Comp.(MATLAB),,--,GDB,Pazartesi,0930/1229,---,0,0,Yok/None,SGI,Yok/None,Yok/None
+3,13814,SGI 202,Dynamics,,--,GDB,Pazartesi,1330/1629,---,0,0,Yok/None,SGI,"PHY 125 MIN DD
+veya MTH 108 MIN DD",Yok/None
+4,13817,SGI 203,Strength of Materials I,,--,GDB,Perşembe,1330/1729,---,0,0,Yok/None,SGI,SGI 201 MIN DD,Yok/None
+5,13813,SGI 207,Materials Science,,--,GDB,Salı,1030/1329,---,0,0,Yok/None,SGI,Yok/None,Yok/None
+6,13811,SGI 208,Numerical Methods,,--,GDB,Cuma,0930/1229,---,0,0,Yok/None,SGI,MTH 108 MIN DD,Yok/None
+7,13812,SGI 210,Engineering Mathematics,,--,"GDB
+GDB","Salı
+Çarşamba","0830/1029
+1330/1529","---
+---",0,0,Yok/None,SGI,MTH 108 MIN DD,Yok/None
+8,13816,SGI 211,Ship Geometry,,--,GDB,Çarşamba,0930/1229,---,0,0,Yok/None,SGI,SGI 112 MIN DD,Yok/None

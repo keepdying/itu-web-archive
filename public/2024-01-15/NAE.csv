@@ -1,0 +1,44 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,15064,NAE 101,Int.to Nav.Arch.&Mar.Eng.&Eth.,,Cihad Delen,GDB,Salı,1030/1229,R409,65,60,Yok/None,NAE,Yok/None,Yok/None
+1,15035,NAE 201,Practical Training-I,,Murat Durmaz,GDB,----,/,---,50,21,Yok/None,"GEMK, NAE",Yok/None,"1.Sınıf, 4.Sınıf, 2.Sınıf, 3.Sınıf"
+2,15162,NAE 211,Ship Geometry,,Murat Durmaz,GDB,Çarşamba,1230/1529,R402,40,9,Yok/None,"GEMK, MEN, NAE, NAEM","TDW 102 MIN DD
+veya RES 108E MIN DD
+veya RES 103E MIN DD
+veya RES 102E MIN DD
+veya RES 101E MIN DD",Yok/None
+3,15036,NAE 301,Practical Training-II,,Murat Durmaz,GDB,----,/,---,50,23,Yok/None,"GEMK, NAE",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+4,15037,NAE 311,Ship Theory,,Metin Taylan,"GDB
+GDB","Salı
+Cuma","1130/1329
+1030/1229","D311
+R409",50,28,Yok/None,"GEMK, NAE, NAEM","NAE 211 MIN DD
+veya GEM 211E MIN DD",Yok/None
+5,15042,NAE 312,Ship Design,,Cihad Delen,GDB,Salı,1330/1629,R402,40,5,Yok/None,"GEMK, NAE, NAEM","(NAE 311 MIN DD
+veya GEM 321E MIN DD)
+ve (NAE 321 MIN DD
+veya GEM 341E MIN DD)",Yok/None
+6,15038,NAE 321,Ship Hydrodynamics,,Emin Korkut,"GDB
+GDB","Salı
+Çarşamba","0830/1129
+0830/1029","410
+D303",50,29,Yok/None,"GEMK, NAE, NAEM","ENR 201 MIN DD
+veya DFH 341E MIN DD
+veya GMI 261E MIN DD
+veya AKM 205E MIN DD",Yok/None
+7,15041,NAE 341,Structural Design of Ships,,İbrahim Tuğrul Ardıç,GDB,Perşembe,0930/1229,D303,50,9,Yok/None,"GEMK, NAE","(NAE 202 MIN DD
+veya GEM 222E MIN DD)
+ve (ENR 222 MIN DD
+veya MUK 204E MIN DD)",Yok/None
+8,15063,NAE 401,Practical Training-III,,Murat Durmaz,GDB,----,/,---,50,15,Yok/None,"GEMK, NAE",Yok/None,"4.Sınıf, 3.Sınıf"
+9,15062,NAE 402,Graduation Design Project,,Murat Durmaz,GDB,----,/,---,50,12,Yok/None,"GEMK, NAE",Yok/None,"4.Sınıf, 3.Sınıf"
+10,15054,NAE 411,Ship Design Project I,,Murat Durmaz,GDB,Çarşamba,1030/1229,R409,40,7,Yok/None,"GEMK, NAE","(NAE 311 MIN DD
+veya GEM 321E MIN DD)
+ve (NAE 312 MIN DD
+veya GEM 342E MIN DD)",Yok/None
+11,15059,NAE 421,Ship Motions and Maneuvering,,Erdem Üçer,GDB,Perşembe,1030/1429,D407,50,19,Yok/None,"GEMK, NAE, NAEM","ENR 201 MIN DD
+veya DFH 341E MIN DD
+veya GMI 261E MIN DD
+veya AKM 205E MIN DD",Yok/None
+12,15060,NAE 431,Sailing Vessel Design,,Şakir Bal,GDB,Cuma,0830/1029,D308,50,10,Yok/None,"GEMK, MEN, NAE",Yok/None,Yok/None
+13,15061,NAE 461,Mechanics of Marine Structures,,Serdar Turgut İnce,GDB,Çarşamba,1430/1629,D407,50,5,Yok/None,"GEMK, MEN, NAE",Yok/None,Yok/None

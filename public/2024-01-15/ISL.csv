@@ -1,0 +1,142 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,11368,ISL 121E,Int.to Management Eng.&Ethics,,"Kaya Tokmakçıoğlu, Zeynep Erden Bayazıt",MED,Çarşamba,1330/1529,A16,180,172,Yok/None,"ISL, ISLE",Yok/None,Yok/None
+1,11369,ISL 213E,Statistics I,Çevrimiçi/Online,Raziye Selim,----,Salı,1430/1729,----,210,237,Yok/None,"ISL, ISLE",Yok/None,Yok/None
+2,11462,ISL 223E,Fundm.of Production Management,,Saeed Tasouji Hassanpour,MED,Pazartesi,1430/1729,A12,105,116,Yok/None,"CHZ, GID, GIDE, ISL, ISLE",Yok/None,Yok/None
+3,11464,ISL 223E,Fundm.of Production Management,,Saeed Tasouji Hassanpour,INB,Perşembe,1130/1429,A205,100,125,Yok/None,"CHZ, GID, GIDE, ISL, ISLE",Yok/None,Yok/None
+4,11370,ISL 224E,Cost Accounting,Çevrimiçi/Online,Oktay Taş,----,Pazartesi,0830/1129,----,210,202,Yok/None,"CHZ, EFN, END, ENDE, GID, GIDE, IMLE, ISL, ISLE",Yok/None,Yok/None
+5,11371,ISL 233E,Microeconomics,,Ayşe Aylin Bayar,FEB,Pazartesi,1130/1429,D102,80,81,Yok/None,"ISL, ISLE, MMD",Yok/None,Yok/None
+6,11372,ISL 233E,Microeconomics,,Mehmet Özgür Kayalıca,KMB,Salı,0830/1129,D302,80,83,Yok/None,"ISL, ISLE, MMD",Yok/None,Yok/None
+7,11380,ISL 234E,Management and Organization,,Zeynep Erden Bayazıt,FEB,Salı,1130/1429,D304,90,81,Yok/None,"ECNE, GID, GIDE, ISL, ISLE",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+8,11386,ISL 244E,Macroeconomics,,Ahmet Atıl Aşıcı,UUB,Salı,0830/1129,D-Z08,95,90,Yok/None,"ISL, ISLE, MMD","ISL 231 MIN DD
+veya ISL 233 MIN DD
+veya ISL 233E MIN DD",Yok/None
+9,11387,ISL 323E,Operations Research,,Fuat Kosanoğlu,FEB,Perşembe,1130/1429,D204,105,60,Yok/None,"ISL, ISLE","MAT 261E MIN DD
+veya MAT 261 MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+10,11388,ISL 323E,Operations Research,,Fuat Kosanoğlu,MED,Perşembe,1430/1729,A14,100,117,Yok/None,"ISL, ISLE","MAT 261E MIN DD
+veya MAT 261 MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD",Yok/None
+11,11389,ISL 333E,Finance,,Ahmet Göncü,INB,Perşembe,0830/1129,A205,100,126,Yok/None,"ECNE, ISL, ISLE","ISL 224 MIN DD
+veya ISL 224E MIN DD
+veya END 222 MIN DD
+veya END 222E MIN DD
+veya ECN 210E MIN DD",Yok/None
+12,11465,ISL 334E,Quality for Engineers,,Saeed Tasouji Hassanpour,FEB,Çarşamba,0830/1129,D304,120,90,Yok/None,"ECNE, ISL, ISLE","ISL 214 MIN DD
+veya ISL 214E MIN DD",Yok/None
+13,11390,ISL 344E,Strategic Manage. for Engin.,,Mehmet Erçek,MED,Pazartesi,1430/1729,A14,85,81,Yok/None,"ISL, ISLE",Yok/None,"4.Sınıf, 3.Sınıf"
+14,11391,ISL 344E,Strategic Manage. for Engin.,,Mehmet Erçek,MED,Salı,1430/1729,A35,85,82,Yok/None,"ISL, ISLE",Yok/None,"4.Sınıf, 3.Sınıf"
+15,11393,ISL 353E,Marketing,,Adnan Veysel Ertemel,INB,Pazartesi,1130/1429,A305,95,109,Yok/None,"ECNE, ENTE, EUT, EUTE, ISL, ISLE","ISL 233 MIN DD
+veya ISL 233E MIN DD
+veya EKO 201 MIN DD
+veya EKO 201E MIN DD
+veya (ECN 101E MIN DD
+ve ECN 102E MIN DD)
+veya (ECN 105E MIN DD
+ve ECN 102E MIN DD)",Yok/None
+16,11394,ISL 353E,Marketing,,Adnan Veysel Ertemel,MDB,Salı,1130/1429,A202,90,84,Yok/None,"ECNE, ENTE, EUT, EUTE, ISL, ISLE","ISL 233 MIN DD
+veya ISL 233E MIN DD
+veya EKO 201 MIN DD
+veya EKO 201E MIN DD
+veya (ECN 101E MIN DD
+ve ECN 102E MIN DD)
+veya (ECN 105E MIN DD
+ve ECN 102E MIN DD)",Yok/None
+17,11395,ISL 355E,Econometrics,,Kemal Burç Ülengin,MED,Cuma,1430/1729,A13,60,46,Yok/None,"END, ENDE, ISL, ISLE","ISL 214 MIN DD
+veya ISL 214E MIN DD
+veya (END 311 MIN DD
+ve EKO 201 MIN DD)
+veya (END 311E MIN DD
+ve EKO 201 MIN DD)
+veya (END 311 MIN DD
+ve EKO 201E MIN DD)
+veya (END 311E MIN DD
+ve EKO 201E MIN DD)",Yok/None
+18,11396,ISL 363E,Human Resources Management,,İdil Vedia Evcimen,INB,Pazartesi,0830/1129,A101,80,75,Yok/None,"ISL, ISLE","ISL 234 MIN DD
+veya ISL 234E MIN DD
+veya ISL 332 MIN DD
+veya ISL 332E MIN DD",Yok/None
+19,11397,ISL 363E,Human Resources Management,,İdil Vedia Evcimen,UUB,Salı,0830/1129,D209,80,42,Yok/None,"ISL, ISLE","ISL 234 MIN DD
+veya ISL 234E MIN DD
+veya ISL 332 MIN DD
+veya ISL 332E MIN DD",Yok/None
+20,11398,ISL 364E,Business Law,,"Çiçek Ersoy Kekevi, Özgür Öztürk",MED,Cuma,0830/1129,A13,120,118,Yok/None,"ECNE, EFN, ISL, ISLE",Yok/None,Yok/None
+21,11399,ISL 421E,Organizational Behaviour,,İdil Vedia Evcimen,MED,Perşembe,1430/1729,B33,40,23,Yok/None,"ISL, ISLE","ISL 234 MIN DD
+veya ISL 234E MIN DD
+veya ISL 332 MIN DD",Yok/None
+22,11400,ISL 433,İş Hukuku,,Gizem Sarıbay Öztürk,MED,Çarşamba,1330/1529,A33,80,63,Yok/None,"ISL, ISLE",Yok/None,Yok/None
+23,11401,ISL 439E,Int.to Mach.Learn.with Bus.App,,Tolga Kaya,MED,Salı,1130/1429,B37,50,44,Yok/None,"ISL, ISLE","MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 261 MIN DD
+veya MAT 261E MIN DD",Yok/None
+24,11402,ISL 443E,Project Design and Manag.,,Hür Bersam Bolat,INB,Perşembe,0830/1229,B203,95,33,Yok/None,"ISL, ISLE",Yok/None,4.Sınıf
+25,11403,ISL 443E,Project Design and Manag.,,Hür Bersam Bolat,MED,Perşembe,1430/1829,A12,120,113,Yok/None,"ISL, ISLE",Yok/None,4.Sınıf
+26,11404,ISL 452E,Financial Inst.&Portfolio Mng.,,Cumhur Enis Ekinci,MED,Pazartesi,1130/1429,B34,55,28,Yok/None,"ECNE, EFN, END, ENDE, ISL, ISLE","ISL 333E MIN DD
+veya ISL 333 MIN DD
+veya END 424 MIN DD
+veya END 424E MIN DD
+veya ECN 309E MIN DD",Yok/None
+27,11405,ISL 453E,Management Eng. Design II,,"Ferhan Çebi, Tuncay Özcan",MED,Cuma,0930/1229,A14,90,89,Yok/None,"ISL, ISLE","(ISL 374 MIN DD
+veya ISL 374E MIN DD)
+ve (ISL 384E MIN DD
+veya ISL 384 MIN DD
+veya ISL 222E MIN DD)",Yok/None
+28,11406,ISL 453E,Management Eng. Design II,,"Ferhan Çebi, Fuat Kosanoğlu",MED,Cuma,1430/1729,A33,90,69,Yok/None,"ISL, ISLE","(ISL 374 MIN DD
+veya ISL 374E MIN DD)
+ve (ISL 384E MIN DD
+veya ISL 384 MIN DD
+veya ISL 222E MIN DD)",Yok/None
+29,11407,ISL 458E,Intellectual Property Law,,Özgür Öztürk,INB,Pazartesi,1430/1729,D202,60,12,Yok/None,"ENTE, EUT, EUTE, ISL, ISLE",Yok/None,Yok/None
+30,11408,ISL 462E,Turkish Economy,,İbrahim Öner Günçavdı,INB,Pazartesi,1130/1429,B302,60,28,Yok/None,"ISL, ISLE","ISL 244E MIN DD
+veya ISL 244 MIN DD",Yok/None
+31,11409,ISL 467E,Management Eng.App.with Python,,Tuncay Özcan,EEB,Cuma,1430/1729,6307,60,36,Yok/None,"ISL, ISLE","(BIL 100 MIN DD
+veya BIL 100E MIN DD)
+ve (ISL 214 MIN DD
+veya ISL 214E MIN DD)
+ve (ISL 384 MIN DD
+veya ISL 384E MIN DD)",Yok/None
+32,11410,ISL 477E,Sustainability Management,,Hatice Camgöz Akdağ,MED,Perşembe,1130/1429,A12,130,132,Yok/None,"ISL, ISLE",Yok/None,Yok/None
+33,11411,ISL 4901,İşletme Müh. Tasarım Projesi I,,Hatice Camgöz Akdağ,MED,----,/,---,500,4,Yok/None,ISL,"(ISL 374 MIN DD
+veya ISL 374E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+34,11413,ISL 4901E,Manage. Engin. Design Proj. I,,Hatice Camgöz Akdağ,MED,----,/,---,500,128,Yok/None,"ISL, ISLE","(ISL 374 MIN DD
+veya ISL 374E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+35,11415,ISL 4902,İşletme Müh.Tasarım Projesi II,,Hatice Camgöz Akdağ,MED,----,/,---,500,1,Yok/None,ISL,"ISL 4901 MIN BB
+veya ISL 4901E MIN BB",Yok/None
+36,11416,ISL 4902E,Manage. Engin. Design Proj.II,,Hatice Camgöz Akdağ,MED,----,/,---,500,12,Yok/None,"ISL, ISLE","ISL 4901 MIN BB
+veya ISL 4901E MIN BB",Yok/None
+37,11419,ISL 492,İşletme Müh. Tasarım Prj.,,Hatice Camgöz Akdağ,MED,----,/,---,500,5,Yok/None,ISL,Diğer Şartlar,4.Sınıf
+38,11421,ISL 492E,Management Eng. Design Project,,--,MED,----,/,---,0,0,Yok/None,"ISL, ISLE",Diğer Şartlar,4.Sınıf

@@ -1,0 +1,47 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,15034,MEN 201,Marine Diesel Engines I,,Halil Saraçoğlu,GDB,Cuma,1400/1659,R409,50,42,Yok/None,"GEMK, GMIK, MEN, MENM, NAE, NAEM",Yok/None,Yok/None
+1,13819,MEN 211,Workshop Training-I,,Cumali Seçkin Mengeçin,DZB,----,/,---,60,9,Yok/None,"GMIK, MEN",Yok/None,"1.Sınıf, 4.Sınıf, 2.Sınıf, 3.Sınıf"
+2,13824,MEN 301,Engine Room Simulator (ERS) I,,Kemal Demirel,DZB,Salı,1330/1729,---,18,18,Yok/None,"GMIK, MEN, MENM","(MEN 201 MIN DD
+veya GMI 232E MIN DD)
+ve (MEN 202 MIN DD
+veya GMI 233E MIN DD)
+ve (MEN 212 MIN DD
+veya GMI 253E MIN DD
+veya GEM 312E MIN DD)",Yok/None
+3,13825,MEN 301,Engine Room Simulator (ERS) I,,Kemal Demirel,DZB,Perşembe,0830/1229,---,18,15,Yok/None,"GMIK, MEN, MENM","(MEN 201 MIN DD
+veya GMI 232E MIN DD)
+ve (MEN 202 MIN DD
+veya GMI 233E MIN DD)
+ve (MEN 212 MIN DD
+veya GMI 253E MIN DD
+veya GEM 312E MIN DD)",Yok/None
+4,13841,MEN 302,Onboard Training,,Cumali Seçkin Mengeçin,DZB,----,/,---,60,3,Yok/None,"GMIK, MEN, MENM","(MST 102 MIN DD
+veya DFH 102E MIN DD
+veya DHF 191E MIN DD
+veya DFH 111E MIN DD)
+ve (MEN 321 MIN DD
+veya GMI 322E MIN DD)
+ve (MEN 301 MIN DD
+veya GMI 383E MIN DD)",Yok/None
+5,13826,MEN 311,Marine Boilers and Operation,,Cumali Seçkin Mengeçin,DZB,Çarşamba,1230/1529,---,60,35,Yok/None,"GMIK, MEN, MENM",Yok/None,Yok/None
+6,13823,MEN 321,Operation&Maint.of Marine Eng.,,Cumali Seçkin Mengeçin,DZB,Cuma,0830/1229,---,60,31,Yok/None,"GMIK, MEN, MENM","(MEN 201 MIN DD
+veya GMI 232E MIN DD)
+ve (MEN 202 MIN DD
+veya GMI 233E MIN DD)
+ve (MEN 212 MIN DD
+veya GMI 253E MIN DD
+veya GEM 312E MIN DD)",Yok/None
+7,13829,MEN 331,Workshop Training-II,,Cumali Seçkin Mengeçin,DZB,----,/,---,60,31,Yok/None,"GMIK, MEN",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+8,13846,MEN 401,Oper.of Steam & Gas Turbines,,Cumali Seçkin Mengeçin,DZB,Çarşamba,0830/1229,---,60,31,Yok/None,"GMIK, MEN, MENM","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
+9,13858,MEN 402,Graduation Design Project,,Cumali Seçkin Mengeçin,DZB,----,/,---,60,12,Yok/None,"GMIK, MEN",Yok/None,"4.Sınıf, 3.Sınıf"
+10,13844,MEN 411,Marine Auxialiary Machinery II,,Kemal Demirel,DZB,Pazartesi,0830/1129,---,60,26,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
+11,15053,MEN 411,Marine Auxialiary Machinery II,,Ahmet Ergün Palaz,GDB,Cuma,1400/1659,D407,50,14,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
+12,15328,MEN 412,Engine Room Simulator (ERS) II,,Kemal Demirel,DZB,Çarşamba,1230/1529,---,5,6,Yok/None,"GMIK, MEN","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
+13,13845,MEN 421,Marine Diesel Engines III,,Yalçın Durmuşoğlu,DZB,Salı,1230/1529,---,60,32,Yok/None,"GMIK, MEN, MENM","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
+14,13843,MEN 431,Engine Room Mangm.& Leadership,,İsmail Çiçek,DZB,Salı,1530/1729,---,60,21,Yok/None,"GMIK, MEN, MENM",Yok/None,Yok/None

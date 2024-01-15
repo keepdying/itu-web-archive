@@ -1,0 +1,36 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12198,YZV 101E,Intr. to AI & Data Eng& Ethics,,Cihan Topal,EEB,Çarşamba,1330/1529,---,40,2,Yok/None,YZVE,Yok/None,Yok/None
+1,12753,YZV 103E,Intr. to AI & Data Eng& Ethics,,Cihan Topal,INB,Çarşamba,1330/1529,D203,80,65,Yok/None,YZVE,Yok/None,Yok/None
+2,12201,YZV 201E,Data Structures,,Gülşen Eryiğit,"INB
+EEB","Salı
+Perşembe","0830/1129
+0830/0929","A101
+5207",70,69,Yok/None,YZVE,"YZV 102E MIN DD
+veya YZV 104E MIN DD",Yok/None
+3,12202,YZV 211E,Intro to Data Science and Eng.,,Ahmet Cüneyd Tantuğ,GDB,Çarşamba,0930/1229,D304,80,78,Yok/None,YZVE,Yok/None,Yok/None
+4,12203,YZV 231E,Prob.& Stat. for Data Science,,Murat Okatan,KMB,Pazartesi,0830/1229,D301,100,88,Yok/None,YZVE,Yok/None,Yok/None
+5,12755,YZV 302E,Deep Learning,,Faik Boray Tek,MEDB,Pazartesi,1330/1629,102,60,10,Yok/None,YZVE,YZV 202E MIN DD,Yok/None
+6,12204,YZV 303E,Deep Learning,,Faik Boray Tek,GDB,Pazartesi,1330/1629,D304,60,35,Yok/None,YZVE,YZV 202E MIN DD,Yok/None
+7,12205,YZV 311E,Data Mining,,Şule Öğüdücü,MDB,Salı,1330/1629,A105,60,49,Yok/None,YZVE,Yok/None,Yok/None
+8,12206,YZV 312E,Data Mining,,Şule Öğüdücü,MEDB,Salı,1330/1629,102,40,6,Yok/None,YZVE,Yok/None,Yok/None
+9,12207,YZV 401E,Legal Aspects of AI&Data Eng.,,Çiçek Ersoy Kekevi,EEB,Cuma,1430/1629,5101,75,83,Yok/None,YZVE,Yok/None,Yok/None
+10,12208,YZV 403E,Game Theory,,Nazım Kemal Üre,INB,Salı,0830/1129,A1,40,26,Yok/None,YZVE,Yok/None,Yok/None
+11,12210,YZV 406E,Robotics,,Hatice Köse,MDB,Çarşamba,1230/1529,B208,70,42,Yok/None,"BLG, BLGE, YZVE",Yok/None,Yok/None
+12,12756,YZV 411E,Big Data Analytics,,Cihan Topal,EEB,Perşembe,1330/1629,5206,25,10,Yok/None,YZVE,BLG 454E MIN DD,Yok/None
+13,14986,YZV 447E,Cognitive Neuroscience,Çevrimiçi/Online,Didem Gökçay,----,"Pazartesi
+Cuma","1630/1829
+1630/1829",----,25,20,Yok/None,YZVE,"YZV 104E MIN DD
+veya BLG 102E MIN DD
+veya YZV 102E MIN DD",Yok/None
+14,14985,YZV 475E,Data Visualization,,Sefer Baday,EEB,Perşembe,0930/1229,5103,30,27,Yok/None,"BLGE, YZVE",YZV 211E MIN DD,Yok/None
+15,12209,YZV 4901E,AI &Data Engineering Design I,,Faik Boray Tek,EEB,----,/,---,40,6,Yok/None,YZVE,"(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD",4.Sınıf

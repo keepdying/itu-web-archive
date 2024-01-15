@@ -1,0 +1,390 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10366,EHB 101,EHM Giriş ve Müh. Etiği,,Hakan Ali Çırpan,EEB,Çarşamba,1330/1529,5102,150,115,Yok/None,EHB,Yok/None,Yok/None
+1,10220,EHB 101E,Int.toElctr.&Comm.Eng.&Eng.Eth,,Tayfun Akgül,EEB,Çarşamba,1330/1529,5104,150,111,Yok/None,"EHB, EHBE",Yok/None,Yok/None
+2,10224,EHB 208E,Data Structures & Programming,,İbrahim Çatalkaya,EEB,Perşembe,0830/1129,5102,130,132,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, TEL","BIL 105E MIN DD
+veya EHB 110E MIN DD
+veya EHB 110 MIN DD
+veya EEF 110 MIN DD
+veya EEF 110E MIN DD",Yok/None
+3,10231,EHB 208E,Data Structures & Programming,,Bora Döken,EEB,Perşembe,0830/1129,6309,130,129,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME, TEL","BIL 105E MIN DD
+veya EHB 110E MIN DD
+veya EHB 110 MIN DD
+veya EEF 110 MIN DD
+veya EEF 110E MIN DD",Yok/None
+4,15086,EHB 211E,Basics of Electrical Circuits,,Nizamettin Aydın,GDB,Çarşamba,1230/1529,D311,150,111,Yok/None,"BLG, BLGE, CEN","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+5,15286,EHB 211E,Basics of Electrical Circuits,,Sheida Faraji,EEB,Çarşamba,1230/1529,5304,100,104,Yok/None,"BLG, BLGE, CEN","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+6,10233,EHB 222E,Introduction to Electronics,,--,EEB,Salı,1230/1529,---,0,0,Yok/None,"BLG, BLGE, CEN, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, MKN, TEL",Yok/None,Yok/None
+7,10237,EHB 222E,Introduction to Electronics,,Hasan Bülent Yağcı,EEB,Salı,1230/1529,5204,100,106,Yok/None,"BLG, BLGE, CEN, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, MKN, TEL",Yok/None,Yok/None
+8,10239,EHB 222E,Introduction to Electronics,,Bora Döken,EEB,Salı,1230/1529,5304,95,122,Yok/None,"BLG, BLGE, CEN, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, MKN, TEL",Yok/None,Yok/None
+9,10240,EHB 222E,Introduction to Electronics,,İbrahim Çatalkaya,EEB,Salı,1230/1529,2106,100,104,Yok/None,"BLG, BLGE, CEN, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, MKN, TEL",Yok/None,Yok/None
+10,10241,EHB 227E,Introduction to Optics,,Fatma İnci Çilesiz,EEB,Çarşamba,1230/1529,5301,50,36,Yok/None,"EEE, EHB, EHBE, EHS, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+11,10243,EHB 235,Kompleks Fonk Teorisi,,Ali Yapar,EEB,Çarşamba,1230/1529,5202,85,83,Yok/None,"EHB, ELK",Yok/None,Yok/None
+12,10246,EHB 235E,Theory of Complex Functions,,Gülşah Yıldız Altıntaş,EEB,Çarşamba,1230/1529,2106,85,81,Yok/None,"EEE, EHB, EHBE, EHS, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+13,11385,EHB 235E,Theory of Complex Functions,,Kamil Karaçuha,EEB,Çarşamba,1230/1529,5101,85,85,Yok/None,"EEE, EHB, EHBE, EHS, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+14,10263,EHB 307,Haberleşme I,,--,EEB,Perşembe,0830/1129,---,0,0,Yok/None,EHB,"EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+15,10265,EHB 307,Haberleşme I,,"Hakan Ali Çırpan, Ertuğrul Güvenkaya",EEB,Perşembe,0830/1129,2106,70,64,Yok/None,EHB,"EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+16,10269,EHB 307,Haberleşme I,,İbrahim Altunbaş,EEB,Perşembe,0830/1129,5304,70,73,Yok/None,EHB,"EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+17,10273,EHB 307E,Communication I,,--,EEB,Perşembe,0830/1129,---,0,0,Yok/None,"EEE, EHB, EHBE","EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+18,10275,EHB 307E,Communication I,,Ferkan Yılmaz,EEB,Perşembe,0830/1129,5202,70,72,Yok/None,"EEE, EHB, EHBE","EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+19,10279,EHB 307E,Communication I,,Semiha Tedik Başaran,EEB,Perşembe,0830/1129,5204,70,71,Yok/None,"EEE, EHB, EHBE","EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+20,14292,EHB 311E,Intr.to Electronics Laboratory,,İbrahim Çatalkaya,EEB,Pazartesi,1430/1629,---,45,49,Yok/None,"BLG, BLGE, CEN, EEE, KOM, KOME, KON, KONE","EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EHB 222 MIN DD
+veya EHB 222E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD",Yok/None
+21,10287,EHB 311E,Intr.to Electronics Laboratory,,Bora Döken,EEB,Çarşamba,1230/1429,---,45,48,Yok/None,"BLG, BLGE, CEN, EEE, KOM, KOME, KON, KONE","EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EHB 222 MIN DD
+veya EHB 222E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD",Yok/None
+22,15419,EHB 311E,Intr.to Electronics Laboratory,,İbrahim Çatalkaya,EEB,Çarşamba,1230/1429,---,45,42,Yok/None,"BLGE, EHBE, EHS, KOME, SEH","EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EHB 222 MIN DD
+veya EHB 222E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD",Yok/None
+23,14293,EHB 311E,Intr.to Electronics Laboratory,,Bora Döken,EEB,Perşembe,1230/1429,---,45,55,Yok/None,"BLG, BLGE, CEN, EEE, KOM, KOME, KON, KONE","EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EHB 222 MIN DD
+veya EHB 222E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD",Yok/None
+24,10284,EHB 311E,Intr.to Electronics Laboratory,,Ali Bahadır,EEB,Cuma,0830/1029,---,45,40,Yok/None,"BLG, BLGE, CEN, EEE, KOM, KOME, KON, KONE","EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EHB 222 MIN DD
+veya EHB 222E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD",Yok/None
+25,10288,EHB 315,Sayısal İşaret İşleme,,Işın Erer,EEB,Cuma,0830/1129,2106,85,87,Yok/None,"EHB, ELK, TEL","EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+26,10290,EHB 315E,Digital Signal Processing,,Tayfun Akgül,EEB,Cuma,0830/1129,2104,85,76,Yok/None,"EEE, EHB, EHBE, EHS, ELK, ELKE, TEL","EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+27,10291,EHB 315E,Digital Signal Processing,,Ender Mete Ekşioğlu,EEB,Cuma,0830/1129,5104,85,85,Yok/None,"EEE, EHB, EHBE, EHS, ELK, ELKE, TEL","EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD",Yok/None
+28,10294,EHB 324,Lojik Tasarım Lab.,,Ali Bahadır,EEB,Salı,0830/1029,---,30,10,Yok/None,"EHB, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+29,10292,EHB 324,Lojik Tasarım Lab.,,Ali Bahadır,EEB,Perşembe,0830/1029,---,30,10,Yok/None,"EHB, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+30,10293,EHB 324,Lojik Tasarım Lab.,,Ali Bahadır,EEB,Perşembe,1230/1429,---,30,30,Yok/None,"EHB, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+31,10295,EHB 324E,Logic Design Lab.,,Ali Bahadır,EEB,Salı,1030/1229,---,30,32,Yok/None,"EEE, EHB, EHBE, EHS, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+32,15420,EHB 324E,Logic Design Lab.,,Sıddıka Berna Örs Yalçın,EEB,Çarşamba,0830/1029,---,30,17,Yok/None,"EHB, EHBE, EHS, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+33,10297,EHB 324E,Logic Design Lab.,,Sıddıka Berna Örs Yalçın,EEB,Çarşamba,1030/1229,---,30,31,Yok/None,"EEE, EHB, EHBE, EHS, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+34,10298,EHB 324E,Logic Design Lab.,,Hasan Bülent Yağcı,EEB,Perşembe,1030/1229,---,30,10,Yok/None,"EEE, EHB, EHBE, EHS, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+35,10299,EHB 324E,Logic Design Lab.,,--,EEB,Cuma,0830/1029,---,0,0,Yok/None,"EEE, EHB, EHBE, EHS, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+36,10296,EHB 324E,Logic Design Lab.,,Hasan Bülent Yağcı,EEB,Cuma,1030/1229,---,30,20,Yok/None,"EEE, EHB, EHBE, EHS, TEL","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+37,10300,EHB 326E,Intr.to Embedded Systems,,Müştak Erhan Yalçın,EEB,Perşembe,1230/1529,2102,70,69,Yok/None,"EHB, EHBE, EHS, KOM, KOME","(BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD)
+ve (BIL 105E MIN DD
+veya EHB 110E MIN DD
+veya EEF 110 MIN DD
+veya EEF 110E MIN DD)",Yok/None
+38,10301,EHB 328,İşaret İşleme için Makine Öğr.,,Bilge Günsel,EEB,Cuma,1400/1659,5105,60,37,Yok/None,EHB,"(MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya EEF 271 MIN DD
+veya EEF 271E MIN DD)
+ve (MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD)",Yok/None
+39,10302,EHB 328E,Machine Learning for Sig.Proc.,,İbraheem Shayea,EEB,Cuma,0830/1129,5305,60,61,Yok/None,"EHB, EHBE, EHS","(MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya EEF 271 MIN DD
+veya EEF 271E MIN DD)
+ve (MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD)",Yok/None
+40,10303,EHB 335E,Analog Electronic Circuits,,Mustafa Berke Yelten,EEB,Çarşamba,0830/1129,5102,85,85,Yok/None,"EEE, EHB, EHBE, ELE, ELH, TEL","(EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD)
+ve (EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD)",Yok/None
+41,10304,EHB 335E,Analog Electronic Circuits,,Nil Banu Tarım,EEB,Çarşamba,0830/1129,5104,100,100,Yok/None,"EEE, EHB, EHBE, ELE, ELH, TEL","(EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD)
+ve (EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD)",Yok/None
+42,15212,EHB 335E,Analog Electronic Circuits,,--,EEB,Çarşamba,0830/1129,---,0,0,Yok/None,"EHB, EHBE, ELE, ELH, TEL","(EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD)
+ve (EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD)",Yok/None
+43,10305,EHB 337,Elektromanyetik Teori-II,,--,EEB,Salı,0830/1129,---,0,0,Yok/None,EHB,"EHB 212 MIN DD
+veya EHB 212E MIN DD
+veya EEF 212 MIN DD
+veya EEF 212E MIN DD",Yok/None
+44,10306,EHB 337,Elektromanyetik Teori-II,,Funda Akleman Yapar,EEB,Salı,0830/1129,2102,60,60,Yok/None,EHB,"EHB 212 MIN DD
+veya EHB 212E MIN DD
+veya EEF 212 MIN DD
+veya EEF 212E MIN DD",Yok/None
+45,10307,EHB 337,Elektromanyetik Teori-II,,Özgür Özdemir,EEB,Salı,0830/1129,2104,60,60,Yok/None,EHB,"EHB 212 MIN DD
+veya EHB 212E MIN DD
+veya EEF 212 MIN DD
+veya EEF 212E MIN DD",Yok/None
+46,10308,EHB 337E,Theory of Electromagnetics II,,--,EEB,Salı,0830/1129,---,0,0,Yok/None,"EEE, EHB, EHBE","EHB 212 MIN DD
+veya EHB 212E MIN DD
+veya EEF 212 MIN DD
+veya EEF 212E MIN DD",Yok/None
+47,10309,EHB 337E,Theory of Electromagnetics II,,Mehmet Çayören,EEB,Salı,0830/1129,2106,60,60,Yok/None,"EEE, EHB, EHBE","EHB 212 MIN DD
+veya EHB 212E MIN DD
+veya EEF 212 MIN DD
+veya EEF 212E MIN DD",Yok/None
+48,10310,EHB 337E,Theory of Electromagnetics II,,İbrahim Akduman,EEB,Salı,0830/1129,4102,60,48,Yok/None,"EEE, EHB, EHBE","EHB 212 MIN DD
+veya EHB 212E MIN DD
+veya EEF 212 MIN DD
+veya EEF 212E MIN DD",Yok/None
+49,10311,EHB 413E,VLSI Circuit Design I,,Tufan Coşkun Karalar,EEB,Cuma,0830/1129,5101,30,26,Yok/None,"EHB, EHBE, EHS","(EHB 322 MIN DD
+veya EHB 322E MIN DD)
+ve (EHB 335 MIN DD
+veya EHB 335E MIN DD)",Yok/None
+50,10327,EHB 415E,Data Communications,,Selçuk Paker,EEB,Pazartesi,0830/1129,5303,70,27,Yok/None,"EHB, EHBE, EHS, TEL","EHB 352 MIN DD
+veya EHB 352E MIN DD
+veya EHB 308 MIN DD
+veya EHB 308E MIN DD",Yok/None
+51,10330,EHB 417E,RF Microelectronics,,Tufan Coşkun Karalar,EEB,Pazartesi,0830/1129,5201,50,34,Yok/None,"EHB, EHBE, EHS, ELE","EHB 335 MIN DD
+veya EHB 335E MIN DD",Yok/None
+52,10334,EHB 418E,RF Electronics Applications,,Hasan Bülent Yağcı,EEB,Çarşamba,0830/1229,5201,20,6,Yok/None,"EHB, EHBE, EHS, ELE","EHB 335 MIN DD
+veya EHB 335E MIN DD",Yok/None
+53,10336,EHB 419,Sayısal Sistem Tasarımı,,Ece Olcay Güneş,EEB,Çarşamba,0830/1129,5203,50,39,Yok/None,"EHB, ELE, ELH","BLG 231 MIN DD
+veya BLG 231E MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+54,10339,EHB 420E,Artificial Neural Networks,,İsa Yıldırım,EEB,Cuma,1400/1659,5102,55,55,Yok/None,"EHB, EHBE, EHS, ELE, ELH, TEL","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD
+veya END 210 MIN DD
+veya END 210E MIN DD",Yok/None
+55,10342,EHB 420E,Artificial Neural Networks,,Onur Ergen,EEB,Cuma,1400/1659,5104,55,55,Yok/None,"EHB, EHBE, EHS, ELE, ELH, TEL","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD
+veya END 210 MIN DD
+veya END 210E MIN DD",Yok/None
+56,10343,EHB 421,Tıp Elektroniğine Giriş,,Zümray Ölmez,EEB,Salı,1230/1529,5201,50,33,Yok/None,"EHB, ELE, ELH","EHB 262 MIN DD
+veya EHB 262E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD",Yok/None
+57,10344,EHB 422,Biyolojik İşar.Ol.&Alg.Yöntem.,,"Zümray Ölmez, Tamer Ölmez",EEB,Çarşamba,1230/1529,5201,50,44,Yok/None,"EHB, ELE, ELH","(EHB 252 MIN DD
+veya EHB 252E MIN DD
+veya EHB 206 MIN DD
+veya EHB 206E MIN DD
+veya EEF 206 MIN DD
+veya EEF 206E MIN DD)
+ve (EHB 231 MIN DD
+veya EHB 231E MIN DD
+veya EHB 222 MIN DD
+veya EHB 222E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD)",Yok/None
+58,10347,EHB 436E,Digital System Design Applic.,,Sıddıka Berna Örs Yalçın,EEB,Salı,1230/1629,5205,20,20,Yok/None,"EHB, EHBE, EHS, ELE","BLG 231E MIN DD
+veya BLG 231 MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+59,10345,EHB 436E,Digital System Design Applic.,,Ece Olcay Güneş,EEB,Perşembe,0830/1229,5303,20,19,Yok/None,"EHB, EHBE, EHS, ELE","BLG 231E MIN DD
+veya BLG 231 MIN DD
+veya EHB 205 MIN DD
+veya EHB 205E MIN DD
+veya EEF 205 MIN DD
+veya EEF 205E MIN DD",Yok/None
+60,10348,EHB 442E,Semiconductor Devices,,Mustafa Berke Yelten,EEB,Perşembe,0830/1129,5305,50,28,Yok/None,"EHB, EHBE, EHS, ELE","EHB 231 MIN DD
+veya EHB 231E MIN DD
+veya EHB 222 MIN DD
+veya EHB 222E MIN DD
+veya EEF 262 MIN DD
+veya EEF 262E MIN DD",Yok/None
+61,10349,EHB 451E,Active Microwave Circuits,,Mesut Kartal,EEB,Pazartesi,1230/1529,5203,65,58,Yok/None,"EHB, EHBE, EHS, TEL","EHB 362 MIN DD
+veya EHB 362E MIN DD",Yok/None
+62,10350,EHB 453E,Intr.to Mobile Communications,,İbraheem Shayea,EEB,Çarşamba,0830/1129,5307,50,46,Yok/None,"EHB, EHBE, EHS, ELH, TEL","EHB 352 MIN DD
+veya EHB 352E MIN DD
+veya EHB 308 MIN DD
+veya EHB 308E MIN DD",Yok/None
+63,10351,EHB 456E,Antennas,,Selçuk Paker,EEB,Cuma,1400/1659,2106,50,26,Yok/None,"EHB, EHBE, EHS, TEL","EHB 313 MIN DD
+veya EHB 313E MIN DD
+veya EHB 337 MIN DD
+veya EHB 337E MIN DD",Yok/None
+64,10352,EHB 458,Mikrodalga Ölçme Yöntem ve Uyg,,Serkan Şimşek,EEB,Salı,1230/1629,---,20,12,Yok/None,"EHB, TEL","EHB 362 MIN DD
+veya EHB 362E MIN DD",Yok/None
+65,10353,EHB 465E,Fiberoptic Com. Systems,,Onur Kurt,EEB,Perşembe,0830/1129,2102,50,32,Yok/None,"EHB, EHBE, EHS, ELH, TEL","EHB 313 MIN DD
+veya EHB 313E MIN DD
+veya EHB 337 MIN DD
+veya EHB 337E MIN DD",Yok/None
+66,10354,EHB 473,Mikrodalga&RF Haberleşmesi,,Mesut Kartal,EEB,Cuma,0830/1129,5301,50,44,Yok/None,"EHB, ELH, TEL","EHB 362 MIN DD
+veya EHB 362E MIN DD",Yok/None
+67,10355,EHB 477E,Fundm.of Electrmgn.Compt.,,--,EEB,Perşembe,0830/1129,---,0,0,Yok/None,"EHB, EHBE, EHS, TEL","EHB 313 MIN DD
+veya EHB 313E MIN DD
+veya EHB 337 MIN DD
+veya EHB 337E MIN DD",Yok/None
+68,10356,EHB 481,Temel Hab.Sis. Tas&Uy,,İbrahim Altunbaş,"EEB
+EEB","Pazartesi
+Pazartesi","1230/1429
+1430/1629","1303
+1303",20,8,Yok/None,"EHB, TEL","EHB 352 MIN DD
+veya EHB 352E MIN DD
+veya EHB 308 MIN DD
+veya EHB 308E MIN DD",Yok/None
+69,10358,EHB 481E,Des.&Applic.of Basic Comm.Sys.,,Semiha Tedik Başaran,"EEB
+EEB","Salı
+Salı","1330/1529
+1530/1729","1301
+1301",20,8,Yok/None,"EHB, EHBE, EHS, TEL","EHB 352 MIN DD
+veya EHB 352E MIN DD
+veya EEF 308 MIN DD
+veya EHB 308E MIN DD",Yok/None
+70,10357,EHB 481E,Des.&Applic.of Basic Comm.Sys.,,Ferkan Yılmaz,"EEB
+EEB","Perşembe
+Perşembe","1330/1529
+1530/1729","1303
+1303",20,7,Yok/None,"EHB, EHBE, EHS, TEL","EHB 352 MIN DD
+veya EHB 352E MIN DD
+veya EEF 308 MIN DD
+veya EHB 308E MIN DD",Yok/None
+71,10359,EHB 4901,Elektronik & Hab. Müh. Tas .I,,İsmail Serdar Özoğuz,EEB,----,/,---,500,48,Yok/None,EHB,"(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (EEF 210 MIN DD
+veya EEF 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+72,10360,EHB 4901E,Elect.&Comm. Eng. Design I,,İsmail Serdar Özoğuz,EEB,----,/,---,500,138,Yok/None,"EHB, EHBE, EHS","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (EEF 210 MIN DD
+veya EEF 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+73,10361,EHB 4902,Elektronik & Hab. Müh. Tas .II,,İsmail Serdar Özoğuz,EEB,----,/,---,500,18,Yok/None,EHB,"EHB 4901 MIN BB
+veya EHB 4901E MIN BB",Yok/None
+74,10362,EHB 4902E,Elect.&Comm. Eng. Design II,,İsmail Serdar Özoğuz,EEB,----,/,---,500,26,Yok/None,"EHB, EHBE, EHS","EHB 4901 MIN BB
+veya EHB 4901E MIN BB",Yok/None
+75,10363,EHB 492,Bitirme Projesi,,İsmail Serdar Özoğuz,EEB,----,/,---,500,7,Yok/None,EHB,Diğer Şartlar,4.Sınıf
+76,10364,EHB 492E,Graduation Project,,--,EEB,----,/,---,0,0,Yok/None,"EHB, EHBE",Diğer Şartlar,4.Sınıf

@@ -1,0 +1,46 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10909,KMP 101,Kompozisyon I,,Eray Altınbüken,TMB,Cuma,1400/1559,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+1,10910,KMP 113,Klasik Armoni I,,Nail Yavuzoğlu,TMB,Pazartesi,1030/1229,---,10,6,Yok/None,"BST, KMP",Yok/None,Yok/None
+2,10911,KMP 115,Müzik Formları I,,Ayhan Gunca,TMB,Perşembe,1030/1229,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+3,10912,KMP 193,Armoni I,,Recep Gül,TMB,Pazartesi,0930/1229,---,25,13,Yok/None,"MUT, MUZ, SES",Yok/None,Yok/None
+4,10913,KMP 195,Form Bilgisi I,,Şirin Karadeniz,TMB,Pazartesi,1030/1229,---,25,23,Yok/None,"CAB, CEB, MTR, MUT, SES",Yok/None,Yok/None
+5,10914,KMP 195,Form Bilgisi I,,Şirin Karadeniz,TMB,Salı,1030/1229,---,25,25,Yok/None,"CAB, CEB, MTR, MUT, SES",Yok/None,Yok/None
+6,10916,KMP 197,Konturpuan-Füg I,,Ayhan Gunca,TMB,Çarşamba,1530/1729,---,27,24,Yok/None,"CAB, CEB, MTR",Yok/None,Yok/None
+7,10915,KMP 197,Konturpuan-Füg I,,Ayhan Gunca,TMB,Perşembe,1330/1529,---,25,15,Yok/None,"CAB, CEB, MTR",Yok/None,Yok/None
+8,15107,KMP 198,Konturpuan-Füg II,,Ayhan Gunca,TMB,Salı,0830/1029,---,10,5,Yok/None,"CAB, CEB, MTR",Yok/None,Yok/None
+9,10917,KMP 201,Kompozisyon III,,Eray Altınbüken,"TMB
+TMB","Çarşamba
+Cuma","0830/1029
+1030/1229","---
+---",10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+10,10918,KMP 203,Türk Müziği Literatürü I,,Neşe Yeşim Altınel Çoban,TMB,Pazartesi,0830/1029,---,10,1,Yok/None,"BST, KMP",Yok/None,Yok/None
+11,10919,KMP 205,Kontrpuan- Füg I,,Nail Yavuzoğlu,TMB,Perşembe,0830/1029,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+12,10921,KMP 293,Armoni I,,Recep Gül,TMB,Salı,0830/1029,---,25,23,Yok/None,"CAB, CEB, MTR, MTRM",Yok/None,Yok/None
+13,10920,KMP 293,Armoni I,,Recep Gül,TMB,Cuma,1400/1559,---,25,22,Yok/None,"CAB, CEB, MTR, MTRM",Yok/None,Yok/None
+14,10939,KMP 294,Armoni II,,Nail Yavuzoğlu,TMB,Perşembe,1330/1529,---,20,10,Yok/None,"CAB, CEB, MTR, MTRM",Yok/None,Yok/None
+15,10922,KMP 301,Kompozisyon V,,Oğuzhan Balcı,"TMB
+TMB","Pazartesi
+Çarşamba","1330/1529
+1030/1229","---
+---",5,2,Yok/None,"BST, KMP",KMP 202 MIN CC,Yok/None
+16,10923,KMP 303,Kompozisyon Çözümleme I,,"Oğuzhan Balcı, Tayfun Demirbaş",TMB,Pazartesi,1030/1229,---,5,3,Yok/None,"BST, KMP",Yok/None,Yok/None
+17,10924,KMP 305,Koro Şefliği I,,Ayhan Gunca,TMB,Salı,1330/1529,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+18,10925,KMP 307,Prozodi,,Neşe Yeşim Altınel Çoban,TMB,Salı,1030/1229,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+19,10926,KMP 321,Batı Müziği Literatürü I,,Mehmet Özkan,TMB,Salı,0830/1029,---,5,1,Yok/None,"BST, KMP",Yok/None,Yok/None
+20,10927,KMP 323,Türk Müziğinde Polifoni I,,Nail Yavuzoğlu,TMB,Perşembe,1030/1229,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+21,10928,KMP 331,Ölçü ve Vuruş Tekniği I,,Ayhan Gunca,TMB,Salı,1530/1729,---,10,1,Yok/None,"BST, KMP",Yok/None,Yok/None
+22,10929,KMP 361,Türk MzğndeFrmBilg.ve Çzmlme I,,Gözde Çolakoğlu Sarı,TMB,Perşembe,0930/1229,---,25,7,Yok/None,MUZ,Yok/None,Yok/None
+23,10930,KMP 401,Kompozisyon VII,,Oğuzhan Balcı,"TMB
+TMB","Pazartesi
+Çarşamba","0830/1029
+1330/1529","---
+---",15,6,Yok/None,"BST, KMP",KMP 302 MIN CC,Yok/None
+24,10931,KMP 403,Kompozisyon Çözümleme III,,Ayhan Gunca,TMB,Salı,1030/1229,---,5,3,Yok/None,"BST, KMP",KMP 304 MIN DD,Yok/None
+25,10932,KMP 405,Modern Armoni,,Nail Yavuzoğlu,TMB,Pazartesi,1330/1529,---,10,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+26,10933,KMP 411,Orkestrasyon II,,Ayhan Gunca,TMB,Çarşamba,0830/1029,---,5,5,Yok/None,"BST, KMP",Yok/None,Yok/None
+27,10934,KMP 421,Batı Müziği Literatürü III,,Mehmet Özkan,TMB,Cuma,1400/1559,---,5,3,Yok/None,"BST, KMP",KMP 322 MIN DD,Yok/None
+28,10935,KMP 423,Türk Müziğinde Polifoni III,,--,TMB,Pazartesi,1530/1729,---,0,0,Yok/None,"BST, KMP",KMP 324 MIN DD,Yok/None
+29,10936,KMP 433,Partisyon Okuma I,,Recep Gül,TMB,Salı,1530/1729,---,5,2,Yok/None,"BST, KMP",Yok/None,Yok/None
+30,10937,KMP 457,Partisyon Çözümleme I,,Recep Gül,TMB,Salı,1030/1229,---,15,1,Yok/None,"MTR, MUT",Yok/None,Yok/None
+31,10938,KMP 492,Bitirme Çalışması,,--,TMB,----,/,---,0,0,Yok/None,"BST, KMP",Diğer Şartlar,4.Sınıf

@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12397,BEN 102,Microbiology,,Hatice Funda Karbancıoğlu Güler,KMB,Çarşamba,0830/1229,---,40,9,Yok/None,"MBI, MCB",Yok/None,Yok/None
+1,12391,BEN 107,Art of Engineering,,"Aynur Karakaş Karaağaç, Oğuz Haşlakoğlu, Yüksel Demir",MMB,Perşembe,1330/1629,307,30,15,Yok/None,MBI,Yok/None,Yok/None
+2,12394,BEN 111,Intr. to Bioengineering,,Melek Mümine Erol Taygun,KMB,Cuma,1400/1559,D205,30,15,Yok/None,MBI,Yok/None,Yok/None
+3,12398,BEN 321,Reac. Kin&Reac. Design in Bio.,,Ahmet Sirkecioğlu,KMB,Salı,1330/1629,D105,40,9,Yok/None,MBI,Yok/None,Yok/None
+4,12400,BEN 323,Material Science,,Faiz Muhaffel,KMB,Pazartesi,1430/1729,D105,40,9,Yok/None,MBI,Yok/None,Yok/None
+5,12402,BEN 335,Biosensors,,--,KMB,Perşembe,1330/1629,---,0,0,Yok/None,MBI,Yok/None,Yok/None
+6,12403,BEN 337,Biofuels and Bioenergy,,Serdar Yaman,KMB,Salı,0930/1229,D205,40,9,Yok/None,MBI,Yok/None,Yok/None
+7,12404,BEN 352,Transp. Process in Bioengin.,,"Melek Mümine Erol Taygun, Fatma Elif Genceli Güner",KMB,Pazartesi,0830/1129,D102,40,9,Yok/None,MBI,Yok/None,Yok/None

@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,11453,BUS 101,Organizational Behavior,,İdil Vedia Evcimen,MED,Pazartesi,1330/1629,B31,35,19,Yok/None,SIS,BUS 103 MIN DD,Yok/None
+1,11447,BUS 103,Principles of Management,,Deniz Tunçalp,MED,Perşembe,1330/1629,B34,35,27,Yok/None,SIS,Yok/None,Yok/None
+2,11446,BUS 110,Principles of Microeconomics,,Mehmet Özgür Kayalıca,MED,Salı,1330/1629,B34,35,29,Yok/None,"SEK, SIS",Yok/None,Yok/None
+3,11448,BUS 201,Financial Accounting,,Cumhur Enis Ekinci,MED,Çarşamba,1230/1529,B35,35,24,Yok/None,SIS,Yok/None,Yok/None
+4,11449,BUS 203,Management Science,,Ferhan Çebi,MED,Salı,1330/1629,B35,35,24,Yok/None,SIS,Yok/None,Yok/None
+5,11450,BUS 210,Principles of Marketing,,Huriye Şebnem Burnaz,MED,Cuma,0900/1159,B35,35,20,Yok/None,SIS,"ECO 101 MIN DD
+veya BUS 110 MIN DD",Yok/None
+6,11455,BUS 302,P. of Business Forecasting,,Kemal Burç Ülengin,ISB,Perşembe,0930/1229,F235,35,13,Yok/None,SIS,STI 102 MIN DD,Yok/None
+7,11458,BUS 304,Financial Markets & Inst.,,Kaya Tokmakçıoğlu,MED,Pazartesi,1330/1629,B29,15,11,Yok/None,SIS,Yok/None,Yok/None
+8,11456,BUS 305,Project Management,,Hür Bersam Bolat,MED,Pazartesi,0930/1229,B33,35,20,Yok/None,SIS,Yok/None,Yok/None
+9,11457,BUS 306,Management Information Sys.,,Tuncay Özcan,MED,Çarşamba,0930/1229,B36,35,24,Yok/None,SIS,Yok/None,Yok/None
+10,11459,BUS 308,Financial Statement Analysis,,Oktay Taş,MED,Cuma,0900/1159,B29,10,7,Yok/None,SIS,Yok/None,Yok/None
+11,11460,BUS 314,Total Quality Management,,Hatice Camgöz Akdağ,MED,Çarşamba,1230/1529,B36,15,15,Yok/None,SIS,Yok/None,Yok/None
+12,11461,BUS 324,Turkish Economy,,Derya Gültekin,ISB,Perşembe,1330/1629,F236,10,2,Yok/None,"SEK, SIS","ECO 101 MIN DD
+veya ECO 102 MIN DD
+veya BUS 111 MIN DD
+veya BUS 112 MIN DD",Yok/None

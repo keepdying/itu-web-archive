@@ -1,0 +1,127 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,13601,TEK 113E,Intr.to Textile Eng. & Ethics,,Nevin Çiğdem Gürsoy,MKB,Pazartesi,1430/1629,D331,100,84,Yok/None,"TEK, TEKE",Yok/None,Yok/None
+1,13603,TEK 116E,Fiber Science,,İkilem Göcek,MKB,Pazartesi,1330/1629,D380B,35,9,Yok/None,TEKE,Yok/None,Yok/None
+2,13604,TEK 213E,Textile Chemistry,,Pelin Altay,MKB,Salı,0830/1129,D361A,40,25,Yok/None,"TEK, TEKE, TEKM","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+3,13605,TEK 213E,Textile Chemistry,,Berdan Kalav,MKB,Perşembe,1330/1629,D361A,40,42,Yok/None,"TEK, TEKE, TEKM","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+4,13607,TEK 233E,Introduction to Yarn Spinning,,Nazan Okur,MKB,Pazartesi,0830/1129,D368B,45,42,Yok/None,"TEK, TEKE, TEKM","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+5,13606,TEK 233E,Introduction to Yarn Spinning,,"Fatma Banu Nergis, Yeşim Beceren",MKB,Çarşamba,0830/1129,D381A,45,26,Yok/None,"TEK, TEKE, TEKM","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+6,13608,TEK 234E,Weaving Preparation,,İlkay Özsev Yüksek,MKB,Salı,1330/1629,D359,30,18,Yok/None,"TEKE, TEKM","TEK 221 MIN DD
+veya TEK 231E MIN DD
+veya TEK 233E MIN DD",Yok/None
+7,13609,TEK 254E,Knitting Technology,,Sena Duru,MKB,Salı,0830/1129,D357,30,22,Yok/None,"TEKE, TEKM","TEK 221 MIN DD
+veya TEK 231E MIN DD
+veya TEK 233E MIN DD",Yok/None
+8,14010,TEK 301E,Nonwoven Technology,,İpek Yalçın Eniş,MKB,Pazartesi,1330/1629,D353,65,64,Yok/None,TEKE,"TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+9,14009,TEK 301E,Nonwoven Technology,,İlkay Özsev Yüksek,MKB,Perşembe,0830/1129,D351,65,58,Yok/None,TEKE,"TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+10,13617,TEK 303E,Textile and Fashion Marketing,,Canan Sarıçam,MKB,Salı,1030/1229,D351,65,54,Yok/None,TEKE,Yok/None,Yok/None
+11,13620,TEK 307E,Textile and Garment Testing,,"Hale Karakaş, Nevin Çiğdem Gürsoy",MKB,Pazartesi,0830/1129,D355,45,51,Yok/None,TEKE,"TEK 211 MIN DD
+veya TEK 211E MIN DD
+veya TEK 213E MIN DD",Yok/None
+12,13619,TEK 307E,Textile and Garment Testing,,"İlkay Özsev Yüksek, Nevin Çiğdem Gürsoy",MKB,Pazartesi,1130/1429,D355,45,33,Yok/None,TEKE,"TEK 211 MIN DD
+veya TEK 211E MIN DD
+veya TEK 213E MIN DD",Yok/None
+13,13621,TEK 309E,Machine Elements,,--,MKB,Perşembe,0830/1129,---,0,0,Yok/None,TEKE,"MUK 207 MIN DD
+veya MUK 207E MIN DD",Yok/None
+14,13622,TEK 309E,Machine Elements,,İpek Yalçın Eniş,MKB,Perşembe,1430/1729,D317,50,59,Yok/None,TEKE,"MUK 207 MIN DD
+veya MUK 207E MIN DD",Yok/None
+15,13625,TEK 345E,Clothing Technology,,Selin Hanife Eryürük,MKB,Salı,1330/1629,D360,45,42,Yok/None,"TEK, TEKE, TEKM","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+16,13624,TEK 345E,Clothing Technology,,Fatma Kalaoğlu,MKB,Cuma,1400/1659,D357,45,41,Yok/None,"TEK, TEKE, TEKM","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+17,13627,TEK 361E,Mechanisms,,Şule Selçuk,MKB,Pazartesi,0830/1129,D351,60,57,Yok/None,"IML, IMLE, TEK, TEKE","DNK 201 MIN DD
+veya DNK 201E MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD",Yok/None
+18,13626,TEK 361E,Mechanisms,,--,MKB,Cuma,0830/1129,---,0,0,Yok/None,"IML, IMLE, TEK, TEKE","DNK 201 MIN DD
+veya DNK 201E MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD",Yok/None
+19,13631,TEK 413E,Fabric Design,,Ömer Berk Berkalp,MKB,Pazartesi,1330/1629,D381A,41,48,Yok/None,"TEK, TEKE, TEKM","TEK 232 MIN DD
+veya TEK 232E MIN DD
+veya TEK 234E MIN DD",Yok/None
+20,13630,TEK 413E,Fabric Design,,Burçak Karagüzel Kayaoğlu,MKB,Perşembe,0930/1229,D361B,45,39,Yok/None,"TEK, TEKE, TEKM","TEK 232 MIN DD
+veya TEK 232E MIN DD
+veya TEK 234E MIN DD",Yok/None
+21,13632,TEK 417E,Technical Yarns,,Fatma Banu Nergis,MKB,Perşembe,0830/1129,D381A,30,6,Yok/None,"TEK, TEKE","TEK 322E MIN DD
+veya TEK 342E MIN DD
+veya TEK 308E MIN DD
+veya TEK 304E MIN DD",Yok/None
+22,13633,TEK 441E,Yarn Production Calculations,,--,MKB,Salı,0830/1129,---,0,0,Yok/None,"TEK, TEKE","TEK 322E MIN DD
+veya TEK 342E MIN DD
+veya TEK 308E MIN DD
+veya TEK 304E MIN DD",Yok/None
+23,13634,TEK 447E,Ecological Textiles,,Berdan Kalav,MKB,Salı,1330/1629,D380B,30,21,Yok/None,"TEK, TEKE","TEK 312 MIN DD
+veya TEK 316E MIN DD",Yok/None
+24,13635,TEK 451E,Textile Prod.Management &Cntrl,,Canan Sarıçam,MKB,Salı,1330/1629,D368B,40,35,Yok/None,"TEK, TEKE","(MAT 271 MIN DD
+veya MAT 271E MIN DD)
+ve (MAT 202 MIN DD
+veya MAT 202E MIN DD)",Yok/None
+25,13636,TEK 452E,Knitting Technology II,,Sena Duru,MKB,Pazartesi,0830/1129,D380A,30,13,Yok/None,"TEK, TEKE","TEK 252 MIN DD
+veya TEK 252E MIN DD
+veya TEK 254E MIN DD",Yok/None
+26,13637,TEK 453E,Synthetic &Textured Yarn Prod.,,Ali Demir,MKB,Salı,0830/1129,D374,30,35,Yok/None,"TEK, TEKE","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+27,13628,TEK 455E,Non-Woven Fabrics,,--,MKB,Çarşamba,0830/1129,---,0,0,Yok/None,"TEK, TEKE","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+28,13629,TEK 455E,Non-Woven Fabrics,,--,MKB,Cuma,0830/1129,---,0,0,Yok/None,"TEK, TEKE","TEK 112 MIN DD
+veya TEK 112E MIN DD
+veya TEK 114E MIN DD
+veya TEK 116E MIN DD",Yok/None
+29,13638,TEK 456E,Textile Finishing Auxiliaries,,Umut Kıvanç Şahin,MKB,Çarşamba,1230/1529,D331,30,17,Yok/None,"TEK, TEKE","TEK 312 MIN DD
+veya TEK 316E MIN DD",Yok/None
+30,13639,TEK 457E,Pre-treatment Processes,,Berdan Kalav,MKB,Cuma,1400/1659,D378,30,15,Yok/None,"TEK, TEKE","TEK 312 MIN DD
+veya TEK 316E MIN DD
+veya TEK 302E MIN DD",Yok/None
+31,13640,TEK 459E,Garment Pattern Making inAppar,,Belgin Görgün,MKB,Pazartesi,0830/1129,D380B,30,14,Yok/None,"TEK, TEKE","TEK 341 MIN DD
+veya TEK 343E MIN DD
+veya TEK 345E MIN DD",Yok/None
+32,13641,TEK 483E,Motion and Time Study,,Hande Sezgin,MKB,Cuma,1400/1659,D380A,30,4,Yok/None,"TEK, TEKE",Yok/None,Yok/None
+33,13642,TEK 485E,Cost Accounting,,--,MKB,Pazartesi,1330/1629,---,0,0,Yok/None,TEKE,Yok/None,Yok/None
+34,13644,TEK 4901E,Textile Engineering Design I,,Nevin Çiğdem Gürsoy,MKB,----,/,---,500,73,Yok/None,TEKE,"(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+35,13645,TEK 4902E,Textile Engineering Design II,,Nevin Çiğdem Gürsoy,MKB,----,/,---,500,7,Yok/None,TEKE,TEK 4901E MIN BB,Yok/None
+36,13643,TEK 492E,Senior Design Project,,Nevin Çiğdem Gürsoy,MKB,----,/,---,500,1,Yok/None,"TEK, TEKE",Diğer Şartlar,4.Sınıf

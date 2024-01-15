@@ -1,0 +1,31 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,11490,DFH 113,Denizde Güvenlik I,,"Yusuf Nejat Koçar, Birgül Arslanoğlu",DZB,Cuma,0830/1229,---,137,140,Yok/None,"DUI, GMI",Yok/None,Yok/None
+1,11491,DFH 113,Denizde Güvenlik I,,"Yusuf Nejat Koçar, Sinan Çakır",DZB,Cuma,1400/1759,---,108,59,Yok/None,"DUI, GMI",Yok/None,Yok/None
+2,13751,DFH 113E,Maritime Safety I,,Hakan Çap,DZB,Cuma,0830/1229,---,55,55,Yok/None,"MEN, MTM",Yok/None,Yok/None
+3,13752,DFH 113E,Maritime Safety I,,Hakan Çap,DZB,Cuma,1400/1759,---,55,53,Yok/None,"MEN, MTM",Yok/None,Yok/None
+4,15320,DFH 172E,Maritime English I,,Seda Çınar Alabay,DZB,Pazartesi,1230/1429,---,20,2,Yok/None,"DUI, MMD, MTM",Yok/None,Yok/None
+5,13765,DFH 201E,Basic Swimming Skills,,Hakan Çap,DZB,Salı,1530/1729,---,60,15,Yok/None,MEN,Yok/None,Yok/None
+6,13721,DFH 202,Gemilerde Acil Durum. Müdahale,,Sinan Çakır,DZB,Çarşamba,1130/1329,---,60,50,Yok/None,GMI,Yok/None,Yok/None
+7,13767,DFH 202E,Ship Emergency Response,,Orhan Gönel,DZB,Pazartesi,1130/1329,---,60,5,Yok/None,"MEN, MTM",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+8,11493,DFH 203,Temel Yüzme Becerisi,,Yusuf Nejat Koçar,DZB,Çarşamba,1030/1229,---,51,41,Yok/None,"DUI, GMI",Yok/None,Yok/None
+9,11492,DFH 203,Temel Yüzme Becerisi,,Hakan Çap,DZB,Perşembe,0830/1029,---,56,48,Yok/None,"DUI, GMI",Yok/None,Yok/None
+10,11494,DFH 203,Temel Yüzme Becerisi,,Hakan Çap,DZB,Perşembe,1030/1229,---,65,67,Yok/None,"DUI, GMI",Yok/None,Yok/None
+11,13749,DFH 203E,Basic Swimming Skills,,Hakan Çap,DZB,Salı,1030/1229,---,60,56,Yok/None,MTM,Yok/None,Yok/None
+12,15173,DFH 203E,Basic Swimming Skills,,Hakan Çap,DZB,Salı,1330/1529,---,25,12,Yok/None,MTM,Yok/None,Yok/None
+13,11496,DFH 212,Denizcilikte İnsan Kaynak.Yön.,,Leyla Tavacıoğlu,DZB,Çarşamba,1330/1529,---,55,55,Yok/None,DUI,Yok/None,Yok/None
+14,11495,DFH 212,Denizcilikte İnsan Kaynak.Yön.,,Dilek Mürüvvet Görgüç,DZB,Perşembe,1030/1229,---,42,21,Yok/None,DUI,Yok/None,Yok/None
+15,13760,DFH 222E,Maritime English II,,Seda Çınar Alabay,DZB,Pazartesi,1430/1629,---,60,26,Yok/None,MTM,Yok/None,Yok/None
+16,11499,DFH 222E,Maritime English II,,Seda Çınar Alabay,DZB,Çarşamba,1130/1329,---,50,24,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+17,11498,DFH 222E,Maritime English II,,Seda Çınar Alabay,DZB,Perşembe,1030/1229,---,50,24,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+18,11497,DFH 222E,Maritime English II,,Seda Çınar Alabay,DZB,Perşembe,1230/1429,---,50,28,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+19,12123,DFH 225,Türk Denizcilik Tarihi&Kültürü,,Muhsin Kadıoğlu,DZB,Perşembe,1530/1729,---,30,8,Yok/None,DUI,Yok/None,Yok/None
+20,14922,DFH 254E,Maritime Conventions,,Gizem Kayişoğlu,DZB,Perşembe,1530/1729,---,30,16,Yok/None,DUI,Yok/None,Yok/None
+21,14618,DFH 281,Denizel Çevre Kimyası,,Emrah Şık,DZB,Salı,1430/1729,---,30,15,Yok/None,DUI,Yok/None,Yok/None
+22,11500,DFH 351E,Shipping Finance,,Levent Kırval,DZB,Perşembe,1330/1529,---,50,37,Yok/None,"DUI, DUIE",Yok/None,Yok/None
+23,11501,DFH 422,Deniz Kazaları&Emniyet Kültürü,,Cemil Yurtören,DZB,Pazartesi,1230/1429,---,45,45,Yok/None,DUI,Yok/None,Yok/None
+24,15342,DFH 491E,Maritime Security,,Pelin Bolat,DZB,Cuma,0830/1029,---,10,8,Yok/None,DUI,Yok/None,Yok/None
+25,11502,DFH 491E,Maritime Security,,Pelin Bolat,DZB,Cuma,1430/1629,---,40,28,Yok/None,DUI,Yok/None,Yok/None
+26,15065,DFH 494E,Intercult.Comm.in Marit.Domain,,Seda Çınar Alabay,DZB,Salı,1130/1329,---,30,11,Yok/None,DUI,Yok/None,Yok/None
+27,15066,DFH 494E,Intercult.Comm.in Marit.Domain,,Seda Çınar Alabay,DZB,Çarşamba,1330/1529,---,30,26,Yok/None,DUI,Yok/None,Yok/None
+28,15213,DFH 497E,Org.Mngt &Behavior in Maritime,,Dilek Mürüvvet Görgüç,DZB,Perşembe,1430/1729,---,30,9,Yok/None,MMD,Yok/None,Yok/None

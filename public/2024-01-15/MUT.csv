@@ -1,0 +1,61 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,10793,MUT 101,Kemençe Yapımı I,,Mehmet Haşim Açanal,TMB,----,/,---,10,4,Yok/None,"MUT, MZT",Yok/None,Yok/None
+1,10795,MUT 111,Tanbur Yapımı,,İbrahim Coşkun,TMB,----,/,---,10,1,Yok/None,"MTMM, MUT, MZT",Yok/None,Yok/None
+2,10796,MUT 131,Akustik I,,Murat Tıraş,TMB,Salı,1330/1529,---,45,39,Yok/None,"BST, KMP, MTR, MUT, MUZ, MZT",Yok/None,Yok/None
+3,10798,MUT 141,Kayıt Teknikleri,,"Sertaç Kakı, Yusuf Can Murtezaoğlu","TMB
+TMB","Salı
+Cuma","1530/1729
+1030/1229","---
+---",20,11,Yok/None,"MTMS, MUT, MZT",Yok/None,Yok/None
+4,10799,MUT 153,Sayısal Ses Çalışma Ortamları,,Sair Sinan Kestelli,TMB,Salı,1030/1229,---,20,11,Yok/None,"MUT, MZT",Yok/None,Yok/None
+5,10800,MUT 161,Ağaç Teknolojisi,,Tuğcan Eğüz Yeşiltepe,TMB,Salı,1030/1229,---,20,7,Yok/None,"MUT, MZT",Yok/None,Yok/None
+6,10802,MUT 201,Kemane Yapımı,,Şafak Köksal,TMB,----,/,---,10,1,Yok/None,"MTMY, MUT, MZT",Yok/None,Yok/None
+7,10803,MUT 211,Ud Yapımı,,İbrahim Coşkun,TMB,----,/,---,10,3,Yok/None,"MTMM, MUT, MZT",Yok/None,Yok/None
+8,10804,MUT 241,İleri Kayıt Teknikleri,,"Ozan Sarıer, Oğuz Öz","TMB
+TMB","Pazartesi
+Çarşamba","1330/1529
+1330/1529","---
+---",20,7,Yok/None,"MUT, MZT",Yok/None,Yok/None
+9,10806,MUT 253,Prodüksiyon Analizi,,Mehmet Cevdet Erek,TMB,Perşembe,1330/1529,---,20,8,Yok/None,"MUT, MZT",Yok/None,Yok/None
+10,10807,MUT 263,Ölçme ve Kontrol Bilgisi,,Tuğcan Eğüz Yeşiltepe,TMB,Cuma,1030/1229,---,20,4,Yok/None,"MUT, MZT",Yok/None,Yok/None
+11,10808,MUT 267,Stüdyo Akustiği,,Murat Tıraş,TMB,Pazartesi,1030/1229,---,20,18,Yok/None,"MUT, MZT",Yok/None,Yok/None
+12,10810,MUT 269,Çalgı Teknik Resmi I,,Şafak Köksal,TMB,Çarşamba,1030/1229,---,20,3,Yok/None,"MUT, MZT",Yok/None,Yok/None
+13,10814,MUT 301,Keman Yapımı II,,Ahmet Tunç Buyruklar,TMB,----,/,---,10,3,Yok/None,"MUT, MZT",Yok/None,Yok/None
+14,10815,MUT 304,Ney Yapımı,,Ahmet Tunç Buyruklar,TMB,Pazartesi,1330/1529,---,10,1,Yok/None,"MUT, MZT",Yok/None,Yok/None
+15,10817,MUT 311,Gitar Yapımı,,"Mehmet Haşim Açanal, Mehmet Ali Sezen",TMB,----,/,---,10,2,Yok/None,"MUT, MZT",Yok/None,Yok/None
+16,10818,MUT 313,Çalgı Süsleme Sanatı,,İbrahim Coşkun,TMB,Çarşamba,1330/1529,---,20,3,Yok/None,"MUT, MZT",Yok/None,Yok/None
+17,10819,MUT 361,Çalgı Bilgisi I,,Ahmet Tunç Buyruklar,TMB,Salı,0830/1029,---,20,14,Yok/None,"MUT, MZT",Yok/None,Yok/None
+18,10821,MUT 363,Serbest Proje Çalışması I,,Can Karadoğan,TMB,----,/,---,5,4,Yok/None,"MUT, MZT",Yok/None,Yok/None
+19,10822,MUT 363,Serbest Proje Çalışması I,,Taylan Özdemir,TMB,----,/,---,5,5,Yok/None,"MUT, MZT",Yok/None,Yok/None
+20,10824,MUT 363,Serbest Proje Çalışması I,,Gökhan Deneç,TMB,----,/,---,5,5,Yok/None,"MUT, MZT",Yok/None,Yok/None
+21,10825,MUT 363,Serbest Proje Çalışması I,,Ozan Sarıer,TMB,----,/,---,5,5,Yok/None,"MUT, MZT",Yok/None,Yok/None
+22,10826,MUT 363,Serbest Proje Çalışması I,,Şafak Köksal,TMB,----,/,---,5,2,Yok/None,"MUT, MZT",Yok/None,Yok/None
+23,10828,MUT 363,Serbest Proje Çalışması I,,İbrahim Coşkun,TMB,----,/,---,5,3,Yok/None,"MUT, MZT",Yok/None,Yok/None
+24,10829,MUT 371,Çok Kanallı Miks,,Taylan Özdemir,"TMB
+TMB","Salı
+Perşembe","1030/1229
+1330/1529","---
+---",20,17,Yok/None,"MTMS, MUT, MZT",Yok/None,Yok/None
+25,10831,MUT 382,Elektrik-Elektronik,,Mehmet Haşim Açanal,TMB,Cuma,1400/1559,---,20,13,Yok/None,"MUT, MZT",Yok/None,Yok/None
+26,10832,MUT 384,Elektro Akustik Kompozisyon,,Sair Sinan Kestelli,TMB,Salı,1330/1529,---,20,17,Yok/None,"MUT, MZT",Yok/None,Yok/None
+27,15314,MUT 386,Serbest Proje Çalışması II,,Sair Sinan Kestelli,TMB,----,/,---,5,1,Yok/None,"MUT, MZT",Yok/None,Yok/None
+28,10833,MUT 401,Viyolonsel Yapımı I,,Mehmet Tangör,TMB,----,/,---,10,2,Yok/None,"MTMY, MUT, MZT",Yok/None,Yok/None
+29,10836,MUT 403,Bendir Yapımı,,İbrahim Coşkun,TMB,Çarşamba,1030/1229,---,10,3,Yok/None,"MUT, MZT",Yok/None,Yok/None
+30,10838,MUT 411,Kanun Yapımı I,,Şafak Köksal,TMB,----,/,---,10,2,Yok/None,"MTMM, MUT, MZT",Yok/None,Yok/None
+31,10839,MUT 441,Mastering,,Sertaç Kakı,"TMB
+TMB","Salı
+Cuma","1330/1529
+0830/1029","---
+---",20,11,Yok/None,"MTMS, MUT, MZT",Yok/None,Yok/None
+32,10850,MUT 451,Sahne Kayıt Teknikleri,,Gökhan Deneç,TMB,Salı,1530/1729,---,20,7,Yok/None,"MUT, MZT",Yok/None,Yok/None
+33,10851,MUT 461,Canlı Ses Donatımı,,Gökhan Deneç,TMB,Perşembe,1030/1229,---,20,7,Yok/None,"MUT, MZT",Yok/None,Yok/None
+34,10853,MUT 463,Serbest Proje Çalışması III,,Sertaç Kakı,TMB,----,/,---,5,4,Yok/None,"MUT, MZT",Yok/None,Yok/None
+35,10854,MUT 463,Serbest Proje Çalışması III,,Mehmet Cevdet Erek,TMB,----,/,---,5,2,Yok/None,"MUT, MZT",Yok/None,Yok/None
+36,10855,MUT 463,Serbest Proje Çalışması III,,Sair Sinan Kestelli,TMB,----,/,---,5,1,Yok/None,"MUT, MZT",Yok/None,Yok/None
+37,10856,MUT 463,Serbest Proje Çalışması III,,Ozan Sarıer,TMB,----,/,---,5,5,Yok/None,"MUT, MZT",Yok/None,Yok/None
+38,10859,MUT 463,Serbest Proje Çalışması III,,Mehmet Haşim Açanal,TMB,----,/,---,5,2,Yok/None,"MUT, MZT",Yok/None,Yok/None
+39,10861,MUT 463,Serbest Proje Çalışması III,,Tuğcan Eğüz Yeşiltepe,TMB,----,/,---,5,2,Yok/None,"MUT, MZT",Yok/None,Yok/None
+40,10862,MUT 465,Çalgı Restorasyonu,,Mehmet Tangör,TMB,Pazartesi,1330/1529,---,20,6,Yok/None,"MUT, MZT",Yok/None,Yok/None
+41,15315,MUT 486,Serbest Proje Çalışması IV,,Sair Sinan Kestelli,TMB,----,/,---,5,1,Yok/None,"MUT, MZT",Yok/None,Yok/None
+42,10863,MUT 492,Bitirme Çalışması,,Can Karadoğan,TMB,----,/,---,100,7,Yok/None,"MUT, MZT",Diğer Şartlar,4.Sınıf

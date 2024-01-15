@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,12016,SED 101,Int.to Industrial Eng.& Ethics,,Vehbi Tufan Koç,ISB,Perşembe,1430/1629,F237,25,16,Yok/None,SED,Yok/None,Yok/None
+1,12019,SED 301,Ergonomics,,Ayşe Elvan Bayraktaroğlu,MED,Çarşamba,0830/1129,B31,25,3,Yok/None,SED,Yok/None,Yok/None
+2,12020,SED 302,Data Manag.in Industrial Syst.,,Başar Öztayşi,MED,Perşembe,1430/1729,B29,25,2,Yok/None,SED,Yok/None,Yok/None
+3,12021,SED 303,Operations Research I,,Özgür Kabak,MED,Pazartesi,0830/1129,B37,25,2,Yok/None,SED,Yok/None,Yok/None
+4,12022,SED 304,System Simulation,,Burhaneddin Sandıkçı,MED,Çarşamba,1330/1629,B31,25,3,Yok/None,SED,Yok/None,Yok/None
+5,12023,SED 310,Inn.Manag.&New Prod.Develop.,,Emre Çevikcan,MED,Pazartesi,1130/1429,B32,10,2,Yok/None,SED,Yok/None,Yok/None
+6,12024,SED 313,Machine Learning for Ind. Sys.,,--,MED,Perşembe,1130/1429,---,0,0,Yok/None,SED,Yok/None,Yok/None
