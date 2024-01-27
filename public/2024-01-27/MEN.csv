@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23746,MEN 211,Workshop Training-I,,Cumali Seçkin Mengeçin,DZB,----,/,---,60,0,Yok/None,"GMIK, MEN",Yok/None,"1.Sınıf, 4.Sınıf, 2.Sınıf, 3.Sınıf"
+1,24711,MEN 212,Marine Auxialiary Machinery I,,Ahmet Ergün Palaz,GDB,Perşembe,1330/1729,---,40,0,Yok/None,"GEMK, GMIK, MEN, MENM, NAE, NAEM",Yok/None,Yok/None
+2,23849,MEN 302,Onboard Training,,Cumali Seçkin Mengeçin,DZB,----,/,---,60,0,Yok/None,"GMIK, MEN, MENM","(MST 102 MIN DD
+veya DFH 102E MIN DD
+veya DHF 191E MIN DD
+veya DFH 111E MIN DD)
+ve (MEN 321 MIN DD
+veya GMI 322E MIN DD)
+ve (MEN 301 MIN DD
+veya GMI 383E MIN DD)",Yok/None
+3,23821,MEN 331,Workshop Training-II,,Cumali Seçkin Mengeçin,DZB,----,/,---,60,0,Yok/None,"GMIK, MEN",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+4,23854,MEN 402,Graduation Design Project,,Cumali Seçkin Mengeçin,DZB,----,/,---,60,0,Yok/None,"GMIK, MEN",Yok/None,"4.Sınıf, 3.Sınıf"
+5,23853,MEN 412,Engine Room Simulator (ERS) II,,Kemal Demirel,DZB,Çarşamba,1230/1529,---,15,0,Yok/None,"GMIK, MEN","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None
+6,23852,MEN 412,Engine Room Simulator (ERS) II,,Kemal Demirel,DZB,Perşembe,0830/1129,---,15,0,Yok/None,"GMIK, MEN","MEN 302 MIN DD
+veya GMI 392E MIN DD",Yok/None

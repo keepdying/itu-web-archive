@@ -1,0 +1,160 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22958,PEM 120E,Natural Systems &Design,,Meltem Erdem Kaya,MMB,Çarşamba,1330/1529,---,90,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+1,22960,PEM 126E,Hist.Theo.&Crtc.in Lndsc.Arc.I,,Nilay Özlü Karaca,MMB,Salı,0930/1229,---,90,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+2,22962,PEM 134E,Plant Material I,,Didem Dizdaroğlu,MMB,Salı,1330/1729,---,35,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+3,22963,PEM 134E,Plant Material I,,Didem Dizdaroğlu,MMB,Çarşamba,0830/1229,---,35,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+4,22973,PEM 209E,Landform & Built Envir.Studio,,Nilay Özlü Karaca,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",17,0,Yok/None,"PEM, PEME","TES 121 MIN DD
+veya TES 121E MIN DD
+veya MIM 116E MIN DD
+veya MIM 112 MIN DD
+veya MIM 112E MIN DD",Yok/None
+5,22978,PEM 210E,Planting Design Studio,,Hayriye Eşbah Tunçay,MMB,Salı,1330/1729,---,70,0,Yok/None,"PEM, PEME","(PEM 134E MIN DD
+veya PEM 134 MIN DD
+veya PEM 132 MIN DD
+veya PEM 132E MIN DD)
+ve (PEM 231 MIN DD
+veya PEM 231E MIN DD
+veya PEM 232 MIN DD
+veya PEM 232E MIN DD)",Yok/None
+6,22974,PEM 212E,Landscape Design I,,Melih Bozkurt,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",17,0,Yok/None,"PEM, PEME","MIM 211 MIN DC
+veya MIM 211E MIN DC
+veya TES 211E MIN DD
+veya PEM 209E MIN DC",Yok/None
+7,22975,PEM 212E,Landscape Design I,,Ebru Erbaş Gürler,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",17,0,Yok/None,"PEM, PEME","MIM 211 MIN DC
+veya MIM 211E MIN DC
+veya TES 211E MIN DD
+veya PEM 209E MIN DC",Yok/None
+8,22976,PEM 212E,Landscape Design I,,Didem Dizdaroğlu,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",17,0,Yok/None,"PEM, PEME","MIM 211 MIN DC
+veya MIM 211E MIN DC
+veya TES 211E MIN DD
+veya PEM 209E MIN DC",Yok/None
+9,22972,PEM 214E,Resilient Urban Design,,Melih Bozkurt,MMB,Perşembe,0830/1229,---,80,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+10,22977,PEM 253E,Landscape Construction I,,Hayriye Eşbah Tunçay,MMB,Salı,0830/1229,---,75,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+11,22980,PEM 311E,Landscape Design II,,Hayriye Eşbah Tunçay,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",17,0,Yok/None,"PEM, PEME","(PEM 212 MIN DC
+veya PEM 212E MIN DC)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 121E MIN DD
+veya MIM 117E MIN DD)",Yok/None
+12,22982,PEM 312E,Landscape Design III,,Fatma Ayçim Türer Başkaya,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",17,0,Yok/None,"PEM, PEME","PEM 311 MIN DC
+veya PEM 311E MIN DC",Yok/None
+13,22984,PEM 312E,Landscape Design III,,Gülşen Aytaç,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",17,0,Yok/None,"PEM, PEME","PEM 311 MIN DC
+veya PEM 311E MIN DC",Yok/None
+14,22986,PEM 312E,Landscape Design III,,Meltem Erdem Kaya,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",17,0,Yok/None,"PEM, PEME","PEM 311 MIN DC
+veya PEM 311E MIN DC",Yok/None
+15,22989,PEM 316E,Urban Land. Pln& Design,,Gülşen Aytaç,MMB,Perşembe,0930/1229,---,60,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+16,22992,PEM 324E,Landscape Management,,Fatma Ayçim Türer Başkaya,MMB,Cuma,1030/1229,---,60,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+17,22993,PEM 356E,Rural Landscape Plan.&Design,,Meltem Erdem Kaya,MMB,Pazartesi,0830/1229,---,60,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+18,23005,PEM 4014E,Dig.Repres.Tech.for Lands.Dsgn,,Ikhwan Kim,MMB,Cuma,1400/1659,---,25,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+19,23007,PEM 4016E,Infrastructure Planning&Dev.,,--,MMB,Salı,1030/1229,---,-,-,Yok/None,"PEM, PEME",Yok/None,Yok/None
+20,23009,PEM 4018E,Landscape and Art,,Gülşen Aytaç,MMB,Salı,1030/1229,---,25,0,"PEM/10/0
+PEME/10/0
+Diğer/5/0","ENT, ENTE, EUT, EUTE, PEM, PEME",Yok/None,Yok/None
+21,22995,PEM 406E,Professional Practice & Ethics,,Ebru Erbaş Gürler,MMB,Salı,1330/1529,---,50,0,Yok/None,"PEM, PEME",Yok/None,Yok/None
+22,22994,PEM 411E,Landscape Design IV,,Elif Lutfiye Kutay Karaçor,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",25,0,Yok/None,"PEM, PEME","PEM 312 MIN DC
+veya PEM 312E MIN DC",Yok/None
+23,23014,PEM 4902E,Graduation Project,,Gülşen Aytaç,MMB,Cuma,0830/1729,---,100,0,Yok/None,"PEM, PEME","(PEM 119E MIN DC
+veya PEM 131E MIN DC
+veya PEM 131 MIN DD
+veya PEM 131E MIN DD)
+ve (PEM 120E MIN DD
+veya PEM 152 MIN DD
+veya PEM 152E MIN DD)
+ve (PEM 126E MIN DD
+veya PEM 124 MIN DD
+veya PEM 124E MIN DD)
+ve (PEM 134 MIN DD
+veya PEM 134E MIN DD
+veya PEM 132 MIN DD
+veya PEM 132E MIN DD)
+ve (PEM 225E MIN DD
+veya PEM 241 MIN DD
+veya PEM 241E MIN DD)
+ve (PEM 231 MIN DD
+veya PEM 231E MIN DD
+veya PEM 232 MIN DD
+veya PEM 232E MIN DD)
+ve (PEM 205 MIN DD
+veya PEM 205E MIN DD)
+ve (PEM 242 MIN DD
+veya PEM 242E MIN DD)
+ve (PEM 253E MIN DD
+veya PEM 243E MIN DD
+veya PEM 352E MIN DD)
+ve (PEM 210E MIN DD
+veya PEM 256 MIN DD
+veya PEM 256E MIN DD
+veya PEM 248E MIN DD
+veya PEM 246E MIN DD
+veya PEM 341 MIN DD
+veya PEM 341E MIN DD)
+ve (PEM 214E MIN DD
+veya PEM 206 MIN DD
+veya PEM 206E MIN DD
+veya PEM 322 MIN DD
+veya PEM 322E MIN DD)
+ve (PEM 411 MIN DD
+veya PEM 411E MIN DD)
+ve (PEM 407E MIN DD
+veya PEM 405E MIN DD
+veya PEM 344E MIN DD
+veya PEM 421 MIN DD
+veya PEM 421E MIN DD)",4.Sınıf
+24,23015,PEM 492,Bitirme Çalışması,,Gülşen Aytaç,MMB,Cuma,0830/1729,---,100,0,Yok/None,"PEM, PEME","PEM 411 MIN DC
+veya PEM 411E MIN DC
+ve (PEM 405E MIN DD
+veya PEM 407E MIN DD
+veya PEM 344 MIN DD
+veya PEM 344E MIN DD
+veya PEM 421 MIN DD
+veya PEM 421E MIN DD)
+Diğer Şartlar",4.Sınıf
+25,23012,PEM 492E,Graduation Project,,Gülşen Aytaç,MMB,Cuma,0830/1729,---,100,0,Yok/None,"PEM, PEME","PEM 411 MIN DC
+veya PEM 411E MIN DC
+ve (PEM 405E MIN DD
+veya PEM 407E MIN DD
+veya PEM 344 MIN DD
+veya PEM 344E MIN DD
+veya PEM 421 MIN DD
+veya PEM 421E MIN DD)
+Diğer Şartlar",4.Sınıf

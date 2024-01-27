@@ -1,0 +1,13 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21320,ISE 102,Programming I,,Deniz Turgay Altılar,"EEB
+EEB","Cuma
+Cuma","1230/1529
+1530/1729","5105
+5105",45,0,Yok/None,SBL,Yok/None,Yok/None
+1,21321,ISE 112,Discrete Mathematics,,Tolga Ovatman,EEB,Salı,1330/1629,5207,45,0,Yok/None,SBL,Yok/None,Yok/None
+2,21322,ISE 305,Database Systems,,Ahmet Cüneyd Tantuğ,EEB,Çarşamba,1230/1529,5207,40,0,Yok/None,SBL,Yok/None,Yok/None
+3,21323,ISE 306,Computer Networks,,Mehmet Keskinöz,EEB,Perşembe,0930/1229,5203,40,0,Yok/None,SBL,Yok/None,Yok/None
+4,21324,ISE 307,IT Systems Analysis and Design,,Ali Çakmak,EEB,Salı,1330/1629,5305,40,0,Yok/None,SBL,Yok/None,Yok/None
+5,21326,ISE 313,WEB-Design & Management Tools,,Mustafa Ersel Kamaşak,EEB,Cuma,0930/1229,5107,40,0,Yok/None,SBL,Yok/None,Yok/None
+6,21327,ISE 316,Informatics Ethics & Law,,Eşref Adalı,INB,Perşembe,1330/1629,B308,40,0,Yok/None,SBL,Yok/None,Yok/None

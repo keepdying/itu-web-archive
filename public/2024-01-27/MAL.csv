@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24695,MAL 201,Malzeme Bilimi,,***,EEB,Pazartesi,0830/1129,5103,50,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, KON, TEL",Yok/None,Yok/None
+1,21798,MAL 201,Malzeme Bilimi,,***,INB,Salı,1430/1729,B101,80,0,Yok/None,CEV,Yok/None,Yok/None
+2,21801,MAL 201E,Materials Science,,***,INB,Salı,1430/1729,B103,80,0,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+3,23814,MAL 201E,Materials Science,,***,EEB,Çarşamba,0830/1129,5105,50,0,Yok/None,"EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, TEL",Yok/None,Yok/None
+4,21668,MAL 201E,Materials Science,,***,MDB,Cuma,0830/1129,A103,50,0,Yok/None,"JEO, JEOE",Yok/None,Yok/None
+5,23813,MAL 201E,Materials Science,,***,EEB,Cuma,0830/1129,2102,50,0,Yok/None,"EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, TEL",Yok/None,Yok/None
+6,23713,MAL 201E,Materials Science,,***,KMB,Cuma,1430/1729,D304,50,0,Yok/None,"ISL, ISLE",Yok/None,Yok/None

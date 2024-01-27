@@ -1,0 +1,69 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21517,MAD 243,Yeraltı Maden İşletmeciliği,,"Cengiz Kuzu, Muhammet Mustafa Kahraman",MDB,Pazartesi,1130/1429,B206,75,0,Yok/None,"MAD, MADM",Yok/None,Yok/None
+1,24241,MAD 254E,Strngth of Mat.for Mining Eng.,,Pınar Teymür,MDB,Salı,1530/1729,A302,50,0,Yok/None,"MAD, MADE","MEK 205 MIN DD
+veya MEK 205E MIN DD",Yok/None
+2,21518,MAD 302E,Mining and Environment,,Türker Hüdaverdi,MDB,Çarşamba,0830/1029,A201,65,0,Yok/None,"MAD, MADE",Yok/None,Yok/None
+3,21520,MAD 304E,Drilling Techniques,,Hasan Ergin,MDB,Salı,0830/1129,A201,60,0,Yok/None,"MAD, MADE",Yok/None,Yok/None
+4,21519,MAD 308,Cevher Hazırlama II,,Alim Gül,"MDB
+MDB","Çarşamba
+Perşembe","1130/1229
+1130/1329","A102
+A102",65,0,Yok/None,MAD,"MAD 307 MIN DD
+veya MAD 307E MIN DD",Yok/None
+5,21471,MAD 314,Topoğrafya,,Adil Enis Arslan,INB,Perşembe,1330/1729,A202,60,0,Yok/None,MAD,Yok/None,Yok/None
+6,21521,MAD 322E,Dsgn of Sup in Mines & Tunnels,,Hakan Tunçdemir,MDB,Pazartesi,1130/1429,B207,65,0,Yok/None,"MAD, MADM","MAD 243 MIN DD
+veya MAD 243E MIN DD",Yok/None
+7,21522,MAD 342,Madenlerde Hidrolik Güç Sist.,,--,MDB,Salı,1130/1329,---,0,0,Yok/None,MAD,"FIZ 101 MIN DD
+veya FIZ 101E MIN DD",Yok/None
+8,24599,MAD 342E,Hydraulic Power Sys in Mining,,Deniz Tumaç,MDB,Salı,1130/1329,B208,60,0,Yok/None,"MAD, MADE","FIZ 101E MIN DD
+veya FIZ 101 MIN DD",Yok/None
+9,21523,MAD 408,Madenlerde İş Sağlığı ve Güv.,,Abdullah Fişne,MDB,Salı,1330/1629,A204,55,0,Yok/None,MAD,"MAD 461 MIN DD
+veya MAD 461E MIN DD",Yok/None
+10,21524,MAD 422,Maden Planlaması ve Tasarımı,,Cüneyt Atilla Öztürk,MDB,Cuma,1400/1759,A201,55,0,Yok/None,MAD,"(MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+11,21525,MAD 425E,Applied Rock Mechanics,,Cüneyt Atilla Öztürk,MDB,Perşembe,1030/1229,A203,30,0,Yok/None,"MAD, MADE","MAD 351E MIN DD
+veya MAD 351 MIN DD",Yok/None
+12,21526,MAD 432,Maden. ve Tünellerde Kazı Mek.,,"Hanifi Çopur, Cemal Balcı",MDB,Cuma,0830/1129,A105,60,0,Yok/None,MAD,"MAD 243 MIN DD
+veya MAD 243E MIN DD",Yok/None
+13,23882,MAD 434,Maden Hukuku,,Mahmut Kabakcı,MDB,Pazartesi,1530/1729,A201,50,0,Yok/None,"MAD, MADM",Yok/None,Yok/None
+14,21527,MAD 436,Maden Ekonomisi,,Cüneyt Atilla Öztürk,MDB,Perşembe,0830/1029,A103,60,0,Yok/None,MAD,"(MAD 232 MIN DD
+veya MAD 232E MIN DD)
+ve (MAD 243 MIN DD
+veya MAD 243E MIN DD)",Yok/None
+15,21528,MAD 440E,Computer Aided Mine Design,,Muhammet Mustafa Kahraman,MDB,Çarşamba,1230/1529,A202,14,0,Yok/None,"MAD, MADE, MADM","(MAD 232 MIN DD
+veya MAD 232E MIN DD)
+ve (MAD 243 MIN DD
+veya MAD 243E MIN DD)",Yok/None
+16,21529,MAD 4901,Maden Müh.Tasarım Projesi I,,Türker Hüdaverdi,MDB,----,/,---,500,0,Yok/None,MAD,"(MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+17,21530,MAD 4902,Maden Müh.Tasarım Projesi II,,Türker Hüdaverdi,MDB,----,/,---,500,0,Yok/None,MAD,"MAD 4901 MIN BB
+veya MAD 4901E MIN BB",4.Sınıf
+18,21531,MAD 492,Bitirme Çalışması,,Türker Hüdaverdi,MDB,----,/,---,500,0,Yok/None,MAD,Diğer Şartlar,4.Sınıf
+19,21532,MAD 492E,Graduation Project,,Türker Hüdaverdi,MDB,----,/,---,500,0,Yok/None,"MAD, MADE",Diğer Şartlar,4.Sınıf

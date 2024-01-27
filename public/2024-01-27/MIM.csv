@@ -1,0 +1,1072 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23315,MIM 106,Yapı Mekaniği,,"Halet Almıla Büyüktaşkın, Haluk Sesigür","MMB
+MMB","Çarşamba
+Çarşamba","1030/1229
+1330/1529","---
+---",120,0,Yok/None,"EUT, ICM, MIM",Yok/None,Yok/None
+1,23316,MIM 106E,Structural Mechanics,,"Gülseren Erol Soyöz, Cenk Üstündağ","MMB
+MMB","Çarşamba
+Çarşamba","1030/1229
+1330/1529","---
+---",120,0,Yok/None,"ARC, ENTE, EUTE, ICM, MIM, MIME",Yok/None,Yok/None
+2,23317,MIM 114E,Accessibility,Çevrimiçi/Online,--,----,Salı,0930/1129,----,-,-,Yok/None,"MIM, MIME",Yok/None,Yok/None
+3,23318,MIM 120E,Int.toCmp.Ds.Tools&Mth.inArch.,Çevrimiçi/Online,Michael Stefan Bitterman,----,Cuma,1400/1659,----,75,0,Yok/None,"ARC, MIM, MIME",Yok/None,Yok/None
+4,23319,MIM 120E,Int.toCmp.Ds.Tools&Mth.inArch.,Çevrimiçi/Online,Aslı Çekmiş,----,Cuma,1400/1659,----,150,0,Yok/None,"ARC, MIM, MIME",Yok/None,Yok/None
+5,23320,MIM 204,Mimarlık. Yapı Elemanları Tas.,,Ayşe Nil Türkeri,"MMB
+MMB","Çarşamba
+Çarşamba","0930/1229
+1330/1529","---
+---",45,0,Yok/None,MIM,"MIM 203 MIN DD
+veya MIM 203E MIN DD
+veya MIM 261 MIN DD
+veya MIM 261E MIN DD
+veya MIM 231 MIN DD
+veya MIM 231E MIN DD
+veya MIM 263 MIN DD
+veya MIM 263E MIN DD
+veya ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+6,23321,MIM 204,Mimarlık. Yapı Elemanları Tas.,,Hülya Kuş,"MMB
+MMB","Çarşamba
+Çarşamba","0930/1229
+1330/1529","---
+---",45,0,Yok/None,MIM,"MIM 203 MIN DD
+veya MIM 203E MIN DD
+veya MIM 261 MIN DD
+veya MIM 261E MIN DD
+veya MIM 231 MIN DD
+veya MIM 231E MIN DD
+veya MIM 263 MIN DD
+veya MIM 263E MIN DD
+veya ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+7,23322,MIM 204,Mimarlık. Yapı Elemanları Tas.,,Caner Göçer,"MMB
+MMB","Çarşamba
+Çarşamba","0930/1229
+1330/1529","---
+---",45,0,Yok/None,MIM,"MIM 203 MIN DD
+veya MIM 203E MIN DD
+veya MIM 261 MIN DD
+veya MIM 261E MIN DD
+veya MIM 231 MIN DD
+veya MIM 231E MIN DD
+veya MIM 263 MIN DD
+veya MIM 263E MIN DD
+veya ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+8,23323,MIM 204E,Arch.Building Element Design,,Fethiye Ecem Edis,"MMB
+MMB","Çarşamba
+Çarşamba","0930/1229
+1330/1529","---
+---",45,0,Yok/None,"ARC, ICM, MIME","MIM 203 MIN DD
+veya MIM 203E MIN DD
+veya MIM 261 MIN DD
+veya MIM 261E MIN DD
+veya MIM 231 MIN DD
+veya MIM 231E MIN DD
+veya MIM 263 MIN DD
+veya MIM 263E MIN DD
+veya ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+9,23324,MIM 204E,Arch.Building Element Design,,Fatih Yazıcıoğlu,"MMB
+MMB","Çarşamba
+Çarşamba","0930/1229
+1330/1529","---
+---",45,0,Yok/None,"ARC, ICM, MIME","MIM 203 MIN DD
+veya MIM 203E MIN DD
+veya MIM 261 MIN DD
+veya MIM 261E MIN DD
+veya MIM 231 MIN DD
+veya MIM 231E MIN DD
+veya MIM 263 MIN DD
+veya MIM 263E MIN DD
+veya ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+10,23326,MIM 208E,Structural Analysis& Design I,,"Gülseren Erol Soyöz, Halet Almıla Büyüktaşkın","MMB
+MMB","Salı
+Cuma","1030/1229
+1030/1229","---
+---",60,0,Yok/None,"MIM, MIME","MIM 106 MIN DD
+veya MIM 106E MIN DD",Yok/None
+11,23329,MIM 209E,History of Architecture I,,"Zeynep Kuban Tokgöz, Bilge Ar",MMB,Salı,1330/1629,---,40,0,Yok/None,"ARC, MIM, MIME",Yok/None,Yok/None
+12,23343,MIM 210,Mimarlık Tarihi II,,Aygül Ağır,MMB,Pazartesi,0930/1229,---,40,0,Yok/None,MIM,"MIM 122 MIN DD
+veya MIM 122E MIN DD
+veya MIM 209 MIN DD
+veya MIM 209E MIN DD",Yok/None
+13,23345,MIM 210E,History of Architecture II,,Nejat Turgut Saner,MMB,Pazartesi,0930/1229,---,40,0,Yok/None,"ARC, MIM, MIME","MIM 122 MIN DD
+veya MIM 122E MIN DD
+veya MIM 209 MIN DD
+veya MIM 209E MIN DD",Yok/None
+14,23350,MIM 211,Mimari Proje III,,Cemile Tiftik,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,Yok/None,MIM,"MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+15,23351,MIM 211,Mimari Proje III,,Dilek Yıldız,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,Yok/None,MIM,"MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+16,23352,MIM 211,Mimari Proje III,,Cem Okan Erözü,"MMB
+MMB","Perşembe
+----","1330/1729
+1330/1729","---
+---",-,-,Yok/None,MIM,"MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+17,23353,MIM 211E,Architectural Design III,,Sıdıka Aslıhan Şenel,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,"ARC/1/0
+MIM/1/0
+MIME/1/0","ARC, MIM, MIME","MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+18,23354,MIM 211E,Architectural Design III,,Göksenin İnalhan,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,"ARC/1/0
+MIM/1/0
+MIME/1/0","ARC, MIM, MIME","MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+19,23355,MIM 211E,Architectural Design III,,Pelin Dursun Çebi,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,"ARC/1/0
+MIM/1/0
+MIME/1/0","ARC, MIM, MIME","MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+20,23356,MIM 211E,Architectural Design III,,Özlem Berber Özkendirci,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,"ARC/1/0
+MIM/1/0
+MIME/1/0","ARC, MIM, MIME","MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+21,23357,MIM 211E,Architectural Design III,,Fatma Erkök,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,"ARC/1/0
+MIM/1/0
+MIME/1/0","ARC, MIM, MIME","MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+22,23358,MIM 211E,Architectural Design III,,Arzu İrem Mollaahmetoğlu,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,"ARC/1/0
+MIM/1/0
+MIME/1/0","ARC, MIM, MIME","MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+23,23359,MIM 211E,Architectural Design III,,Hakan Tüzün Şengün,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",3,0,"ARC/1/0
+MIM/1/0
+MIME/1/0","ARC, MIM, MIME","MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD
+veya TES 121 MIN DD
+veya TES 121E MIN DD",Yok/None
+24,23360,MIM 212,Mimari Proje IV,,Cemile Tiftik,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,Yok/None,MIM,"MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+25,23361,MIM 212,Mimari Proje IV,,Dilek Yıldız,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,Yok/None,MIM,"MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+26,23363,MIM 212,Mimari Proje IV,,Cem Okan Erözü,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,Yok/None,MIM,"MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+27,23364,MIM 212E,Architectural Design IV,,Sıdıka Aslıhan Şenel,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,"ARC/1/0
+MIM/8/0
+MIME/11/0","ARC, MIM, MIME","MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+28,23366,MIM 212E,Architectural Design IV,,Göksenin İnalhan,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,"ARC/1/0
+MIM/8/0
+MIME/11/0","ARC, MIM, MIME","MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+29,23370,MIM 212E,Architectural Design IV,,Pelin Dursun Çebi,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,"ARC/1/0
+MIM/8/0
+MIME/11/0","ARC, MIM, MIME","MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+30,23374,MIM 212E,Architectural Design IV,,Özlem Berber Özkendirci,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,"ARC/1/0
+MIM/8/0
+MIME/11/0","ARC, MIM, MIME","MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+31,23377,MIM 212E,Architectural Design IV,,Fatma Erkök,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,"ARC/1/0
+MIM/8/0
+MIME/11/0","ARC, MIM, MIME","MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+32,23380,MIM 212E,Architectural Design IV,,Arzu İrem Mollaahmetoğlu,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,"ARC/1/0
+MIM/8/0
+MIME/11/0","ARC, MIM, MIME","MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+33,23384,MIM 212E,Architectural Design IV,,Hakan Tüzün Şengün,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",20,0,"ARC/1/0
+MIM/8/0
+MIME/11/0","ARC, MIM, MIME","MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya TES 211E MIN DD",Yok/None
+34,23390,MIM 213,Yapısal Analiz ve Tasarım II,,Oğuz Cem Çelik,"MMB
+MMB","Salı
+Cuma","1030/1229
+1030/1229","---
+---",50,0,Yok/None,MIM,"MIM 152 MIN DD
+veya MIM 152E MIN DD
+veya MIM 103 MIN DD
+veya MIM 103E MIN DD
+veya MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 208 MIN DD
+veya MIM 208E MIN DD",Yok/None
+35,23391,MIM 213,Yapısal Analiz ve Tasarım II,,Necdet Torunbalcı,"MMB
+MMB","Salı
+Cuma","1030/1229
+1030/1229","---
+---",50,0,Yok/None,MIM,"MIM 152 MIN DD
+veya MIM 152E MIN DD
+veya MIM 103 MIN DD
+veya MIM 103E MIN DD
+veya MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 208 MIN DD
+veya MIM 208E MIN DD",Yok/None
+36,23393,MIM 213E,Structural Analysis& Design II,,Cenk Üstündağ,"MMB
+MMB","Salı
+Cuma","0830/1029
+0830/1029","---
+---",120,0,Yok/None,"ARC, MIM, MIME","MIM 152 MIN DD
+veya MIM 152E MIN DD
+veya MIM 103 MIN DD
+veya MIM 103E MIN DD
+veya MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 208 MIN DD
+veya MIM 208E MIN DD",Yok/None
+37,23399,MIM 231E,Building Materials,,Mehmet Serkan Yatağan,"MMB
+MMB","Salı
+Cuma","1030/1229
+1030/1229","---
+---",80,0,Yok/None,"ARC, MIM, MIME",Yok/None,Yok/None
+38,23401,MIM 246,Çevre Kontrolü Stüdyosu,,Nuri Serteser,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",55,0,Yok/None,MIM,Yok/None,Yok/None
+39,23407,MIM 246,Çevre Kontrolü Stüdyosu,,Şule Filiz Akşit,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",55,0,Yok/None,MIM,Yok/None,Yok/None
+40,23409,MIM 246,Çevre Kontrolü Stüdyosu,,Tarık Serhat Bozkurt,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",55,0,Yok/None,MIM,Yok/None,Yok/None
+41,23467,MIM 246E,Environmental Control Studio,,Gül Koçlar Oral,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",55,0,Yok/None,"ARC, IAD, ICM, MIM, MIME",Yok/None,Yok/None
+42,23469,MIM 246E,Environmental Control Studio,,Alpin Köknel Yener,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",55,0,Yok/None,"ARC, IAD, ICM, MIM, MIME",Yok/None,Yok/None
+43,23471,MIM 246E,Environmental Control Studio,,Gülten Manioğlu,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",55,0,Yok/None,"ARC, ICM, MIME",Yok/None,Yok/None
+44,23474,MIM 253E,Steel Structures,,--,MMB,Salı,1030/1229,---,-,-,Yok/None,"MIM, MIME","MIM 152 MIN DD
+veya MIM 152E MIN DD
+veya MIM 103 MIN DD
+veya MIM 103E MIN DD
+veya MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD",Yok/None
+45,23477,MIM 271E,Theory of Structures,,--,MMB,Cuma,1030/1229,---,-,-,Yok/None,"MIM, MIME","MIM 152 MIN DD
+veya MIM 152E MIN DD
+veya MIM 103 MIN DD
+veya MIM 103E MIN DD
+veya MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD",Yok/None
+46,23496,MIM 304E,History of Architecture III,,"Mehmet Murat Gül, Miyuki Aoki Girardelli",MMB,Cuma,1430/1729,---,40,0,Yok/None,"MIM, MIME","MIM 209 MIN DD
+veya MIM 209E MIN DD
+veya ICM 126 MIN DD
+veya ICM 126E MIN DD
+veya PEM 124 MIN DD
+veya PEM 124E MIN DD
+veya SBP 232 MIN DD
+veya SBP 232E MIN DD",Yok/None
+47,23498,MIM 305E,Statistics,Çevrimiçi/Online,Michael Stefan Bitterman,----,Salı,1330/1629,----,40,0,Yok/None,"MIM, MIME",Yok/None,Yok/None
+48,23499,MIM 312,Mimari Proje VI,,Sinan Omacan,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",18,0,Yok/None,MIM,"MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+49,23500,MIM 312,Mimari Proje VI,,--,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",18,0,Yok/None,MIM,"MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+50,23501,MIM 312,Mimari Proje VI,,Suat Apak,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",18,0,Yok/None,MIM,"MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+51,23503,MIM 312,Mimari Proje VI,,Tan Kamil Gürer,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",18,0,Yok/None,MIM,"MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+52,23505,MIM 312,Mimari Proje VI,,Çiğdem Eren,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",10,0,Yok/None,MIM,"MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+53,23507,MIM 312,Mimari Proje VI,,Nurbin Paker Kahvecioğlu,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",10,0,Yok/None,MIM,"MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+54,23510,MIM 312E,Architectural Design VI,,Leman Figen Gül,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",16,0,"MIM/6/0
+MIME/10/0","MIM, MIME","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+55,23514,MIM 312E,Architectural Design VI,,Nesip Ömer Erem,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",16,0,"MIM/6/0
+MIME/10/0","MIM, MIME","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+56,23516,MIM 312E,Architectural Design VI,,Nizam Onur Sönmez,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",16,0,"MIM/6/0
+MIME/10/0","MIM, MIME","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+57,23520,MIM 312E,Architectural Design VI,,Meltem Aksoy,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",16,0,"MIM/6/0
+MIME/10/0","ASS, MIM, MIME, SAS","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+58,23522,MIM 312E,Architectural Design VI,,Bihter Almaç,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",16,0,"MIM/6/0
+MIME/10/0","MIM, MIME","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+59,23525,MIM 312E,Architectural Design VI,,Funda Uz,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",16,0,"MIM/6/0
+MIME/10/0","MIM, MIME","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+60,23527,MIM 312E,Architectural Design VI,,Ayşe Şentürer,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",10,0,"MIM/2/0
+MIME/8/0","MIM, MIME","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+61,23530,MIM 312E,Architectural Design VI,,Mehmet Emin Şalgamcıoğlu,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",10,0,"MIM/2/0
+MIME/8/0","MIM, MIME","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+62,23533,MIM 312E,Architectural Design VI,,Ozan Önder Özener,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",10,0,"MIM/2/0
+MIME/8/0","MIM, MIME","MIM 311 MIN DD
+veya MIM 311E MIN DD
+veya MIM 351 MIN DD
+veya MIM 351E MIN DD",Yok/None
+63,23536,MIM 322E,Conserv.of Hist. Build.&Sites,,Umut Almaç,MMB,Cuma,1030/1229,---,35,0,Yok/None,"MIM, MIME","MIM 222 MIN DD
+veya MIM 222E MIN DD
+veya MIM 210 MIN DD
+veya MIM 210E MIN DD",Yok/None
+64,23538,MIM 333E,Building Production Systems,,Emrah Acar,MMB,Cuma,1030/1229,---,60,0,Yok/None,"MIM, MIME",Yok/None,Yok/None
+65,23540,MIM 351,Mimari Proje V,,Sinan Omacan,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,Yok/None,MIM,"(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+66,23542,MIM 351,Mimari Proje V,,Elmira Ayşe Gür,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,Yok/None,MIM,"(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+67,23546,MIM 351,Mimari Proje V,,Suat Apak,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,Yok/None,MIM,"(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+68,23548,MIM 351,Mimari Proje V,,Tan Kamil Gürer,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,Yok/None,MIM,"(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+69,23552,MIM 351E,Architectural Design V,,Leman Figen Gül,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,"ARC/1/0
+MIM/2/0
+MIME/2/0","MIM, MIME","(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+70,23556,MIM 351E,Architectural Design V,,Nesip Ömer Erem,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,"ARC/1/0
+MIM/2/0
+MIME/2/0","MIM, MIME","(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+71,23560,MIM 351E,Architectural Design V,,Nizam Onur Sönmez,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,"ARC/1/0
+MIM/2/0
+MIME/2/0","MIM, MIME","(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+72,23562,MIM 351E,Architectural Design V,,Meltem Aksoy,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,"ARC/1/0
+MIM/2/0
+MIME/2/0","MIM, MIME","(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+73,23565,MIM 351E,Architectural Design V,,Bihter Almaç,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,"ARC/1/0
+MIM/2/0
+MIME/2/0","MIM, MIME","(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+74,23566,MIM 351E,Architectural Design V,,Funda Uz,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,"ARC/1/0
+MIM/2/0
+MIME/2/0","MIM, MIME","(MIM 212 MIN DD
+veya MIM 212E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD
+veya MIM 117 MIN DD
+veya MIM 117E MIN DD
+veya MIM 121 MIN DD
+veya MIM 121E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD
+veya MIM 142 MIN DD
+veya MIM 142E MIN DD)",Yok/None
+75,24545,MIM 358,Yapı Koruyucu Malzemeler,,Fatih Bildik,MMB,Perşembe,0930/1229,---,20,0,Yok/None,MIM,"MIM 231 MIN DD
+veya MIM 231E MIN DD
+veya ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+76,23568,MIM 359,Yapım Yönetimi ve Ekonomisi,,"Elçin Filiz Taş, Gülfer Oraz","MMB
+MMB","Çarşamba
+Cuma","0830/1129
+0830/1029","---
+---",60,0,Yok/None,MIM,Yok/None,Yok/None
+77,23569,MIM 359,Yapım Yönetimi ve Ekonomisi,,Hakan Yaman,"MMB
+MMB","Çarşamba
+Cuma","0830/1129
+0830/1029","---
+---",60,0,Yok/None,MIM,Yok/None,Yok/None
+78,23570,MIM 359E,Construction Mngmnt & Economy,,Emrah Acar,"MMB
+MMB","Çarşamba
+Cuma","0830/1129
+0830/1029","---
+---",60,0,Yok/None,"MIM, MIME",Yok/None,Yok/None
+79,23571,MIM 361,Rölöve ve Restorasyon Stüdyosu,,Yegan Kahya Sayar,MMB,Cuma,1400/1759,---,20,0,Yok/None,MIM,"(MIM 322 MIN DD
+veya MIM 322E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+80,23572,MIM 361,Rölöve ve Restorasyon Stüdyosu,,Sakine Yıldız Salman,MMB,Cuma,1400/1759,---,20,0,Yok/None,MIM,"(MIM 322 MIN DD
+veya MIM 322E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+81,23573,MIM 361,Rölöve ve Restorasyon Stüdyosu,,Ömer Dabanlı,MMB,Cuma,1400/1759,---,20,0,Yok/None,MIM,"(MIM 322 MIN DD
+veya MIM 322E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+82,23574,MIM 361E,Archtctrl Survey & Restrtn Std,,Zeynep Eres Özdoğan,MMB,Cuma,1400/1759,---,20,0,Yok/None,"MIM, MIME, SAS","(MIM 322 MIN DD
+veya MIM 322E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+83,23576,MIM 361E,Archtctrl Survey & Restrtn Std,,Işıl Polat Pekmezci,MMB,Cuma,1400/1759,---,20,0,Yok/None,"MIM, MIME, SAS","(MIM 322 MIN DD
+veya MIM 322E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+84,23578,MIM 4010E,Theories of Architectural Dsgn,,Yüksel Demir,MMB,Salı,1330/1629,---,59,0,Yok/None,"ENTE, EUT, EUTE, ICM, MIM, MIME, PEM, PEME, SBP, SBPE",Yok/None,Yok/None
+85,23579,MIM 4011,Fotoğraf,,Aras Neftçi,MMB,Salı,0930/1229,---,-,-,Yok/None,"ICM, MIM, SBP",Yok/None,Yok/None
+86,23581,MIM 4013,Mimari ve Etkileri,,Suat Apak,MMB,Pazartesi,0930/1129,---,25,0,Yok/None,"MIM, SBP",Yok/None,Yok/None
+87,23583,MIM 4014,Doğal Verilerle Tasarım,,Nizam Onur Sönmez,MMB,Perşembe,0930/1129,---,25,0,Yok/None,"ICM, MIM",Yok/None,Yok/None
+88,23585,MIM 4017,Çağdaş Yapı Malzemeleri,,Leyla Tanaçan,MMB,Perşembe,1400/1559,---,20,0,Yok/None,"ICM, MIM",Yok/None,Yok/None
+89,23591,MIM 4019,Detay Tasrm & Temel İlkeleri,,Mehmet Serkan Yatağan,MMB,Salı,1330/1629,---,20,0,Yok/None,"ICM, MIM","MIM 231 MIN DD
+veya MIM 231E MIN DD
+veya ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+90,23588,MIM 4021,Mimarlıkta Enfrm Teknolojileri,,Hakan Tong,MMB,Çarşamba,0930/1229,---,15,0,Yok/None,MIM,"BIL 101 MIN DD
+veya BIL 101E MIN DD
+veya BIL 101E MIN BL
+veya BIL 100E MIN DD
+veya MIM 120E MIN DD",Yok/None
+91,23589,MIM 4023,Yapıda Malzeme Seçimi,,Seda Erdem,MMB,Pazartesi,0930/1229,---,20,0,Yok/None,"ICM, MIM","MIM 231 MIN DD
+veya MIM 231E MIN DD
+veya ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+92,23593,MIM 4039,Antik Çağ'da Mimarlık & Toplum,,--,MMB,Salı,1030/1229,---,0,0,Yok/None,MIM,"MIM 122 MIN DD
+veya MIM 122E MIN DD
+veya MIM 209 MIN DD
+veya MIM 209E MIN DD",Yok/None
+93,23595,MIM 4040,Programlama Mantığına Giriş,Çevrimiçi/Online,Atilla Aydoğdu,----,Cuma,1030/1229,----,20,0,Yok/None,MIM,"BIL 100 MIN DD
+veya BIL 101E MIN DD
+veya BIL 101E MIN BL
+veya BIL 100E MIN DD
+veya MIM 120E MIN DD",Yok/None
+94,23596,MIM 4040,Programlama Mantığına Giriş,Çevrimiçi/Online,Atilla Aydoğdu,----,Cuma,1400/1559,----,20,0,Yok/None,MIM,"BIL 100 MIN DD
+veya BIL 101E MIN DD
+veya BIL 101E MIN BL
+veya BIL 100E MIN DD
+veya MIM 120E MIN DD",Yok/None
+95,23597,MIM 4041,Yüksek Binaların Mimari Tas.,,Çiğdem Eren,MMB,Salı,1330/1529,---,28,0,Yok/None,MIM,Yok/None,Yok/None
+96,23598,MIM 4043,İstanbul Katmanları,,Zeynep Kuban Tokgöz,MMB,Çarşamba,1330/1629,---,0,0,Yok/None,MIM,"(MIM 122 MIN DD
+veya MIM 122E MIN DD
+veya MIM 209 MIN DD
+veya MIM 209E MIN DD)
+ve (MIM 221 MIN DD
+veya MIM 221E MIN DD
+veya MIM 210 MIN DD
+veya MIM 210E MIN DD)",Yok/None
+97,23599,MIM 4053E,Tall Building Structures,,Halet Almıla Büyüktaşkın,MMB,Salı,1330/1529,---,25,0,Yok/None,"MIM, MIME","MIM 152 MIN DD
+veya MIM 152E MIN DD
+veya MIM 103 MIN DD
+veya MIM 103E MIN DD
+veya MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD",Yok/None
+98,23600,MIM 4055E,Art of the 20th Century,,Arzu İrem Mollaahmetoğlu,MMB,Salı,1030/1229,---,20,0,Yok/None,"MIM, MIME",Yok/None,Yok/None
+99,23601,MIM 4058E,Architecture After 1960,,Emine Görgül,MMB,Salı,1030/1229,---,60,0,Yok/None,"ICM, MIM, MIME",Yok/None,Yok/None
+100,23602,MIM 4061E,Desg.Draw.:Pract.&Concep.Appr.,,--,MMB,Salı,1330/1529,---,0,0,Yok/None,"ICM, MIM, MIME",Yok/None,Yok/None
+101,23603,MIM 4062,"Topog.Pratik. Mim., Sanat&Kent",,Sıdıka Aslıhan Şenel,MMB,Cuma,1400/1659,---,20,0,Yok/None,MIM,Yok/None,Yok/None
+102,23622,MIM 4066E,Generating Livable Environment,,Cemile Tiftik,MMB,Salı,1330/1529,---,25,0,Yok/None,"MIM, MIME",Yok/None,Yok/None
+103,23623,MIM 4072E,"Architecture,Cities and Cinema",,Arzu İrem Mollaahmetoğlu,MMB,Salı,1330/1529,---,20,0,Yok/None,"MIM, MIME",Yok/None,Yok/None
+104,23624,MIM 4074E,Stru.Sys.Pro.of Mon.&Hist.Cons,,"Haluk Sesigür, Gülseren Erol Soyöz",MMB,Perşembe,0930/1129,---,25,0,Yok/None,"MIM, MIME","MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 103 MIN DD
+veya MIM 103E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD",Yok/None
+105,23625,MIM 4080E,Art and Architecture in Asia,,Miyuki Aoki Girardelli,MMB,Salı,1030/1229,---,20,0,Yok/None,"MIM, MIME",Yok/None,Yok/None
+106,23628,MIM 4081,Kagir İnşaat ve Onarım,,Ömer Dabanlı,MMB,Salı,0930/1229,---,20,0,Yok/None,MIM,"MIM 231 MIN DD
+veya MIM 231E MIN DD",Yok/None
+107,23630,MIM 4083,19. YY'danGün.İstanbul'un Gel.,,Mehmet Murat Gül,MMB,Perşembe,1030/1229,---,20,0,Yok/None,MIM,"MIM 210 MIN DD
+veya MIM 210E MIN DD",Yok/None
+108,23632,MIM 410,Mimar Sinan,,Aras Neftçi,MMB,Salı,1330/1629,---,20,0,Yok/None,MIM,"MIM 221 MIN DD
+veya MIM 221E MIN DD",Yok/None
+109,23635,MIM 411,Mimari Proje VII,,Çiğdem Eren,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",13,0,Yok/None,MIM,"MIM 312 MIN DD
+veya MIM 312E MIN DD",Yok/None
+110,23640,MIM 411,Mimari Proje VII,,Nurbin Paker Kahvecioğlu,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",13,0,Yok/None,MIM,"MIM 312 MIN DD
+veya MIM 312E MIN DD",Yok/None
+111,23648,MIM 411E,Architectural Design VII,,Ayşe Şentürer,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",10,0,"MIM/2/0
+MIME/8/0","MIM, MIME","MIM 312 MIN DD
+veya MIM 312E MIN DD",Yok/None
+112,23651,MIM 411E,Architectural Design VII,,Mehmet Emin Şalgamcıoğlu,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",10,0,"MIM/2/0
+MIME/8/0","MIM, MIME","MIM 312 MIN DD
+veya MIM 312E MIN DD",Yok/None
+113,23656,MIM 411E,Architectural Design VII,,Ozan Önder Özener,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",10,0,"MIM/2/0
+MIME/8/0","MIM, MIME","MIM 312 MIN DD
+veya MIM 312E MIN DD",Yok/None
+114,23661,MIM 484,Uygulama Projesi,,--,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",0,0,Yok/None,MIM,"(MIM 232 MIN DD
+veya MIM 232E MIN DD
+veya MIM 213 MIN DD
+veya MIM 213E MIN DD
+veya MIM 234 MIN DD
+veya MIM 234E MIN DD)
+ve (MIM 242 MIN DD
+veya MIM 242E MIN DD
+veya MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+115,23663,MIM 484,Uygulama Projesi,,Gülfer Oraz,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",12,0,Yok/None,MIM,"(MIM 232 MIN DD
+veya MIM 232E MIN DD
+veya MIM 213 MIN DD
+veya MIM 213E MIN DD
+veya MIM 234 MIN DD
+veya MIM 234E MIN DD)
+ve (MIM 242 MIN DD
+veya MIM 242E MIN DD
+veya MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+116,23667,MIM 484,Uygulama Projesi,,Seda Erdem,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",12,0,Yok/None,MIM,"(MIM 232 MIN DD
+veya MIM 232E MIN DD
+veya MIM 213 MIN DD
+veya MIM 213E MIN DD
+veya MIM 234 MIN DD
+veya MIM 234E MIN DD)
+ve (MIM 242 MIN DD
+veya MIM 242E MIN DD
+veya MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+117,23669,MIM 484E,Construction Project,,Fatma Pınar Çakmak,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",12,0,Yok/None,MIM,"(MIM 232 MIN DD
+veya MIM 232E MIN DD
+veya MIM 213 MIN DD
+veya MIM 213E MIN DD
+veya MIM 234 MIN DD
+veya MIM 234E MIN DD)
+ve (MIM 242 MIN DD
+veya MIM 242E MIN DD
+veya MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+118,23670,MIM 484E,Construction Project,,--,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",-,-,Yok/None,MIME,"(MIM 232 MIN DD
+veya MIM 232E MIN DD
+veya MIM 213 MIN DD
+veya MIM 213E MIN DD
+veya MIM 234 MIN DD
+veya MIM 234E MIN DD)
+ve (MIM 242 MIN DD
+veya MIM 242E MIN DD
+veya MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+119,24546,MIM 484E,Construction Project,,Ecem Tezel,"MMB
+MMB","Salı
+Perşembe","1330/1729
+0830/1229","---
+---",12,0,Yok/None,MIME,"(MIM 232 MIN DD
+veya MIM 232E MIN DD
+veya MIM 213 MIN DD
+veya MIM 213E MIN DD
+veya MIM 234 MIN DD
+veya MIM 234E MIN DD)
+ve (MIM 242 MIN DD
+veya MIM 242E MIN DD
+veya MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (MIM 204 MIN DD
+veya MIM 204E MIN DD
+veya MIM 244 MIN DD
+veya MIM 244E MIN DD)",Yok/None
+120,23680,MIM 4902,Diploma Projesi,,Elmira Ayşe Gür,MMB,----,/,---,-,-,Yok/None,MIM,"(MIM 321 MIN DD
+veya MIM 321E MIN DD
+veya MIM 304 MIN DD
+veya MIM 304E MIN DD)
+ve (MIM 333 MIN DD
+veya MIM 333E MIN DD
+veya MIM 331 MIN DD
+veya MIM 331E MIN DD)
+ve (MIM 343 MIN DD
+veya MIM 343E MIN DD
+veya MIM 341 MIN DD
+veya MIM 341E MIN DD
+veya MIM 306 MIN DD
+veya MIM 306E MIN DD)
+ve (MIM 359 MIN DD
+veya MIM 359E MIN DD
+veya MIM 332 MIN DD
+veya MIM 332E MIN DD)
+ve (MIM 361 MIN DD
+veya MIM 361E MIN DD
+veya MIM 421 MIN DD
+veya MIM 421E MIN DD)
+ve (MIM 411 MIN DD
+veya MIM 411E MIN DD)
+ve (MIM 484 MIN DD
+veya MIM 484E MIN DD
+veya MIM 431 MIN DD
+veya MIM 431E MIN DD)",4.Sınıf
+121,23682,MIM 4902E,Diploma Project,,Elmira Ayşe Gür,MMB,----,/,---,-,-,Yok/None,"MIM, MIME, SAS","(MIM 321 MIN DD
+veya MIM 321E MIN DD
+veya MIM 304 MIN DD
+veya MIM 304E MIN DD)
+ve (MIM 333 MIN DD
+veya MIM 333E MIN DD
+veya MIM 331 MIN DD
+veya MIM 331E MIN DD)
+ve (MIM 343 MIN DD
+veya MIM 343E MIN DD
+veya MIM 341 MIN DD
+veya MIM 341E MIN DD
+veya MIM 306 MIN DD
+veya MIM 306E MIN DD)
+ve (MIM 359 MIN DD
+veya MIM 359E MIN DD
+veya MIM 332 MIN DD
+veya MIM 332E MIN DD)
+ve (MIM 361 MIN DD
+veya MIM 361E MIN DD
+veya MIM 421 MIN DD
+veya MIM 421E MIN DD)
+ve (MIM 411 MIN DD
+veya MIM 411E MIN DD)
+ve (MIM 484 MIN DD
+veya MIM 484E MIN DD
+veya MIM 431 MIN DD
+veya MIM 431E MIN DD)",4.Sınıf
+122,23684,MIM 492,Bitirme Çalışması,,Elmira Ayşe Gür,MMB,----,/,---,-,-,Yok/None,MIM,"(MIM 431 MIN DD
+veya MIM 431E MIN DD
+veya MIM 484 MIN DD
+veya MIM 484E MIN DD)
+ve (MIM 411 MIN DD
+veya MIM 411E MIN DD)
+ve (MIM 321 MIN DD
+veya MIM 321E MIN DD
+veya MIM 304 MIN DD
+veya MIM 304E MIN DD)
+ve (MIM 333 MIN DD
+veya MIM 333E MIN DD
+veya MIM 331 MIN DD
+veya MIM 331E MIN DD)
+ve (MIM 343 MIN DD
+veya MIM 343E MIN DD
+veya MIM 341 MIN DD
+veya MIM 341E MIN DD
+veya MIM 306 MIN DD
+veya MIM 306E MIN DD)
+ve (MIM 359 MIN DD
+veya MIM 359E MIN DD
+veya MIM 332 MIN DD
+veya MIM 332E MIN DD)
+ve (MIM 361 MIN DD
+veya MIM 361E MIN DD
+veya MIM 421 MIN DD
+veya MIM 421E MIN DD)
+Diğer Şartlar",4.Sınıf
+123,23686,MIM 492E,Graduation Project,,Elmira Ayşe Gür,MMB,----,/,---,-,-,Yok/None,"MIM, MIME","(MIM 431 MIN DD
+veya MIM 431E MIN DD
+veya MIM 484 MIN DD
+veya MIM 484E MIN DD)
+ve (MIM 411 MIN DD
+veya MIM 411E MIN DD)
+ve (MIM 321 MIN DD
+veya MIM 321E MIN DD
+veya MIM 304 MIN DD
+veya MIM 304E MIN DD)
+ve (MIM 333 MIN DD
+veya MIM 333E MIN DD
+veya MIM 331 MIN DD
+veya MIM 331E MIN DD)
+ve (MIM 343 MIN DD
+veya MIM 343E MIN DD
+veya MIM 341 MIN DD
+veya MIM 341E MIN DD
+veya MIM 306 MIN DD
+veya MIM 306E MIN DD)
+ve (MIM 359 MIN DD
+veya MIM 359E MIN DD
+veya MIM 332 MIN DD
+veya MIM 332E MIN DD)
+ve (MIM 361 MIN DD
+veya MIM 361E MIN DD
+veya MIM 421 MIN DD
+veya MIM 421E MIN DD)
+Diğer Şartlar",4.Sınıf

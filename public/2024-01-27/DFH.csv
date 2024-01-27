@@ -1,0 +1,41 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23970,DFH 112,Denizde Güvenlik II,,Yusuf Nejat Koçar,DZB,Pazartesi,0830/1129,---,120,0,Yok/None,"DUI, GMI",Yok/None,Yok/None
+1,23971,DFH 112,Denizde Güvenlik II,,Sinan Çakır,DZB,Pazartesi,1130/1429,---,60,0,Yok/None,"DUI, GMI",Yok/None,Yok/None
+2,23972,DFH 112,Denizde Güvenlik II,,Yusuf Nejat Koçar,DZB,Pazartesi,1430/1729,---,120,0,Yok/None,"DUI, GMI",Yok/None,Yok/None
+3,23699,DFH 112E,Maritime Safety II,,Hakan Çap,DZB,Cuma,0830/1129,---,35,0,Yok/None,"MEN, MTM",Yok/None,Yok/None
+4,23700,DFH 112E,Maritime Safety II,,Hakan Çap,DZB,Cuma,1400/1659,---,35,0,Yok/None,"MEN, MTM",Yok/None,Yok/None
+5,23977,DFH 172E,Maritime English I,,Seda Çınar Alabay,DZB,Pazartesi,1230/1429,---,40,0,Yok/None,DUI,Yok/None,Yok/None
+6,23978,DFH 172E,Maritime English I,,Seda Çınar Alabay,DZB,Pazartesi,1430/1629,---,40,0,Yok/None,DUI,Yok/None,Yok/None
+7,23706,DFH 172E,Maritime English I,,Seda Çınar Alabay,DZB,Salı,0830/1029,---,60,0,Yok/None,MTM,Yok/None,Yok/None
+8,23979,DFH 172E,Maritime English I,,Seda Çınar Alabay,DZB,Salı,1330/1529,---,40,0,Yok/None,DUI,Yok/None,Yok/None
+9,23899,DFH 172E,Maritime English I,,Seda Çınar Alabay,DZB,Çarşamba,1230/1429,---,45,0,Yok/None,MMD,Yok/None,Yok/None
+10,23980,DFH 184,Denizcilik Gelenekleri,,Gizem Çevik,DZB,Salı,1030/1329,---,50,0,Yok/None,DUI,Yok/None,Yok/None
+11,23981,DFH 186,Gemicilik Uygulamaları,,Orhan Gönel,DZB,Perşembe,1130/1429,---,50,0,Yok/None,DUI,Yok/None,Yok/None
+12,23982,DFH 202,Gemilerde Acil Durum. Müdahale,,Orhan Gönel,DZB,Salı,1030/1229,---,70,0,Yok/None,DUI,Yok/None,Yok/None
+13,23983,DFH 202,Gemilerde Acil Durum. Müdahale,,Orhan Gönel,DZB,Salı,1330/1529,---,70,0,Yok/None,DUI,Yok/None,Yok/None
+14,23830,DFH 202E,Ship Emergency Response,,Orhan Gönel,DZB,Perşembe,1530/1729,---,60,0,Yok/None,"MEN, MTM",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+15,23987,DFH 225,Türk Denizcilik Tarihi&Kültürü,,Muhsin Kadıoğlu,DZB,Perşembe,1530/1729,---,30,0,Yok/None,DUI,Yok/None,Yok/None
+16,24709,DFH 226,Ekonomik Coğrafya,,Muhsin Kadıoğlu,DZB,Perşembe,1030/1329,---,40,0,Yok/None,DUI,Yok/None,Yok/None
+17,23831,DFH 232E,Business Logistics,,Pelin Bolat,DZB,Salı,0830/1029,---,60,0,Yok/None,MTM,Yok/None,Yok/None
+18,23989,DFH 254E,Maritime Conventions,,Gizem Kayişoğlu,DZB,Salı,1330/1529,---,70,0,Yok/None,DUI,Yok/None,Yok/None
+19,23990,DFH 254E,Maritime Conventions,,Gizem Kayişoğlu,DZB,Salı,1530/1729,---,70,0,Yok/None,DUI,Yok/None,Yok/None
+20,23825,DFH 254E,Maritime Conventions,,Burak Zincir,DZB,Perşembe,1030/1229,---,60,0,Yok/None,MTM,Yok/None,Yok/None
+21,23991,DFH 278E,Maritime Economics,,Levent Kırval,DZB,Çarşamba,0930/1129,---,70,0,Yok/None,DUI,Yok/None,Yok/None
+22,23992,DFH 278E,Maritime Economics,,Levent Kırval,DZB,Çarşamba,1130/1329,---,70,0,Yok/None,DUI,Yok/None,Yok/None
+23,23827,DFH 278E,Maritime Economics,,Sinan Çakır,DZB,Cuma,1030/1229,---,60,0,Yok/None,MTM,Yok/None,Yok/None
+24,23902,DFH 278E,Maritime Economics,,Sinan Çakır,MED,Cuma,1630/1829,B33,45,0,Yok/None,MMD,Yok/None,Yok/None
+25,23993,DFH 282,Akışkanlar Mekaniği,,Melek Ertogan,DZB,Pazartesi,0830/1029,---,50,0,Yok/None,DUI,Yok/None,Yok/None
+26,23994,DFH 282,Akışkanlar Mekaniği,,Melek Ertogan,DZB,Pazartesi,1030/1229,---,50,0,Yok/None,DUI,Yok/None,Yok/None
+27,23995,DFH 414E,Port Management,,Tanzer Satır,DZB,Salı,1330/1529,---,60,0,Yok/None,DUI,Yok/None,Yok/None
+28,23904,DFH 414E,Port Management,,Tanzer Satır,MED,Cuma,1000/1159,B35,45,0,Yok/None,MMD,Yok/None,Yok/None
+29,23996,DFH 472E,Commercial Ship Management,,Pelin Bolat,DZB,Perşembe,0830/1129,---,50,0,Yok/None,DUI,Yok/None,Yok/None
+30,24001,DFH 474,Denizcilikte Yön.Dav.&Perf.,,Leyla Tavacıoğlu,DZB,Çarşamba,0830/1129,---,50,0,Yok/None,DUI,Yok/None,Yok/None
+31,24071,DFH 482E,Cargo Handling Simulator,,Yunus Emre Şenol,DZB,Pazartesi,0830/1029,---,25,0,Yok/None,DUI,Yok/None,Yok/None
+32,24072,DFH 482E,Cargo Handling Simulator,,Yunus Emre Şenol,DZB,Pazartesi,1130/1329,---,25,0,Yok/None,DUI,Yok/None,Yok/None
+33,24004,DFH 486E,Chartering,,Emre Akyüz,DZB,Perşembe,1330/1529,---,50,0,Yok/None,DUI,Yok/None,Yok/None
+34,24024,DFH 490E,E-Navigation Systems,,Serdar Kum,DZB,Çarşamba,0930/1129,---,60,0,Yok/None,DUI,Yok/None,Yok/None
+35,24047,DFH 490E,E-Navigation Systems,,Serdar Kum,DZB,Çarşamba,1130/1329,---,60,0,Yok/None,DUI,Yok/None,Yok/None
+36,23839,DFH 490E,E-Navigation Systems,,Serdar Kum,DZB,Perşembe,1330/1529,---,60,0,Yok/None,MTM,Yok/None,Yok/None
+37,24708,DFH 495,Gemiadamı Sağlığı&İş Emniyeti,,Esma Uflaz,DZB,Perşembe,1330/1629,---,40,0,Yok/None,DUI,Yok/None,Yok/None
+38,24228,DFH 497E,Org.Mngt &Behavior in Maritime,,Dilek Mürüvvet Görgüç,DZB,Pazartesi,1430/1729,---,50,0,Yok/None,DUI,Yok/None,Yok/None

@@ -1,0 +1,70 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24245,MUK 203,Mukavemet I,,***,MDB,Perşembe,1330/1629,A101,50,0,Yok/None,JEO,"STA 201 MIN DD
+veya STA 202 MIN DD
+veya STA 204 MIN DD
+veya STA 201E MIN DD
+veya STA 202E MIN DD
+veya STA 204E MIN DD",Yok/None
+1,21240,MUK 204,Mukavemet II,,***,GDB,Pazartesi,1330/1629,410,80,0,Yok/None,DEN,"MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya GEM 203 MIN DD
+veya GEM 203E MIN DD",Yok/None
+2,21284,MUK 204,Mukavemet II,,***,"GDB
+GDB","Salı
+Perşembe","1330/1529
+1330/1429","410
+410",30,0,Yok/None,GEM,"MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya GEM 203 MIN DD
+veya GEM 203E MIN DD",Yok/None
+3,21285,MUK 204,Mukavemet II,,***,"GDB
+GDB","Salı
+Perşembe","1330/1529
+1330/1429","409
+409",30,0,Yok/None,GEM,"MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya GEM 203 MIN DD
+veya GEM 203E MIN DD",Yok/None
+4,24736,MUK 204E,Strength of Materials II,,***,GDB,Salı,0930/1229,---,40,0,Yok/None,NAE,"MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya GEM 203 MIN DD
+veya GEM 203E MIN DD",Yok/None
+5,23470,MUK 205,Mukavemet,,***,"MKB
+MKB","Perşembe
+Cuma","0830/1129
+1030/1229","---
+---",40,0,Yok/None,"IML, MAK, MAKM, MKN","STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD",Yok/None
+6,22597,MUK 207E,Strength of Materials,,***,MKB,Cuma,0930/1229,D376,40,0,Yok/None,"TEK, TEKE","MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+7,22599,MUK 207E,Strength of Materials,,***,MKB,Cuma,1430/1729,D376,40,0,Yok/None,"CHZE, IMLE, TEKE","MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None

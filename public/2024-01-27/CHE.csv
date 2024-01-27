@@ -1,0 +1,12 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,20691,CHE 101,Chemistry I,,Abdullah Aydoğan,"FEB
+FEB","Pazartesi
+Perşembe","0830/1129
+0830/1029","L200
+L200",40,0,Yok/None,"MBI, MCB, SCE, SED, SEN, SGI, SIN, SIS",Yok/None,Yok/None
+1,20692,CHE 301,Chemistry II,,Şennur Özçelik,"MED
+MED","Pazartesi
+Perşembe","0830/1129
+0830/1029","B31
+B31",40,0,Yok/None,MBI,Yok/None,Yok/None

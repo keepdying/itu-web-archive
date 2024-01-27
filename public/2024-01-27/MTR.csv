@@ -1,0 +1,215 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21722,MTR 102,Makam Teorisi II,,Eren Özek,"TMB
+TMB
+TMB","Pazartesi
+Çarşamba
+Perşembe","0830/1029
+1030/1229
+1330/1529","---
+---
+---",40,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 101 MIN CC
+veya MTR 101E MIN CC",Yok/None
+1,21730,MTR 102,Makam Teorisi II,,Elif Ahıs,"TMB
+TMB
+TMB","Salı
+Perşembe
+Cuma","0830/1029
+1530/1729
+1030/1229","---
+---
+---",35,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 101 MIN CC
+veya MTR 101E MIN CC",Yok/None
+2,21726,MTR 102,Makam Teorisi II,,Eren Özek,"TMB
+TMB
+TMB","Salı
+Çarşamba
+Cuma","1530/1729
+1330/1529
+0830/1029","---
+---
+---",35,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 101 MIN CC
+veya MTR 101E MIN CC",Yok/None
+3,21733,MTR 104,Müzik Teorisi II,,Ufuk Biçak,"TMB
+TMB
+TMB","Pazartesi
+Salı
+Perşembe","1030/1229
+1330/1529
+1030/1229","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 103 MIN CC
+veya MTR 103E MIN CC",Yok/None
+4,21735,MTR 104,Müzik Teorisi II,,Mehmet Özkan,"TMB
+TMB
+TMB","Pazartesi
+Çarşamba
+Perşembe","1530/1729
+1030/1229
+1330/1529","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 103 MIN CC
+veya MTR 103E MIN CC",Yok/None
+5,21742,MTR 104,Müzik Teorisi II,,Emel Şenocak,"TMB
+TMB
+TMB","Pazartesi
+Çarşamba
+Cuma","1530/1729
+1330/1529
+1600/1759","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 103 MIN CC
+veya MTR 103E MIN CC",Yok/None
+6,21745,MTR 104,Müzik Teorisi II,,Ayşecan Olgun,"TMB
+TMB
+TMB","Salı
+Çarşamba
+Cuma","1530/1729
+1330/1529
+0830/1029","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 103 MIN CC
+veya MTR 103E MIN CC",Yok/None
+7,21749,MTR 106,Ritim Uygulama II,,Erkan Kanat,TMB,Pazartesi,1030/1229,---,25,0,Yok/None,MTR,Yok/None,Yok/None
+8,21751,MTR 122,Makam Teorisi II,,Ali İhsan Alemli,"TMB
+TMB","Pazartesi
+Perşembe","1330/1529
+0830/1029","---
+---",30,0,Yok/None,THO,MTR 121 MIN CC,Yok/None
+9,21755,MTR 124,Müzik Teorisi II,,Emel Şenocak,"TMB
+TMB","Salı
+Cuma","1330/1529
+1400/1559","---
+---",25,0,Yok/None,THO,MTR 123 MIN CC,Yok/None
+10,21758,MTR 142,Makam Teorisi II,,Ali İhsan Alemli,"TMB
+TMB","Salı
+Perşembe","1530/1729
+1330/1529","---
+---",25,0,Yok/None,"BST, CAB, CEB, CGM7, KMP",MTR 141 MIN CC,Yok/None
+11,21761,MTR 144,Müzik Teorisi II,,Mehmet Özkan,"TMB
+TMB","Salı
+Perşembe","1030/1229
+1530/1729","---
+---",30,0,Yok/None,"BST, CAB, CEB, CGM7, KMP",MTR 143 MIN CC,Yok/None
+12,21765,MTR 202,Makam Teorisi IV,,Nurullah Kanık,"TMB
+TMB
+TMB","Salı
+Perşembe
+Cuma","0830/1029
+1330/1529
+1030/1229","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 201 MIN CC
+veya MTR 201E MIN CC",Yok/None
+13,21768,MTR 202,Makam Teorisi IV,,Elif Ahıs,"TMB
+TMB
+TMB","Salı
+Perşembe
+Cuma","1030/1229
+1330/1529
+0830/1029","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 201 MIN CC
+veya MTR 201E MIN CC",Yok/None
+14,21772,MTR 202,Makam Teorisi IV,,Nurullah Kanık,"TMB
+TMB
+TMB","Çarşamba
+Perşembe
+Cuma","0830/1029
+1030/1229
+1400/1559","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 201 MIN CC
+veya MTR 201E MIN CC",Yok/None
+15,21779,MTR 204,Müzik Teorisi IV,,Ayşecan Olgun,"TMB
+TMB
+TMB","Pazartesi
+Çarşamba
+Cuma","0830/1029
+1030/1229
+1030/1229","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 203 MIN CC
+veya MTR 203E MIN CC",Yok/None
+16,21783,MTR 204,Müzik Teorisi IV,,Emel Şenocak,"TMB
+TMB
+TMB","Pazartesi
+Salı
+Cuma","1330/1529
+1530/1729
+1030/1229","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 203 MIN CC
+veya MTR 203E MIN CC",Yok/None
+17,21776,MTR 204,Müzik Teorisi IV,,Ufuk Biçak,"TMB
+TMB
+TMB","Salı
+Perşembe
+Cuma","1530/1729
+1530/1729
+1400/1559","---
+---
+---",30,0,Yok/None,"MTR, MUT, MUZ, MZT, SES","MTR 203 MIN CC
+veya MTR 203E MIN CC",Yok/None
+18,21786,MTR 206,Müzik Teorileri Tarihi II,,Gülay Karamahmutoğlu,TMB,Çarşamba,1330/1529,---,25,0,Yok/None,"MTR, MTRM",Yok/None,Yok/None
+19,21789,MTR 208,Teori Uygulama II,,Süleyman Şenel,TMB,Salı,1030/1229,---,30,0,Yok/None,"MTR, MTRM",Yok/None,Yok/None
+20,21791,MTR 222,Makam Teorisi IV,,Ahmet Serhat Turunç,"TMB
+TMB","Pazartesi
+Çarşamba","1530/1729
+0830/1029","---
+---",25,0,Yok/None,THO,MTR 221 MIN CC,Yok/None
+21,21793,MTR 224,Müzik Teorisi IV,,Emel Şenocak,"TMB
+TMB","Salı
+Çarşamba","1030/1229
+1030/1229","---
+---",25,0,Yok/None,THO,MTR 223 MIN CC,Yok/None
+22,21795,MTR 242,Makam Teorisi IV,,Ali İhsan Alemli,"TMB
+TMB","Salı
+Perşembe","1330/1529
+1030/1229","---
+---",25,0,Yok/None,"BST, CAB, CEB, KMP",MTR 241 MIN CC,Yok/None
+23,21797,MTR 244,Müzik Teorisi IV,,Mehmet Özkan,"TMB
+TMB","Salı
+Çarşamba","0830/1029
+1330/1529","---
+---",25,0,Yok/None,"BST, CAB, CEB, KMP",MTR 243 MIN CC,Yok/None
+24,21800,MTR 302,İleri Makam Teorisi II,,Elif Ahıs,"TMB
+TMB","Perşembe
+Cuma","0830/1029
+1400/1559","---
+---",40,0,Yok/None,MTR,MTR 202 MIN CC,Yok/None
+25,21803,MTR 304,İleri Müzik Teorisi II,,Ufuk Biçak,"TMB
+TMB","Pazartesi
+Perşembe","1530/1729
+1330/1529","---
+---",30,0,Yok/None,MTR,MTR 204 MIN CC,Yok/None
+26,21804,MTR 306,Müzik Teorileri Tarihi IV,,Gülay Karamahmutoğlu,TMB,Salı,1030/1229,---,25,0,Yok/None,"MTR, MTRM",Yok/None,Yok/None
+27,21805,MTR 308,Teori Uygulama IV,,Gülay Karamahmutoğlu,TMB,Salı,1330/1529,---,25,0,Yok/None,"MTR, MTRM",Yok/None,Yok/None
+28,21806,MTR 310,Ses Sistemleri II,,Nurullah Kanık,TMB,Çarşamba,1330/1529,---,25,0,Yok/None,"MTR, MTRM",Yok/None,Yok/None
+29,21807,MTR 318,Müzikte Metin Çözümlemeleri II,,Kemal Hasan Karnal,TMB,Perşembe,1330/1529,---,25,0,Yok/None,SES,Yok/None,Yok/None
+30,21808,MTR 322,Müzikte Metin Çözümlemeleri II,,Kemal Hasan Karnal,TMB,Perşembe,1530/1729,---,25,0,Yok/None,MTR,Yok/None,Yok/None
+31,21809,MTR 402,İleri Makam Teorisi IV,,Nurullah Kanık,"TMB
+TMB","Salı
+Çarşamba","1030/1229
+1030/1229","---
+---",40,0,Yok/None,MTR,MTR 202 MIN CC,Yok/None
+32,21810,MTR 404,İleri Müzik Teorisi IV,,Ayşecan Olgun,"TMB
+TMB","Salı
+Cuma","1330/1529
+1400/1559","---
+---",25,0,Yok/None,MTR,MTR 204 MIN CC,Yok/None
+33,21811,MTR 406,Dikte ve Deşifre II,,Engin Şafak Gürler,TMB,Pazartesi,1530/1729,---,30,0,Yok/None,MTR,Yok/None,Yok/None
+34,21812,MTR 408,Eser Çözümleme II,,Neşe Yeşim Altınel Çoban,TMB,Çarşamba,0830/1029,---,25,0,Yok/None,MTR,Yok/None,Yok/None
+35,21813,MTR 432,Dikte Deşifre II,,Engin Şafak Gürler,TMB,Cuma,1400/1559,---,25,0,Yok/None,"CAB, CEB, SES, THO",Yok/None,Yok/None
+36,21815,MTR 434,Eser Çözümleme II,,Neşe Yeşim Altınel Çoban,TMB,Cuma,1400/1559,---,25,0,Yok/None,"CAB, CEB, SES",Yok/None,Yok/None
+37,21816,MTR 442,Dikte Deşifre II,,Seval Eroğlu,"TMB
+TMB","Çarşamba
+Cuma","1330/1529
+1600/1759","---
+---",30,0,Yok/None,SES,Yok/None,Yok/None
+38,21817,MTR 444,Eser Çözümleme II,,Neşe Yeşim Altınel Çoban,"TMB
+TMB","Çarşamba
+Cuma","1330/1529
+1600/1759","---
+---",25,0,Yok/None,SES,Yok/None,Yok/None
+39,21718,MTR 492,Bitirme Çalışması,,Eren Özek,TMB,----,/,---,100,0,Yok/None,MTR,Diğer Şartlar,4.Sınıf

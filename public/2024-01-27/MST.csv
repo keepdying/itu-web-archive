@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24714,MST 222,Marine Electronics,,Ali Sinan Çabuk,GDB,Salı,1230/1529,---,40,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE","PHY 106 MIN DD
+veya FIZ 102E MIN DD
+veya PHY 108 MIN DD",Yok/None
+1,23864,MST 272,Marit. Human Resources Manag.,,Leyla Tavacıoğlu,DZB,Pazartesi,1430/1629,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+2,24717,MST 302,Corros. & Foul. in Marine Env.,,Metin Taylan,GDB,Çarşamba,0830/1029,---,40,0,Yok/None,"GEMK, GMIK, MEN, NAE, NAEM",Yok/None,Yok/None
+3,23859,MST 402,Mar.Sec. & Quality Manag. Sys,,İsmail Kandemir,DZB,Cuma,1030/1229,---,60,0,Yok/None,"DUIK, GMIK, MEN, MENM, MTM, MTTM",Yok/None,Yok/None
+4,24726,MST 412,Ship Surveying Procedures,,--,GDB,Salı,1330/1529,---,-,-,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+5,23878,MST 412,Ship Surveying Procedures,,Fırat Bolat,DZB,Çarşamba,1030/1229,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+6,24718,MST 413,Shipyard Organization,,Erdem Üçer,GDB,Pazartesi,1030/1229,---,40,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+7,24725,MST 422,Maritime Law II,,Hasan Murat Demirkıran,GDB,Pazartesi,1530/1829,---,40,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+8,23862,MST 422,Maritime Law II,,Onur Sabri Durak,DZB,Salı,0830/1129,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+9,23856,MST 432,Commercial Ship Management,,Gizem Çevik,DZB,Çarşamba,0830/1029,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+10,23865,MST 441,Deck Machinery,,Ömer Berkehan İnal,DZB,Cuma,0830/1029,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,"4.Sınıf, 3.Sınıf"
+11,23877,MST 451,Marine Insurance,,Sinan Çakır,DZB,Salı,1330/1529,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+12,23851,MST 461,Terminal & Tanker Operations,,Tanzer Satır,DZB,Salı,1530/1729,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+13,23874,MST 462,Seafarer's Health and Safety,,Tuba Keçeci,DZB,Pazartesi,1230/1429,---,60,0,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None

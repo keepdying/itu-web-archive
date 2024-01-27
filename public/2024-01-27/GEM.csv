@@ -1,0 +1,85 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21272,GEM 102,Gemi Geometrisi,,Cihad Delen,GDB,Pazartesi,1330/1629,R409,40,0,Yok/None,GEM,Yok/None,Yok/None
+1,21273,GEM 102,Gemi Geometrisi,,Fuzuli Ağrı Akçay,GDB,Salı,1330/1629,R409,40,0,Yok/None,GEM,Yok/None,Yok/None
+2,21276,GEM 204,Termodinamik,,"Oğuz Salim Söğüt, Ahmet Ergün Palaz","GDB
+GDB","Çarşamba
+Perşembe","1030/1229
+1030/1229","D407
+D407",40,0,Yok/None,GEM,"(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)",Yok/None
+3,21278,GEM 204,Termodinamik,,Halil Saraçoğlu,"GDB
+GDB","Çarşamba
+Perşembe","1030/1229
+1030/1229","D406
+D406",40,0,Yok/None,GEM,"(KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)",Yok/None
+4,21280,GEM 205,Malzeme ve Imal Usulleri,,Gökhan Tansel Tayyar,"GDB
+GDB","Çarşamba
+Çarşamba","0930/1029
+1330/1529","410
+410",40,0,Yok/None,GEM,Yok/None,Yok/None
+5,21281,GEM 214E,Engineering Measurements,,Emin Korkut,GDB,Cuma,0930/1229,D406,40,0,Yok/None,"GEM, GEME",Yok/None,Yok/None
+6,24737,GEM 216E,Heat Transfer In Engineering,,Murat Durmaz,GDB,Salı,1330/1629,---,40,0,Yok/None,NAE,Yok/None,Yok/None
+7,21282,GEM 216E,Heat Transfer In Engineering,,Selma Ergin,GDB,Cuma,0930/1229,D407,40,0,Yok/None,"GEM, GEME",Yok/None,Yok/None
+8,21286,GEM 312,Gemi Yardımcı Makinaları,,Osman Azmi Özsoysal,GDB,Pazartesi,1030/1329,410,40,0,Yok/None,GEM,Yok/None,Yok/None
+9,21287,GEM 312,Gemi Yardımcı Makinaları,,Murat Emre Demir,GDB,Pazartesi,1030/1329,409,40,0,Yok/None,GEM,Yok/None,Yok/None
+10,21288,GEM 324,Gemi Mukavemeti,,Ertekin Bayraktarkatal,"GDB
+GDB","Pazartesi
+Çarşamba","0830/1029
+0830/1029","D401
+D401",60,0,Yok/None,GEM,"(GEM 325 MIN DD
+veya GEM 325E MIN DD)
+ve (MUK 204 MIN DD
+veya MUK 204E MIN DD)",Yok/None
+11,21289,GEM 326E,Ship Design,,Devrim Bülent Danışman,"GDB
+GDB","Salı
+Çarşamba","1130/1329
+1330/1529","D401
+D401",80,0,Yok/None,"GEM, GEME","(GEM 321 MIN DD
+veya GEM 321E MIN DD)
+ve (GEM 327E MIN DD
+veya GEM 341 MIN DD
+veya GEM 341E MIN DD)",Yok/None
+12,21290,GEM 328E,Ship Hydrodynamics(Propulsion),,Emin Korkut,GDB,Salı,0830/1129,D311,80,0,Yok/None,"GEM, GEME",GEM 327E MIN DD,Yok/None
+13,21291,GEM 332,Gemi Elektrik Sistemleri,,Yalçın Ünsan,GDB,Perşembe,1430/1629,D401,80,0,Yok/None,GEM,Yok/None,Yok/None
+14,21292,GEM 354,Gem.İnş.&Gem.San.İş Gv.&İşç.Sğ,,Barış Barlas,GDB,Pazartesi,1430/1629,409,80,0,Yok/None,GEM,Yok/None,Yok/None
+15,24062,GEM 409,Gemi Titreşimleri,,Ahmet Ergin,GDB,Salı,0830/1129,D309,40,0,Yok/None,GEM,"(MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya GEM 210E MIN DD)
+ve (GEM 201E MIN DD
+veya DNK 201E MIN DD)",Yok/None
+16,21293,GEM 410,Hesaplamalı Akışkanlar Mek.,,Uğur Oral Ünal,GDB,Cuma,1400/1659,D311,60,0,Yok/None,GEM,"BIL 100E MIN DD
+ve (AKM 204 MIN DD
+veya AKM 204E MIN DD)",Yok/None
+17,21252,GEM 412E,Shipyard Organization,,Erdem Üçer,GDB,Pazartesi,0830/1029,410,60,0,Yok/None,"DEN, DENE",Yok/None,Yok/None
+18,21294,GEM 412E,Shipyard Organization,,--,GDB,Cuma,0830/1029,---,0,0,Yok/None,"GEM, GEME",Yok/None,Yok/None
+19,21296,GEM 416,Savaş Gemileri Dizaynı,,Mehmet Ali Baykal,GDB,Cuma,1030/1229,D303,35,0,Yok/None,GEM,Yok/None,Yok/None
+20,21297,GEM 418E,Corrsn & Fouling In Marine Env,,Metin Taylan,GDB,Perşembe,0830/1029,D304,35,0,Yok/None,"GEM, GEME",Yok/None,Yok/None
+21,21295,GEM 422E,Ship Design Project II,,Erdem Üçer,GDB,Çarşamba,1030/1229,R403,10,0,Yok/None,GEME,"(GEM 411E MIN DD
+veya GEM 411 MIN DD
+veya GEM 4901 MIN DD
+veya GEM 4901E MIN DD)",Yok/None
+22,21298,GEM 426E,Hydrodynamic Design of Ships,,Devrim Bülent Danışman,GDB,Perşembe,0830/1029,D308,35,0,Yok/None,GEM,Yok/None,Yok/None
+23,24692,GEM 430E,Shipyard Organization,,Erdem Üçer,GDB,Cuma,0830/1029,D401,80,0,Yok/None,GEM,"GEM 205 MIN DD
+ve GEM 325 MIN DD",Yok/None
+24,21299,GEM 434,Gem Güç Üretim Sstm Isıl Opt.,,Oğuz Salim Söğüt,GDB,Perşembe,0830/1029,D407,35,0,Yok/None,GEM,"TER 201 MIN DD
+veya TER 201E MIN DD
+veya GEM 204 MIN DD",Yok/None
+25,21300,GEM 438E,Stability of Ships,,Metin Taylan,GDB,Cuma,1030/1229,D304,35,0,Yok/None,"GEM, GEME","GEM 321 MIN DD
+veya GEM 321E MIN DD",Yok/None
+26,21301,GEM 474,Deniz Araçları Sualtı Akustiği,,"Şakir Bal, Baha Zafer",GDB,Salı,1400/1559,D308,-,-,Yok/None,GEM,Yok/None,Yok/None
+27,21302,GEM 482,Bireysel Bitirme Projesi,,Selma Ergin,GDB,----,/,---,100,0,Yok/None,GEM,Yok/None,Yok/None
+28,21303,GEM 482E,Individual Graduation Project,,Selma Ergin,GDB,----,/,---,50,0,Yok/None,GEME,Yok/None,Yok/None
+29,22744,GEM 4902,Gemi İnş.&Gem.Mak. Müh.Tas.II,,"Gökhan Tansel Tayyar, Ahmet Ergin, Devrim Bülent Danışman, Emin Korkut, Ertekin Bayraktarkatal, Metin Taylan, Osman Azmi Özsoysal, Selma Ergin, Yalçın Ünsan, İsmail Yalçın, Şakir Bal","GDB
+GDB","Çarşamba
+Perşembe","1030/1329
+1030/1329","---
+---",80,0,Yok/None,GEM,"(GEM 4901 MIN BB
+veya GEM 4901E MIN BB)
+ve (GEM 322 MIN DD
+veya GEM 322E MIN DD)",Yok/None

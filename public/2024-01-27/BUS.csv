@@ -1,0 +1,12 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,20970,BUS 102,Business Law,,Çiçek Ersoy Kekevi,FEB,Salı,1330/1629,D101,35,0,Yok/None,SIS,Yok/None,Yok/None
+1,20971,BUS 112,Principles of Macroeconomics,,Ayşe Aylin Bayar,ISB,Perşembe,1330/1629,F237,35,0,Yok/None,SIS,Yok/None,Yok/None
+2,20973,BUS 202,Money & Banking,,Oktay Taş,KMB,Çarşamba,1230/1529,GZ103,10,0,Yok/None,SIS,Yok/None,Yok/None
+3,20974,BUS 207,Fundament.of Corporate Finance,,Cumhur Enis Ekinci,MED,Çarşamba,0830/1129,B33,35,0,Yok/None,SIS,BUS 201 MIN DD,Yok/None
+4,20975,BUS 209,Business Decision Support Sys.,,Tuncay Özcan,ISB,Pazartesi,1330/1629,F237,35,0,Yok/None,SIS,Yok/None,Yok/None
+5,20979,BUS 307,Turkish Business Context,,Kaya Tokmakçıoğlu,MED,Salı,0830/1129,B32,10,0,Yok/None,SIS,BUS 103 MIN DD,Yok/None
+6,20976,BUS 311,Marketing Research,,Elif Karaosmanoğlu,ISB,Pazartesi,0830/1129,F237,35,0,Yok/None,SIS,BUS 210 MIN DD,Yok/None
+7,20977,BUS 315,Employment Law,,Ulaş Baysal,MED,Cuma,1400/1659,B32,10,0,Yok/None,SIS,Yok/None,Yok/None
+8,20978,BUS 321,Business Process Management,,Hatice Camgöz Akdağ,FEB,Salı,1330/1629,L300,10,0,Yok/None,SIS,Yok/None,Yok/None
+9,20980,BUS 322,International Business,,İdil Vedia Evcimen,ISB,Perşembe,1330/1629,F235,10,0,Yok/None,SIS,BUS 103 MIN DD,Yok/None

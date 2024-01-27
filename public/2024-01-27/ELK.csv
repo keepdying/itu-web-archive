@@ -1,0 +1,247 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22350,ELK 221,Elektrik Mühen. Temelleri,,Fatma Gül Bağrıyanık,MED,Pazartesi,1230/1529,---,40,0,Yok/None,"CHZ, GID, IML, ISL, KMM, MAK, MET, TEK, UCK, UCKM, UZB",Yok/None,Yok/None
+1,22352,ELK 221,Elektrik Mühen. Temelleri,,Fatma Gül Bağrıyanık,MED,Çarşamba,0830/1129,---,40,0,Yok/None,"CHZ, GID, IML, ISL, KMM, MAK, MET, TEK, UCK, UCKM, UZB",Yok/None,Yok/None
+2,22348,ELK 221,Elektrik Mühen. Temelleri,,Ali Sinan Çabuk,MED,Cuma,0830/1129,---,40,0,Yok/None,"CHZ, GID, IML, ISL, KMM, MAK, MET, TEK, UCK, UCKM, UZB",Yok/None,Yok/None
+3,22356,ELK 221E,Fundamentals of Electric. Eng.,,Zehra Elif Batman,MED,Çarşamba,0830/1129,---,50,0,Yok/None,"CHZE, GIDE, IMLE, ISLE, KMME, MAKE, METE, PETE, TEKE, UCK, UCKE, UCKM, UZB, UZBE",Yok/None,Yok/None
+4,22354,ELK 221E,Fundamentals of Electric. Eng.,,Ali Sinan Çabuk,MED,Perşembe,1230/1529,---,50,0,Yok/None,"CHZE, GIDE, IMLE, ISLE, KMME, MAKE, METE, PETE, TEKE, UCK, UCKE, UCKM, UZB, UZBE",Yok/None,Yok/None
+5,22353,ELK 221E,Fundamentals of Electric. Eng.,,Kamil Karaçuha,MED,Cuma,0830/1129,---,50,0,Yok/None,"CHZE, GIDE, IMLE, ISLE, KMME, MAKE, METE, PETE, TEKE, UCK, UCKE, UCKM, UZB, UZBE",Yok/None,Yok/None
+6,22358,ELK 226,Elektrik-Elektronik Müh. Tem.,,Ali Sinan Çabuk,MKB,Salı,0830/1129,---,75,0,Yok/None,"IML, MAK","FIZ 102E MIN DD
+veya FIZ 102 MIN DD",Yok/None
+7,22357,ELK 226,Elektrik-Elektronik Müh. Tem.,,Cavit Fatih Küçüktezcan,MKB,Çarşamba,0830/1129,---,75,0,Yok/None,"IML, MAK","FIZ 102E MIN DD
+veya FIZ 102 MIN DD",Yok/None
+8,22360,ELK 226,Elektrik-Elektronik Müh. Tem.,,Murat İmeryüz,MKB,Cuma,0830/1129,---,75,0,Yok/None,"IML, MAK","FIZ 102E MIN DD
+veya FIZ 102 MIN DD",Yok/None
+9,22362,ELK 226E,Fund.of Electri.& Electro.Eng.,,Yusuf Yaşa,MKB,Çarşamba,0830/1129,---,75,0,Yok/None,"IML, IMLE, MAK, MAKE, MAKM","FIZ 102E MIN DD
+veya FIZ 102 MIN DD",Yok/None
+10,22363,ELK 234E,Thermodynamics &Hydrodynamics,,Ahmet Cansız,EEB,Perşembe,0830/1129,5303,40,0,Yok/None,"EHB, EHBE, ELK, ELKE",Yok/None,Yok/None
+11,22365,ELK 308E,Comp. Networks for Power Syst.,,Cavit Fatih Küçüktezcan,EEB,Pazartesi,0830/1129,5303,40,0,Yok/None,"ELK, ELKE",Yok/None,Yok/None
+12,22366,ELK 312,Yüksek Gerilim Tekniği,,Şükran Emel Önal,EEB,Perşembe,0830/1129,2104,50,0,Yok/None,ELK,Yok/None,Yok/None
+13,22368,ELK 312E,High Voltage Technique,,Suat İlhan,EEB,Perşembe,0830/1129,2102,50,0,Yok/None,ELKE,Yok/None,Yok/None
+14,22370,ELK 322,Enerji İletim Sistemleri,,***,EEB,Pazartesi,1230/1529,5307,35,0,Yok/None,ELK,"EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya ELE 232 MIN DD
+veya ELE 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD",Yok/None
+15,22371,ELK 322,Enerji İletim Sistemleri,,***,EEB,Pazartesi,1230/1529,5301,35,0,Yok/None,ELK,"EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya ELE 232 MIN DD
+veya ELE 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD",Yok/None
+16,22372,ELK 322E,Power Transmission Systems,,***,EEB,Pazartesi,1230/1529,5303,35,0,Yok/None,ELKE,"EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya ELE 232 MIN DD
+veya ELE 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD",Yok/None
+17,22373,ELK 322E,Power Transmission Systems,,***,EEB,Pazartesi,1230/1529,5305,35,0,Yok/None,ELKE,"EHB 232 MIN DD
+veya EHB 232E MIN DD
+veya ELE 232 MIN DD
+veya ELE 232E MIN DD
+veya EEF 232 MIN DD
+veya EEF 232E MIN DD",Yok/None
+18,22374,ELK 336E,Quantum Computation,,Deniz Türkpençe,EEB,Cuma,1400/1659,5302,30,0,Yok/None,"EHB, EHBE, ELK, ELKE, KOM, KOME",Yok/None,Yok/None
+19,22376,ELK 342,Güç Elektroniği Laboratuvarı,,Salih Barış Öztürk,EEB,Pazartesi,0930/1129,---,40,0,Yok/None,"ELK, KOM","ELK 331 MIN DD
+veya ELK 331E MIN DD",Yok/None
+20,22375,ELK 342,Güç Elektroniği Laboratuvarı,,Mehmet Onur Gülbahçe,EEB,Cuma,1500/1659,---,40,0,Yok/None,"ELK, KOM","ELK 331 MIN DD
+veya ELK 331E MIN DD",Yok/None
+21,22377,ELK 342E,Power Electronics Laboratory,,Ali Saffet Altay,EEB,Perşembe,0930/1129,---,40,0,Yok/None,"ELKE, KOME","ELK 331 MIN DD
+veya ELK 331E MIN DD",Yok/None
+22,22378,ELK 342E,Power Electronics Laboratory,,Mehmet Onur Gülbahçe,EEB,Cuma,0830/1029,---,40,0,Yok/None,"ELKE, KOME","ELK 331 MIN DD
+veya ELK 331E MIN DD",Yok/None
+23,22379,ELK 346E,Data Acquisition&Embed. Syst.,,Aydın Tarık Zengin,EEB,Cuma,0830/1129,5203,40,0,Yok/None,"ELK, ELKE",Yok/None,Yok/None
+24,22380,ELK 356,Elektrik Makinaları,,***,EEB,Çarşamba,0830/1129,5305,35,0,Yok/None,"ELK, KOM","ELK 343 MIN DD
+veya ELK 343E MIN DD
+veya ELK 214 MIN DD
+veya ELK 214E MIN DD",Yok/None
+25,22381,ELK 356,Elektrik Makinaları,,***,EEB,Çarşamba,0830/1129,5101,35,0,Yok/None,"ELK, KOM","ELK 343 MIN DD
+veya ELK 343E MIN DD
+veya ELK 214 MIN DD
+veya ELK 214E MIN DD",Yok/None
+26,22382,ELK 356E,Electrical Machines,,***,EEB,Çarşamba,0830/1129,5307,35,0,Yok/None,"ELK, KOM","ELK 343 MIN DD
+veya ELK 343E MIN DD
+veya ELK 214 MIN DD
+veya ELK 214E MIN DD",Yok/None
+27,22383,ELK 364E,Fund. of Super Conductivity,,Ahmet Cansız,EEB,Çarşamba,1230/1529,5303,40,0,Yok/None,"ELK, ELKE",Yok/None,Yok/None
+28,22384,ELK 414,Elk. Mak. Aşırı Zorlanmalar,,Güven Kömürgöz Kırış,EEB,Cuma,0830/1129,5301,40,0,Yok/None,ELK,"(ELK 341 MIN DD
+ve ELK 332 MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332E MIN DD)
+veya (ELK 341 MIN DD
+ve ELK 332E MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332 MIN DD)
+veya ELK 356 MIN DD
+veya ELK 356E MIN DD",Yok/None
+29,22385,ELK 418,Elektrik Enerjisi Dağıtımı,,***,EEB,Salı,0830/1129,5301,35,0,Yok/None,ELK,Yok/None,Yok/None
+30,22386,ELK 418,Elektrik Enerjisi Dağıtımı,,***,EEB,Salı,0830/1129,5303,35,0,Yok/None,ELK,Yok/None,Yok/None
+31,22387,ELK 418,Elektrik Enerjisi Dağıtımı,,***,EEB,Salı,0830/1129,5305,35,0,Yok/None,ELK,Yok/None,Yok/None
+32,22388,ELK 418E,Distribution of Electr. Energy,,***,EEB,Salı,0830/1129,5307,35,0,Yok/None,"ELK, ELKE",Yok/None,Yok/None
+33,22390,ELK 420,Elektrik Dağıtım Otomas. Lab.,,Fatma Gül Bağrıyanık,EEB,Salı,1230/1429,---,35,0,Yok/None,ELK,Yok/None,Yok/None
+34,22391,ELK 420,Elektrik Dağıtım Otomas. Lab.,,Fatma Gül Bağrıyanık,EEB,Salı,1430/1629,---,35,0,Yok/None,ELK,Yok/None,Yok/None
+35,22389,ELK 420,Elektrik Dağıtım Otomas. Lab.,,Zehra Elif Batman,EEB,Çarşamba,1230/1429,---,35,0,Yok/None,ELK,Yok/None,Yok/None
+36,22392,ELK 420E,Electr. Distrib. Autom. Lab.,,Zehra Elif Batman,EEB,Cuma,1430/1629,---,35,0,Yok/None,ELKE,Yok/None,Yok/None
+37,22393,ELK 428,Elektrikli ve Karma Taşıtlar,,Murat Yılmaz,EEB,Cuma,0830/1129,5303,40,0,Yok/None,ELK,Yok/None,Yok/None
+38,22395,ELK 428E,Electric and Hybrid Vehicles,,--,EEB,Çarşamba,0830/1129,---,-,-,Yok/None,ELKE,Yok/None,Yok/None
+39,22397,ELK 450,Sürekli Mık. Mot. Tek. ve Tas.,,Murat Yılmaz,EEB,Salı,1230/1529,5101,40,0,Yok/None,ELK,Yok/None,Yok/None
+40,22398,ELK 453E,Ind. Appl. of Power Electron.,,Salih Barış Öztürk,EEB,Perşembe,1230/1529,5305,40,0,Yok/None,"ELK, ELKE, KOM, KOME","ELK 331 MIN DD
+veya ELK 331E MIN DD",Yok/None
+41,22404,ELK 458,Elektrik Mühendisliği Projesi,,Mehmet Onur Gülbahçe,EEB,Çarşamba,0830/1129,5103,15,0,Yok/None,ELK,Yok/None,4.Sınıf
+42,22405,ELK 458E,Electrical Engineering Project,,Suat İlhan,EEB,Pazartesi,0830/1129,5305,15,0,Yok/None,ELKE,Yok/None,4.Sınıf
+43,22406,ELK 458E,Electrical Engineering Project,,Derya Ahmet Kocabaş,EEB,Pazartesi,0830/1129,5307,15,0,Yok/None,ELKE,Yok/None,4.Sınıf
+44,22407,ELK 458E,Electrical Engineering Project,,Lale Erdem Atılgan,EEB,Pazartesi,0830/1129,5201,15,0,Yok/None,ELKE,Yok/None,4.Sınıf
+45,22408,ELK 464,Elk. Tesislerinde Koruma Tek.,,Hatice Lale Zeynelgil,EEB,Çarşamba,1230/1529,5305,40,0,Yok/None,ELK,Yok/None,Yok/None
+46,22409,ELK 471,Mühendislik ve Proje Yönetimi,,Ömer Gül,EEB,Çarşamba,1230/1529,5307,40,0,Yok/None,ELK,Yok/None,Yok/None
+47,22410,ELK 472E,Renewable Energy Systems,,Deniz Yıldırım,EEB,Perşembe,1230/1529,5307,40,0,Yok/None,"ELK, ELKE","(ELK 331 MIN DD
+veya ELK 331E MIN DD)
+ve (ELK 356 MIN DD
+veya ELK 356E MIN DD
+veya ELK 341 MIN DD
+veya ELK 341E MIN DD)",Yok/None
+48,22411,ELK 474E,Power Syst. Contr. & Commun.,,"Ömer Usta, Cavit Fatih Küçüktezcan",EEB,Cuma,0830/1129,5102,40,0,Yok/None,"ELK, ELKE",Yok/None,"4.Sınıf, 3.Sınıf"
+49,22412,ELK 488,Elektrikli Sürücü Sistemleri,,--,EEB,Perşembe,0830/1129,---,-,-,Yok/None,ELK,"(ELK 341 MIN DD
+ve ELK 332 MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332E MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332 MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332 MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 341 MIN DD
+ve ELK 332E MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332E MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 341 MIN DD
+ve ELK 332 MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 341 MIN DD
+ve ELK 332E MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 356 MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 356E MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 356 MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 356E MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 331 MIN DD
+ve KON 417 MIN DD)
+veya (ELK 331E MIN DD
+ve KON 417 MIN DD)
+veya (ELK 331 MIN DD
+ve KON 417E MIN DD)
+veya (ELK 331E MIN DD
+ve KON 417E MIN DD)",Yok/None
+50,22413,ELK 488E,Electric Drive Systems,,Derya Ahmet Kocabaş,EEB,Perşembe,0830/1129,5305,40,0,Yok/None,"ELK, KOME","(ELK 341 MIN DD
+ve ELK 332 MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332E MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332 MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332 MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 341E MIN DD
+ve ELK 332E MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 341 MIN DD
+ve ELK 332E MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 341 MIN DD
+ve ELK 332 MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 341 MIN DD
+ve ELK 332E MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 356 MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 356E MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 356 MIN DD
+ve ELK 331E MIN DD)
+veya (ELK 356E MIN DD
+ve ELK 331 MIN DD)
+veya (ELK 331 MIN DD
+ve KON 417 MIN DD)
+veya (ELK 331E MIN DD
+ve KON 417 MIN DD)
+veya (ELK 331 MIN DD
+ve KON 417E MIN DD)
+veya (ELK 331E MIN DD
+ve KON 417E MIN DD)",Yok/None
+51,22414,ELK 4901,Elektrik Müh. Tasarımı I,,Belgin Türkay,EEB,----,/,---,500,0,Yok/None,ELK,"(ELK 312 MIN DD
+veya ELK 312E MIN DD
+veya ELK 331 MIN DD
+veya ELK 331E MIN DD)
+ve (ELK 322 MIN DD
+veya ELK 322E MIN DD
+veya ELK 343 MIN DD
+veya ELK 343E MIN DD)
+ve (ELK 371 MIN DD
+veya ELK 371E MIN DD
+veya ELK 356 MIN DD
+veya ELK 356E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (EEF 210 MIN DD
+veya EEF 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+52,22415,ELK 4901E,Electrical Eng. Design I,,Belgin Türkay,EEB,----,/,---,500,0,Yok/None,"ELK, ELKE","(ELK 312 MIN DD
+veya ELK 312E MIN DD
+veya ELK 331 MIN DD
+veya ELK 331E MIN DD)
+ve (ELK 322 MIN DD
+veya ELK 322E MIN DD
+veya ELK 343 MIN DD
+veya ELK 343E MIN DD)
+ve (ELK 371 MIN DD
+veya ELK 371E MIN DD
+veya ELK 356 MIN DD
+veya ELK 356E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (EEF 210 MIN DD
+veya EEF 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+53,22416,ELK 4902,Elektrik Müh. Tasarımı II,,Belgin Türkay,EEB,----,/,---,500,0,Yok/None,ELK,"ELK 4901 MIN BB
+veya ELK 4901E MIN BB",Yok/None
+54,22417,ELK 4902E,Electrical Eng. Design II,,Belgin Türkay,EEB,----,/,---,500,0,Yok/None,"ELK, ELKE","ELK 4901 MIN BB
+veya ELK 4901E MIN BB",Yok/None
+55,22418,ELK 492,Bitirme Tasarım Projesi,,Belgin Türkay,EEB,----,/,---,50,0,Yok/None,ELK,Diğer Şartlar,4.Sınıf
+56,22419,ELK 492E,Graduation Design Project,,Belgin Türkay,EEB,----,/,---,50,0,Yok/None,"ELK, ELKE",Diğer Şartlar,4.Sınıf
+57,22420,ELK 493E,Lighting Tech.&Photometry Lab.,,Lale Erdem Atılgan,EEB,Salı,1230/1529,5301,20,0,Yok/None,"ELK, ELKE",Yok/None,Yok/None
+58,22421,ELK 496E,Power Syst. Dyn. & Stability,,Veysel Murat İstemihan Genç,EEB,Çarşamba,1230/1529,5301,40,0,Yok/None,"ELK, ELKE",Yok/None,Yok/None

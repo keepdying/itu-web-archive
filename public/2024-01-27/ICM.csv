@@ -1,0 +1,408 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23072,ICM 104,İç Mimarlıkta Tarih ve Kuram I,,Deniz Çalışır Pençe,MMB,Salı,1330/1629,---,100,0,Yok/None,ICM,Yok/None,Yok/None
+1,23073,ICM 205,İç Mimarlıkta Tarih &Kuram III,,Deniz Çalışır Pençe,MMB,Salı,0830/1129,---,100,0,Yok/None,ICM,"ICM 104 MIN DD
+veya ICM 126 MIN DD
+veya ICM 126E MIN DD",Yok/None
+2,23074,ICM 206E,Surv andRepr.Tch.in Intr.Arch.,,Orkan Zeynel Güzelci,MMB,Cuma,0830/1229,---,100,0,Yok/None,"IAD, ICM",Yok/None,Yok/None
+3,23119,ICM 209E,Inter.Arch.Design Fund.Studio,,Ervin Garip,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",5,0,Yok/None,"IAD, ICM","TES 121 MIN DD
+veya TES 121E MIN DD
+veya EUT 124E MIN DD
+veya SBP 112 MIN DD
+veya SBP 112E MIN DD
+veya MIM 112 MIN DD
+veya MIM 112E MIN DD
+veya MIM 116 MIN DD
+veya MIM 116E MIN DD",Yok/None
+4,23104,ICM 246E,Interior Arch. Design Studio I,,Emine Görgül,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",15,0,Yok/None,"IAD, ICM","TES 211E MIN DD
+veya TES 211 MIN DD
+veya MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya ICM 211 MIN DD
+veya ICM 211E MIN DD
+veya ICM 209E MIN DD",Yok/None
+5,23105,ICM 246E,Interior Arch. Design Studio I,,Özge Cordan,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",15,0,Yok/None,"IAD, ICM","TES 211E MIN DD
+veya TES 211 MIN DD
+veya MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya ICM 211 MIN DD
+veya ICM 211E MIN DD
+veya ICM 209E MIN DD",Yok/None
+6,23106,ICM 246E,Interior Arch. Design Studio I,,Demet Arslan Dinçay,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",15,0,Yok/None,"IAD, ICM","TES 211E MIN DD
+veya TES 211 MIN DD
+veya MIM 211 MIN DD
+veya MIM 211E MIN DD
+veya ICM 211 MIN DD
+veya ICM 211E MIN DD
+veya ICM 209E MIN DD",Yok/None
+7,23096,ICM 346,Yapı Malzemesi II,,Mehmet Serkan Yatağan,MMB,Çarşamba,0830/1229,---,80,0,Yok/None,ICM,"ICM 231 MIN DD
+veya ICM 231E MIN DD",Yok/None
+8,23107,ICM 349E,Interior Arch.Design Studio II,,Emine Görgül,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",2,0,Yok/None,"IAD, ICM","(ICM 244 MIN DD
+veya ICM 244E MIN DD
+veya ICM 212 MIN DD
+veya ICM 212E MIN DD
+veya ICM 246 MIN DD
+veya ICM 246E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD)",Yok/None
+9,23117,ICM 349E,Interior Arch.Design Studio II,,Özge Cordan,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",2,0,Yok/None,"IAD, ICM","(ICM 244 MIN DD
+veya ICM 244E MIN DD
+veya ICM 212 MIN DD
+veya ICM 212E MIN DD
+veya ICM 246 MIN DD
+veya ICM 246E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD)",Yok/None
+10,23118,ICM 349E,Interior Arch.Design Studio II,,Demet Arslan Dinçay,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",2,0,Yok/None,"IAD, ICM","(ICM 244 MIN DD
+veya ICM 244E MIN DD
+veya ICM 212 MIN DD
+veya ICM 212E MIN DD
+veya ICM 246 MIN DD
+veya ICM 246E MIN DD)
+ve (TES 113 MIN DD
+veya TES 113E MIN DD)
+ve (TES 122 MIN DD
+veya TES 122E MIN DD)",Yok/None
+11,23120,ICM 366E,Interior Arch.Desgn Studio III,,Ervin Garip,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",15,0,Yok/None,ICM,"ICM 343 MIN DD
+veya ICM 343E MIN DD
+veya ICM 311 MIN DD
+veya ICM 311E MIN DD
+veya ICM 349 MIN DD
+veya ICM 349E MIN DD",Yok/None
+12,23121,ICM 366E,Interior Arch.Desgn Studio III,,Seniye Banu Garip,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",15,0,Yok/None,ICM,"ICM 343 MIN DD
+veya ICM 343E MIN DD
+veya ICM 311 MIN DD
+veya ICM 311E MIN DD
+veya ICM 349 MIN DD
+veya ICM 349E MIN DD",Yok/None
+13,23122,ICM 366E,Interior Arch.Desgn Studio III,,Orkan Zeynel Güzelci,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",15,0,Yok/None,ICM,"ICM 343 MIN DD
+veya ICM 343E MIN DD
+veya ICM 311 MIN DD
+veya ICM 311E MIN DD
+veya ICM 349 MIN DD
+veya ICM 349E MIN DD",Yok/None
+14,24267,ICM 366E,Interior Arch.Desgn Studio III,,Shahryar Habibi,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",15,0,Yok/None,ICM,"ICM 343 MIN DD
+veya ICM 343E MIN DD
+veya ICM 311 MIN DD
+veya ICM 311E MIN DD
+veya ICM 349 MIN DD
+veya ICM 349E MIN DD",Yok/None
+15,23077,ICM 368E,Dsgn Prins of Intr. Fins. Sys,,Mehmet Serkan Yatağan,MMB,Perşembe,0830/1329,---,100,0,Yok/None,"ICM, ICMM",Yok/None,Yok/None
+16,23076,ICM 374,Meslek Pratiği,,Gülfer Oraz,MMB,Salı,0830/1229,---,100,0,Yok/None,ICM,Yok/None,Yok/None
+17,23102,ICM 4014,İç Mimarlıkta Tekstil,,Belgin Görgün,MMB,Cuma,1030/1229,---,20,0,Yok/None,ICM,Yok/None,Yok/None
+18,23103,ICM 4029E,Interior Space in Cinema,,Demet Arslan Dinçay,MMB,Çarşamba,1030/1229,---,20,0,Yok/None,"IAD, ICM",Yok/None,Yok/None
+19,23101,ICM 4032,Mimari Üsluplar,,Deniz Çalışır Pençe,MMB,Cuma,1030/1229,---,20,0,Yok/None,ICM,Yok/None,Yok/None
+20,23100,ICM 4041E,Urban Interiors,,Ahmet Erdem Tozoğlu,MMB,Salı,1330/1529,---,20,0,Yok/None,"IAD, ICM",Yok/None,Yok/None
+21,23075,ICM 408E,Comm Design In Interior Arch.,,Seniye Banu Garip,MMB,Pazartesi,1030/1229,---,100,0,Yok/None,"IAD, ICM",Yok/None,Yok/None
+22,23123,ICM 449E,Interior Arch.Desgn Studio IV,,Seniye Banu Garip,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",2,0,Yok/None,ICM,"ICM 344E MIN DD
+veya ICM 312E MIN DD
+veya ICM 312 MIN DD
+veya ICM 366E MIN DD",Yok/None
+23,23125,ICM 449E,Interior Arch.Desgn Studio IV,,Orkan Zeynel Güzelci,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",2,0,Yok/None,ICM,"ICM 344E MIN DD
+veya ICM 312E MIN DD
+veya ICM 312 MIN DD
+veya ICM 366E MIN DD",Yok/None
+24,24266,ICM 449E,Interior Arch.Desgn Studio IV,,Shahryar Habibi,"MMB
+MMB","Pazartesi
+Perşembe","1330/1729
+1330/1729","---
+---",2,0,Yok/None,ICM,"ICM 344E MIN DD
+veya ICM 312E MIN DD
+veya ICM 312 MIN DD
+veya ICM 366E MIN DD",Yok/None
+25,23128,ICM 4902,Diploma Projesi,,"Özge Cordan, Ahmet Erdem Tozoğlu",---,----,/,---,500,0,Yok/None,ICM,"(ICM 119 MIN DD
+veya ICM 119E MIN DD)
+ve (ICM 126 MIN DD
+veya ICM 126E MIN DD
+veya ICM 104 MIN DD)
+ve (MIM 125 MIN DD
+veya MIM 125E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (ICM 206 MIN DD
+veya ICM 206E MIN DD)
+ve (ICM 224 MIN DD
+veya ICM 224E MIN DD
+veya ICM 205 MIN DD)
+ve (ICM 227 MIN DD
+veya ICM 227E MIN DD
+veya ICM 204 MIN DD)
+ve (ICM 233 MIN DD
+veya ICM 233E MIN DD)
+ve (MIM 203 MIN DD
+veya MIM 203E MIN DD)
+ve (MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443 MIN DD
+veya ICM 443E MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD)",Yok/None
+26,23129,ICM 4902,Diploma Projesi,,Emine Görgül,---,----,/,---,500,0,Yok/None,ICM,"(ICM 119 MIN DD
+veya ICM 119E MIN DD)
+ve (ICM 126 MIN DD
+veya ICM 126E MIN DD
+veya ICM 104 MIN DD)
+ve (MIM 125 MIN DD
+veya MIM 125E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (ICM 206 MIN DD
+veya ICM 206E MIN DD)
+ve (ICM 224 MIN DD
+veya ICM 224E MIN DD
+veya ICM 205 MIN DD)
+ve (ICM 227 MIN DD
+veya ICM 227E MIN DD
+veya ICM 204 MIN DD)
+ve (ICM 233 MIN DD
+veya ICM 233E MIN DD)
+ve (MIM 203 MIN DD
+veya MIM 203E MIN DD)
+ve (MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443 MIN DD
+veya ICM 443E MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD)",Yok/None
+27,23132,ICM 4902,Diploma Projesi,,"Ethem Gürer, Ahmet Gün",---,----,/,---,500,0,Yok/None,ICM,"(ICM 119 MIN DD
+veya ICM 119E MIN DD)
+ve (ICM 126 MIN DD
+veya ICM 126E MIN DD
+veya ICM 104 MIN DD)
+ve (MIM 125 MIN DD
+veya MIM 125E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (ICM 206 MIN DD
+veya ICM 206E MIN DD)
+ve (ICM 224 MIN DD
+veya ICM 224E MIN DD
+veya ICM 205 MIN DD)
+ve (ICM 227 MIN DD
+veya ICM 227E MIN DD
+veya ICM 204 MIN DD)
+ve (ICM 233 MIN DD
+veya ICM 233E MIN DD)
+ve (MIM 203 MIN DD
+veya MIM 203E MIN DD)
+ve (MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443 MIN DD
+veya ICM 443E MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD)",Yok/None
+28,23135,ICM 4902E,Graduation Project,,"Özge Cordan, Ahmet Erdem Tozoğlu",---,----,/,---,500,0,Yok/None,ICM,"(ICM 119 MIN DD
+veya ICM 119E MIN DD)
+ve (ICM 126 MIN DD
+veya ICM 126E MIN DD
+veya ICM 104 MIN DD)
+ve (MIM 125 MIN DD
+veya MIM 125E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (ICM 206 MIN DD
+veya ICM 206E MIN DD)
+ve (ICM 224 MIN DD
+veya ICM 224E MIN DD
+veya ICM 205 MIN DD)
+ve (ICM 227 MIN DD
+veya ICM 227E MIN DD
+veya ICM 204 MIN DD)
+ve (ICM 233 MIN DD
+veya ICM 233E MIN DD)
+ve (MIM 203 MIN DD
+veya MIM 203E MIN DD)
+ve (MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443 MIN DD
+veya ICM 443E MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD)",Yok/None
+29,23137,ICM 4902E,Graduation Project,,Emine Görgül,---,----,/,---,500,0,Yok/None,ICM,"(ICM 119 MIN DD
+veya ICM 119E MIN DD)
+ve (ICM 126 MIN DD
+veya ICM 126E MIN DD
+veya ICM 104 MIN DD)
+ve (MIM 125 MIN DD
+veya MIM 125E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (ICM 206 MIN DD
+veya ICM 206E MIN DD)
+ve (ICM 224 MIN DD
+veya ICM 224E MIN DD
+veya ICM 205 MIN DD)
+ve (ICM 227 MIN DD
+veya ICM 227E MIN DD
+veya ICM 204 MIN DD)
+ve (ICM 233 MIN DD
+veya ICM 233E MIN DD)
+ve (MIM 203 MIN DD
+veya MIM 203E MIN DD)
+ve (MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443 MIN DD
+veya ICM 443E MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD)",Yok/None
+30,23148,ICM 4902E,Graduation Project,,"Ethem Gürer, Ahmet Gün",---,----,/,---,500,0,Yok/None,ICM,"(ICM 119 MIN DD
+veya ICM 119E MIN DD)
+ve (ICM 126 MIN DD
+veya ICM 126E MIN DD
+veya ICM 104 MIN DD)
+ve (MIM 125 MIN DD
+veya MIM 125E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (MIM 126 MIN DD
+veya MIM 126E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (ICM 206 MIN DD
+veya ICM 206E MIN DD)
+ve (ICM 224 MIN DD
+veya ICM 224E MIN DD
+veya ICM 205 MIN DD)
+ve (ICM 227 MIN DD
+veya ICM 227E MIN DD
+veya ICM 204 MIN DD)
+ve (ICM 233 MIN DD
+veya ICM 233E MIN DD)
+ve (MIM 203 MIN DD
+veya MIM 203E MIN DD)
+ve (MIM 246 MIN DD
+veya MIM 246E MIN DD)
+ve (ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443 MIN DD
+veya ICM 443E MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD)",Yok/None
+31,23151,ICM 492,Bitirme Çalışması,,"Özge Cordan, Ahmet Erdem Tozoğlu",---,----,/,---,5,0,Yok/None,ICM,"ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443E MIN DD
+veya ICM 443 MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD
+Diğer Şartlar",4.Sınıf
+32,23153,ICM 492,Bitirme Çalışması,,Emine Görgül,---,----,/,---,5,0,Yok/None,ICM,"ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443E MIN DD
+veya ICM 443 MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD
+Diğer Şartlar",4.Sınıf
+33,23156,ICM 492,Bitirme Çalışması,,"Ethem Gürer, Ahmet Gün",---,----,/,---,5,0,Yok/None,ICM,"ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443E MIN DD
+veya ICM 443 MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD
+Diğer Şartlar",4.Sınıf
+34,23160,ICM 492E,Graduation Project,,"Özge Cordan, Ahmet Erdem Tozoğlu",---,----,/,---,5,0,Yok/None,ICM,"ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443E MIN DD
+veya ICM 443 MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD
+Diğer Şartlar",4.Sınıf
+35,23162,ICM 492E,Graduation Project,,Emine Görgül,---,----,/,---,5,0,Yok/None,ICM,"ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443E MIN DD
+veya ICM 443 MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD
+Diğer Şartlar",4.Sınıf
+36,23165,ICM 492E,Graduation Project,,"Ethem Gürer, Ahmet Gün",---,----,/,---,5,0,Yok/None,ICM,"ICM 411 MIN DD
+veya ICM 411E MIN DD
+veya ICM 443E MIN DD
+veya ICM 443 MIN DD
+veya ICM 449 MIN DD
+veya ICM 449E MIN DD
+Diğer Şartlar",4.Sınıf

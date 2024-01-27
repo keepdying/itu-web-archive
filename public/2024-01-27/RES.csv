@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24227,RES 102,Bilg. Destekli Teknik Resim,,***,DZB,Salı,0830/1229,---,40,0,Yok/None,DUI,Yok/None,Yok/None
+1,24226,RES 102,Bilg. Destekli Teknik Resim,,***,DZB,Perşembe,1130/1529,---,40,0,Yok/None,DUI,Yok/None,Yok/None
+2,23620,RES 102E,Com.Aided Technical Drawing,,***,DZB,Salı,1330/1729,---,60,0,Yok/None,"MEN, MTM",Yok/None,Yok/None
+3,23178,RES 107E,Technical Drawing,,***,KMB,Perşembe,0830/1129,BIL.LAB1,45,0,Yok/None,"MET, METE",Yok/None,Yok/None
+4,23179,RES 107E,Technical Drawing,,***,KMB,Perşembe,1330/1629,BIL.LAB1,45,0,Yok/None,"MET, METE",Yok/None,Yok/None
+5,23181,RES 107E,Technical Drawing,,***,KMB,Cuma,1400/1659,BIL.LAB1,45,0,Yok/None,"MET, METE",Yok/None,Yok/None
+6,21676,RES 111E,Technical Drawing (CAD),,***,MDB,Perşembe,1330/1629,B207,50,0,Yok/None,"CHZ, CHZE",Yok/None,Yok/None

@@ -1,0 +1,66 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23815,DNK 201,Dinamik,,***,EEB,Salı,1230/1529,2104,60,0,Yok/None,"EHB, ELE, ELH, ELK, KOM, KON, TEL","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD
+veya FIZ 111E MIN DD
+veya FIZ 113 MIN DD
+veya FIZ 113E MIN DD
+veya GMI 103 MIN DD
+veya GUV 103 MIN DD)
+ve (MAT 101 MIN DD
+veya MAT 101E MIN DD
+veya MAT 103 MIN DD
+veya MAT 103E MIN DD
+veya GMI 099 MIN DD
+veya GUV 099 MIN DD
+veya MAT 111 MIN DD
+veya MAT 111E MIN DD)",Yok/None
+1,22058,DNK 201,Dinamik,,***,INB,Salı,1330/1629,A105,50,0,Yok/None,INS,"(FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD
+veya FIZ 111E MIN DD
+veya FIZ 113 MIN DD
+veya FIZ 113E MIN DD
+veya GMI 103 MIN DD
+veya GUV 103 MIN DD)
+ve (MAT 101 MIN DD
+veya MAT 101E MIN DD
+veya MAT 103 MIN DD
+veya MAT 103E MIN DD
+veya GMI 099 MIN DD
+veya GUV 099 MIN DD
+veya MAT 111 MIN DD
+veya MAT 111E MIN DD)",Yok/None
+2,22059,DNK 201E,Dynamics,,***,INB,Pazartesi,1330/1629,D202,50,0,Yok/None,"INS, INSE","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD
+veya FIZ 111E MIN DD
+veya FIZ 113 MIN DD
+veya FIZ 113E MIN DD
+veya GMI 103 MIN DD
+veya GUV 103 MIN DD)
+ve (MAT 101 MIN DD
+veya MAT 101E MIN DD
+veya MAT 103 MIN DD
+veya MAT 103E MIN DD
+veya GMI 099 MIN DD
+veya GUV 099 MIN DD
+veya MAT 111 MIN DD
+veya MAT 111E MIN DD)",Yok/None
+3,23816,DNK 201E,Dynamics,,***,EEB,Cuma,1400/1659,2102,60,0,Yok/None,"EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, TEL","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD
+veya FIZ 111 MIN DD
+veya FIZ 111E MIN DD
+veya FIZ 113 MIN DD
+veya FIZ 113E MIN DD
+veya GMI 103 MIN DD
+veya GUV 103 MIN DD)
+ve (MAT 101 MIN DD
+veya MAT 101E MIN DD
+veya MAT 103 MIN DD
+veya MAT 103E MIN DD
+veya GMI 099 MIN DD
+veya GUV 099 MIN DD
+veya MAT 111 MIN DD
+veya MAT 111E MIN DD)",Yok/None

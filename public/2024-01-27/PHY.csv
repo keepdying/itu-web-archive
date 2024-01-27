@@ -1,0 +1,6 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24491,PHY 124,Physics II,,Mehmet Kerim Ramazanoğlu,EEB,Perşembe,1330/1629,1303,30,0,Yok/None,"EHN, SEH",Yok/None,Yok/None
+1,24492,PHY 124L,Physics II Lab,,Mehmet Kerim Ramazanoğlu,EEB,Çarşamba,1130/1329,1301,30,0,Yok/None,"EHN, SEH",Yok/None,Yok/None
+2,22775,PHY 126,Physics II,,Mehmet Özkan,FEB,Salı,1430/1729,---,40,0,Yok/None,"MBI, SBL, SED, SEN, SGI, SIN",Yok/None,Yok/None
+3,22776,PHY 126L,Physics II Laboratory,,Mehmet Özkan,FEB,Çarşamba,0930/1129,---,40,0,Yok/None,"MBI, SBL, SED, SEN, SGI, SGM, SIN",Yok/None,Yok/None

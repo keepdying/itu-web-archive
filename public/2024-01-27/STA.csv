@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21238,STA 201,Statik,,***,GDB,Perşembe,0930/1229,410,80,0,Yok/None,DEN,Yok/None,Yok/None
+1,22811,STA 201E,Statics,,***,UUB,Cuma,1430/1729,D216,60,0,Yok/None,"UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+2,22812,STA 201E,Statics,,***,UUB,Cuma,1430/1729,D-Z08,60,0,Yok/None,"UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+3,22860,STA 204,Statik ve Mukavemet,,***,UUB,Çarşamba,1130/1429,D-Z08,70,0,Yok/None,MTO,Yok/None,Yok/None
+4,24244,STA 204,Statik ve Mukavemet,,***,MDB,Perşembe,0830/1129,A202,70,0,Yok/None,CHZ,Yok/None,Yok/None
+5,24547,STA 204E,Statics&Strength of Materials,,***,INB,Perşembe,1430/1729,B205,50,0,Yok/None,"ISL, ISLE",Yok/None,Yok/None
