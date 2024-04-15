@@ -1,0 +1,21 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23247,BEN 312,Enzymology,,Nevin Gül Karagüler,MOBGAM,Perşembe,1330/1629,---,25,10,Yok/None,MBI,Yok/None,Yok/None
+1,23249,BEN 322,Exper.Desg.&Modell.in Bioeng.,,--,"KMB
+KMB","Perşembe
+Perşembe","1330/1529
+1530/1729","---
+---",0,0,Yok/None,MBI,Yok/None,Yok/None
+2,23250,BEN 324,Bioengineering Lab. I,,"Melek Mümine Erol Taygun, Serdar Yaman","KMB
+KMB
+KMB","Cuma
+Cuma
+Cuma","0900/0959
+1000/1159
+1400/1659","BIO.LAB
+D301
+BIO.LAB",25,9,Yok/None,MBI,Yok/None,Yok/None
+3,23252,BEN 326,Genetics,,Zeynep Petek Çakar,MOBGAM,Pazartesi,1330/1629,---,25,10,Yok/None,MBI,BIO 101 MIN DD,Yok/None
+4,23253,BEN 332,Environmental Biotechnology,,--,INB,Perşembe,0930/1229,---,0,0,Yok/None,MBI,Yok/None,Yok/None
+5,23254,BEN 341,Biomaterials,,İpek Akın Karadayı,KMB,Çarşamba,0830/1129,D304,25,10,Yok/None,MBI,Yok/None,Yok/None
+6,23256,BEN 351,Bioengineering Thermodynamics,,"Melek Mümine Erol Taygun, Nil Özbek",KMB,Salı,0930/1229,D106,25,9,Yok/None,MBI,Yok/None,Yok/None

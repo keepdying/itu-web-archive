@@ -1,0 +1,61 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21306,YZV 102E,Int.toPrg.forDataSci.(Python),Çevrimiçi/Online,Sefer Baday,----,"Perşembe
+Perşembe","0930/1229
+1330/1529",----,5,2,Yok/None,YZVE,Yok/None,Yok/None
+1,21307,YZV 104E,Int.toPrg.forDataSci.(Python),Çevrimiçi/Online,Ahmet Cüneyd Tantuğ,----,"Perşembe
+Perşembe","0930/1229
+1330/1529",----,80,78,Yok/None,YZVE,Yok/None,Yok/None
+2,21309,YZV 202E,Optimization for Data Science,,Faik Boray Tek,KMB,Salı,1330/1629,D105,70,54,Yok/None,YZVE,"(MAT 281 MIN DD
+veya MAT 281E MIN DD)
+ve (YZV 104E MIN DD
+veya YZV 102E MIN DD)",Yok/None
+3,25056,YZV 212E,Fund.ofArtificial Intelligence,,Sanem Sarıel,EEB,Perşembe,1030/1329,6307,50,37,Yok/None,YZVE,"YZV 201E MIN DD
+ve (BLG 112 MIN DD
+veya BLG 112E MIN DD)
+ve (MAT 281 MIN DD
+veya MAT 281E MIN DD)",Yok/None
+4,21310,YZV 212E,Fund.ofArtificial Intelligence,,--,INB,Perşembe,1230/1529,---,0,0,Yok/None,YZVE,"YZV 201E MIN DD
+ve (MAT 281 MIN DD
+veya MAT 281E MIN DD)",Yok/None
+5,24990,YZV 231E,Prob.& Stat. for Data Science,,Murat Okatan,"EEB
+EEB","Pazartesi
+Cuma","1130/1229
+1400/1659","5101
+5101",40,29,Yok/None,YZVE,Yok/None,Yok/None
+6,25058,YZV 321E,Fund.ofArtificial Intelligence,,Faik Boray Tek,GDB,Perşembe,1030/1329,D401,10,3,Yok/None,YZVE,"YZV 201E MIN DD
+ve (BLG 112 MIN DD
+veya BLG 112E MIN DD)
+ve (MAT 281 MIN DD
+veya MAT 281E MIN DD)",Yok/None
+7,21312,YZV 321E,Fund.ofArtificial Intelligence,,--,---,Perşembe,1230/1529,---,0,0,Yok/None,YZVE,"YZV 201E MIN DD
+ve (BLG 112 MIN DD
+veya BLG 112E MIN DD)
+ve (MAT 281 MIN DD
+veya MAT 281E MIN DD)",Yok/None
+8,21311,YZV 322E,Applied Data Engineering,,Cihan Topal,EEB,Pazartesi,1230/1629,6307,65,60,Yok/None,YZVE,YZV 211E MIN DD,Yok/None
+9,21315,YZV 405E,Natural Language Processing,,Gülşen Eryiğit,EEB,Çarşamba,0830/1129,6307,50,35,Yok/None,YZVE,"YZV 302E MIN DD
+veya YZV 303E MIN DD",Yok/None
+10,21314,YZV 415E,Deep Reinforcement Learning,,Nazım Kemal Üre,EEB,Perşembe,0830/1129,5205,40,23,Yok/None,YZVE,"YZV 302E MIN DD
+veya YZV 303E MIN DD",Yok/None
+11,21316,YZV 416E,Computer Vision,,Cihan Topal,EEB,Perşembe,1330/1629,1301,50,39,Yok/None,YZVE,"(MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya YZV 231E MIN DD)
+ve BLG 202E MIN DD",Yok/None
+12,21319,YZV 425E,Art of Eng. for Inf.Syst.,,"Aynur Karakaş Karaağaç, Oğuz Haşlakoğlu, Yüksel Demir",EEB,Salı,0930/1229,5201,20,7,Yok/None,YZVE,Yok/None,Yok/None
+13,24648,YZV 447E,Cognitive Neuroscience,Çevrimiçi/Online,Didem Gökçay,----,"Pazartesi
+Cuma","1630/1829
+1630/1829",----,25,11,Yok/None,"BLGE, YZVE","YZV 104E MIN DD
+veya BLG 102E MIN DD
+veya YZV 102E MIN DD",Yok/None
+14,21317,YZV 4901E,AI &Data Engineering Design I,,Faik Boray Tek,EEB,----,/,---,40,4,Yok/None,YZVE,"(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD",4.Sınıf
+15,21318,YZV 4902E,AI& Data Engineering Design II,,Ahmet Cüneyd Tantuğ,---,----,/,---,40,6,Yok/None,YZVE,YZV 4901E MIN DD,Yok/None

@@ -1,0 +1,23 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,22096,CIE 308,Engineering Statistics,,Kemal Selçuk Öğüt,"INB
+INB","Salı
+Çarşamba","1530/1729
+1030/1129","ULAŞTIRM_A
+ULAŞTIRM_A",40,2,Yok/None,SIN,MTH 108 MIN DD,Yok/None
+1,22094,CIE 326,Reinforced Concrete Design,,Medine İspir Arslan,"INB
+INB","Salı
+Perşembe","0830/1129
+0930/1129","B307
+B307",40,8,Yok/None,SIN,CIE 307 MIN DD,Yok/None
+2,22087,CIE 336,Soil Mechanics,,Esra Ece Bayat,"INB
+INB","Pazartesi
+Salı","0930/1229
+1330/1529","A1
+B306",40,7,Yok/None,SIN,Yok/None,Yok/None
+3,22089,CIE 344,Hydraulics and Hydrology,,"Yavuz Selim Güçlü, Mehmet Melih Koşucu","INB
+INB","Pazartesi
+Çarşamba","1330/1629
+1330/1529","A101
+B302",40,7,Yok/None,SIN,CIE 354 MIN DD,Yok/None
+4,22091,CIE 439,Transportation Systems,,Kemal Selçuk Öğüt,INB,Perşembe,1230/1529,ULAŞTIRM_A,40,6,Yok/None,SIN,CIE 308 MIN DD,Yok/None

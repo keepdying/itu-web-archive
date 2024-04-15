@@ -1,0 +1,20 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24999,CEN 102E,Intr to Sci&Eng Comp (C),,Meriç Yücel,"MEDB
+EEB","Çarşamba
+Cuma","0900/1159
+0900/1059","---
+6307",60,62,Yok/None,CEN,Yok/None,Yok/None
+1,24996,CEN 202E,Numerical Methods in CE,,Erke Arıbaş,MEDB,Salı,1400/1659,101,50,44,Yok/None,CEN,"MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+2,24997,CEN 312E,Computer Operating Systems,,Erke Arıbaş,MEDB,Salı,1000/1259,104,50,2,Yok/None,CEN,"BLG 221 MIN DD
+veya BLG 221E MIN DD
+veya BLG 233 MIN DD
+veya BLG 233E MIN DD
+veya BLG 223 MIN DD
+veya BLG 223E MIN DD
+veya YZV 201E MIN DD
+veya CEN 223E MIN DD",Yok/None
+3,24998,CEN 374E,Tech. Communic.for Comp.Eng.,,İnanç Moran,MEDB,Çarşamba,0900/1059,103,50,16,Yok/None,CEN,ING 201 MIN DD,Yok/None

@@ -1,0 +1,124 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23188,EUT 108E,Materials&Manufacturing Meth.,,Demet Günal Ertaş,MMB,Perşembe,1330/1729,227,90,83,Yok/None,"ENTE, EUT, EUTE",Yok/None,Yok/None
+1,23189,EUT 126E,Materials in Design,,Layıka Ney Ece Arıburun Kırca,MMB,Perşembe,1330/1729,213,60,3,Yok/None,"ENTE, EUT, EUTE",Yok/None,Yok/None
+2,23190,EUT 138E,Design Theories and Methods,,Özge Çelikoğlu,MMB,Pazartesi,1430/1729,213,110,93,Yok/None,"ENTE, ENTM, EUT, EUTE, EUTM",Yok/None,Yok/None
+3,23197,EUT 220E,Industrial Design Studio I,,Elif Küçüksayraç,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","CATI1
+CATI1",25,25,Yok/None,"ENTE, ENTM, EUT, EUTE, EUTM","EUT 213E MIN DD
+veya TES 211E MIN DD
+veya EUT 211E MIN DD
+veya ENT 211E MIN DD",Yok/None
+4,23203,EUT 220E,Industrial Design Studio I,,Layıka Ney Ece Arıburun Kırca,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","CATI2
+CATI2",25,25,Yok/None,"ENTE, ENTM, EUT, EUTE, EUTM","EUT 213E MIN DD
+veya TES 211E MIN DD
+veya EUT 211E MIN DD
+veya ENT 211E MIN DD",Yok/None
+5,23207,EUT 220E,Industrial Design Studio I,,Özge Çelikoğlu,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","CATI2
+CATI2",25,20,Yok/None,"ENTE, ENTM, EUT, EUTE, EUTM","EUT 213E MIN DD
+veya TES 211E MIN DD
+veya EUT 211E MIN DD
+veya ENT 211E MIN DD",Yok/None
+6,24868,EUT 240E,Model Making II,,Kenan Dönmez,MMB,Pazartesi,0830/1129,3502,25,22,Yok/None,"ENTE, EUT, EUTE","EUT 261 MIN DD
+veya EUT 261E MIN DD
+veya EUT 251 MIN DD
+veya EUT 251E MIN DD
+veya EUT 239 MIN DD
+veya EUT 239E MIN DD",Yok/None
+7,23212,EUT 246E,History of Design I,,Layıka Ney Ece Arıburun Kırca,MMB,Cuma,1030/1229,229,90,65,Yok/None,"ENTE, ENTM, EUT, EUTE, EUTM",Yok/None,Yok/None
+8,23215,EUT 272E,Human Factors inProduct Design,,Ekrem Cem Alppay,MMB,Salı,0830/1129,216,150,88,Yok/None,"ENTE, ENTM, EUT, EUTE, EUTM",Yok/None,Yok/None
+9,23219,EUT 319E,Industrial Design Studio II,,Koray Gelmez,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","CATI4
+CATI4",20,9,Yok/None,"ENTE, EUT, EUTE, EUTM","EUT 214 MIN DD
+veya EUT 214E MIN DD
+veya EUT 220E MIN DD
+veya EUT 212 MIN DD
+veya EUT 212E MIN DD",Yok/None
+10,23224,EUT 320E,Industrial Design Studio III,,Ümit Celbiş,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","CATI3
+CATI3",26,24,Yok/None,"ENTE, EUT, EUTE, EUTM","EUT 315E MIN DD
+veya EUT 311E MIN DD
+veya EUT 311 MIN DD
+veya EUT 319E MIN DD",Yok/None
+11,24649,EUT 320E,Industrial Design Studio III,,Meltem Maralcan Gülmen,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","CATI3
+CATI3",26,26,Yok/None,"ENTE, EUT, EUTE, EUTM","EUT 315E MIN DD
+veya EUT 311E MIN DD
+veya EUT 311 MIN DD
+veya EUT 319E MIN DD",Yok/None
+12,24869,EUT 320E,Industrial Design Studio III,,Birnur Şahinoğlu,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","3503
+3503",26,25,Yok/None,"ENTE, EUT, EUTE, EUTM","EUT 315E MIN DD
+veya EUT 311E MIN DD
+veya EUT 311 MIN DD
+veya EUT 319E MIN DD",Yok/None
+13,23230,EUT 342E,Law and Legal Issues in Design,,Özgür Öztürk,MDB,Pazartesi,1430/1729,A202,70,36,Yok/None,"ENTE, EUT, EUTE",Yok/None,Yok/None
+14,23240,EUT 352E,Strategic Design & Management,,Elif Küçüksayraç,MMB,Perşembe,0830/1229,216,110,94,Yok/None,"ENTE, EUT, EUTE",Yok/None,Yok/None
+15,23245,EUT 419E,Industrial Design Studio IV,,Gülname Turan,"MMB
+MMB","Salı
+Cuma","1330/1729
+1400/1759","3502
+3502",20,20,Yok/None,"ENTE, EUT, EUTE, EUTM","EUT 316E MIN DD
+veya EUT 320E MIN DD
+veya EUT 312 MIN DD
+veya EUT 312E MIN DD",Yok/None
+16,23255,EUT 4902E,Graduation Project,,Ekrem Cem Alppay,---,----,/,---,100,60,Yok/None,"ENTE, EUT, EUTE","EUT 108E MIN DD
+ve (EUT 119E MIN DD
+veya EUT 117E MIN DD)
+ve (MIM 125 MIN DD
+veya MIM 125E MIN DD
+veya MIM 106 MIN DD
+veya MIM 106E MIN DD)
+ve (MIM 126 MIN DD
+veya MIM 126E MIN DD)
+ve (EUT 126E MIN DD
+veya EUT 132E MIN DD)
+ve (EUT 128 MIN DD
+veya EUT 128E MIN DD
+veya EUT 138 MIN DD
+veya EUT 138E MIN DD)
+ve (EUT 204E MIN DD
+veya EUT 231E MIN DD)
+ve (EUT 206 MIN DD
+veya EUT 206E MIN DD)
+ve ENT 212E MIN DD
+ve (EUT 239E MIN DD
+veya ENT 213E MIN DD)
+ve EUT 240E MIN DD
+ve (EUT 241 MIN DD
+veya EUT 241E MIN DD)
+ve (EUT 246 MIN DD
+veya EUT 246E MIN DD)
+ve (EUT 271 MIN DD
+veya EUT 271E MIN DD)
+ve (EUT 272 MIN DD
+veya EUT 272E MIN DD)
+ve (EUT 282E MIN DD
+veya EUT 230E MIN DD)
+ve (EUT 413 MIN DD
+veya EUT 413E MIN DD
+veya EUT 411 MIN DD
+veya EUT 411E MIN DD
+veya EUT 419E MIN DD)",4.Sınıf
+17,23251,EUT 492,Bitirme Çalışması,,--,---,----,/,---,0,0,Yok/None,EUT,"EUT 413 MIN DD
+veya EUT 413E MIN DD
+veya EUT 411 MIN DD
+veya EUT 411E MIN DD
+veya EUT 419E MIN DD
+Diğer Şartlar",4.Sınıf

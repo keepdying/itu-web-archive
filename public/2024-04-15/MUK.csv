@@ -1,0 +1,76 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24245,MUK 203,Mukavemet I,,Erol Demirkan,MDB,Perşembe,1330/1629,A101,80,69,Yok/None,"DEN, ELE, ELH, GEM, JEO, TEL, UCK, UZB","STA 201 MIN DD
+veya STA 202 MIN DD
+veya STA 204 MIN DD
+veya STA 201E MIN DD
+veya STA 202E MIN DD
+veya STA 204E MIN DD",Yok/None
+1,24898,MUK 203E,Strength of Materials I,,İbrahim Tuğrul Ardıç,GDB,Pazartesi,0830/1129,D303,40,8,Yok/None,NAE,"STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+2,21240,MUK 204,Mukavemet II,,Serdar Aytekin Köroğlu,GDB,Pazartesi,1330/1629,D401,80,82,Yok/None,"DEN, GEM, UCK, UZB","MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya GEM 203 MIN DD
+veya GEM 203E MIN DD",Yok/None
+3,21284,MUK 204,Mukavemet II,,Mustafa Erden Yıldızdağ,"GDB
+GDB","Salı
+Perşembe","1330/1529
+1330/1429","410
+410",40,27,Yok/None,"DEN, GEM, UCK, UZB","MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya GEM 203 MIN DD
+veya GEM 203E MIN DD",Yok/None
+4,21285,MUK 204,Mukavemet II,,Bahadır Uğurlu,"GDB
+GDB","Salı
+Perşembe","1330/1529
+1330/1429","409
+409",40,30,Yok/None,"DEN, GEM, UCK, UZB","MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya GEM 203 MIN DD
+veya GEM 203E MIN DD",Yok/None
+5,24736,MUK 204E,Strength of Materials II,,İbrahim Tuğrul Ardıç,GDB,Cuma,1400/1659,D303,40,20,Yok/None,NAE,"MUK 201 MIN DD
+veya MUK 201E MIN DD
+veya MUK 203 MIN DD
+veya MUK 203E MIN DD
+veya GEM 203 MIN DD
+veya GEM 203E MIN DD",Yok/None
+6,23470,MUK 205,Mukavemet,,Oğuz Altay,"MKB
+MKB","Perşembe
+Cuma","1230/1529
+1030/1229","---
+---",40,3,Yok/None,"IML, MAK, MAKM, MKN","STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD",Yok/None
+7,22597,MUK 207E,Strength of Materials,,Şule Selçuk,MKB,Cuma,0930/1229,D376,40,12,Yok/None,"CHZ, CHZE, IML, IMLE, TEK, TEKE","MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+8,22599,MUK 207E,Strength of Materials,,Şule Selçuk,MKB,Cuma,1430/1729,D376,40,40,Yok/None,"CHZ, CHZE, IML, IMLE, TEK, TEKE","MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None

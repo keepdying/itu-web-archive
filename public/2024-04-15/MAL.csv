@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24695,MAL 201,Malzeme Bilimi,,Aytekin Uzunoğlu,EEB,Pazartesi,0830/1129,5105,50,14,Yok/None,"EHB, ELE, ELH, ELK, KOM, KON, TEL",Yok/None,Yok/None
+1,21798,MAL 201,Malzeme Bilimi,,Hasan Yıldırım,INB,Salı,1430/1729,B101,80,38,Yok/None,CEV,Yok/None,Yok/None
+2,21801,MAL 201E,Materials Science,,Bekir Yılmaz Pekmezci,INB,Salı,1430/1729,B103,85,84,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+3,23814,MAL 201E,Materials Science,,--,EEB,Çarşamba,0830/1129,---,0,0,Yok/None,"EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, PETE, TEL",Yok/None,Yok/None
+4,21668,MAL 201E,Materials Science,,Emin Çiftçi,MDB,Cuma,0830/1129,A103,50,51,Yok/None,"JEO, JEOE, PETE",Yok/None,Yok/None
+5,23813,MAL 201E,Materials Science,,Hasan Nuri Türkmenoğlu,EEB,Cuma,0830/1129,2102,50,47,Yok/None,"EHB, EHBE, ELE, ELH, ELK, ELKE, KOM, KOME, KON, KONE, PETE, TEL",Yok/None,Yok/None
+6,23713,MAL 201E,Materials Science,,Erçin Çağan Duran,KMB,Cuma,1430/1729,D304,50,49,Yok/None,"ISL, ISLE",Yok/None,Yok/None

@@ -1,0 +1,85 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23193,GID 204E,Momentum Transfer,,Filiz Altay,KMB,Perşembe,1330/1629,D104,95,38,Yok/None,GID,"(MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (MAT 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 201E MIN DD
+veya MAT 201 MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)",Yok/None
+1,23195,GID 212,Termodinamik,,Aslı Can Karaça,KMB,Çarşamba,0830/1229,D105,50,17,Yok/None,GID,Yok/None,Yok/None
+2,23196,GID 214,Termodinamik,,Fatma Ebru Fıratlıgil,KMB,Çarşamba,0930/1229,D102,95,71,Yok/None,GID,Yok/None,Yok/None
+3,23198,GID 222E,Microbiology,,Fatih Ortakcı,KMB,Salı,1330/1629,D204,50,6,Yok/None,"GID, GIDE",Yok/None,Yok/None
+4,23199,GID 224,"Gıda Toksik.,Kontamin.&Katk.",,"Beraat Özçelik, Aslı Can Karaça, Kadriye Nur Kasapoğlu",KMB,Salı,0830/1129,D201,95,54,Yok/None,"GID, GIDM",Yok/None,Yok/None
+5,23200,GID 226E,Microbiology,,Pervin Başaran Akocak,KMB,Salı,1430/1629,D202,95,54,Yok/None,"GID, GIDE",Yok/None,Yok/None
+6,23201,GID 306E,Food Plant Design & Economics,,Celale Kırkın Gözükırmızı,KMB,Çarşamba,1230/1529,D304,95,50,Yok/None,"GID, GIDE",Yok/None,Yok/None
+7,23211,GID 312E,Food Microbiology II,,Hatice Funda Karbancıoğlu Güler,KMB,Cuma,0930/1229,D302,95,42,Yok/None,"GID, GIDE","GID 222 MIN DD
+veya GID 222E MIN DD
+veya GID 226E MIN DD",Yok/None
+8,23202,GID 314,Duyusal Analiz,,Celale Kırkın Gözükırmızı,KMB,Çarşamba,0830/1129,GZ101,18,21,Yok/None,"GID, GIDM",Yok/None,Yok/None
+9,23205,GID 316E,Food Packaging,,--,KMB,Perşembe,1330/1629,---,0,0,Yok/None,"GID, GIDE",Yok/None,Yok/None
+10,23206,GID 318,Gıda Blşnlerinin Fnksyl Özell.,,Kadriye Nur Kasapoğlu,KMB,Salı,1330/1629,GZ103,18,29,Yok/None,GID,Yok/None,Yok/None
+11,23208,GID 322,Gıda Müh Temel İşlemler II,,Fatma Ebru Fıratlıgil,KMB,Perşembe,0930/1229,D102,95,74,Yok/None,"GID, GIDM","GID 113E MIN DD
+veya GID 112E MIN DD
+veya GID 111E MIN DD",Yok/None
+12,23210,GID 324E,"Food Safety,Sanitat.&Preserv.",,Fatih Ortakcı,KMB,Cuma,0930/1229,D103,50,45,Yok/None,"GID, GIDE","GID 222 MIN DD
+veya GID 222E MIN DD",Yok/None
+13,23213,GID 332,Gıda Mühendisliği Laboratuarı,,"Fatma Ebru Fıratlıgil, Celale Kırkın Gözükırmızı, Filiz Altay",KMB,Pazartesi,0830/1229,G114,35,33,Yok/None,GID,Yok/None,Yok/None
+14,23214,GID 332,Gıda Mühendisliği Laboratuarı,,"Fatma Ebru Fıratlıgil, Celale Kırkın Gözükırmızı, Filiz Altay",KMB,Pazartesi,1300/1659,G114,35,36,Yok/None,GID,Yok/None,Yok/None
+15,23216,GID 337E,Lipid Chemistry and Technology,,Neşe Şahin Yeşilçubuk,KMB,Salı,0930/1129,D105,20,7,Yok/None,"GID, GIDE",Yok/None,Yok/None
+16,23217,GID 339E,Production of Food Ingredients,,Aslı Can Karaça,KMB,Salı,1330/1529,D106,20,12,Yok/None,"GID, GIDE",Yok/None,Yok/None
+17,23218,GID 408E,Statistical Methods,,Aslı Can Karaça,"KMB
+KMB","Pazartesi
+Pazartesi","0830/1029
+1030/1229","D303
+BIL.LAB1",80,66,Yok/None,"GID, GIDE",Yok/None,Yok/None
+18,25099,GID 411E,Food Engineering Design I,,Meral Kılıç Akyılmaz,KMB,Çarşamba,1030/1329,---,5,1,Yok/None,"GID, GIDE",Yok/None,Yok/None
+19,23220,GID 416E,Shelf Life of Foods,,Meral Kılıç Akyılmaz,KMB,Perşembe,1330/1629,D106,35,25,Yok/None,"GID, GIDE, GIDM",Yok/None,Yok/None
+20,23222,GID 418E,Biochem.Chan.During Food Proc.,,--,KMB,Pazartesi,1330/1629,---,0,0,Yok/None,"GID, GIDE, GIDM",Yok/None,Yok/None
+21,23223,GID 421E,Food Technology,,"Meral Kılıç Akyılmaz, Derya Kahveci Karıncaoğlu, Gülay Özkan, Gürbüz Güneş, Neşe Şahin Yeşilçubuk",KMB,Cuma,1400/1659,D104,95,74,Yok/None,"GID, GIDE, GIDM",Yok/None,Yok/None
+22,23225,GID 438,Coğrafi İşaretlerin Korunması,,"Beraat Özçelik, Didem Özgür",KMB,Cuma,0930/1229,D105,35,15,Yok/None,GID,Yok/None,Yok/None
+23,23226,GID 450,Gıda Müh. Özel Konular,,"Meral Kılıç Akyılmaz, Aslı Can Karaça, Beraat Özçelik, Celale Kırkın Gözükırmızı, Derya Kahveci Karıncaoğlu, Fatih Ortakcı, Fatma Ebru Fıratlıgil, Filiz Altay, Gülay Özkan, Gürbüz Güneş, Hatice Funda Karbancıoğlu Güler, Kadriye Nur Kasapoğlu, Neşe Şahin Yeşilçubuk, Pervin Başaran Akocak",KMB,----,/,---,85,64,Yok/None,GID,"(GID 321 MIN DD
+veya GID 321E MIN DD
+veya GID 323 MIN DD)
+ve (GID 332 MIN DD
+veya GID 332E MIN DD)
+ve (GID 433 MIN DD
+veya GID 433E MIN DD)",4.Sınıf
+24,23204,GID 456,Duyusal Analiz,,Beraat Özçelik,KMB,Çarşamba,0930/1129,D203,20,20,Yok/None,GID,Yok/None,Yok/None
+25,23228,GID 458,Gıda Blşnlerinin Fnksyl Özell.,,Beraat Özçelik,KMB,Salı,1330/1529,D203,20,9,Yok/None,GID,Yok/None,Yok/None
+26,23229,GID 4901E,Food Engineering Design I,,Gürbüz Güneş,KMB,Çarşamba,1030/1529,D202,20,17,Yok/None,"GID, GIDE","(GID 341 MIN DD
+veya GID 341E MIN DD)
+ve (GID 351 MIN DD
+veya GID 351E MIN DD)
+ve GID 331E MIN DD
+ve (GID 322 MIN DD
+veya GID 322E MIN DD)
+ve GID 421E MIN DD
+ve (GID 306E MIN DD
+veya GID 222 MIN DD
+veya GID 226E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+27,23231,GID 4902,Gıda Mühendisliği Tasarımı II,,"Gürbüz Güneş, Celale Kırkın Gözükırmızı, Derya Kahveci Karıncaoğlu, Fatma Ebru Fıratlıgil, Filiz Altay, Meral Kılıç Akyılmaz","KMB
+KMB","Salı
+Perşembe","0830/1329
+1230/1329","D303
+D301",90,61,Yok/None,GID,GID 4901E MIN BB,Yok/None
+28,23235,GID 492,Bitirme Çalışması,,--,KMB,----,/,---,0,0,Yok/None,GID,Diğer Şartlar,4.Sınıf
+29,23236,GID 492E,Graduation Project,,--,KMB,----,/,---,0,0,Yok/None,"GID, GIDE",Diğer Şartlar,4.Sınıf

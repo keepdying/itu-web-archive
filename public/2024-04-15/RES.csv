@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24227,RES 102,Bilg. Destekli Teknik Resim,,Melek Ertogan,DZB,Salı,0830/1229,---,85,40,Yok/None,"DEN, DUI, GMI",Yok/None,Yok/None
+1,24226,RES 102,Bilg. Destekli Teknik Resim,,Melek Ertogan,DZB,Perşembe,1130/1529,---,85,72,Yok/None,"DEN, DUI, GMI",Yok/None,Yok/None
+2,23620,RES 102E,Com.Aided Technical Drawing,,Emre Kahramanoğlu,DZB,Salı,1330/1729,---,100,97,Yok/None,"MEN, MTM",Yok/None,Yok/None
+3,23178,RES 107E,Technical Drawing,,Selim Ertürk,KMB,Perşembe,0830/1129,BIL.LAB1,45,59,Yok/None,"MET, METE",Yok/None,Yok/None
+4,23179,RES 107E,Technical Drawing,,Selim Ertürk,KMB,Perşembe,1330/1629,BIL.LAB1,45,49,Yok/None,"MET, METE",Yok/None,Yok/None
+5,23181,RES 107E,Technical Drawing,,Münir Cansın Özden,KMB,Cuma,1400/1659,BIL.LAB1,45,58,Yok/None,"MET, METE",Yok/None,Yok/None
+6,21676,RES 111E,Technical Drawing (CAD),,Recep Kaya,MDB,Perşembe,1330/1629,B207,90,74,Yok/None,"CEV, CEVE, CHZ, CHZE",Yok/None,Yok/None

@@ -1,0 +1,28 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21643,PET 212E,Rock Properties,,Hasan Özgür Yıldız,MDB,Çarşamba,1230/1529,B206,80,67,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+1,21645,PET 310E,Drilling&Completion Fluids Lab,,Yıldıray Palabıyık,MDB,Pazartesi,1130/1329,---,14,14,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+2,21646,PET 310E,Drilling&Completion Fluids Lab,,Yıldıray Palabıyık,MDB,Salı,1130/1329,---,14,14,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+3,21648,PET 310E,Drilling&Completion Fluids Lab,,Yıldıray Palabıyık,MDB,Çarşamba,1130/1329,A201,13,13,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+4,21649,PET 310E,Drilling&Completion Fluids Lab,,Yıldıray Palabıyık,MDB,Perşembe,1130/1329,---,13,12,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+5,21651,PET 310E,Drilling&Completion Fluids Lab,,Yıldıray Palabıyık,MDB,Cuma,0930/1129,---,13,11,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+6,21654,PET 332E,Prod. Eng.&Surface Facilities,,Şenol Yamanlar,MDB,Perşembe,0830/1129,B208,80,75,Yok/None,"PET, PETE, PETM","(PET 311E MIN DD
+veya PET 211E MIN DD)
+ve PET 212E MIN DD",Yok/None
+7,21658,PET 338E,App.Subs.Geo.for Oil&Gas Res.,,Yıldıray Palabıyık,MDB,Çarşamba,0830/1129,B208,80,45,Yok/None,"PET, PETE, PETM",JEO 112E MIN DD,Yok/None
+8,21656,PET 346E,Safety & Envirnmntl Protection,,İbrahim Metin Mıhçakan,MDB,Perşembe,1330/1629,B208,100,59,Yok/None,"PET, PETE, PETM","PET 321E MIN DD
+veya PET 309E MIN DD",Yok/None
+9,21660,PET 407E,Geothermal Engineering,,Emine Didem Korkmaz Başel,MDB,Pazartesi,1330/1629,B208,70,58,Yok/None,"PET, PETE, PETM","TER 201 MIN DD
+veya TER 201E MIN DD
+veya MAK 311E MIN DD",Yok/None
+10,21659,PET 417E,Flow Through Porous Media,,Hasan Özgür Yıldız,MDB,Salı,0830/1129,A105,80,72,Yok/None,"PET, PETE, PETM","PET 211E MIN DD
+ve PET 212E MIN DD",Yok/None
+11,21663,PET 428E,Simulation of Geosystems,,İhsan Burak Kulga,MDB,Çarşamba,0830/1129,A302,20,15,Yok/None,"PET, PETE, PETM",PET 342E MIN DD,Yok/None
+12,21661,PET 431E,Natural Gas Systems Eng.,,İbrahim Metin Mıhçakan,MDB,Çarşamba,1230/1529,A101,70,57,Yok/None,"PET, PETE, PETM",PET 342E MIN DD,Yok/None
+13,21662,PET 433E,Well Control,,Gürşat Altun,MDB,Pazartesi,0830/1129,B204,20,19,Yok/None,"PET, PETE, PETM",PET 333E MIN DD,Yok/None
+14,21664,PET 434E,Project Management in PANGE,,Hamit Topuz,MDB,Salı,1330/1629,B204,50,13,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+15,21652,PET 440E,Geostatistics,,Ömer İnanç Türeyen,MDB,Pazartesi,0830/1129,A105,80,59,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+16,24893,PET 457E,Individual Study,,Yiğit Altunal,MDB,Çarşamba,0830/1129,A205,20,19,Yok/None,"PET, PETE",Yok/None,Yok/None
+17,24892,PET 468E,Natural Gas Processing Eng.,,Gültekin Çınar,MDB,Salı,0830/1129,A102,50,10,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+18,21666,PET 4902E,Petr. & Nat.Gas Eng. Design II,,Ömer İnanç Türeyen,MDB,----,/,---,50,50,Yok/None,"PET, PETE, PETM",PET 4901E MIN BB,Yok/None
+19,21665,PET 492E,Graduation Project,,Ömer İnanç Türeyen,MDB,----,/,---,50,0,Yok/None,"PET, PETE, PETM",Diğer Şartlar,4.Sınıf

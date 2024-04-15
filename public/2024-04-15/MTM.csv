@@ -1,0 +1,17 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23822,MTM 211,Onboard Training-I,,Selim Aksoy,DZB,----,/,---,60,10,Yok/None,"DUIK, MTM",Yok/None,"1.Sınıf, 4.Sınıf, 2.Sınıf, 3.Sınıf"
+1,24974,MTM 212,Electronic Navigation,,Serdar Kum,DZB,Perşembe,0830/1129,---,10,3,Yok/None,"DUIK, MTM, MTTM",Yok/None,Yok/None
+2,23850,MTM 302,Onboard Training-III,,Selim Aksoy,DZB,----,/,---,60,27,Yok/None,"DUIK, MTM, MTTM","MTM 331 MIN DD
+ve MST 212 MIN DD
+ve MST 102 MIN DD
+ve MTM 112 MIN DD",Yok/None
+3,23848,MTM 341,Onboard Training-II,,Selim Aksoy,DZB,----,/,---,60,23,Yok/None,"DUIK, MTM",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+4,23870,MTM 402,Graduation Design Project,,Selim Aksoy,DZB,----,/,---,60,29,Yok/None,"DUIK, MTM",Yok/None,"4.Sınıf, 3.Sınıf"
+5,23855,MTM 412,Ship Management and Leadership,,Cemil Yurtören,"DZB
+DZB","Çarşamba
+Çarşamba","1230/1529
+1730/1829","---
+---",60,25,Yok/None,"DUIK, MTM, MTTM","MTM 302 MIN DD
+veya DUI 302E MIN DD
+veya GUV 391E MIN DD",Yok/None

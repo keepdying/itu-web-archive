@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24978,ENR 201,Fluid Mechanics,,Banu Tansel Büyükçelebi,DZB,Perşembe,1730/2029,---,10,9,Yok/None,"MEN, MTM",Yok/None,Yok/None
+1,24956,ENR 301,Heat Transfer,,Buğra Arda Zincir,DZB,Salı,0930/1229,---,20,10,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","ENR 202 MIN DD
+veya GMI 213E MIN DD
+veya TER 201E MIN DD",Yok/None
+2,24959,ENR 321,Otomatic Control Systems,,Tayfun Uyanık,DZB,Cuma,1430/1729,---,10,7,Yok/None,"GEMK, GMIK, MEN, MENM, NAE","MST 241 MIN DD
+veya GMI 202 MIN DD
+veya GMI 202E MIN DD",Yok/None
+3,24715,ENR 351,Mechatronics,,Ali Sinan Çabuk,EEB,Perşembe,0830/1029,5105,40,22,Yok/None,"GEMK, GMIK, MEN, NAE",Yok/None,Yok/None
+4,23861,ENR 401,Refrigeration& HVAC Systems,,Gazi Koçak,DZB,Salı,1130/1329,---,60,18,Yok/None,"GEMK, GMIK, MEN, NAE",Yok/None,Yok/None

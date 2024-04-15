@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,23041,EFN 102E,Principles of Macroeconomics,,Mete Han Yağmur,EEB,Cuma,0830/1229,5305,60,45,Yok/None,EFN,Yok/None,Yok/None
+1,24983,EFN 205E,Business Finance,,Rofaida Benotsmane,EEB,Perşembe,1130/1429,Z1,40,20,Yok/None,EFN,Yok/None,Yok/None
+2,24835,EFN 308E,Financial Econometrics,,--,MED,Perşembe,1430/1729,---,0,0,Yok/None,EFN,"ECN 301E MIN DD
+veya EFN 301E MIN DD",Yok/None
+3,24882,EFN 309E,Investment and Portfolio Mng.,,Tayfun Özkan,MED,Çarşamba,1730/2029,B31,25,8,Yok/None,EFN,"ECN 102E MIN DD
+veya EFN 102E MIN DD",Yok/None

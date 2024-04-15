@@ -1,0 +1,27 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24733,NAE 102,Ship Geometry,,Murat Durmaz,GDB,Çarşamba,1230/1529,R409,65,60,Yok/None,NAE,Yok/None,Yok/None
+1,24730,NAE 201,Practical Training-I,,İbrahim Tuğrul Ardıç,GDB,----,/,---,40,9,Yok/None,"GEMK, NAE",Yok/None,"1.Sınıf, 4.Sınıf, 2.Sınıf, 3.Sınıf"
+2,24877,NAE 202,Ship Construction,,İbrahim Tuğrul Ardıç,GDB,Cuma,0830/1229,220,30,4,Yok/None,"GEMK, NAE, NAEM","ENR 212 MIN DD
+veya MUK 208E MIN DD
+veya MUK 203E MIN DD",Yok/None
+3,24729,NAE 232,Hydrodynamic Design of Ships,,Şakir Bal,GDB,Cuma,1030/1229,D309,40,16,Yok/None,"GEMK, MEN, NAE",Yok/None,Yok/None
+4,24728,NAE 242,Stability of Ships,,Metin Taylan,GDB,Cuma,0830/1029,D303,40,9,Yok/None,"GEMK, MEN, NAE",NAE 311 MIN DD,Yok/None
+5,24731,NAE 301,Practical Training-II,,İbrahim Tuğrul Ardıç,GDB,----,/,---,40,8,Yok/None,"GEMK, NAE",Yok/None,"4.Sınıf, 2.Sınıf, 3.Sınıf"
+6,24712,NAE 302,Strength of Ships,,Ahmet Ergin,"GDB
+GDB","Pazartesi
+Çarşamba","1330/1529
+1330/1529","D308
+D308",40,21,Yok/None,"GEMK, NAE","(NAE 202 MIN DD
+veya GEM 222E MIN DD)
+ve (ENR 222 MIN DD
+veya MUK 204E MIN DD)",Yok/None
+7,24713,NAE 312,Ship Design,,Cihad Delen,GDB,Pazartesi,0930/1229,D309,40,17,Yok/None,"GEMK, NAE, NAEM","(NAE 311 MIN DD
+veya GEM 321E MIN DD)
+ve (NAE 321 MIN DD
+veya GEM 341E MIN DD)",Yok/None
+8,24732,NAE 401,Practical Training-III,,Murat Durmaz,GDB,----,/,---,40,8,Yok/None,"GEMK, NAE",Yok/None,"4.Sınıf, 3.Sınıf"
+9,24719,NAE 402,Graduation Design Project,,Murat Durmaz,GDB,----,/,---,40,19,Yok/None,"GEMK, NAE",Yok/None,"4.Sınıf, 3.Sınıf"
+10,24724,NAE 412,Ship Design Project II,,Murat Durmaz,GDB,Çarşamba,1030/1229,R409,40,8,Yok/None,"GEMK, NAE","NAE 411 MIN DD
+veya GEM 411E MIN DD",Yok/None
+11,24727,NAE 451,Compt. Aided Ship Design&Cons.,,--,---,----,/,---,0,0,Yok/None,"GEMK, MEN, NAE",Yok/None,Yok/None

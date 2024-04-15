@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,24979,PHY 108,Physics II,,Banu Tansel Büyükçelebi,DZB,Çarşamba,1830/2129,---,12,8,Yok/None,"DUIK, GEMK, GMIK, MEN, MTM, NAE",Yok/None,Yok/None
+1,24491,PHY 124,Physics II,,Mehmet Kerim Ramazanoğlu,EEB,Perşembe,1330/1629,1303,30,11,Yok/None,"EHN, SEH",Yok/None,Yok/None
+2,24492,PHY 124L,Physics II Lab,,Mehmet Kerim Ramazanoğlu,EEB,Çarşamba,1130/1329,1301,30,12,Yok/None,"EHN, SEH",Yok/None,Yok/None
+3,22775,PHY 126,Physics II,,Mehmet Özkan,EEB,Salı,1430/1729,5307,40,24,Yok/None,"SED, SGI",Yok/None,Yok/None
+4,24793,PHY 126,Physics II,,Vakıf Kemal Önemli,KMB,Salı,1430/1729,D101,30,15,Yok/None,"MBI, SGI",Yok/None,Yok/None
+5,24749,PHY 126,Physics II,,Haluk Özbek,FEB,Cuma,0930/1229,D205,30,27,Yok/None,"SGI, SIN",Yok/None,Yok/None
+6,22776,PHY 126L,Physics II Laboratory,,Mehmet Özkan,FEB,Çarşamba,0930/1129,---,40,18,Yok/None,"SED, SGI",Yok/None,Yok/None
+7,24750,PHY 126L,Physics II Laboratory,,Haluk Özbek,FEB,Çarşamba,1130/1329,---,30,30,Yok/None,"SGI, SIN",Yok/None,Yok/None
+8,24794,PHY 126L,Physics II Laboratory,,Vakıf Kemal Önemli,FEB,Çarşamba,1130/1329,---,30,15,Yok/None,"MBI, SGI",Yok/None,Yok/None

@@ -1,0 +1,102 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21535,JEF 208E,Comp. Appl. in Geophy.,,"Seda Yolsal Çevikbilen, Doğa Doğan, Neslihan Ocakoğlu Gökaşan",MDB,Salı,0830/1129,B207,60,43,Yok/None,"JEF, JEFM",Yok/None,Yok/None
+1,21534,JEF 212E,Data Processing,,Hüseyin Argun Kocaoğlu,"MDB
+MDB","Pazartesi
+Cuma","1030/1229
+1430/1629","A204
+B207",60,37,Yok/None,"JEF, JEFE, JEFM","MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 102 MIN DD
+veya MAT 102E MIN DD",Yok/None
+2,21536,JEF 222,Arama Jeofiziğinin Temelleri,,Caner İmren,MDB,Salı,1330/1729,A203,60,47,Yok/None,JEF,Yok/None,Yok/None
+3,24751,JEF 222E,Fundamentals of Exp.Geophysics,,Gonca Örgülü,MDB,Salı,1330/1729,---,10,1,Yok/None,"PET, PETE",Yok/None,Yok/None
+4,21552,JEF 310E,Geodynamics,,Tuna Eken,MDB,Cuma,1430/1729,A302,17,12,Yok/None,"JEF, JEFE, JEFM","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+5,21543,JEF 318,Kuyu Jeofiziği,,Ümit Avşar,MDB,Salı,0830/1129,B208,17,11,Yok/None,"JEF, JEFM","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+6,21542,JEF 322,Jeomanyetizma,,Turgay İşseven,MDB,Cuma,0830/1129,A201,60,56,Yok/None,"JEF, JEFM",Yok/None,Yok/None
+7,21540,JEF 331,Elektromanyetik Prospeksiyon,,Ümit Avşar,MDB,Çarşamba,0830/1229,A203,60,43,Yok/None,"JEF, JEFM","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 102 MIN DD
+veya MAT 102E MIN DD)",Yok/None
+8,21539,JEF 334,Sismik Prospeksiyon,,--,---,Pazartesi,1330/1729,---,0,0,Yok/None,"JEF, JEFM","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 102 MIN DD
+veya MAT 102E MIN DD)",Yok/None
+9,24748,JEF 334E,Seismic Prospecting,,Hülya Kurt,MDB,Pazartesi,1330/1729,B204,60,33,Yok/None,"JEF, JEFM","(FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD
+veya MAT 102 MIN DD
+veya MAT 102E MIN DD)",Yok/None
+10,21538,JEF 346,Jeofizikte Ölçmeler,,Caner İmren,MDB,Perşembe,1330/1729,A203,60,48,Yok/None,"JEF, JEFM","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+11,21544,JEF 408E,Seismotectonics,,Seda Yolsal Çevikbilen,MDB,Salı,1330/1629,A205,60,42,Yok/None,"JEF, JEFE, JEFM",Yok/None,Yok/None
+12,21553,JEF 423E,Environmental Geophysics,,--,MDB,Pazartesi,0830/1129,---,0,0,Yok/None,"JEF, JEFE","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+13,21545,JEF 428E,Readings in Geophysics,,Yasir Bashir,MDB,Pazartesi,1330/1629,A301,15,4,Yok/None,"JEF, JEFE, JEFM","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+14,21548,JEF 430E,Marine Geophysics,,Mustafa Emin Demirbağ,MDB,Salı,0830/1129,D106,20,19,Yok/None,"JEF, JEFE, JEFM","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+15,21551,JEF 432E,Groundwater Exploration,,Doğa Doğan,MDB,Cuma,0830/1129,A202,15,11,Yok/None,"JEF, JEFE, JEFM","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+16,21550,JEF 436E,Hydrocarbon Geophysics,,Neslihan Ocakoğlu Gökaşan,MDB,Perşembe,1330/1629,D106,15,11,Yok/None,"JEF, JEFE, JEFM","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+17,21547,JEF 438,Sismik Yorumlama,,--,MDB,Salı,1330/1629,---,0,0,Yok/None,"JEF, JEFM","(JEF 332E MIN DD
+veya JEF 334E MIN DD)
+ve (JEF 222 MIN DD
+veya JEF 222E MIN DD)",Yok/None
+18,21546,JEF 440,Paleomanyetizma,,Turgay İşseven,MDB,Cuma,1430/1729,A203,15,9,Yok/None,"JEF, JEFM","JEF 222 MIN DD
+veya JEF 222E MIN DD",Yok/None
+19,21549,JEF 446E,Engineering Seismology,,Hüseyin Argun Kocaoğlu,MDB,Perşembe,0830/1129,A302,60,42,Yok/None,"JEF, JEFE, JEFM",Yok/None,Yok/None
+20,24271,JEF 4901,Jeofizik Müh.Tasarım Projesi I,,Hülya Kurt,MDB,----,/,---,500,1,Yok/None,JEF,"(JEF 346 MIN DD
+veya JEF 346E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+21,24272,JEF 4901E,Geophysical Eng. Design Prj. I,,Hülya Kurt,MDB,----,/,---,500,0,Yok/None,JEF,"(JEF 346 MIN DD
+veya JEF 346E MIN DD)
+ve (MAT 103 MIN DD
+veya MAT 103E MIN DD)
+ve (FIZ 101 MIN DD
+veya FIZ 101E MIN DD)
+ve FIZ 101EL MIN DD
+ve (KIM 101 MIN DD
+veya KIM 101E MIN DD)
+ve KIM 101EL MIN DD
+ve (MAT 104 MIN DD
+veya MAT 104E MIN DD)
+ve (FIZ 102 MIN DD
+veya FIZ 102E MIN DD)
+ve FIZ 102EL MIN DD
+ve (MAT 210 MIN DD
+veya MAT 210E MIN DD)",4.Sınıf
+22,24273,JEF 4902,Jeofizik Müh.Tasarım Proje. II,,Hülya Kurt,MDB,----,/,---,500,28,Yok/None,JEF,"JEF 4901 MIN BB
+veya JEF 4901E MIN BB",4.Sınıf
+23,24274,JEF 4902E,Geophysical Eng. Design Prj.II,,Hülya Kurt,MDB,----,/,---,500,0,Yok/None,JEF,"JEF 4901 MIN BB
+veya JEF 4901E MIN BB",4.Sınıf
+24,24275,JEF 492,Bitirme Çalışması,,Hülya Kurt,MDB,----,/,---,500,1,Yok/None,JEF,Diğer Şartlar,4.Sınıf
+25,24276,JEF 492E,Graduation Project,,Hülya Kurt,MDB,----,/,---,500,1,Yok/None,"JEF, JEFE",Diğer Şartlar,4.Sınıf

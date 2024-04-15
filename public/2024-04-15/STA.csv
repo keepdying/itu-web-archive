@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21238,STA 201,Statik,,Ceren Bilgin Güney,GDB,Perşembe,0930/1229,D311,120,117,Yok/None,DEN,Yok/None,Yok/None
+1,22811,STA 201E,Statics,,Ali Tatar,UUB,Cuma,1430/1729,D216,100,83,Yok/None,"UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+2,22812,STA 201E,Statics,,Oğuzcan İnal,UUB,Cuma,1430/1729,D-Z08,100,92,Yok/None,"UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+3,22860,STA 204,Statik ve Mukavemet,,Cemil Kurtcebe,UUB,Çarşamba,1130/1429,D-Z08,70,43,Yok/None,"CEV, CHZ, EHB, ELE, ELH, ELK, EUT, GID, ISL, KMM, KOM, KON, MET, MTO, PET, TEL",Yok/None,Yok/None
+4,24244,STA 204,Statik ve Mukavemet,,Bahattin Kimençe,MDB,Perşembe,0830/1129,A202,70,46,Yok/None,"CEV, CHZ, EHB, ELE, ELH, ELK, EUT, GID, ISL, KMM, KOM, KON, MET, MTO, PET, TEL",Yok/None,Yok/None
+5,24547,STA 204E,Statics&Strength of Materials,,Arcan Yanık,INB,Perşembe,1430/1729,D202,60,78,Yok/None,"CEV, CEVE, CHZ, EHB, EHBE, ELE, ELH, ELK, ELKE, EUT, EUTE, GID, GIDE, ISL, ISLE, JEF, KMM, KMME, KOM, KOME, KON, KONE, MET, METE, MTO, PET, PETE, TEL",Yok/None,Yok/None

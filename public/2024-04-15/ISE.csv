@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,21320,ISE 102,Programming I,,Deniz Turgay Altılar,"EEB
+EEB","Cuma
+Cuma","1130/1259
+1400/1729","5306
+5105",45,21,Yok/None,SBL,Yok/None,Yok/None
+1,21321,ISE 112,Discrete Mathematics,,Tolga Ovatman,EEB,Salı,1330/1629,5207,45,18,Yok/None,SBL,Yok/None,Yok/None
+2,21322,ISE 305,Database Systems,,Ahmet Cüneyd Tantuğ,EEB,Çarşamba,1230/1529,5306,40,14,Yok/None,SBL,Yok/None,Yok/None
+3,25059,ISE 306,Computer Networks,,Mehmet Keskinöz,EEB,Salı,0930/1229,---,40,12,Yok/None,SBL,Yok/None,Yok/None
+4,21323,ISE 306,Computer Networks,,--,---,Perşembe,0930/1229,---,0,0,Yok/None,SBL,Yok/None,Yok/None
+5,21324,ISE 307,IT Systems Analysis and Design,,Ali Çakmak,EEB,Salı,1330/1629,5305,40,13,Yok/None,SBL,Yok/None,Yok/None
+6,21326,ISE 313,WEB-Design & Management Tools,,Mustafa Ersel Kamaşak,EEB,Cuma,0930/1229,5107,40,2,Yok/None,SBL,Yok/None,Yok/None
+7,25075,ISE 316,Informatics Ethics & Law,,Sefer Baday,EEB,Pazartesi,0830/1129,Z4,40,14,Yok/None,SBL,Yok/None,Yok/None
+8,25060,ISE 316,Informatics Ethics & Law,,--,EEB,Pazartesi,0930/1229,---,0,0,Yok/None,SBL,Yok/None,Yok/None
+9,21327,ISE 316,Informatics Ethics & Law,,--,---,Perşembe,1330/1629,---,0,0,Yok/None,SBL,Yok/None,Yok/None

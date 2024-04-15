@@ -1,0 +1,44 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,20873,DAN 102,Girişimcilik & Kariyer Danış.,,Resul Aydemir,MED,Çarşamba,1530/1729,---,100,87,Yok/None,ECNE,Yok/None,Yok/None
+1,20885,DAN 102,Girişimcilik & Kariyer Danış.,,Ömer Faruk Beyca,MED,Çarşamba,1530/1729,---,500,251,Yok/None,"END, ENDE, IND",Yok/None,Yok/None
+2,21027,DAN 102,Girişimcilik & Kariyer Danış.,,"Derya Gültekin, Kaya Tokmakçıoğlu",MED,Çarşamba,1530/1729,---,200,175,Yok/None,"ISL, ISLE",Yok/None,Yok/None
+3,21124,DAN 102,Girişimcilik & Kariyer Danış.,Çevrimiçi/Online,Bülent Balta,----,Çarşamba,1530/1729,----,150,87,Yok/None,BIOE,Yok/None,Yok/None
+4,21135,DAN 102,Girişimcilik & Kariyer Danış.,,İzzet Göksel,FEB,Çarşamba,1530/1729,D202,180,132,Yok/None,MAT,Yok/None,Yok/None
+5,21239,DAN 102,Girişimcilik & Kariyer Danış.,Çevrimiçi/Online,Kadir Sarıöz,----,Çarşamba,1530/1729,----,500,110,Yok/None,"DEN, DENE",Yok/None,Yok/None
+6,21271,DAN 102,Girişimcilik & Kariyer Danış.,,Selma Ergin,GDB,Çarşamba,1530/1729,---,110,95,Yok/None,GEM,Yok/None,Yok/None
+7,21313,DAN 102,Girişimcilik & Kariyer Danış.,,Ahmet Cüneyd Tantuğ,EEB,Çarşamba,1530/1729,---,70,57,Yok/None,YZVE,Yok/None,Yok/None
+8,21373,DAN 102,Girişimcilik & Kariyer Danış.,,Yusuf Yaslan,EEB,Çarşamba,1530/1729,---,200,228,Yok/None,"BLG, BLGE, CEN",Yok/None,Yok/None
+9,21377,DAN 102,Girişimcilik & Kariyer Danış.,,Himmet Karaman,INB,Çarşamba,1530/1729,---,200,176,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+10,21511,DAN 102,Girişimcilik & Kariyer Danış.,,Abdullah Fişne,MDB,Çarşamba,1530/1729,A101,150,78,Yok/None,MAD,Yok/None,Yok/None
+11,21541,DAN 102,Girişimcilik & Kariyer Danış.,,Tuna Eken,MDB,Çarşamba,1530/1729,---,80,70,Yok/None,"JEF, JEFE, JEFM",Yok/None,Yok/None
+12,21574,DAN 102,Girişimcilik & Kariyer Danış.,,Kudret Tahsin Perek,MDB,Çarşamba,1530/1729,---,200,75,Yok/None,CHZ,Yok/None,Yok/None
+13,21624,DAN 102,Girişimcilik & Kariyer Danış.,,Emin Çiftçi,MDB,Çarşamba,1530/1729,A201,100,62,Yok/None,"JEO, JEOE",Yok/None,Yok/None
+14,21627,DAN 102,Girişimcilik & Kariyer Danış.,,Gürsel Sunal,MDB,Çarşamba,1530/1729,A202,100,26,Yok/None,"JEO, JEOE",Yok/None,Yok/None
+15,21667,DAN 102,Girişimcilik & Kariyer Danış.,,Ömer İnanç Türeyen,MDB,Çarşamba,1530/1729,---,80,69,Yok/None,"PET, PETE, PETM",Yok/None,Yok/None
+16,21802,DAN 102,Girişimcilik & Kariyer Danış.,,Osman Atilla Arıkan,INB,Çarşamba,1530/1729,---,300,184,Yok/None,"CEV, CEVE",Yok/None,Yok/None
+17,22502,DAN 102,Girişimcilik & Kariyer Danış.,,Ece Olcay Güneş,EEB,Çarşamba,1530/1729,---,500,280,Yok/None,"EHB, EHBE",Yok/None,Yok/None
+18,22503,DAN 102,Girişimcilik & Kariyer Danış.,,Suat İlhan,EEB,Çarşamba,1530/1729,---,500,216,Yok/None,"ELK, ELKE",Yok/None,Yok/None
+19,22505,DAN 102,Girişimcilik & Kariyer Danış.,,İlker Üstoğlu,EEB,Çarşamba,1530/1729,---,500,154,Yok/None,"KOM, KOME",Yok/None,Yok/None
+20,22842,DAN 102,Girişimcilik & Kariyer Danış.,,Onur Tunçer,UUB,Çarşamba,1530/1729,D216,300,220,Yok/None,"UCK, UZBE",Yok/None,Yok/None
+21,22903,DAN 102,Girişimcilik & Kariyer Danış.,,"Mikdat Kadıoğlu, Barış Çaldağ",UUB,Çarşamba,1530/1729,D-Z08,200,107,Yok/None,MTO,Yok/None,Yok/None
+22,22955,DAN 102,Girişimcilik & Kariyer Danış.,,Funda Yirmibeşoğlu,MMB,Çarşamba,1530/1729,213,150,151,Yok/None,"SBP, SBPE",Yok/None,Yok/None
+23,22964,DAN 102,Girişimcilik & Kariyer Danış.,,Ayşegül Akçay Kavakoğlu,MMB,Çarşamba,1530/1729,215,100,82,Yok/None,"PEM, PEME",Yok/None,Yok/None
+24,23065,DAN 102,Girişimcilik & Kariyer Danış.,,Fatma Elif Genceli Güner,KMB,Çarşamba,1530/1729,D201,300,99,Yok/None,KMM,Yok/None,Yok/None
+25,23172,DAN 102,Girişimcilik & Kariyer Danış.,,"Faiz Muhaffel, Cevat Bora Derin",KMB,Çarşamba,1530/1729,D301,500,199,Yok/None,"MET, METE",Yok/None,Yok/None
+26,23187,DAN 102,Girişimcilik & Kariyer Danış.,,Ekrem Cem Alppay,MMB,Çarşamba,1530/1729,216,200,116,Yok/None,"ENTE, EUT, EUTE, EUTM",Yok/None,Yok/None
+27,23238,DAN 102,Girişimcilik & Kariyer Danış.,,Celale Kırkın Gözükırmızı,KMB,Çarşamba,1530/1729,D304,140,88,Yok/None,GID,Yok/None,Yok/None
+28,23279,DAN 102,Girişimcilik & Kariyer Danış.,,Alper Gürarslan,MKB,Çarşamba,1530/1729,D376,100,91,Yok/None,"TEK, TEKE",Yok/None,Yok/None
+29,23389,DAN 102,Girişimcilik & Kariyer Danış.,,İsmail Yalçın Uralcan,MKB,Çarşamba,1530/1729,A201,500,316,Yok/None,"IML, MAK",Yok/None,Yok/None
+30,23712,DAN 102,Girişimcilik & Kariyer Danış.,,Selim Aksoy,DZB,Çarşamba,1530/1729,---,100,70,Yok/None,"MMD, MTM",Yok/None,Yok/None
+31,23739,DAN 102,Girişimcilik & Kariyer Danış.,,Cumali Seçkin Mengeçin,DZB,Çarşamba,1530/1729,---,60,51,Yok/None,"MEN, MMD",Yok/None,Yok/None
+32,23741,DAN 102,Girişimcilik & Kariyer Danış.,Çevrimiçi/Online,Murat Yılmaz,----,Çarşamba,1530/1729,----,500,360,Yok/None,"INS, INSE",Yok/None,Yok/None
+33,23969,DAN 102,Girişimcilik & Kariyer Danış.,,Sinan Çakır,DZB,Çarşamba,1530/1729,---,80,78,Yok/None,GMI,Yok/None,Yok/None
+34,23975,DAN 102,Girişimcilik & Kariyer Danış.,,Yunus Emre Şenol,DZB,Çarşamba,1530/1729,---,150,45,Yok/None,DUI,Yok/None,Yok/None
+35,23976,DAN 102,Girişimcilik & Kariyer Danış.,,Emre Akyüz,DZB,Çarşamba,1530/1729,---,150,51,Yok/None,DUI,Yok/None,Yok/None
+36,24464,DAN 102,Girişimcilik & Kariyer Danış.,,Berna Morova,FEB,Çarşamba,1530/1729,---,150,86,Yok/None,FIZ,Yok/None,Yok/None
+37,24472,DAN 102,Girişimcilik & Kariyer Danış.,Çevrimiçi/Online,İbrahim Özçeşmeci,----,Çarşamba,1530/1729,----,200,107,Yok/None,"KIM, KIME",Yok/None,Yok/None
+38,24722,DAN 102,Girişimcilik & Kariyer Danış.,,Ethem Gürer,MMB,Çarşamba,1530/1729,107,150,108,Yok/None,"IAD, ICM",Yok/None,Yok/None
+39,24734,DAN 102,Girişimcilik & Kariyer Danış.,,Murat Durmaz,GDB,Çarşamba,1530/1729,---,120,100,Yok/None,"EEE, NAE",Yok/None,Yok/None
+40,24857,DAN 102,Girişimcilik & Kariyer Danış.,,Fatih Yazıcıoğlu,MMB,Çarşamba,1530/1729,229,310,309,Yok/None,"ARC, MIM, MIME",Yok/None,Yok/None
+41,24987,DAN 102,Girişimcilik & Kariyer Danış.,,Rofaida Benotsmane,MED,Çarşamba,1530/1729,A33,50,34,Yok/None,EFN,Yok/None,Yok/None
