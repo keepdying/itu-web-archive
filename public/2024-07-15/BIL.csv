@@ -1,0 +1,13 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30167,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Ömer Özyıldırım,----,"Pazartesi
+Pazartesi","0930/1229
+1330/1729",----,200,186,Yok/None,"ARC, BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, DUIE, ECNE, EFN, EHB, EHBE, ELE, ELKE, END, ENDE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, GMI, GMIE, IAD, ICM, IML, IMLE, IND, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, NAE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+1,30168,BIL 100E,Intr.to Prog.Language(PYTHON),Çevrimiçi/Online,Ömer Özyıldırım,----,"Salı
+Salı","0930/1229
+1330/1729",----,200,164,Yok/None,"ARC, BIO, BIOE, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, DUIE, ECNE, EFN, EHB, EHBE, ELE, ELKE, END, ENDE, EUT, EUTE, FIZ, FIZE, FIZM, GEM, GEME, GEMK, GID, GIDE, GMI, GMIE, IAD, ICM, IML, IMLE, IND, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KIM, KIME, KMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MET, METE, MIM, MIME, MTO, MTOE, NAE, PEM, PEME, PET, PETE, SBP, SBPE, SEN, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",Yok/None,Yok/None
+2,30347,BIL 112E,Intr.to Prog.Language(FORTRAN),,Ahmet Öztopal,"UUB
+UUB","Cuma
+Cuma","0830/1229
+1430/1729","BIL1
+BIL1",25,39,Yok/None,"MTO, MTOE",Yok/None,Yok/None

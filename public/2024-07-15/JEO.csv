@@ -1,0 +1,51 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30171,JEO 112,Genel Jeoloji,,Kürşad Kadir Eriş,"MDB
+MDB
+MDB","Perşembe
+Cuma
+Cuma","0900/1059
+0900/1159
+1430/1629","---
+---
+---",40,8,Yok/None,"MAD, MADM",Yok/None,Yok/None
+1,30172,JEO 121,Yer Bilimlerinde Tas. Geometri,,Ömer Ündül,"MDB
+MDB","Pazartesi
+Pazartesi","0900/1159
+1300/1659","---
+---",30,8,Yok/None,"JEF, JEO",Yok/None,Yok/None
+2,30173,JEO 204E,Petrog. of Magmatic Rocks,,--,"MDB
+MDB","Salı
+Salı","0900/1159
+1300/1659","---
+---",0,0,Yok/None,"JEO, JEOE, JEOM","JEO 242 MIN DD
+veya JEO 242E MIN DD",Yok/None
+3,30174,JEO 256E,Structural Geology,,--,"MDB
+MDB","Salı
+Salı","0900/1159
+1300/1659","---
+---",0,0,Yok/None,"JEO, JEOE, JEOM","JEO 115 MIN DD
+veya JEO 115E MIN DD
+veya JEO 114 MIN DD
+veya JEO 114E MIN DD
+veya JEO 112 MIN DD
+veya JEO 112E MIN DD",Yok/None
+4,30175,JEO 262E,Stratigraphy,,--,"MDB
+MDB","Cuma
+Cuma","0900/1159
+1430/1629","---
+---",0,0,Yok/None,"JEO, JEOE, JEOM",Yok/None,Yok/None
+5,30176,JEO 348,Sedimenter Kayaç Petrografisi,,--,"MDB
+MDB","Çarşamba
+Çarşamba","0900/1159
+1300/1659","---
+---",0,0,Yok/None,"JEO, JEOM","JEO 242 MIN DD
+veya JEO 242E MIN DD",Yok/None
+6,30177,JEO 411E,Tectonics,,--,"MDB
+MDB","Çarşamba
+Çarşamba","0900/1159
+1300/1659","---
+---",0,0,Yok/None,"JEO, JEOE, JEOM","JEO 256 MIN DD
+veya JEO 256E MIN DD
+veya JEO 252 MIN DD
+veya JEO 252E MIN DD",Yok/None

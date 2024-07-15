@@ -1,0 +1,74 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30358,GEO 103E,Fundamentals of Surveying,,"Mustafa Yanalak, Mehmet İşiler","INB
+INB","Pazartesi
+Çarşamba","1230/1729
+1300/1729","B203
+B203",60,12,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+1,30076,GEO 109E,Analy. Geom. and Vect. Algeb.,,Ramazan Alper Kuçak,"INB
+INB","Salı
+Perşembe","0830/1259
+0830/1059","B306
+B306",30,17,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+2,30375,GEO 204E,Th.of Err. And Ad. C.,,Serdar Erol,"INB
+INB","Salı
+Cuma","1330/1759
+1400/1859","B308
+B308",50,18,Yok/None,"GEO, GEOE","GEO 215E MIN DD
+veya GEO 225E MIN DD
+veya MAT 271 MIN DD
+veya MAT 271E MIN DD
+veya JDF 232 MIN DD
+veya JDF 232E MIN DD",Yok/None
+3,30357,GEO 212E,Engineering Surveying,,"Mustafa Yanalak, Mehmet İşiler","INB
+INB","Perşembe
+Cuma","1330/1629
+0830/1229","D201
+D201",60,48,Yok/None,"GEO, GEOE","GEO 213 MIN DD
+veya GEO 213E MIN DD
+veya JDF 211 MIN DD
+veya JDF 211E MIN DD",Yok/None
+4,30352,GEO 216E,Computer Aided Map Design,,Mehmet Ufuk Özerman,"INB
+INB","Salı
+Perşembe","0830/1329
+0830/1259","D103
+D103",35,25,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+5,30353,GEO 220E,Mathematics for Geomatics Eng.,,Mehmet Ufuk Özerman,"INB
+INB
+INB","Pazartesi
+Çarşamba
+Çarşamba","1330/1559
+0830/1059
+1330/1529","D201
+D201
+D201",40,40,Yok/None,"GEO, GEOE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+6,30354,GEO 225E,Prob.and Stat. for Geom. Eng.,,"Mustafa Yanalak, Mehmet İşiler","INB
+INB","Perşembe
+Cuma","0830/1329
+1400/1559","D201
+D201",50,43,Yok/None,"GEO, GEOE",Yok/None,Yok/None
+7,30077,GEO 308,Taşınmaz Değerlemesi,,Reha Metin Alkan,INB,Salı,0830/1329,B204,30,15,Yok/None,GEO,Yok/None,Yok/None
+8,30374,GEO 314E,Geodesy II and Projections,,Serdar Erol,"INB
+INB","Pazartesi
+Salı","1600/1759
+0830/1329","B308
+B308",50,33,Yok/None,"GEO, GEOE","GEO 203 MIN DD
+veya GEO 203E MIN DD
+veya JDF 341 MIN DD
+veya JDF 341E MIN DD",Yok/None
+9,30362,GEO 321,Özel Ölçme Uygulamaları,,Reha Metin Alkan,INB,Çarşamba,0900/1359,B204,30,10,Yok/None,GEO,"GEO 104 MIN DD
+veya GEO 104E MIN DD
+veya JDF 112 MIN DD
+veya JDF 112E MIN DD
+veya JDF 182 MIN DD
+veya JDF 182E MIN DD
+veya GEO 114 MIN DD
+veya GEO 114E MIN DD",Yok/None
+10,30373,GEO 322E,Land Management,,--,INB,Salı,0830/1329,B307,0,0,Yok/None,"GEO, GEOE","GEO 303 MIN DD
+veya GEO 303E MIN DD
+veya JDF 361 MIN DD
+veya JDF 361E MIN DD",Yok/None
+11,30078,GEO 476,Geo. Müh. Proje Planlama Yön.,,Reha Metin Alkan,INB,Perşembe,0830/1329,B204,30,14,Yok/None,GEO,Yok/None,Yok/None

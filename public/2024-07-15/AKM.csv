@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30317,AKM 204,Akışkanlar Mekaniği,,Necati Erdem Ünal,"INB
+INB","Pazartesi
+Salı","0930/1229
+1330/1729","A202
+A202",30,27,Yok/None,"CEV, DUI, INS","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None
+1,30320,AKM 204E,Fluid Mechanics,,Erdal Kesgin,"INB
+INB","Çarşamba
+Çarşamba","0900/1229
+1330/1659","B202
+B202",30,40,Yok/None,"CEV, CEVE, INS, INSE","MAT 102 MIN DD
+veya MAT 102E MIN DD
+veya MAT 104 MIN DD
+veya MAT 104E MIN DD",Yok/None

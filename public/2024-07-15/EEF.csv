@@ -1,0 +1,42 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30286,EEF 211E,Basics of Electrical Circuits,,Metin Hüner,"EEB
+EEB","Salı
+Perşembe","1230/1629
+1330/1629","5102
+5102",55,63,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+1,30303,EEF 211E,Basics of Electrical Circuits,,Bilgi Görkem Yazgaç,"EEB
+EEB","Salı
+Perşembe","1230/1629
+1330/1629","5104
+5104",55,64,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","MAT 281 MIN DD
+veya MAT 281E MIN DD
+veya EEF 281 MIN DD
+veya EEF 281E MIN DD",Yok/None
+2,30315,EEF 262E,Fundamentals of Electronics,,İsmail Serdar Özoğuz,"EEB
+EEB
+EEB","Pazartesi
+Pazartesi
+Çarşamba","0930/1229
+1330/1629
+0930/1259","6309
+6309
+6309",100,103,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None
+3,30316,EEF 262E,Fundamentals of Electronics,,"Mustafa Altun, Hacer Atar Yıldız","EEB
+EEB
+EEB","Pazartesi
+Pazartesi
+Çarşamba","0930/1229
+1330/1629
+0930/1259","5202
+5202
+5202",100,106,Yok/None,"EEE, EHB, EHBE, ELK, ELKE, KOM, KOME","EHB 211 MIN DD
+veya EHB 211E MIN DD
+veya EEF 211 MIN DD
+veya EEF 211E MIN DD",Yok/None

@@ -1,0 +1,129 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30366,MAK 105,Makine Tasarımına Giriş,,Adem Candaş,"MKB
+MKB
+MKB
+MKB","Salı
+Salı
+Çarşamba
+Çarşamba","0930/1329
+1430/1629
+0930/1329
+1430/1629","R358
+R358
+R358
+R358",70,0,Yok/None,"IML, MAK",Yok/None,Yok/None
+1,30367,MAK 107,Makina Tasarımına Giriş,,--,"MKB
+MKB","Salı
+Çarşamba","0930/1329
+0930/1229","---
+---",0,0,Yok/None,"IML, MAK",Yok/None,Yok/None
+2,30368,MAK 213,Malzeme Bilimi,,Levent Trabzon,"MKB
+MKB","Pazartesi
+Perşembe","0830/1229
+1300/1829","A363
+A363",100,88,Yok/None,"IML, MAK",Yok/None,Yok/None
+3,30369,MAK 219,Mukavemet I,,Adil Yücel,"MKB
+MKB","Salı
+Çarşamba","0830/1229
+1300/1829","D318
+D318",120,45,Yok/None,"MAK, MKN","MAK 118 MIN DD
+veya MAK 118E MIN DD
+veya STA 201 MIN DD
+veya STA 201E MIN DD
+veya STA 202 MIN DD
+veya STA 202E MIN DD
+veya STA 204 MIN DD
+veya STA 204E MIN DD",Yok/None
+4,30370,MAK 220,Mukavemet II,,Adil Yücel,"MKB
+MKB","Salı
+Çarşamba","1300/1829
+0830/1229","D318
+D318",120,115,Yok/None,"MAK, MKN","MAK 219 MIN DD
+veya MAK 219E MIN DD
+veya MUK 209 MIN DD
+veya MUK 209E MIN DD",Yok/None
+5,30371,MAK 224E,Engineering Materials,,Levent Trabzon,"MKB
+MKB","Cuma
+Cuma","1030/1229
+1430/1729","A363
+A363",100,36,Yok/None,"IML, MAK","(MAK 213 MIN DD
+veya MAK 213E MIN DD
+veya MAL 201 MIN DD
+veya MAL 201E MIN DD)
+ve (MAK 200 MIN DD
+veya MAK 200E MIN DD)",Yok/None
+6,30387,MAK 228,Akışkanlar Mekaniği I,,Hasan Güneş,"MKB
+MKB","Salı
+Perşembe","0930/1229
+0930/1329","A201
+A201",80,75,Yok/None,"MAK, MAKM","(MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 205 MIN DD
+veya TER 205E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 215 MIN DD
+veya MAK 215E MIN DD)",Yok/None
+7,30388,MAK 229,Akışkanlar Mekaniği II,,Hasan Güneş,"MKB
+MKB","Salı
+Perşembe","1330/1629
+1330/1729","A201
+A201",80,57,Yok/None,MAK,"MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 208 MIN DD
+veya AKM 208E MIN DD",Yok/None
+8,30389,MAK 313,Isı Geçişi,,Ali İhsan Koca,"MKB
+MKB","Pazartesi
+Salı","0830/1329
+0830/1259","D318
+A363",100,69,Yok/None,"MAK, MAKM","(MAT 201E MIN DD
+veya MAT 201 MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD)
+ve (TER 206 MIN DD
+veya TER 206E MIN DD
+veya MAK 212 MIN DD
+veya MAK 212E MIN DD
+veya MAK 226 MIN DD
+veya MAK 226E MIN DD)
+ve (AKM 208 MIN DD
+veya AKM 208E MIN DD
+veya AKM 204 MIN DD
+veya AKM 204E MIN DD
+veya MAK 228 MIN DD
+veya MAK 228E MIN DD
+veya AKM 205 MIN DD
+veya AKM 205E MIN DD)",Yok/None
+9,30372,MAK 315,Mekanik Titreşimler,,Akif Yavuz,"MKB
+MKB","Pazartesi
+Perşembe","1330/1729
+0930/1229","A363
+A363",120,72,Yok/None,"IML, MAK, MAKM, MKN","(DNK 205 MIN DD
+veya DNK 205E MIN DD
+veya DNK 203 MIN DD
+veya DNK 203E MIN DD
+veya MEK 205 MIN DD
+veya MEK 205E MIN DD
+veya MEK 207 MIN DD
+veya MEK 207E MIN DD
+veya DNK 201 MIN DD
+veya DNK 201E MIN DD
+veya MAK 217 MIN DD
+veya MAK 217E MIN DD)
+ve (MAT 201 MIN DD
+veya MAT 201E MIN DD
+veya MAT 210 MIN DD
+veya MAT 210E MIN DD
+veya MAK 210 MIN DD
+veya MAK 210E MIN DD)
+ve (MAT 261 MIN DD
+veya MAT 261E MIN DD
+veya MAK 114 MIN DD
+veya MAK 114E MIN DD)",Yok/None

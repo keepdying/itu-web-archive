@@ -1,0 +1,39 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30323,ECN 103E,Markets and Ethics,,--,MED,Salı,0830/1129,---,0,0,Yok/None,"ECNE, EFN",Yok/None,Yok/None
+1,30322,ECN 105E,Principles of Microeconomics,,--,MED,Perşembe,0830/1229,---,0,0,Yok/None,"ECNE, ECNM, EFN, MET",Yok/None,Yok/None
+2,30326,ECN 201E,Intermediate Microeconomics,,--,MED,Perşembe,0830/1229,---,0,0,Yok/None,"ECNE, ISL, ISLE","ECN 101E MIN DD
+veya ISL 233 MIN DD
+veya ISL 233E MIN DD
+veya ECN 105E MIN DD
+veya EKO 201E MIN DD",Yok/None
+3,30327,ECN 207E,Mathematical Economics,,--,MED,Çarşamba,0830/1229,---,0,0,Yok/None,"ECNE, ECNM",Yok/None,Yok/None
+4,30324,ECN 211E,Statistical Meth. in Economics,,--,MED,Perşembe,1330/1729,---,0,0,Yok/None,"ECNE, EFN",Yok/None,Yok/None
+5,30328,ECN 301E,Econometrics I,,--,MED,Salı,1330/1729,---,0,0,Yok/None,"ECNE, ECNM, EFN, ESS","ECN 206E MIN DD
+veya ECN 205E MIN DD
+veya ECN 209E MIN DD
+veya ECN 212E MIN DD
+veya ECN 211E MIN DD",Yok/None
+6,30329,ECN 303E,Development Economics,,--,MED,Pazartesi,1430/1729,---,0,0,Yok/None,"ECNE, ECNM, ESS",ECN 201E MIN DD,Yok/None
+7,30331,ECN 305E,Industrial Organisation,,--,MED,Pazartesi,0830/1129,---,0,0,Yok/None,"ECNE, ECNM, EFN, ESS",ECN 201E MIN DD,Yok/None
+8,30330,ECN 307E,Game Theory,,--,----,----,----,----,0,0,Yok/None,"ECNE, MAT","ECN 201E MIN DD
+veya (EKO 201E MIN DD
+ve END 252E MIN DD)
+veya (EKO 201 MIN DD
+ve MAT 221 MIN DD)
+veya (EKO 201E MIN DD
+ve MAT 221 MIN DD)
+veya (EKO 201 MIN DD
+ve MAT 221E MIN DD)
+veya (EKO 201E MIN DD
+ve MAT 221E MIN DD)",Yok/None
+9,30333,ECN 309E,"Money, Banking&Financial Mark.",,--,MED,Salı,0830/1129,---,0,0,Yok/None,"ECNE, ECNM, ESS",ECN 202E MIN DD,Yok/None
+10,30332,ECN 311E,International Trade,,--,MED,Perşembe,0830/1129,---,0,0,Yok/None,"ECNE, ECNM, ESS",ECN 201E MIN DD,Yok/None
+11,30334,ECN 401E,Turkish Economy,,--,MED,Cuma,0830/1129,---,0,0,Yok/None,"ECNE, ESS","ECN 301E MIN DD
+veya ECN 202E MIN DD",Yok/None
+12,30338,ECN 420E,Behavioural Economics,,--,MED,Pazartesi,1430/1729,---,0,0,Yok/None,"ECNE, EFN, END, ENDE, ESS",ECN 201E MIN DD,Yok/None
+13,30337,ECN 431E,Europ.Economics & Institutions,,--,MED,Cuma,1430/1729,---,0,0,Yok/None,"ECNE, EFN, ESS",ECN 202E MIN DD,Yok/None
+14,30335,ECN 432E,Labor Economics,,--,MED,Perşembe,1130/1429,---,0,0,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+15,30336,ECN 433E,Regulatory Econ.& Reg. Markets,Çevrimiçi/Online,--,----,Salı,1130/1429,----,0,0,Yok/None,"ECNE, EFN, ESS",ECN 201E MIN DD,Yok/None
+16,30340,ECN 4902E,Graduation Project,,--,MED,----,/,---,0,0,Yok/None,"ECNE, EFN, ESS",ECN 301E MIN DD,4.Sınıf
+17,30339,ECN 492E,Graduation Project,,--,MED,----,/,---,0,0,Yok/None,ECNE,Diğer Şartlar,4.Sınıf

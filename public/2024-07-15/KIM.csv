@@ -1,0 +1,74 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30191,KIM 101,Genel Kimya I,,Altuğ Mert Sevim,"MED
+MED","Salı
+Çarşamba","0830/1229
+1300/1559","A12
+A14",140,107,Yok/None,"BIO, BLG, CHZ, DEN, EHB, ELE, ELH, ELK, GID, IML, INS, JEF, JEO, KIMM, KMM, KMMM, KOM, MAD, MAK, MAT, MET, PET, TEK, TEKM, TEL, UCK, UCKM, UZB, UZBM",Yok/None,Yok/None
+1,30280,KIM 101,Genel Kimya I,,Argun Talat Gökçeören,"MED
+MED","Çarşamba
+Çarşamba","0930/1229
+1330/1729","A12
+A15",130,74,Yok/None,"BIO, BLG, CHZ, DEN, EHB, ELE, ELH, ELK, GID, IML, INS, JEF, JEO, KIMM, KMM, KMMM, KOM, MAD, MAK, MAT, MET, PET, TEK, TEKM, TEL, UCK, UCKM, UZB, UZBM",Yok/None,Yok/None
+2,30379,KIM 101E,General Chemistry I,,Yasin Arslanoğlu,"DZB
+DZB","Pazartesi
+Pazartesi","0830/1129
+1230/1629","---
+---",15,24,Yok/None,"DUI, GMI, MEN, MTM",Yok/None,Yok/None
+3,30192,KIM 101E,General Chemistry I,,Altuğ Mert Sevim,"MED
+MED","Salı
+Perşembe","1300/1559
+0830/1229","A11
+A13",165,161,Yok/None,"BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, IML, IMLE, IND, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MEN, MET, METE, MTM, MTO, MTOE, NAE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+4,30193,KIM 101E,General Chemistry I,,Muhammet Übeydullah Kahveci,"MED
+MED","Çarşamba
+Perşembe","0830/1229
+1400/1659","A14
+A14",165,165,Yok/None,"BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EEE, EHB, EHBE, ELE, ELH, ELK, ELKE, END, ENDE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, IML, IMLE, IND, INS, INSE, ISL, ISLE, JDF, JEF, JEFE, JEO, JEOE, KIMM, KMM, KMME, KMMM, KOM, KOME, MAD, MADE, MAK, MAKE, MAT, MATE, MEN, MET, METE, MTM, MTO, MTOE, NAE, PET, PETE, SEH, TEK, TEKE, TEKM, TEL, UCK, UCKE, UCKM, UZB, UZBE, UZBM",Yok/None,Yok/None
+5,30305,KIM 101EL,General Chemistry I Lab,,--,"DZB
+DZB","Perşembe
+Perşembe","0930/1229
+1330/1529","---
+---",0,0,Yok/None,"DUI, GMI, MEN, MTM",Yok/None,Yok/None
+6,30279,KIM 202E,Physical Chemistry,,Argun Talat Gökçeören,"FEB
+FEB","Salı
+Salı","0830/1229
+1330/1629","D106
+D106",50,18,Yok/None,"BIO, BIOE, CEV, CEVE, CHZE, DENE, EHB, EHBE, ELK, ELKE, GEME, GEMK, GIDE, INS, INSE, JEOE, KMM, KMME, KOM, KOME, MADE, MEN, MET, METE, PETE","KIM 101 MIN DD
+veya KIM 101E MIN DD",Yok/None
+7,30194,KIM 224E,Inorganic Chemistry II,,Altuğ Mert Sevim,"FEB
+FEB","Çarşamba
+Perşembe","0830/1229
+1300/1559","D105
+D105",50,12,Yok/None,KIM,"KIM 351 MIN DD
+veya KIM 351E MIN DD
+veya KIM 223 MIN DD
+veya KIM 223E MIN DD",Yok/None
+8,30196,KIM 231,Organik Kimya I,,Turan Öztürk,"FEB
+FEB","Pazartesi
+Salı","0830/1329
+0830/1259","D205
+D205",50,20,Yok/None,"KIM, KIMM","KIM 111 MIN DD
+veya KIM 111E MIN DD",Yok/None
+9,30197,KIM 232,Organik Kimya II,,Turan Öztürk,"FEB
+FEB
+FEB","Salı
+Perşembe
+Perşembe","1430/1729
+0930/1259
+1430/1729","D205
+D205
+D205",50,26,Yok/None,KIM,"KIM 231 MIN DD
+veya KIM 231E MIN DD",Yok/None
+10,30195,KIM 326E,Introduction to Biochemistry,,Muhammet Übeydullah Kahveci,"FEB
+FEB","Çarşamba
+Cuma","1400/1659
+0830/1229","D206
+D206",60,44,Yok/None,"KIM, KIMM","KIM 231 MIN DD
+veya KIM 231E MIN DD
+veya KIM 104 MIN DD
+veya KIM 104E MIN DD
+veya KIM 205 MIN DD
+veya KIM 205E MIN DD
+veya KIM 303 MIN DD
+veya KIM 303E MIN DD",Yok/None

@@ -1,0 +1,31 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,"Reservation
+Maj./Cap./Enrl.",Major Restriction,Prerequisites,Class Rest.
+0,30188,MTO 214,Atmosfer Termodinamiği,,Kasım Koçak,"UUB
+UUB","Pazartesi
+Salı","1230/1729
+1230/1659","D209
+D209",30,20,Yok/None,"MTO, MTOM",Yok/None,Yok/None
+1,30348,MTO 301,Meteo.Uzaktan Algılamanın Tem.,,Ahmet Öztopal,UUB,Çarşamba,1230/1729,D213,25,12,Yok/None,MTO,Yok/None,Yok/None
+2,30189,MTO 311E,Data Analysis,,Kasım Koçak,"UUB
+UUB
+UUB
+UUB","Çarşamba
+Çarşamba
+Perşembe
+Perşembe","0830/1129
+1330/1629
+0830/1229
+1330/1529","D209
+D209
+D209
+D209",30,8,Yok/None,MTO,Yok/None,Yok/None
+3,30190,MTO 340,Atmosfer Dinamiği II,,Elçin Tan,"UUB
+UUB","Salı
+Çarşamba","1300/1729
+1230/1729","D215
+D215",50,61,Yok/None,"MTO, MTOM","MTO 331 MIN DD
+veya MTO 331E MIN DD
+veya MTO 333 MIN DD
+veya MTO 333E MIN DD
+veya MTO 337 MIN DD
+veya MTO 337E MIN DD",Yok/None
