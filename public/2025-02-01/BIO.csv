@@ -1,0 +1,26 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23400,BIO 101,General Biology,Fiziksel (Yüz yüze),Pelin Dilsiz Erim,MOBGAM,Thursday,10:30/13:29 -,--,30,0,-,MBI_LS,-,-
+1,22514,BIO 106E,General Biology II,Fiziksel (Yüz yüze),Murat Kaya,FEB,Thursday,08:30/11:29 -,D102,90,0,-,BIO_LS; BIO_YD; BIOE_LS,Detail,-
+2,22516,BIO 106EL,General Biology II Lab.,Fiziksel (Yüz yüze),Murat Kaya,FEB,Thursday,14:30/17:29 -,--,90,0,-,BIO_LS; BIO_YD; BIOE_LS,-,-
+3,22518,BIO 212E,Genetics,Fiziksel (Yüz yüze),Burcu Biterge Süt,FEB,Tuesday,11:30/14:29 -,D102,85,0,-,BIO_LS; BIO_YD; BIOE_LS,Detail,-
+4,23183,BIO 214,Mikrobiyoloji,Fiziksel (Yüz yüze),Pervin Başaran Akocak,KMB,Friday,14:00/16:59 -,D105,25,0,-,KMM_LS,-,-
+5,22521,BIO 216E,Microbiology,Fiziksel (Yüz yüze),Zeynep Petek Çakar ;Ayten Karataş,FEB,Monday,08:30/11:29 -,D102,80,0,-,BIO_LS; BIO_YD; BIOE_LS,Detail,-
+6,22519,BIO 216EL,Microbiology Lab.,Fiziksel (Yüz yüze),Ayten Karataş,FEB,Tuesday,14:30/17:29 -,--,80,0,-,BIO_LS; BIO_YD; BIOE_LS,Detail,-
+7,22522,BIO 232E,Organic Chem. for Biologists,Fiziksel (Yüz yüze),Bülent Balta,FEB,Friday,14:30/17:29 -,D102,100,0,-,BIO_LS; BIOE_LS,Detail,-
+8,22569,BIO 301E,Fundamentals of Biology,Fiziksel (Yüz yüze),Ece Polat,FEB,Tuesday,11:30/14:29 -,D201,55,0,CHZ/5/0 | EHB/5/0 | EHBE/5/0 | FIZ/5/0 | GID/5/0 | KIM/5/0 | KOM/5/0 | KOME/5/0 | KMM/5/0 | Diğer/10/0,CEV_LS; CEVE_LS; CHZ_LS; CHZE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; ELE_LS; ELH_LS; ELK_LS; ELKE_LS; FIZ_LS; FIZE_LS; GID_LS; INS_LS; INSE_LS; ISL_LS; ISLE_LS; JEO_LS; JEOE_LS; KIM_LS; KIME_LS; KMM_LS; KOM_LS; KOME_LS; MAD_LS; MADE_LS; MET_LS; METE_LS; PET_LS; PETE_LS; TEL_LS,-,-
+9,22570,BIO 301E,Fundamentals of Biology,Fiziksel (Yüz yüze),Ece Polat,FEB,Thursday,11:30/14:29 -,L400,55,0,CHZ/5/0 | EHB/5/0 | EHBE/5/0 | FIZ/5/0 | GID/5/0 | KIM/5/0 | KOM/5/0 | KOME/5/0 | KMM/5/0 | Diğer/10/0,CEV_LS; CEVE_LS; CHZ_LS; CHZE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; ELE_LS; ELH_LS; ELK_LS; ELKE_LS; FIZ_LS; FIZE_LS; GID_LS; INS_LS; INSE_LS; ISL_LS; ISLE_LS; JEO_LS; JEOE_LS; KIM_LS; KIME_LS; KMM_LS; KOM_LS; KOME_LS; MAD_LS; MADE_LS; MET_LS; METE_LS; PET_LS; PETE_LS; TEL_LS,-,-
+10,22524,BIO 326E,Mol. Evolution & Biodiversity,Fiziksel (Yüz yüze),Murat Kaya,FEB,Thursday,12:30/14:29 -,D102,80,0,-,BIO_LS; BIOE_LS,Detail,-
+11,22526,BIO 328E,Biochemistry II,Fiziksel (Yüz yüze),Nevin Gül Karagüler,FEB,Monday,11:30/14:29 -,D304,75,0,-,BIO_LS; BIOE_LS,Detail,-
+12,22528,BIO 328EL,Biochemistry II Lab.,Fiziksel (Yüz yüze),Nevin Gül Karagüler,FEB,Friday,09:30/12:29 -,--,80,0,-,BIO_LS; BIOE_LS,Detail,-
+13,22530,BIO 332E,Modern Techniques in Biology,Fiziksel (Yüz yüze),Abdulhalim Kılıç,FEB,Monday,08:30/11:29 -,D103,70,0,-,BIO_LS; BIOE_LS,Detail,-
+14,22532,BIO 342E,Enzymology,Fiziksel (Yüz yüze),Nevin Gül Karagüler,FEB,Tuesday,14:30/17:29 -,D306,40,0,-,BIO_LS; BIOE_LS,Detail,-
+15,22537,BIO 415EL,Molecular Biology Lab.,Fiziksel (Yüz yüze),Arzu Karabay Korkmaz,FEB,Wednesday,09:30/12:29 -,--,90,0,-,BIO_LS; BIO_YD; BIOE_LS,Detail,-
+16,22534,BIO 417E,Molecular Biology,Fiziksel (Yüz yüze),Aslı Kumbasar ;Arzu Karabay Korkmaz,FEB,Thursday,14:30/17:29 -,D102,90,0,-,BIO_LS; BIO_YD; BIOE_LS,Detail,-
+17,22539,BIO 442E,Molecular Immunology,Fiziksel (Yüz yüze),Ceren Çıracı Muğan,FEB,Thursday,08:30/11:29 -,L300,40,0,-,BIO_LS; BIOE_LS,Detail,-
+18,22542,BIO 451E,Industrial Microbiology,Fiziksel (Yüz yüze),Çiğdem Yılmaz Çolak,FEB,Friday,14:30/17:29 -,D101,40,0,-,BIO_LS; BIOE_LS,Detail,-
+19,22544,BIO 462E,Prot. Struct.-Function Relat.,Fiziksel (Yüz yüze),Gizem Dinler Doğanay,FEB,Monday,14:30/17:29 -,D105,40,0,-,BIO_LS; BIOE_LS,Detail,-
+20,22547,BIO 463E,Molecular Neurobiology,Fiziksel (Yüz yüze),Aslı Kumbasar ;Pelin Dilsiz Erim,FEB,Tuesday,11:30/14:29 -,D206,40,0,-,BIO_LS; BIOE_LS,Detail,-
+21,22562,BIO 4901E,Mol Bio & Genetics Design I,Fiziksel (Yüz yüze),Bülent Balta,-,-,-/- -,-,100,0,-,BIO_LS; BIOE_LS,Detail,Detail
+22,22564,BIO 4902E,Mol Bio & Genetics Design II,Fiziksel (Yüz yüze),Bülent Balta,-,-,-/- -,-,100,0,-,BIO_LS; BIOE_LS,Detail,-
+23,22549,BIO 490E,Cancer Biology,Fiziksel (Yüz yüze),Ceren Çıracı Muğan ;Burcu Biterge Süt,FEB,Wednesday,12:30/15:29 -,D101,40,0,-,BIO_LS; BIOE_LS,Detail,-
+24,22560,BIO 492E,Graduation Project,Fiziksel (Yüz yüze),Bülent Balta,-,-,-/- -,-,100,0,-,BIO_LS; BIOE_LS,-,Detail

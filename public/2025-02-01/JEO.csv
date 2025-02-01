@@ -1,0 +1,46 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21560,JEO 121,Yer Bilimlerinde Tas. Geometri,Fiziksel (Yüz yüze),Şenel Özdamar ;Gökhan Şans,MDB,Friday,08:30/11:29 -,B205,60,0,-,JEF_LS,-,-
+1,21678,JEO 204E,Petrog. of Magmatic Rocks,Fiziksel (Yüz yüze),Mehmet Keskin,MDB,Tuesday,08:30/11:29 -,A105,30,0,-,JEO_LS; JEO_YD; JEOE_LS,Detail,-
+2,21680,JEO 204E,Petrog. of Magmatic Rocks,Fiziksel (Yüz yüze),Şafak Altunkaynak ;Alp Ünal,MDB,Tuesday,13:30/16:29 -,A102,30,0,-,JEO_LS; JEO_YD; JEOE_LS,Detail,-
+3,21683,JEO 211,Mineraloji,Fiziksel (Yüz yüze),Şenel Özdamar ;Bala Ekinci Şans,MDB,Monday,08:30/11:29 -,A302,30,0,-,JEO_LS,Detail,-
+4,21684,JEO 211,Mineraloji,Fiziksel (Yüz yüze),Zekiye Karacık ;Fatma Gülmez Yıldırım,MDB,Thursday,14:30/17:29 -,A202,30,0,-,JEO_LS,Detail,-
+5,21583,JEO 254,Yapısal Jeolojiye Giriş,Fiziksel (Yüz yüze),İrem Elitez,MDB,Thursday,13:30/15:29 -,A302,60,0,-,JEF_LS,-,-
+6,21687,JEO 256E,Structural Geology,Fiziksel (Yüz yüze),Borıs Natalın,MDB,Wednesday,12:30/15:29 -,B205,80,0,-,JEO_LS; JEO_YD; JEOE_LS,Detail,-
+7,21690,JEO 262E,Stratigraphy,Fiziksel (Yüz yüze),Borıs Natalın,MDB,Thursday,08:30/10:29 -,A201,60,0,-,JEO_LS; JEO_YD; JEOE_LS,-,-
+8,21391,JEO 263,Ölçme Bilgisi,Fiziksel (Yüz yüze),Adil Enis Arslan,INB,Monday,13:30/16:29 -,A204,70,0,-,JEO_LS,-,-
+9,21691,JEO 311,Şev Stabilitesi Analizleri,Fiziksel (Yüz yüze),Erkan Bozkurtoğlu,MDB,Thursday,13:30/16:29 -,B206,20,0,-,JEO_LS,-,-
+10,21692,JEO 312,Saha Jeoloji,Fiziksel (Yüz yüze),Cengiz Zabcı,MDB,Monday,13:30/17:29 -,A204,60,0,-,JEO_LS; JEO_YD,Detail,-
+11,21563,JEO 315,Jeolojide Arz. ve Hrta Tekn.,Fiziksel (Yüz yüze),Hüsnü Serdar Akyüz ;Ufuk Tarı,MDB,Wednesday,12:30/15:29 -,A301,50,0,-,JEF_LS,-,-
+12,21694,JEO 322,Hidrojeoloji,Fiziksel (Yüz yüze),Erkan Bozkurtoğlu,MDB,Tuesday,08:30/12:29 -,A203,60,0,-,JEO_LS; JEO_YD,Detail,-
+13,21696,JEO 330,Maden Yatakları,Fiziksel (Yüz yüze),Emin Çiftçi ;Mustafa Kaya,MDB,Monday,08:30/12:29 -,B208,60,0,-,JEO_LS,Detail,-
+14,21697,JEO 335,Uygulamalı Zemin Mekaniği,Fiziksel (Yüz yüze),Erkan Bozkurtoğlu,MDB,Thursday,08:30/11:29 -,A301,20,0,-,JEO_LS,-,-
+15,21698,JEO 348,Sedimenter Kayaç Petrografisi,Fiziksel (Yüz yüze),Hüsnü Serdar Akyüz ;Ümmühan Sadet Sancar,MDB,Friday,08:30/11:29 -,B206,30,0,-,JEO_LS; JEO_YD,Detail,-
+16,21699,JEO 348,Sedimenter Kayaç Petrografisi,Fiziksel (Yüz yüze),Kürşad Kadir Eriş ;Nurettin Yakupoğlu,MDB,Wednesday,08:30/11:29 -,A302,30,0,-,JEO_LS; JEO_YD,Detail,-
+17,21700,JEO 355E,Sedimentology,Fiziksel (Yüz yüze),Gülsen Uçarkuş,MDB,Wednesday,09:30/11:29 -,B204,60,0,-,JEO_LS; JEO_YD; JEOE_LS,-,-
+18,21701,JEO 357E,Experimental Rock Mechanics,Fiziksel (Yüz yüze),Kayhan Develi,MDB,Friday,14:30/17:29 -,A302,20,0,-,JEO_LS; JEOE_LS,-,-
+19,21693,JEO 359,Saha Jeolojisi,Fiziksel (Yüz yüze),Gürsel Sunal,MDB,Monday,13:30/16:29 -,A205,60,0,-,JEO_LS; JEO_YD,Detail,-
+20,21695,JEO 362,Hidrojeoloji,Fiziksel (Yüz yüze),İrfan Yolcubal,MDB,Tuesday,08:30/12:29 -,A204,60,0,-,JEO_LS; JEO_YD,Detail,-
+21,21702,JEO 386E,Applied Geophysics,Fiziksel (Yüz yüze),Ahmet Murat Akoğlu,MDB,Tuesday,14:30/17:29 -,A105,20,0,-,JEO_LS; JEOE_LS,Detail,-
+22,21703,JEO 391,Zemin Mekaniğine Giriş,Fiziksel (Yüz yüze),Erkan Bozkurtoğlu,MDB,Tuesday,14:30/17:29 -,B208,20,0,-,JEO_LS,-,-
+23,21770,JEO 398E,Well Logging,Fiziksel (Yüz yüze),Sedat İnan,MDB,Friday,14:30/17:29 -,A301,20,0,-,JEO_LS; JEOE_LS,Detail,-
+24,21654,JEO 406E,Fossil Fuels Geology,Fiziksel (Yüz yüze),Sedat İnan ;Zeynep Döner,MDB,Thursday,11:30/14:29 -,A103,60,0,-,JEO_LS; JEOE_LS,Detail,-
+25,21657,JEO 408,Jeoloji Mühendisliğinde Seçmeli Konular,Fiziksel (Yüz yüze),Şenel Özdamar,MDB,Monday,11:30/17:29 -,A103,100,0,-,JEO_LS,Detail,-
+26,21659,JEO 408E,Selected Topics in Geological Engineering,Fiziksel (Yüz yüze),Alp Ünal,MDB,Monday,11:30/17:29 -,A301,100,0,-,JEO_LS; JEOE_LS,Detail,-
+27,21661,JEO 409,Türkiye Jeolojisi,Fiziksel (Yüz yüze),Cenk Yaltırak,MDB,Wednesday,10:30/12:29 -,A204,60,0,-,JEO_LS; JEO_YD,-,-
+28,21679,JEO 422E,Neotectonics,Fiziksel (Yüz yüze),Cengiz Zabcı ;Ahmet Murat Akoğlu,MDB,Thursday,14:30/16:29 -,A102,20,0,-,JEO_LS; JEOE_LS,-,-
+29,22225,JEO 439,Yerbilimlerinde CBS Uygulamaları,Fiziksel (Yüz yüze),Gürsel Sunal ;Ufuk Tarı,MDB,Tuesday,08:30/10:29 -,A301,20,0,-,JEO_LS,-,-
+30,21704,JEO 449E,Chrc.of Disc.Medi-Mch.&Hyd.Pr.,Fiziksel (Yüz yüze),Kayhan Develi,MDB,Thursday,13:30/16:29 -,B208,20,0,-,JEO_LS; JEOE_LS,-,-
+31,21674,JEO 454E,Mineral Explorations,Fiziksel (Yüz yüze),Emin Çiftçi ;Hüseyin Kocatürk,MDB,Wednesday,10:30/12:29 -,A201,20,0,-,JEO_LS; JEOE_LS,-,-
+32,21672,JEO 456E,Geomicrobiology,Fiziksel (Yüz yüze),Nurgül Çelik Balcı,MDB,Tuesday,13:30/15:29 -,A301,20,0,-,JEO_LS; JEOE_LS,-,-
+33,21682,JEO 462E,Energy Raw Materials,Fiziksel (Yüz yüze),Sedat İnan ;Zeynep Döner,MDB,Tuesday,11:30/13:29 -,B206,20,0,-,JEO_LS; JEOE_LS,-,-
+34,21677,JEO 464E,Geothermal Systems,Fiziksel (Yüz yüze),Fatma Gülmez Yıldırım,MDB,Tuesday,13:30/15:29 -,A203,20,0,-,JEO_LS; JEOE_LS,-,-
+35,21685,JEO 466E,Precious Metals & Mining,Fiziksel (Yüz yüze),Amr Abdelnasser Alı Khalıl ;Mustafa Kaya,MDB,Friday,08:30/10:29 -,A301,20,0,-,JEO_LS; JEOE_LS,Detail,-
+36,21686,JEO 468E,Base Metals and Mining,Fiziksel (Yüz yüze),Amr Abdelnasser Alı Khalıl ;Ali Tuğcan Ünlüer,MDB,Friday,10:30/12:29 -,A301,20,0,-,JEO_LS; JEOE_LS,Detail,-
+37,21667,JEO 4901,Jeoloji Müh. Tasarımı I,Fiziksel (Yüz yüze),Ömer Ündül,-,-,-/- -,-,100,0,-,JEO_LS; JEO_YD,Detail,Detail
+38,21668,JEO 4901E,Geological Engin. Design I,Fiziksel (Yüz yüze),Ömer Ündül,-,-,-/- -,-,100,0,-,JEO_LS; JEO_YD; JEOE_LS,Detail,Detail
+39,21669,JEO 4902,Jeoloji Müh. Tasarımı II,Fiziksel (Yüz yüze),Şenel Özdamar,-,-,-/- -,-,100,0,-,JEO_LS; JEO_YD,Detail,Detail
+40,21670,JEO 4902E,Geological Engin. Design II,Fiziksel (Yüz yüze),Ömer Ündül,-,-,-/- -,-,100,0,-,JEO_LS; JEO_YD; JEOE_LS,Detail,Detail
+41,21664,JEO 492,Bitirme Tasarım Projesi,Fiziksel (Yüz yüze),Şenel Özdamar,-,-,-/- -,-,100,0,-,JEO_LS,Detail,Detail
+42,21665,JEO 492E,Graduation Design Project,Fiziksel (Yüz yüze),Ömer Ündül,-,-,-/- -,-,100,0,-,JEO_LS; JEOE_LS,Detail,Detail
+43,21675,JEO 494E,Marine Geology,Fiziksel (Yüz yüze),Gülsen Uçarkuş ;Kürşad Kadir Eriş,MDB,Tuesday,13:30/15:29 -,A302,20,0,-,JEO_LS; JEOE_LS,-,-
+44,21681,JEO 496E,Selected Topics in Geology,Fiziksel (Yüz yüze),Nurgül Çelik Balcı,MDB,Thursday,14:30/16:29 -,A103,20,0,-,JEO_LS; JEOE_LS,-,-

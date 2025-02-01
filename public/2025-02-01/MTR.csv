@@ -1,0 +1,39 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,20963,MTR 102,Makam Teorisi II,Fiziksel (Yüz yüze),Eren Özek,TMBTMBTMB,TuesdayWednesdayThursday,10:30/12:2913:30/15:2910:30/12:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+1,20964,MTR 102,Makam Teorisi II,Fiziksel (Yüz yüze),Elif Ahıs Yunusoğlu,TMBTMBTMB,TuesdayWednesdayThursday,13:30/15:2913:30/15:2913:30/15:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+2,20965,MTR 102,Makam Teorisi II,Fiziksel (Yüz yüze),Eren Özek,TMBTMBTMB,TuesdayWednesdayThursday,15:30/17:2910:30/12:2908:30/10:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+3,20966,MTR 104,Müzik Teorisi II,Fiziksel (Yüz yüze),Ayşecan Olgun,TMBTMBTMB,TuesdayThursdayFriday,08:30/10:2913:30/15:2914:00/15:59 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+4,20967,MTR 104,Müzik Teorisi II,Fiziksel (Yüz yüze),Mehmet Özkan,TMBTMBTMB,MondayThursdayFriday,15:30/17:2910:30/12:2910:30/12:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+5,20968,MTR 104,Müzik Teorisi II,Fiziksel (Yüz yüze),Ufuk Biçak,TMBTMBTMB,MondayWednesdayThursday,13:30/15:2908:30/10:2915:30/17:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+6,20979,MTR 106,Ritim Uygulama II,Fiziksel (Yüz yüze),Erkan Kanat,TMB,Monday,10:30/12:29 -,--,25,0,-,MTR_LS,-,-
+7,20978,MTR 122,Makam Teorisi II,Fiziksel (Yüz yüze),Ali İhsan Alemli,TMBTMB,TuesdayWednesday,10:30/12:2913:30/15:29 -,----,40,0,-,THO_LS,Detail,-
+8,20982,MTR 124,Müzik Teorisi II,Fiziksel (Yüz yüze),Orkun Zafer Özgelen,TMBTMB,TuesdayWednesday,15:30/17:2908:30/10:29 -,----,25,0,-,THO_LS,Detail,-
+9,20976,MTR 142,Makam Teorisi II,Fiziksel (Yüz yüze),Ali İhsan Alemli,TMBTMB,ThursdayFriday,08:30/10:2908:30/10:29 -,----,25,0,-,BST_LS; CAB_LS; CEB_LS; KMP_LS,Detail,-
+10,20981,MTR 144,Müzik Teorisi II,Fiziksel (Yüz yüze),Orkun Zafer Özgelen,TMBTMB,MondayMonday,08:30/10:2913:30/15:29 -,----,30,0,-,BST_LS; CAB_LS; CEB_LS; KMP_LS,Detail,-
+11,20969,MTR 202,Makam Teorisi IV,Fiziksel (Yüz yüze),Nurullah Kanık,TMBTMBTMB,MondayTuesdayFriday,10:30/12:2910:30/12:2908:30/10:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+12,20970,MTR 202,Makam Teorisi IV,Fiziksel (Yüz yüze),Elif Ahıs Yunusoğlu,TMBTMBTMB,TuesdayThursdayFriday,15:30/17:2910:30/12:2910:30/12:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+13,20971,MTR 202,Makam Teorisi IV,Fiziksel (Yüz yüze),Nurullah Kanık,TMBTMBTMB,MondayTuesdayFriday,15:30/17:2913:30/15:2914:00/15:59 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+14,20972,MTR 204,Müzik Teorisi IV,Fiziksel (Yüz yüze),Ayşecan Olgun,TMBTMBTMB,TuesdayThursdayFriday,13:30/15:2915:30/17:2910:30/12:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+15,20973,MTR 204,Müzik Teorisi IV,Fiziksel (Yüz yüze),Ufuk Biçak,TMBTMBTMB,MondayTuesdayWednesday,10:30/12:2913:30/15:2913:30/15:29 -,------,40,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+16,20985,MTR 206,Müzik Teorileri Tarihi II,Fiziksel (Yüz yüze),Gülay Karamahmutoğlu,TMB,Wednesday,13:30/15:29 -,--,25,0,-,MTR_LS,-,-
+17,20988,MTR 208,Teori Uygulama II,Fiziksel (Yüz yüze),Süleyman Şenel,TMB,Tuesday,08:30/10:29 -,--,30,0,-,MTR_LS,-,-
+18,20980,MTR 222,Makam Teorisi IV,Fiziksel (Yüz yüze),Ahmet Serhat Turunç,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,25,0,-,THO_LS,Detail,-
+19,20984,MTR 224,Müzik Teorisi IV,Fiziksel (Yüz yüze),Orkun Zafer Özgelen,TMBTMB,MondayThursday,15:30/17:2908:30/10:29 -,----,25,0,-,THO_LS,Detail,-
+20,20977,MTR 242,Makam Teorisi IV,Fiziksel (Yüz yüze),Ali İhsan Alemli,TMBTMB,ThursdayFriday,10:30/12:2910:30/12:29 -,----,25,0,-,BST_LS; CAB_LS; CEB_LS; KMP_LS,Detail,-
+21,20983,MTR 244,Müzik Teorisi IV,Fiziksel (Yüz yüze),Recep Gül,TMBTMB,MondayFriday,08:30/10:2908:30/10:29 -,----,25,0,-,BST_LS; CAB_LS; CEB_LS; KMP_LS,Detail,-
+22,20989,MTR 302,İleri Makam Teorisi II,Fiziksel (Yüz yüze),Nurullah Kanık,TMBTMB,MondayTuesday,13:30/15:2908:30/10:29 -,----,40,0,-,MTR_LS,Detail,-
+23,20991,MTR 304,İleri Müzik Teorisi II,Fiziksel (Yüz yüze),Ayşecan Olgun,TMBTMB,MondayFriday,10:30/12:2916:00/17:59 -,----,25,0,-,MTR_LS,Detail,-
+24,20986,MTR 306,Müzik Teorileri Tarihi IV,Fiziksel (Yüz yüze),Gülay Karamahmutoğlu,TMB,Wednesday,10:30/12:29 -,--,25,0,-,MTR_LS,-,-
+25,20987,MTR 308,Teori Uygulama IV,Fiziksel (Yüz yüze),Gülay Karamahmutoğlu,TMB,Thursday,10:30/12:29 -,--,30,0,-,MTR_LS,-,-
+26,20990,MTR 310,Ses Sistemleri II,Fiziksel (Yüz yüze),Nurullah Kanık,TMB,Friday,10:30/12:29 -,--,25,0,-,MTR_LS,-,-
+27,20974,MTR 318,Müzikte Metin Çözümlemeleri II,Fiziksel (Yüz yüze),Kemal Hasan Karnal,TMB,Thursday,13:30/15:29 -,--,25,0,-,SES_LS,-,-
+28,20975,MTR 322,Müzikte Metin Çözümlemeleri II,Fiziksel (Yüz yüze),Kemal Hasan Karnal,TMB,Tuesday,13:30/15:29 -,--,25,0,-,MTR_LS,-,-
+29,20998,MTR 402,İleri Makam Teorisi IV,Fiziksel (Yüz yüze),Elif Ahıs Yunusoğlu,TMBTMB,WednesdayFriday,10:30/12:2914:00/15:59 -,----,40,0,-,MTR_LS,Detail,-
+30,20999,MTR 404,İleri Müzik Teorisi IV,Fiziksel (Yüz yüze),Ufuk Biçak,TMBTMB,TuesdayThursday,13:30/15:2913:30/15:29 -,----,25,0,-,MTR_LS,Detail,-
+31,21002,MTR 406,Dikte ve Deşifre II,Fiziksel (Yüz yüze),Engin Şafak Gürler,TMB,Monday,10:30/12:29 -,--,30,0,-,MTR_LS,-,-
+32,21005,MTR 408,Eser Çözümleme II,Fiziksel (Yüz yüze),Neşe Yeşim Altınel Çoban,TMB,Monday,15:30/17:29 -,--,25,0,-,MTR_LS,-,-
+33,21006,MTR 432,Dikte Deşifre II,Fiziksel (Yüz yüze),Engin Şafak Gürler,TMB,Wednesday,08:30/10:29 -,--,30,0,-,CAB_LS; CEB_LS; THO_LS,-,-
+34,21007,MTR 434,Eser Çözümleme II,Fiziksel (Yüz yüze),Neşe Yeşim Altınel Çoban,TMB,Monday,08:30/10:29 -,--,25,0,-,CAB_LS; CEB_LS,-,-
+35,21003,MTR 442,Dikte Deşifre II,Fiziksel (Yüz yüze),Engin Şafak Gürler,TMBTMB,MondayFriday,08:30/10:2908:30/10:29 -,----,30,0,-,SES_LS,-,-
+36,21004,MTR 444,Eser Çözümleme II,Fiziksel (Yüz yüze),Neşe Yeşim Altınel Çoban,TMBTMB,MondayWednesday,13:30/15:2913:30/15:29 -,----,25,0,-,SES_LS,-,-
+37,20962,MTR 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Eren Özek,-,-,-/- -,-,100,0,-,MTR_LS,-,Detail

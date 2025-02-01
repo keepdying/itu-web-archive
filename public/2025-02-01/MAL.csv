@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22221,MAL 201,Malzeme Bilimi,Fiziksel (Yüz yüze),Aytekin Uzunoğlu,EEB,Monday,08:30/11:29 -,5205,50,0,-,EHB_LS; ELK_LS; KOM_LS; ROS_LS,-,-
+1,22512,MAL 201,Malzeme Bilimi,Fiziksel (Yüz yüze),Hasan Yıldırım,INB,Tuesday,14:30/17:29 -,B101,70,0,-,CEV_LS,-,-
+2,21688,MAL 201E,Materials Science,Fiziksel (Yüz yüze),Emin Çiftçi,MDB,Friday,09:30/12:29 -,A202,70,0,-,CHZ_LS; CHZE_LS; MAD_LS; MADE_LS; PET_LS; PETE_LS,-,-
+3,22513,MAL 201E,Materials Science,Fiziksel (Yüz yüze),Bekir Yılmaz Pekmezci,INB,Tuesday,14:30/17:29 -,B103,70,0,-,CEV_LS; CEVE_LS,-,-
+4,24787,MAL 201E,Materials Science,Fiziksel (Yüz yüze),Erçin Çağan Duran,KMB,Friday,14:30/17:29 -,D203,50,0,-,ISL_LS; ISLE_LS,-,-
+5,24892,MAL 201E,Materials Science,Fiziksel (Yüz yüze),Hasan Nuri Türkmenoğlu,EEB,Friday,08:30/11:29 -,2102,50,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+6,24893,MAL 201E,Materials Science,Fiziksel (Yüz yüze),Hakan Nuri Atahan,EEB,Wednesday,08:30/11:29 -,2104,50,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-

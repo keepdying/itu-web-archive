@@ -83,7 +83,7 @@ if __name__ == "__main__":
 
     print(f"Courses to parse: {len(course_codes)}")
     headers = None
-    for idx, course_code in tqdm(enumerate(course_codes)):
+    for idx, course_code in tqdm(enumerate(course_codes), total=len(course_codes)):
         # Open dropdown
         dropdown_button = WebDriverWait(browser, TIMEOUT).until(
             EC.element_to_be_clickable((By.CSS_SELECTOR, "#select2-dersBransKoduId-container"))

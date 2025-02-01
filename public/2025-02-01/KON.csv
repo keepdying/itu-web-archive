@@ -1,0 +1,31 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22137,KON 218,Ölçme Tekniği ve Algılayıcılar,Fiziksel (Yüz yüze),-,EEB,Friday,08:30/12:29 -,5202,65,0,-,EHB_LS; ELK_LS; KOM_LS; MKN_LS,-,-
+1,22138,KON 218,Ölçme Tekniği ve Algılayıcılar,Fiziksel (Yüz yüze),-,EEB,Friday,08:30/12:29 -,5204,65,0,-,EHB_LS; ELK_LS; KOM_LS; MKN_LS,-,-
+2,22139,KON 218E,Measurement and Sensors,Fiziksel (Yüz yüze),Onur Akbatı,EEB,Thursday,08:30/12:29 -,6309,65,0,-,EEE_LS; EHBE_LS; ELKE_LS; KOME_LS,-,-
+3,22140,KON 301E,System Modelling&Simulation,Fiziksel (Yüz yüze),Abdurrahman Yılmaz,EEB,Monday,12:30/16:29 -,5105,70,0,-,KOM_LS; KOME_LS,-,-
+4,22141,KON 306,Bilgisayar Kontrollü Sistemler,Fiziksel (Yüz yüze),Ahmet Onat,EEBEEB,TuesdayWednesday,15:30/17:2912:30/14:29 -,51045104,70,0,-,KOM_LS,Detail,-
+5,22142,KON 306E,Computer Controlled Systems,Fiziksel (Yüz yüze),Yaprak Yalçın,EEBEEB,TuesdayWednesday,15:30/17:2912:30/14:29 -,51022102,70,0,-,EEE_LS; KOM_LS; KOME_LS,Detail,-
+6,22143,KON 313E,Feedback Control Systems,Fiziksel (Yüz yüze),-,EEB,Tuesday,12:30/15:29 -,5302,70,0,-,CEN_LS; EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; MKN_LS,Detail,-
+7,22144,KON 313E,Feedback Control Systems,Fiziksel (Yüz yüze),-,EEB,Tuesday,12:30/15:29 -,5304,70,0,-,CEN_LS; EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; MKN_LS,Detail,-
+8,22145,KON 314,Kontrol Sistem Tasarımı,Fiziksel (Yüz yüze),Mehmet Turan Söylemez,EEBEEB,MondayThursday,11:30/13:2915:30/17:29 -,21046307,70,0,-,KOM_LS,Detail,-
+9,22146,KON 314E,Control System Design,Fiziksel (Yüz yüze),İlker Üstoğlu,EEBEEB,MondayFriday,11:30/13:2915:30/17:29 -,21066307,70,0,-,EEE_LS; KOM_LS; KOME_LS,Detail,-
+10,22147,KON 315,Elektronik Enstrümantasyon,Fiziksel (Yüz yüze),Yücel Aydın,EEB,Friday,14:00/17:59 -,5202,70,0,-,KOM_LS,Detail,-
+11,22148,KON 318E,Introduction to Robotics,Fiziksel (Yüz yüze),Hakan Temeltaş,EEB,Tuesday,12:30/15:29 -,2106,70,0,-,KOM_LS; KOME_LS,-,-
+12,22149,KON 324E,Sensors&Transducers in Contr.,Fiziksel (Yüz yüze),Ali Fuat Ergenç,EEB,Thursday,12:30/15:29 -,5205,70,0,-,EEE_LS; KOM_LS; KOME_LS; MKN_LS,-,-
+13,22150,KON 325,Endüstriyel Otomasyon Sist.,Fiziksel (Yüz yüze),Onur Akbatı,EEB,Tuesday,12:30/15:29 -,2104,70,0,-,KOM_LS,Detail,-
+14,22151,KON 325E,Industrial Automation Systems,Fiziksel (Yüz yüze),Yaprak Yalçın,EEB,Tuesday,12:30/15:29 -,2102,70,0,-,KOM_LS; KOME_LS,Detail,-
+15,24551,KON 405E,State Space Meth.in Contr.Syst,Fiziksel (Yüz yüze),Farzad Hashemzadeh,EEB,Friday,08:30/11:29 -,5201,50,0,-,KOM_LS; KOME_LS; MKN_LS; ROS_LS; ROSE_LS,Detail,-
+16,22152,KON 417E,Servo Motors,Fiziksel (Yüz yüze),Metin Gökaşan,EEB,Tuesday,08:30/11:29 -,5201,70,0,-,EEE_LS; KOM_LS; KOME_LS,Detail,-
+17,22153,KON 421,Robot Kontrolü,Fiziksel (Yüz yüze),Sıddık Murat Yeşiloğlu,EEB,Thursday,09:30/12:29 -,5201,50,0,-,KOM_LS; MKN_LS,Detail,-
+18,22154,KON 424E,Mod.&Cntrl of Biological Sys.,Sanal (Çevrimiçi/Online),Emre Dincel,EEB,Wednesday,12:30/15:29 -,--,50,0,-,EEE_LS; EHB_LS; EHBE_LS; KOM_LS; KOME_LS,Detail,-
+19,22155,KON 426E,Intelligent Control Systems,Fiziksel (Yüz yüze),Gülay Öke Günel,EEB,Monday,12:30/15:29 -,4104,50,0,-,EEE_LS; KOM_LS; KOME_LS; MKN_LS,Detail,-
+20,22156,KON 428,Optimal Kontrole Giriş,Fiziksel (Yüz yüze),Müjde Güzelkaya,EEB,Monday,08:30/11:29 -,2104,50,0,-,KOM_LS; MKN_LS,Detail,-
+21,22157,KON 428E,Intr. to Optimal Control,Fiziksel (Yüz yüze),Osman Kaan Erol,EEB,Monday,08:30/11:29 -,5105,50,0,-,EEE_LS; KOM_LS; KOME_LS; MKN_LS,Detail,-
+22,22158,KON 429E,Autonomous Vehicles,Fiziksel (Yüz yüze),Volkan Sezer,EEB,Monday,08:30/11:29 -,2106,40,0,EEE/5/0 | EHB/5/0 | Diğer/30/0,EEE_LS; EHB_LS; EHBE_LS; KOM_LS; KOME_LS,-,-
+23,22159,KON 436E,Int.to Nonlinear Control Syst.,Sanal (Çevrimiçi/Online),Emre Dincel,EEB,Thursday,08:30/11:29 -,--,50,0,-,EEE_LS; KOM_LS; KOME_LS; MKN_LS,Detail,-
+24,22160,KON 4901,Kontrol&Otom. Müh.Tasarımı I,Fiziksel (Yüz yüze),Mehmet Turan Söylemez,-,-,-/- -,-,200,0,-,KOM_LS,Detail,Detail
+25,22161,KON 4901E,Contr.&Automation Eng.Design I,Fiziksel (Yüz yüze),Mehmet Turan Söylemez,-,-,-/- -,-,200,0,-,KOM_LS; KOME_LS,Detail,Detail
+26,22162,KON 4902,Kontrol&Otom. Müh.Tasarımı II,Fiziksel (Yüz yüze),Mehmet Turan Söylemez,-,-,-/- -,-,200,0,-,KOM_LS,Detail,-
+27,22163,KON 4902E,Contr.&Automation Eng.DesignII,Fiziksel (Yüz yüze),Mehmet Turan Söylemez,-,-,-/- -,-,200,0,-,KOM_LS; KOME_LS,Detail,-
+28,22164,KON 492,Bitirme Tasarım Projesi,Fiziksel (Yüz yüze),Mehmet Turan Söylemez,-,-,-/- -,-,50,0,-,KOM_LS,-,Detail
+29,22165,KON 492E,Senior Design Project,Fiziksel (Yüz yüze),Mehmet Turan Söylemez,-,-,-/- -,-,50,0,-,KOM_LS; KOME_LS,-,Detail

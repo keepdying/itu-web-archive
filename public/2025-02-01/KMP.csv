@@ -1,0 +1,29 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21225,KMP 102,Kompozisyon II,Fiziksel (Yüz yüze),Eray Altınbüken,TMB,Monday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+1,21243,KMP 114,Klasik Armoni II,Fiziksel (Yüz yüze),Mehmet Özkan,TMB,Tuesday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+2,21245,KMP 116,Müzik Formları II,Fiziksel (Yüz yüze),Şirin Karadeniz,TMB,Thursday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+3,21223,KMP 196,Form Bilgisi II,Fiziksel (Yüz yüze),Şirin Karadeniz,TMB,Wednesday,13:30/15:29 -,--,30,0,-,CAB_LS; CEB_LS; MTR_LS; SES_LS,-,-
+4,21221,KMP 198,Konturpuan-Füg II,Fiziksel (Yüz yüze),Ayhan Gunca,TMB,Monday,13:30/15:29 -,--,30,0,-,CAB_LS; CEB_LS; MTR_LS,-,-
+5,21227,KMP 202,Kompozisyon IV,Fiziksel (Yüz yüze),Eray Altınbüken,TMBTMB,MondayFriday,13:30/15:2910:30/12:29 -,----,10,0,-,BST_LS; KMP_LS,-,-
+6,21246,KMP 204,Türk Müziği Literatürü II,Fiziksel (Yüz yüze),Neşe Yeşim Altınel Çoban,TMB,Monday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,Detail,-
+7,21248,KMP 206,Kontrpuan-Füg II,Fiziksel (Yüz yüze),Eray Altınbüken,TMB,Monday,15:30/17:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+8,21219,KMP 294,Armoni II,Fiziksel (Yüz yüze),Recep Gül,TMB,Monday,15:30/17:29 -,--,30,0,-,CAB_LS; CEB_LS; MTR_LS,-,-
+9,21230,KMP 302,Kompozisyon VI,Fiziksel (Yüz yüze),Oğuzhan Balcı,TMBTMB,TuesdayFriday,08:30/10:2914:00/15:59 -,----,10,0,-,BST_LS; KMP_LS,Detail,-
+10,21250,KMP 304,Kompozisyon Çözümleme II,Fiziksel (Yüz yüze),Ayhan Gunca,TMB,Wednesday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,Detail,-
+11,21254,KMP 306,Koro Şefliği II,Fiziksel (Yüz yüze),Ayhan Gunca,TMB,Monday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+12,21252,KMP 310,Orkestrasyon I,Fiziksel (Yüz yüze),Ayhan Gunca,TMB,Wednesday,13:30/15:29 -,--,10,0,-,BST_LS; KMP_LS,Detail,-
+13,21253,KMP 312,Türk Makam Müzğnde Kompzsyn,Fiziksel (Yüz yüze),Neşe Yeşim Altınel Çoban,TMB,Thursday,13:30/15:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+14,21255,KMP 322,Batı Müziği Literatürü II,Fiziksel (Yüz yüze),Mehmet Özkan,TMB,Monday,13:30/15:29 -,--,10,0,-,BST_LS; KMP_LS,Detail,-
+15,21257,KMP 324,Türk Müziğinde Polifoni II,Fiziksel (Yüz yüze),Oğuzhan Balcı,TMB,Friday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,Detail,-
+16,21259,KMP 326,Partisyon Çözümleme,Fiziksel (Yüz yüze),Recep Gül,TMB,Tuesday,15:30/17:29 -,--,20,0,-,BST_LS; KMP_LS,-,-
+17,21270,KMP 332,Ölçü ve Vuruş Tekniği II,Fiziksel (Yüz yüze),Ayhan Gunca,TMB,Thursday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+18,21215,KMP 362,Türk MzğndeFrmBlg.ve Çzmlme II,Fiziksel (Yüz yüze),Eray Cömert,TMBTMB,WednesdayWednesday,10:30/12:2913:30/14:29 -,----,20,0,-,MUZ_LS,-,-
+19,21217,KMP 364,Batı Mzğnde Frm Bilg.ve Çzmlme,Fiziksel (Yüz yüze),Ozan Baysal,TMB,Friday,09:30/12:29 -,--,20,0,-,MUZ_LS,-,-
+20,21240,KMP 402,Kompozisyon VIII,Fiziksel (Yüz yüze),Oğuzhan Balcı,TMBTMB,MondayWednesday,15:30/17:2910:30/12:29 -,----,10,0,-,BST_LS; KMP_LS,Detail,-
+21,21271,KMP 404,Kompozisyon Çözümleme IV,Fiziksel (Yüz yüze),Oğuzhan Balcı,TMB,Tuesday,13:30/15:29 -,--,10,0,-,BST_LS; KMP_LS,Detail,-
+22,21277,KMP 422,Batı Müziği Literatürü IV,Fiziksel (Yüz yüze),Mehmet Özkan,TMB,Friday,14:00/15:59 -,--,10,0,-,BST_LS; KMP_LS,Detail,-
+23,21273,KMP 424,Türk Müziğinde Polifoni IV,Fiziksel (Yüz yüze),Oğuzhan Balcı,TMB,Tuesday,15:30/17:29 -,--,10,0,-,BST_LS; KMP_LS,Detail,-
+24,21275,KMP 426,Türk Müziğinde Çalgılama II,Fiziksel (Yüz yüze),Ayhan Gunca,TMB,Thursday,13:30/15:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+25,21276,KMP 428,Türk Müziğinde Orkestrasyon II,Fiziksel (Yüz yüze),Ayhan Gunca,TMB,Tuesday,10:30/12:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+26,21279,KMP 434,Partisyon Okuma II,Fiziksel (Yüz yüze),Recep Gül,TMB,Monday,10:30/12:29 -,--,20,0,-,BST_LS; KMP_LS,-,-
+27,21214,KMP 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Oğuzhan Balcı,-,-,-/- -,-,100,0,-,BST_LS; KMP_LS,-,Detail

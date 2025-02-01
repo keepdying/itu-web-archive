@@ -1,0 +1,58 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22566,DEN 102,Bilgisayar Destek.Teknik Resim,Fiziksel (Yüz yüze),Sevil Deniz Yakan Dündar,MEDC,Friday,08:30/10:29 -,ZD2,25,0,-,DEN_LS,-,-
+1,22567,DEN 102,Bilgisayar Destek.Teknik Resim,Fiziksel (Yüz yüze),Sevil Deniz Yakan Dündar,MEDC,Friday,10:30/12:29 -,1D3,25,0,-,DEN_LS,-,-
+2,22568,DEN 102,Bilgisayar Destek.Teknik Resim,Fiziksel (Yüz yüze),Münir Cansın Özden,MEDC,Friday,08:30/10:29 -,1D3,25,0,-,DEN_LS; DENE_LS,-,-
+3,22582,DEN 208E,Const.of Ship&Offshore Strc.,Fiziksel (Yüz yüze),Serdar Aytekin Köroğlu,MEDC,Thursday,09:30/11:29 -,ZA4,75,0,-,DEN_LS; DENE_LS,Detail,-
+4,22583,DEN 306E,Marine Vehicle Design,Fiziksel (Yüz yüze),Burcu Erbaş,MEDC,Wednesday,10:30/12:29 -,ZD1,60,0,-,DEN_LS; DENE_LS,-,-
+5,22584,DEN 308E,Stability of Marine Vehicles,Fiziksel (Yüz yüze),Hakan Akyıldız,MEDC,Tuesday,12:30/14:29 -,2D13,40,0,-,DEN_LS; DENE_LS,-,-
+6,22585,DEN 310E,Resistance and Propulsion,Fiziksel (Yüz yüze),Ömer Kemal Kınacı,MEDC,Monday,10:30/13:29 -,2D18,60,0,-,DEN_LS,Detail,-
+7,22587,DEN 328E,Oceanography,Fiziksel (Yüz yüze),Sevil Deniz Yakan Dündar ;Deniz Bayraktar Bural,MEDC,Thursday,08:30/11:29 -,1D10,70,0,-,DEN_LS; DENE_LS,Detail,-
+8,22589,DEN 330E,Marine Engines&Aux.,Fiziksel (Yüz yüze),Ahmet Ergün Palaz,MEDC,Wednesday,13:30/15:29 -,3D20,65,0,-,DEN_LS; DENE_LS,Detail,-
+9,22591,DEN 332,Deniz ve İş Hukuku,Fiziksel (Yüz yüze),Hasan Murat Demirkıran,MEDC,Monday,13:30/15:29 -,3D20,65,0,-,DEN_LS,-,-
+10,22593,DEN 334,Deniz Suyu Kimyası,Fiziksel (Yüz yüze),Burak Karacık,MEDC,Thursday,12:30/14:29 -,ZA3,60,0,-,DEN_LS,-,-
+11,22640,DEN 339,Deniz Kirliliği,Fiziksel (Yüz yüze),Oktay Eren Türeyen,MEDC,Friday,10:30/12:29 -,1D4,40,0,-,DEN_LS; DENE_LS,-,-
+12,22639,DEN 341E,Ship Theory,Fiziksel (Yüz yüze),Hakan Akyıldız,MEDC,Tuesday,14:30/17:29 -,2D17,40,0,-,DEN_LS; DENE_LS,Detail,-
+13,22618,DEN 406E,Offshore Structural Analysis,Fiziksel (Yüz yüze),Serdar Aytekin Köroğlu,MEDC,Thursday,14:30/17:29 -,ZA4,65,0,-,DEN_LS; DENE_LS,Detail,Detail
+14,22623,DEN 414,Deniz Dibi Boru Döşeme Tekniği,Fiziksel (Yüz yüze),Deniz Bayraktar Bural,MEDC,Thursday,12:30/14:29 -,1D7,20,0,-,DEN_LS,-,-
+15,22619,DEN 418E,Marine Energy Technology,Fiziksel (Yüz yüze),Şafak Nur Ertürk Bozkurtoğlu,MEDC,Monday,15:30/17:29 -,2D15,20,0,-,DEN_LS; DENE_LS,-,-
+16,22620,DEN 424E,Computer Aided Ship Design,Fiziksel (Yüz yüze),Kadir Sarıöz,MEDC,Monday,15:30/17:29 -,2D16,20,0,-,DEN_LS; DENE_LS,-,-
+17,22625,DEN 446,Gemi Elektr.& Kontrol Sist.,Fiziksel (Yüz yüze),Ali Saffet Altay,MEDC,Thursday,12:30/14:29 -,1D8,20,0,-,DEN_LS,-,-
+18,22621,DEN 448E,Mechanics of Mooring Lines,Fiziksel (Yüz yüze),Ayhan Menteş,MEDC,Monday,15:30/17:29 -,2D17,20,0,-,DEN_LS; DENE_LS,-,-
+19,22597,DEN 451E,Ship Mod.Tst.&OceanographyLab.,Fiziksel (Yüz yüze),Ceren Bilgin Güney ;Burcu Erbaş,MEDC,Tuesday,09:30/12:29 -,3D20,65,0,-,DEN_LS; DENE_LS,-,-
+20,22628,DEN 454,Gem.Klaslanma. Plan Onay Sür.,Fiziksel (Yüz yüze),Murat Kaplanoğlu,MEDC,Wednesday,12:30/15:29 -,1D6,35,0,-,DEN_LS; DENE_LS,-,-
+21,22629,DEN 456,Klas.Faal.Deniz.Huk.&DenizSig.,Fiziksel (Yüz yüze),Hasan Murat Demirkıran,MEDC,Monday,08:30/11:29 -,ZD2,35,0,-,DEN_LS; DENE_LS; SOR_YD,-,-
+22,22631,DEN 458,Sörvey Faal.İş Sağ. ve Güven.,Fiziksel (Yüz yüze),Mehmet Cem Melikoğlu,MEDC,Tuesday,14:30/17:29 -,2D16,35,0,-,DEN_LS; DENE_LS; SOR_YD,-,-
+23,22633,DEN 460,Sörv.Faal.Ulus.&Ulusl.Kur.&Dü.,Fiziksel (Yüz yüze),Bekir Sıtkı Türkmen,MEDC,Wednesday,08:30/11:29 -,1D7,35,0,-,DEN_LS; DENE_LS; SOR_YD,-,-
+24,22635,DEN 462E,Motions&Control of Mar.Vehic.,Fiziksel (Yüz yüze),Ömer Kemal Kınacı,MEDC,Wednesday,13:30/15:29 -,2D11,20,0,-,DEN_LS,-,-
+25,23501,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Ayhan Menteş,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+26,23503,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Hakan Akyıldız,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+27,23506,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Kadir Sarıöz,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+28,23508,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Ömer Kemal Kınacı,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+29,23509,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Bilge Tutak,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+30,23511,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Ebru Sarıöz,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+31,23512,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Ceren Bilgin Güney,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+32,23514,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Sevil Deniz Yakan Dündar,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+33,23531,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Burak Karacık,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+34,23533,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Burcu Erbaş,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+35,23534,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Deniz Bayraktar Bural,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+36,23536,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Münir Cansın Özden,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+37,23538,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Serdar Aytekin Köroğlu,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+38,23539,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Şafak Nur Ertürk Bozkurtoğlu,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+39,23540,DEN 482,Bireysel Proje,Fiziksel (Yüz yüze),Oktay Eren Türeyen,-,-,-/- -,-,3,0,-,DEN_LS,-,Detail
+40,22637,DEN 4901E,Shipbuilding&Ocean Eng.Desig.I,Fiziksel (Yüz yüze),Hakan Akyıldız ;Kadir Sarıöz ;Deniz Bayraktar Bural,MEDCMEDC,FridayFriday,09:30/12:2914:00/16:59 -,ZA3ZA3,500,0,-,DEN_LS; DENE_LS,Detail,Detail
+41,22638,DEN 4902E,Shipbuilding&Ocean Eng.Dsg.II,Fiziksel (Yüz yüze),Ömer Kemal Kınacı ;Ceren Bilgin Güney ;Serdar Aytekin Köroğlu,MEDCMEDC,FridayFriday,09:30/12:2914:00/16:59 -,ZA4ZA4,500,0,-,DEN_LS; DENE_LS,Detail,Detail
+42,23541,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Ayhan Menteş,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+43,23543,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Hakan Akyıldız,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+44,23545,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Kadir Sarıöz,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+45,23546,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Ömer Kemal Kınacı,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+46,23549,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Bilge Tutak,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+47,23551,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Ebru Sarıöz,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+48,23554,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Ceren Bilgin Güney,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+49,23555,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Sevil Deniz Yakan Dündar,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+50,23557,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Burak Karacık,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+51,23560,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Burcu Erbaş,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+52,23562,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Deniz Bayraktar Bural,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+53,23563,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Münir Cansın Özden,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+54,23564,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Serdar Aytekin Köroğlu,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+55,23567,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Şafak Nur Ertürk Bozkurtoğlu,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail
+56,23569,DEN 492E,Graduation Project,Fiziksel (Yüz yüze),Oktay Eren Türeyen,-,-,-/- -,-,3,0,-,DENE_LS,-,Detail

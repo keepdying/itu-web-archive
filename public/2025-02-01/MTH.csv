@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21825,MTH 102,Calculus II,Fiziksel (Yüz yüze),-,KMBKMB,MondayTuesday,15:30/17:2908:30/11:29 -,----,0,0,-,MBI_LS,Detail,-
+1,21826,MTH 102,Calculus II,Fiziksel (Yüz yüze),Samet Yücel Kadıoğlu,BBBBBB,MondayTuesday,15:30/17:2908:30/11:29 -,101101,30,0,-,MBI_LS; SBL_LS,Detail,-
+2,21827,MTH 104,Calculus II,Fiziksel (Yüz yüze),Ahmet Kırış,FEBFEB,MondayTuesday,15:30/17:2908:30/11:29 -,L400L400,30,0,-,SED_LS,Detail,-
+3,21833,MTH 105,Calculus I,Fiziksel (Yüz yüze),Burhaneddin İzgi,FEB,Tuesday,08:30/11:29 -,L200,20,0,-,SIS_LS,-,-
+4,21834,MTH 106,Calculus II,Fiziksel (Yüz yüze),Cihangir Özemir,EEB,Tuesday,08:30/11:29 -,Z1,30,0,-,SIS_LS,Detail,-
+5,21835,MTH 108,Calculus II,Fiziksel (Yüz yüze),Nurhan Çolakoğlu,MEDMEDC,MondayTuesday,14:30/17:2908:30/11:29 -,B321D9,20,0,-,SGI_LS; SIN_LS,Detail,-
+6,21836,MTH 108,Calculus II,Fiziksel (Yüz yüze),-,INBINB,MondayTuesday,09:30/12:2908:30/11:29 -,----,0,0,-,SIN_LS,Detail,-
+7,21840,MTH 118,Mathematics II,Fiziksel (Yüz yüze),Mehmet Ali Karaca,MEDMEDC,MondayTuesday,15:30/17:2908:30/11:29 -,B332D11,20,0,-,NAE_LS,Detail,-
+8,21837,MTH 132,Mathematics II,Fiziksel (Yüz yüze),Elif Canfes,EEBEEB,MondayTuesday,15:30/17:2908:30/11:29 -,Z4Z4,20,0,-,EHN_LS,Detail,-
+9,22224,MTH 132,Mathematics II,Fiziksel (Yüz yüze),-,-,-,-/- -,-,30,0,-,-,Detail,-
+10,21841,MTH 204,Linear Algebra,Fiziksel (Yüz yüze),Güler Arsan,FEB,Monday,14:30/17:29 -,D201,30,0,-,ARC_LS,-,-
+11,22173,MTH 271,Probability and Statistics,Fiziksel (Yüz yüze),Tuba Yılmaz Abdolsaheb,EEB,Friday,08:30/11:29 -,1303,30,0,-,EHN_LS,-,-
+12,24552,MTH 401E,RISC-V Architecture &Processor,Fiziksel (Yüz yüze),-,-,-,-/- -,-,0,0,-,-,-,Detail
+13,24891,MTH 401E,RISC-V Architecture &Processor,Fiziksel (Yüz yüze),Müştak Erhan Yalçın ;Hasan Erdem Yantır,EEB,Wednesday,12:30/15:29 -,5205,50,0,-,EHB_LS; EHBE_LS,-,Detail
+14,24553,MTH 403E,Fnc.Safety&PwrtrainAppAutoInd,Fiziksel (Yüz yüze),İlker Üstoğlu,EEB,Tuesday,08:30/11:29 -,2106,50,0,-,KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,Detail

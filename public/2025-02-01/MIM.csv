@@ -1,0 +1,134 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23387,MIM 106,Yapı Mekaniği,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,MMBMMB,WednesdayWednesday,10:30/12:2913:30/15:29 -,----,60,0,-,EUT_LS; ICM_LS; MIM_LS,-,-
+1,23388,MIM 106,Yapı Mekaniği,Fiziksel (Yüz yüze),Haluk Sesigür,MMBMMB,WednesdayWednesday,10:30/12:2913:30/15:29 -,----,60,0,-,EUT_LS; ICM_LS; MIM_LS,-,-
+2,23390,MIM 106,Yapı Mekaniği,Fiziksel (Yüz yüze),Ferhat Pakdamar,MMBMMB,WednesdayWednesday,10:30/12:2913:30/15:29 -,----,60,0,-,EUT_LS; ICM_LS; MIM_LS,-,-
+3,23396,MIM 106E,Structural Mechanics,Fiziksel (Yüz yüze),Gülseren Erol Soyöz,MMBMMB,WednesdayWednesday,10:30/12:2913:30/15:29 -,----,80,0,-,ARC_LS; IAD_LS; ICM_LS; MIM_LS; MIME_LS,-,-
+4,23397,MIM 106E,Structural Mechanics,Fiziksel (Yüz yüze),Cenk Üstündağ,MMBMMB,WednesdayWednesday,10:30/12:2913:30/15:29 -,----,80,0,-,ARC_LS; IAD_LS; ICM_LS; MIM_LS; MIME_LS,-,-
+5,23399,MIM 106E,Structural Mechanics,Fiziksel (Yüz yüze),Ferhat Pakdamar,MMBMMB,TuesdayTuesday,10:30/12:2913:30/15:29 -,----,80,0,-,ARC_LS; ENTE_LS; EUTE_LS; IAD_LS; ICM_LS; MIM_LS; MIME_LS,-,-
+6,23416,MIM 114E,Accessibility,Fiziksel (Yüz yüze),Göksenin İnalhan,MMB,Tuesday,09:30/11:29 -,--,40,0,-,MIM_LS; MIME_LS,-,-
+7,23417,MIM 120E,Int.toCmp.Ds.Tools&Mth.inArch.,Sanal (Çevrimiçi/Online),Mıchael Stefan Bıttermann,MMB,Friday,14:00/16:59 -,--,100,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+8,23786,MIM 120E,Int.toCmp.Ds.Tools&Mth.inArch.,Sanal (Çevrimiçi/Online),Aslı Kanan,MMB,Friday,14:00/16:59 -,--,100,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+9,23306,MIM 204,Mimarlık. Yapı Elemanları Tas.,Fiziksel (Yüz yüze),Ayşe Nil Türkeri,MMBMMB,WednesdayWednesday,09:30/12:2913:30/15:29 -,----,35,0,-,MIM_LS,Detail,-
+10,23783,MIM 204,Mimarlık. Yapı Elemanları Tas.,Fiziksel (Yüz yüze),Caner Göçer,MMBMMB,WednesdayWednesday,09:30/12:2913:30/15:29 -,----,35,0,-,MIM_LS,Detail,-
+11,23784,MIM 204,Mimarlık. Yapı Elemanları Tas.,Fiziksel (Yüz yüze),Hülya Kuş,MMBMMB,WednesdayWednesday,09:30/12:2913:30/15:29 -,----,35,0,-,MIM_LS,Detail,-
+12,23371,MIM 204E,Arch.Building Element Design,Fiziksel (Yüz yüze),Fatih Yazıcıoğlu,MMBMMB,WednesdayWednesday,09:30/12:2913:30/15:29 -,----,105,0,-,ARC_LS; MIME_LS,Detail,-
+13,23401,MIM 208E,Structural Analysis& Design I,Fiziksel (Yüz yüze),Gülseren Erol Soyöz ;Halet Almıla Büyüktaşkın,MMBMMB,TuesdayFriday,10:30/12:2910:30/12:29 -,----,60,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+14,23372,MIM 209E,History of Architecture I,Fiziksel (Yüz yüze),Zeynep Kuban Tokgöz,MMB,Tuesday,13:30/16:29 -,--,50,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+15,23374,MIM 210,Mimarlık Tarihi II,Fiziksel (Yüz yüze),Aygül Ağır ;Vesile Gül Cephanecigil,MMB,Monday,09:30/12:29 -,--,55,0,-,MIM_LS,Detail,-
+16,23375,MIM 210E,History of Architecture II,Fiziksel (Yüz yüze),Bilge Ar,MMB,Monday,09:30/12:29 -,--,168,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+17,23054,MIM 211,Mimari Proje III,Fiziksel (Yüz yüze),Özlem Berber Özkendirci,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,1,0,-,MIM_LS,Detail,-
+18,23058,MIM 211,Mimari Proje III,Fiziksel (Yüz yüze),Ayşe Meltem Baslo,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,1,0,-,MIM_LS,Detail,-
+19,23061,MIM 211,Mimari Proje III,Fiziksel (Yüz yüze),Begüm Hamzaoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,1,0,-,MIM_LS,Detail,-
+20,23063,MIM 211E,Architectural Design III,Fiziksel (Yüz yüze),Derya Güleç Özer,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,3,0,MIM/1/0 | MIME/1/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+21,23067,MIM 211E,Architectural Design III,Fiziksel (Yüz yüze),Funda Uz,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,3,0,MIM/1/0 | MIME/1/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+22,23070,MIM 211E,Architectural Design III,Fiziksel (Yüz yüze),Pelin Dursun Çebi,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,3,0,MIM/1/0 | MIME/1/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+23,23073,MIM 211E,Architectural Design III,Fiziksel (Yüz yüze),Göksenin İnalhan,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,3,0,MIM/1/0 | MIME/1/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+24,23075,MIM 211E,Architectural Design III,Fiziksel (Yüz yüze),Sıdıka Aslıhan Şenel,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,3,0,MIM/1/0 | MIME/1/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+25,23081,MIM 211E,Architectural Design III,Fiziksel (Yüz yüze),Arzu İrem Mollaahmetoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,3,0,MIM/1/0 | MIME/1/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+26,23082,MIM 211E,Architectural Design III,Fiziksel (Yüz yüze),Hakan Tüzün Şengün,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,3,0,MIM/1/0 | MIME/1/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+27,23084,MIM 211E,Architectural Design III,Fiziksel (Yüz yüze),Sevil Yazıcı,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,3,0,MIM/1/0 | MIME/1/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+28,23087,MIM 212,Mimari Proje IV,Fiziksel (Yüz yüze),Özlem Berber Özkendirci,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,20,0,-,MIM_LS,Detail,-
+29,23089,MIM 212,Mimari Proje IV,Fiziksel (Yüz yüze),Ayşe Meltem Baslo,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,20,0,-,MIM_LS,Detail,-
+30,23091,MIM 212,Mimari Proje IV,Fiziksel (Yüz yüze),Begüm Hamzaoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,20,0,-,MIM_LS,Detail,-
+31,23092,MIM 212E,Architectural Design IV,Fiziksel (Yüz yüze),Derya Güleç Özer,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,18,0,MIM/5/0 | MIME/9/0 | ARC/4/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+32,23095,MIM 212E,Architectural Design IV,Fiziksel (Yüz yüze),Funda Uz,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,18,0,MIM/5/0 | MIME/9/0 | ARC/4/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+33,23097,MIM 212E,Architectural Design IV,Fiziksel (Yüz yüze),Pelin Dursun Çebi,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,18,0,MIM/5/0 | MIME/9/0 | ARC/4/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+34,23099,MIM 212E,Architectural Design IV,Fiziksel (Yüz yüze),Göksenin İnalhan,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,18,0,MIM/5/0 | MIME/9/0 | ARC/4/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+35,23101,MIM 212E,Architectural Design IV,Fiziksel (Yüz yüze),Sıdıka Aslıhan Şenel,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,18,0,MIM/5/0 | MIME/9/0 | ARC/4/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+36,23104,MIM 212E,Architectural Design IV,Fiziksel (Yüz yüze),Arzu İrem Mollaahmetoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,18,0,MIM/5/0 | MIME/9/0 | ARC/4/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+37,23114,MIM 212E,Architectural Design IV,Fiziksel (Yüz yüze),Hakan Tüzün Şengün,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,18,0,MIM/5/0 | MIME/9/0 | ARC/4/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+38,23115,MIM 212E,Architectural Design IV,Fiziksel (Yüz yüze),Sevil Yazıcı,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,18,0,MIM/5/0 | MIME/9/0 | ARC/4/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+39,23403,MIM 213,Yapısal Analiz ve Tasarım II,Fiziksel (Yüz yüze),Oğuz Cem Çelik,MMBMMB,TuesdayFriday,10:30/12:2910:30/12:29 -,----,50,0,-,MIM_LS,Detail,-
+40,23404,MIM 213,Yapısal Analiz ve Tasarım II,Fiziksel (Yüz yüze),Necdet Torunbalcı,MMBMMB,TuesdayFriday,10:30/12:2910:30/12:29 -,----,50,0,-,MIM_LS,Detail,-
+41,23405,MIM 213E,Structural Analysis& Design II,Fiziksel (Yüz yüze),Cenk Üstündağ,MMBMMB,TuesdayFriday,08:30/10:2908:30/10:29 -,----,77,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+42,23406,MIM 213E,Structural Analysis& Design II,Fiziksel (Yüz yüze),Haluk Sesigür,MMBMMB,TuesdayFriday,08:30/10:2908:30/10:29 -,----,78,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+43,23303,MIM 231E,Building Materials,Fiziksel (Yüz yüze),Mehmet Serkan Yatağan,MMBMMB,TuesdayFriday,10:30/12:2910:30/12:29 -,----,80,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+44,23272,MIM 246,Çevre Kontrolü Stüdyosu,Fiziksel (Yüz yüze),Nuri Serteser,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,30,0,-,MIM_LS,-,-
+45,23288,MIM 246,Çevre Kontrolü Stüdyosu,Fiziksel (Yüz yüze),Şule Filiz Akşit,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,30,0,-,MIM_LS,-,-
+46,23290,MIM 246,Çevre Kontrolü Stüdyosu,Fiziksel (Yüz yüze),Tarık Serhat Bozkurt,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,30,0,-,MIM_LS,-,-
+47,23293,MIM 246E,Environmental Control Studio,Fiziksel (Yüz yüze),Gül Koçlar Oral,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,42,0,-,ARC_LS; IAD_LS; ICM_LS; MIM_LS; MIME_LS,-,-
+48,23295,MIM 246E,Environmental Control Studio,Fiziksel (Yüz yüze),Alpin Köknel Yener,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,42,0,-,ARC_LS; IAD_LS; ICM_LS; MIM_LS; MIME_LS,-,-
+49,23297,MIM 246E,Environmental Control Studio,Fiziksel (Yüz yüze),Gülten Manioğlu,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,43,0,-,ARC_LS; ICM_LS; MIME_LS,-,-
+50,23299,MIM 246E,Environmental Control Studio,Fiziksel (Yüz yüze),Feride Şener Yılmaz,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,43,0,-,ARC_LS; IAD_LS; ICM_LS; MIM_LS; MIME_LS,-,-
+51,23407,MIM 253E,Steel Structures,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,MMB,Tuesday,10:30/12:29 -,--,50,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+52,23408,MIM 271E,Theory of Structures,Fiziksel (Yüz yüze),Gülseren Erol Soyöz,MMB,Friday,10:30/12:29 -,--,50,0,-,MIM_LS; MIME_LS,Detail,-
+53,23376,MIM 304E,History of Architecture III,Fiziksel (Yüz yüze),Mehmet Murat Gül,MMB,Tuesday,09:30/12:29 -,--,55,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+54,23418,MIM 305E,Statistics,Fiziksel (Yüz yüze),Mıchael Stefan Bıttermann,MMB,Tuesday,13:30/16:29 -,--,75,0,-,MIM_LS; MIME_LS,-,-
+55,23117,MIM 312,Mimari Proje VI,Fiziksel (Yüz yüze),Gülçin Pulat Gökmen,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+56,23119,MIM 312,Mimari Proje VI,Fiziksel (Yüz yüze),Dilek Yıldız Özkan,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+57,23121,MIM 312,Mimari Proje VI,Fiziksel (Yüz yüze),Nizam Onur Sönmez,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+58,23123,MIM 312,Mimari Proje VI,Fiziksel (Yüz yüze),Hüseyin Sinan Omacan,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+59,23126,MIM 312,Mimari Proje VI,Fiziksel (Yüz yüze),Tan Kamil Gürer,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+60,23131,MIM 312,Mimari Proje VI,Fiziksel (Yüz yüze),Elmira Ayşe Gür,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,8,0,-,MIM_LS,Detail,-
+61,23134,MIM 312,Mimari Proje VI,Fiziksel (Yüz yüze),Suat Apak,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,8,0,-,MIM_LS,Detail,-
+62,23139,MIM 312E,Architectural Design VI,Fiziksel (Yüz yüze),İmdat As,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,17,0,MIM/1/0 | MIME/12/0 | Diğer/4/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+63,23146,MIM 312E,Architectural Design VI,Fiziksel (Yüz yüze),Meltem Aksoy,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,17,0,MIM/1/0 | MIME/12/0 | Diğer/4/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+64,23148,MIM 312E,Architectural Design VI,Fiziksel (Yüz yüze),Mine Özkar Kabakçıoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,17,0,MIM/1/0 | MIME/12/0 | Diğer/4/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+65,23151,MIM 312E,Architectural Design VI,Fiziksel (Yüz yüze),Leman Figen Gül,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,17,0,MIM/1/0 | MIME/12/0 | Diğer/4/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+66,23156,MIM 312E,Architectural Design VI,Fiziksel (Yüz yüze),Nesip Ömer Erem,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,9,0,MIME/9/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+67,23159,MIM 312E,Architectural Design VI,Fiziksel (Yüz yüze),Ayşe Şentürer,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,9,0,MIME/9/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+68,23166,MIM 312E,Architectural Design VI,Fiziksel (Yüz yüze),Meryem Birgül Çolakoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,9,0,MIME/9/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+69,23168,MIM 312E,Architectural Design VI,Fiziksel (Yüz yüze),Mehmet Emin Şalgamcıoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,9,0,MIME/9/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+70,23377,MIM 321E,Contemporary Architecture,Fiziksel (Yüz yüze),Mıyukı Aokı Gırardellı,MMB,Wednesday,09:30/11:29 -,--,30,0,-,MIM_LS,Detail,-
+71,23419,MIM 322E,Conserv.of Hist. Build.&Sites,Fiziksel (Yüz yüze),Umut Almaç,MMB,Friday,10:30/12:29 -,--,40,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+72,23244,MIM 333E,Building Production Systems,Fiziksel (Yüz yüze),Emrah Acar,MMB,Friday,10:30/12:29 -,--,60,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+73,23170,MIM 351,Mimari Proje V,Fiziksel (Yüz yüze),Gülçin Pulat Gökmen,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+74,23174,MIM 351,Mimari Proje V,Fiziksel (Yüz yüze),Dilek Yıldız Özkan,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+75,23176,MIM 351,Mimari Proje V,Fiziksel (Yüz yüze),Nizam Onur Sönmez,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+76,23178,MIM 351,Mimari Proje V,Fiziksel (Yüz yüze),Hüseyin Sinan Omacan,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+77,23180,MIM 351,Mimari Proje V,Fiziksel (Yüz yüze),Tan Kamil Gürer,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,11,0,-,MIM_LS,Detail,-
+78,23187,MIM 351E,Architectural Design V,Fiziksel (Yüz yüze),İmdat As,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,6,0,MIM/1/0 | MIME/4/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+79,23190,MIM 351E,Architectural Design V,Fiziksel (Yüz yüze),Meltem Aksoy,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,6,0,MIM/1/0 | MIME/4/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+80,23194,MIM 351E,Architectural Design V,Fiziksel (Yüz yüze),Mine Özkar Kabakçıoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,6,0,MIM/1/0 | MIME/4/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+81,23198,MIM 351E,Architectural Design V,Fiziksel (Yüz yüze),Leman Figen Gül,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,6,0,MIM/1/0 | MIME/4/0 | Diğer/1/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+82,23409,MIM 352,Taşıyıcı Sistem Tasarımı,Fiziksel (Yüz yüze),Necdet Torunbalcı,MMB,Friday,14:00/16:59 -,--,35,0,-,MIM_LS,Detail,-
+83,23305,MIM 358,Yapı Koruyucu Malzemeler,Fiziksel (Yüz yüze),Fatih Bildik,MMB,Thursday,09:30/12:29 -,--,20,0,-,MIM_LS,Detail,-
+84,23247,MIM 359,Yapım Yönetimi ve Ekonomisi,Fiziksel (Yüz yüze),Elçin Filiz Taş ;Gülfer Oraz,MMBMMB,WednesdayFriday,08:30/11:2908:30/10:29 -,----,60,0,-,MIM_LS,-,-
+85,23251,MIM 359,Yapım Yönetimi ve Ekonomisi,Fiziksel (Yüz yüze),Hakan Yaman ;Ecem Tezel,MMBMMB,WednesdayFriday,08:30/11:2908:30/10:29 -,----,60,0,-,MIM_LS,-,-
+86,23254,MIM 359E,Construction Mngmnt & Economy,Fiziksel (Yüz yüze),Emrah Acar,MMBMMB,WednesdayFriday,08:30/11:2908:30/10:29 -,----,80,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+87,23420,MIM 361,Rölöve ve Restorasyon Stüdyosu,Fiziksel (Yüz yüze),Yegan Kahya Sayar,MMB,Friday,14:00/17:59 -,--,18,0,-,MIM_LS,Detail,-
+88,23421,MIM 361,Rölöve ve Restorasyon Stüdyosu,Fiziksel (Yüz yüze),Sakine Yıldız Salman,MMB,Friday,14:00/17:59 -,--,18,0,-,MIM_LS,Detail,-
+89,23422,MIM 361,Rölöve ve Restorasyon Stüdyosu,Fiziksel (Yüz yüze),Ömer Dabanlı,MMB,Friday,14:00/17:59 -,--,18,0,-,MIM_LS,Detail,-
+90,23423,MIM 361E,Archtctrl Survey & Restrtn Std,Fiziksel (Yüz yüze),Zeynep Eres Özdoğan,MMB,Friday,14:00/17:59 -,--,22,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+91,23424,MIM 361E,Archtctrl Survey & Restrtn Std,Fiziksel (Yüz yüze),Işıl Polat Pekmezci,MMB,Friday,14:00/17:59 -,--,22,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+92,23425,MIM 361E,Archtctrl Survey & Restrtn Std,Fiziksel (Yüz yüze),Umut Almaç,MMB,Friday,14:00/17:59 -,--,22,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+93,23427,MIM 361E,Archtctrl Survey & Restrtn Std,Fiziksel (Yüz yüze),Lana Kudumoviç,MMB,Friday,14:00/17:59 -,--,22,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+94,23428,MIM 4010E,Theories of Architectural Dsgn,Fiziksel (Yüz yüze),Yüksel Demir,MMB,Tuesday,13:30/16:29 -,--,50,0,-,ARC_LS; ENTE_LS; EUT_LS; EUTE_LS; ICM_LS; MIM_LS; MIME_LS; PEM_LS; PEME_LS; SBP_LS; SBPE_LS,-,-
+95,23379,MIM 4011,Fotoğraf,Fiziksel (Yüz yüze),Aras Neftçi,MMB,Tuesday,09:30/12:29 -,--,30,0,-,MIM_LS,-,-
+96,23429,MIM 4013,Mimari ve Etkileri,Fiziksel (Yüz yüze),Suat Apak,MMB,Monday,09:30/11:29 -,--,30,0,-,MIM_LS; SBP_LS,-,-
+97,23430,MIM 4014,Doğal Verilerle Tasarım,Fiziksel (Yüz yüze),Nizam Onur Sönmez,MMB,Thursday,09:30/11:29 -,--,30,0,-,ICM_LS; MIM_LS,-,-
+98,23431,MIM 4017,Çağdaş Yapı Malzemeleri,Fiziksel (Yüz yüze),Leyla Tanaçan,MMB,Thursday,14:00/15:59 -,--,30,0,-,ICM_LS; MIM_LS,-,-
+99,23432,MIM 4019,Detay Tasrm & Temel İlkeleri,Fiziksel (Yüz yüze),Mehmet Serkan Yatağan,MMB,Tuesday,13:30/16:29 -,--,30,0,-,ICM_LS; MIM_LS,Detail,-
+100,24644,MIM 4019,Detay Tasrm & Temel İlkeleri,Fiziksel (Yüz yüze),-,MMB,Tuesday,13:30/16:29 -,--,0,0,-,ICM_LS; MIM_LS,Detail,-
+101,23433,MIM 4021,Mimarlıkta Enfrm Teknolojileri,Fiziksel (Yüz yüze),Hakan Tong,MMB,Friday,14:00/16:59 -,--,30,0,-,MIM_LS,Detail,-
+102,23434,MIM 4034,Koruma Bilimine Giriş,Fiziksel (Yüz yüze),Işıl Polat Pekmezci,MMB,Wednesday,10:30/12:29 -,--,20,0,-,MIM_LS,-,-
+103,23435,MIM 4040,Programlama Mantığına Giriş,Sanal (Çevrimiçi/Online),Atilla Aydoğdu,MMB,Friday,10:30/12:29 -,--,25,0,-,MIM_LS,Detail,-
+104,23436,MIM 4040,Programlama Mantığına Giriş,Sanal (Çevrimiçi/Online),Atilla Aydoğdu,MMB,Friday,14:00/15:59 -,--,25,0,-,MIM_LS,Detail,-
+105,23437,MIM 4041,Yüksek Binaların Mimari Tas.,Fiziksel (Yüz yüze),Çiğdem Eren,MMB,Tuesday,13:30/15:29 -,--,30,0,-,MIM_LS,-,-
+106,23438,MIM 4043,İstanbul Katmanları,Fiziksel (Yüz yüze),Zeynep Kuban Tokgöz,MMB,Wednesday,12:30/15:29 -,--,25,0,-,MIM_LS,Detail,-
+107,23439,MIM 4050E,Free Hand Draw.in Architecture,Fiziksel (Yüz yüze),Sıdıka Aslıhan Şenel,MMB,Wednesday,12:30/15:29 -,--,20,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+108,23410,MIM 4053E,Tall Building Structures,Fiziksel (Yüz yüze),Halet Almıla Büyüktaşkın,MMB,Tuesday,13:30/15:29 -,--,35,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+109,23443,MIM 4055E,Art of the 20th Century,Fiziksel (Yüz yüze),Arzu İrem Mollaahmetoğlu,MMB,Tuesday,10:30/12:29 -,--,40,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+110,23445,MIM 4058E,Architecture After 1960,Fiziksel (Yüz yüze),Emine Görgül,MMB,Friday,14:00/15:59 -,--,40,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+111,23446,MIM 4061E,Desg.Draw.:Pract.&Concep.Appr.,Fiziksel (Yüz yüze),Hakan Tüzün Şengün,MMB,Tuesday,13:30/15:29 -,--,30,0,-,ARC_LS; ICM_LS; MIM_LS; MIME_LS,-,-
+112,23447,MIM 4072E,Architecture;Cities and Cinema,Fiziksel (Yüz yüze),Arzu İrem Mollaahmetoğlu,MMB,Tuesday,13:30/15:29 -,--,40,0,-,ARC_LS; MIM_LS; MIME_LS,-,-
+113,23411,MIM 4074E,Stru.Sys.Pro.of Mon.&Hist.Cons,Fiziksel (Yüz yüze),Haluk Sesigür ;Gülseren Erol Soyöz,MMB,Thursday,09:30/11:29 -,--,35,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,-
+114,23380,MIM 4080E,Art and Architecture in Asia,Fiziksel (Yüz yüze),Mıyukı Aokı Gırardellı,MMB,Tuesday,10:30/12:29 -,--,30,0,-,MIM_LS; MIME_LS,-,-
+115,23448,MIM 4081,Kagir İnşaat ve Onarım,Fiziksel (Yüz yüze),Ömer Dabanlı,MMB,Tuesday,09:30/12:29 -,--,20,0,-,MIM_LS,Detail,-
+116,23382,MIM 4083,19. YY'danGün.İstanbul'un Gel.,Fiziksel (Yüz yüze),Mehmet Murat Gül,MMB,Thursday,10:30/12:29 -,--,30,0,-,MIM_LS,Detail,-
+117,23385,MIM 410,Mimar Sinan,Fiziksel (Yüz yüze),Aras Neftçi,MMB,Tuesday,13:30/16:29 -,--,30,0,-,MIM_LS,Detail,-
+118,23220,MIM 411,Mimari Proje VII,Fiziksel (Yüz yüze),Elmira Ayşe Gür,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,15,0,-,MIM_LS,Detail,-
+119,23224,MIM 411,Mimari Proje VII,Fiziksel (Yüz yüze),Suat Apak,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,15,0,-,MIM_LS,Detail,-
+120,23227,MIM 411E,Architectural Design VII,Fiziksel (Yüz yüze),Ayşe Şentürer,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,13,0,MIM/6/0 | MIME/6/0 | ARC/1/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+121,23231,MIM 411E,Architectural Design VII,Fiziksel (Yüz yüze),Nesip Ömer Erem,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,13,0,MIM/6/0 | MIME/6/0 | ARC/1/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+122,23236,MIM 411E,Architectural Design VII,Fiziksel (Yüz yüze),Mehmet Emin Şalgamcıoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,13,0,MIM/6/0 | MIME/6/0 | ARC/1/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+123,23241,MIM 411E,Architectural Design VII,Fiziksel (Yüz yüze),Meryem Birgül Çolakoğlu,MMBMMB,MondayThursday,13:30/17:2913:30/17:29 -,----,13,0,MIM/6/0 | MIME/6/0 | ARC/1/0 | Diğer/0/0,ARC_LS; MIM_LS; MIME_LS,Detail,-
+124,23256,MIM 484,Uygulama Projesi,Fiziksel (Yüz yüze),Gülfer Oraz,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,10,0,-,MIM_LS,Detail,-
+125,23258,MIM 484E,Construction Project,Fiziksel (Yüz yüze),Fatma Pınar Çakmak,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,10,0,-,ARC_LS; MIME_LS,Detail,-
+126,23260,MIM 484E,Construction Project,Fiziksel (Yüz yüze),Tarık Serhat Bozkurt,MMBMMB,TuesdayFriday,08:30/12:2908:30/12:29 -,----,10,0,-,ARC_LS; MIME_LS,Detail,-
+127,23263,MIM 484E,Construction Project,Fiziksel (Yüz yüze),Feride Şener Yılmaz,MMBMMB,TuesdayFriday,08:30/12:2908:30/12:29 -,----,10,0,-,ARC_LS; MIME_LS,Detail,-
+128,23266,MIM 484E,Construction Project,Fiziksel (Yüz yüze),Ecem Tezel,MMBMMB,TuesdayThursday,13:30/17:2908:30/12:29 -,----,10,0,-,ARC_LS; MIME_LS,Detail,-
+129,23412,MIM 4902,Diploma Projesi,Fiziksel (Yüz yüze),Funda Uz,-,-,-/- -,-,500,0,-,MIM_LS,Detail,Detail
+130,23413,MIM 4902E,Diploma Project,Fiziksel (Yüz yüze),Funda Uz,-,-,-/- -,-,500,0,-,ARC_LS; MIM_LS; MIME_LS,Detail,Detail
+131,23414,MIM 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Funda Uz,-,-,-/- -,-,500,0,-,MIM_LS,Detail,Detail
+132,23415,MIM 492E,Graduation Project,Fiziksel (Yüz yüze),Funda Uz,-,-,-/- -,-,500,0,-,MIM_LS; MIME_LS,Detail,Detail

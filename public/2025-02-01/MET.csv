@@ -1,0 +1,45 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23188,MET 214,Çözelti Termodinamiğinin Tem.,Fiziksel (Yüz yüze),Nuri Solak,KMB,Tuesday,10:30/13:29 -,D301,90,0,-,MET_LS,Detail,-
+1,23191,MET 214E,Fund. of Sol. Thermodynamics,Fiziksel (Yüz yüze),Nuri Solak,KMB,Thursday,13:30/16:29 -,D201,90,0,-,MET_LS; METE_LS,Detail,-
+2,23193,MET 224,Faz Denge Diyagramları,Fiziksel (Yüz yüze),Nuri Solak,KMB,Thursday,10:30/13:29 -,D104,100,0,-,MET_LS,-,-
+3,23196,MET 224E,Phase Equilibrium Diagrams,Fiziksel (Yüz yüze),Nuri Solak,KMB,Tuesday,13:30/16:29 -,D301,100,0,-,MET_LS; METE_LS,-,-
+4,23197,MET 228,Malzeme Kimyası,Fiziksel (Yüz yüze),Servet İbrahim Timur,KMB,Monday,13:30/15:29 -,D104,100,0,-,MET_LS,-,-
+5,23199,MET 228E,Materials Chemistry,Fiziksel (Yüz yüze),Aytekin Uzunoğlu,KMB,Friday,14:00/15:59 -,D201,90,0,-,METE_LS,-,-
+6,23201,MET 246,Malzeme Fiziği,Fiziksel (Yüz yüze),Muhammet Kürşat Kazmanlı,KMB,Wednesday,13:30/15:29 -,D201,90,0,-,MET_LS,-,-
+7,23214,MET 246E,Materials Physics,Fiziksel (Yüz yüze),Hüseyin Kızıl,KMB,Wednesday,13:30/15:29 -,D301,90,0,-,METE_LS,-,-
+8,23216,MET 248E,Mass & Energy Balance,Fiziksel (Yüz yüze),Cevat Bora Derin,KMB,Monday,11:30/13:29 -,D201,90,0,-,MET_LS; METE_LS,Detail,-
+9,23218,MET 248E,Mass & Energy Balance,Fiziksel (Yüz yüze),Mehmet Şeref Sönmez,KMB,Monday,11:30/13:29 -,D102,90,0,-,MET_LS; METE_LS,Detail,-
+10,23221,MET 252,Mlz.Sta. ve Dinamik Mukavemeti,Fiziksel (Yüz yüze),Murat Baydoğan,KMB,Tuesday,13:30/16:29 -,D104,100,0,-,MET_LS,-,-
+11,23223,MET 252E,Sta and Dyn. Strng ofMaterials,Fiziksel (Yüz yüze),Murat Baydoğan,KMB,Friday,08:30/11:29 -,D201,100,0,-,METE_LS,-,-
+12,23226,MET 326,Kimyasal Metalurji II,Fiziksel (Yüz yüze),Servet İbrahim Timur,KMB,Monday,08:30/11:29 -,D204,100,0,-,MET_LS,Detail,-
+13,23229,MET 326E,Chemical Metallurgy II,Fiziksel (Yüz yüze),Cevat Bora Derin ;Onuralp Yücel ;Mehmet Şeref Sönmez,KMB,Monday,08:30/11:29 -,D202,90,0,-,MET_LS,Detail,-
+14,23233,MET 328E,Introduction to Biomaterials,Fiziksel (Yüz yüze),Gültekin Göller ;İpek Akın Karadayı,KMB,Monday,13:30/15:29 -,D201,170,0,-,MET_LS; METE_LS,-,-
+15,23235,MET 344E,Mech. Properties of Materials,Fiziksel (Yüz yüze),Hüseyin Çimenoğlu,KMB,Thursday,11:30/13:29 -,D201,175,0,-,MET_LS; METE_LS,-,-
+16,23239,MET 346,Met.&Malz.Pros.Mod.&Sim.,Fiziksel (Yüz yüze),Sebahattin Gürmen,KMB,Tuesday,08:30/10:29 -,D301,90,0,-,MET_LS,-,-
+17,23242,MET 346E,Mod.&Sim.of Met.&Mat.Process,Fiziksel (Yüz yüze),Cevat Bora Derin,KMB,Thursday,13:30/15:29 -,D105,90,0,-,METE_LS,-,-
+18,23249,MET 348,Kalite Mühendisliği,Fiziksel (Yüz yüze),Özgül Keleş ;Billur Deniz Karahan,KMB,Tuesday,13:30/15:29 -,D103,80,0,-,METE_LS,Detail,-
+19,23245,MET 348E,Quality Engineering,Fiziksel (Yüz yüze),Billur Deniz Karahan,KMB,Wednesday,08:30/10:29 -,D301,90,0,-,METE_LS,Detail,-
+20,23253,MET 364,Ekstraktif Metalurji Lab.,Fiziksel (Yüz yüze),Faiz Muhaffel ;Hüseyin Çimenoğlu ;Onuralp Yücel ;Servet İbrahim Timur ;Gültekin Göller ;Sebahattin Gürmen ;Filiz Şahin ;Muhammet Kürşat Kazmanlı ;Özgül Keleş ;Hüseyin Kızıl ;Cevat Bora Derin ;Güldem Kartal Şireli ;İpek Akın Karadayı ;Bihter Zeytuncu Gökoğlu ;Duygu Ağaoğulları ;Mehmet Şeref Sönmez ;Mohammadreza Nofar ;Aytekin Uzunoğlu ;Billur Deniz Karahan ;Nuri Solak ;Cevat Fahir Arısoy ;Erçin Çağan Duran,KMB,Wednesday,11:30/13:29 -,ML1,80,0,-,METE_LS,Detail,-
+21,23262,MET 364E,Extractive Metallurgy Lab.,Fiziksel (Yüz yüze),Erçin Çağan Duran ;Hüseyin Çimenoğlu ;Onuralp Yücel ;Servet İbrahim Timur ;Sebahattin Gürmen ;İpek Akın Karadayı ;Özgül Keleş ;Bihter Zeytuncu Gökoğlu ;Cevat Bora Derin ;Güldem Kartal Şireli ;Duygu Ağaoğulları ;Mehmet Şeref Sönmez ;Mohammadreza Nofar ;Aytekin Uzunoğlu ;Billur Deniz Karahan ;Nuri Solak ;Kübra Onbaşlı ;Faiz Muhaffel,KMB,Wednesday,13:30/15:29 -,ML1,80,0,-,METE_LS,Detail,-
+22,23269,MET 366E,Energy Materials,Fiziksel (Yüz yüze),Onuralp Yücel ;Özgül Keleş,KMB,Friday,08:30/10:29 -,D304,55,0,-,MET_LS; METE_LS,-,-
+23,23273,MET 368E,Product.Tec. of Metallic Powd.,Fiziksel (Yüz yüze),Duygu Ağaoğulları,KMB,Friday,08:30/10:29 -,D102,35,0,-,MET_LS; METE_LS,-,-
+24,23275,MET 374,Proses Metalurjisi,Fiziksel (Yüz yüze),Servet İbrahim Timur ;Güldem Kartal Şireli,KMB,Friday,14:00/15:59 -,D303,35,0,-,MET_LS,-,-
+25,23277,MET 374E,Process Metallurgy,Fiziksel (Yüz yüze),Güldem Kartal Şireli,KMB,Friday,10:30/12:29 -,D102,35,0,-,METE_LS,-,-
+26,23278,MET 376E,Heat Treatment of Metals,Fiziksel (Yüz yüze),Hüseyin Çimenoğlu,KMB,Tuesday,11:30/13:29 -,D201,150,0,-,MET_LS; METE_LS,-,-
+27,23279,MET 378E,Non-Ferrous Eng. Materials,Fiziksel (Yüz yüze),Güldem Kartal Şireli,KMB,Thursday,09:30/11:29 -,D103,110,0,-,MET_LS; METE_LS,-,-
+28,23281,MET 442,Kompozit Malzemelerin Tem.,Fiziksel (Yüz yüze),Duygu Ağaoğulları,KMB,Friday,10:30/12:29 -,D304,100,0,-,MET_LS,Detail,-
+29,23286,MET 442E,Fund. of Composite Materials,Fiziksel (Yüz yüze),Mohammadreza Nofar,KMB,Monday,11:30/13:29 -,D104,90,0,-,METE_LS,Detail,-
+30,23302,MET 444,Müh.Uyg.Demir ve Çelik E.Mlz.,Fiziksel (Yüz yüze),Cevat Fahir Arısoy,KMB,Wednesday,13:30/15:29 -,D303,90,0,-,MET_LS,Detail,-
+31,23307,MET 444E,Iron&Steel Mat.in Eng. App,Fiziksel (Yüz yüze),Cevat Fahir Arısoy,KMB,Tuesday,10:30/12:29 -,D104,90,0,-,METE_LS,Detail,-
+32,23309,MET 446,Met.ve Malz.Pros.Çevre ve Etik,Fiziksel (Yüz yüze),Servet İbrahim Timur ;Güldem Kartal Şireli,KMB,Tuesday,08:30/10:29 -,D104,90,0,-,MET_LS,-,-
+33,23311,MET 446E,Envir.&Ethc.inMet.&Mat.Proces,Fiziksel (Yüz yüze),Mehmet Şeref Sönmez ;Cevat Fahir Arısoy,KMB,Tuesday,13:30/15:29 -,D303,70,0,-,METE_LS,-,-
+34,23313,MET 462,Mtlk.Nanparik.:Üret.&Karak.,Fiziksel (Yüz yüze),Sebahattin Gürmen,KMB,Thursday,13:30/15:29 -,D202,45,0,-,MET_LS,-,-
+35,23315,MET 462E,Metallic Nanopart.:Prod.&Char.,Fiziksel (Yüz yüze),Mehmet Şeref Sönmez,KMB,Monday,13:30/15:29 -,D202,40,0,-,METE_LS,-,-
+36,23316,MET 464E,Princip. of Surfaca Treatment,Fiziksel (Yüz yüze),Muhammet Kürşat Kazmanlı,KMB,Thursday,08:30/10:29 -,D104,40,0,-,MET_LS; METE_LS,-,-
+37,23318,MET 468E,Welding Tech. and Metallurgy,Fiziksel (Yüz yüze),Hüseyin Çimenoğlu ;Murat Baydoğan,KMB,Friday,15:00/16:59 -,D102,110,0,-,METE_LS,-,-
+38,23320,MET 472E,Casting Processes,Fiziksel (Yüz yüze),Necip Ünlü,KMB,Monday,08:30/10:29 -,D201,110,0,-,MET_LS; METE_LS,-,-
+39,23322,MET 476E,Intro. to Technical Ceramics,Fiziksel (Yüz yüze),Filiz Şahin,KMB,Thursday,13:30/15:29 -,D203,55,0,-,MET_LS; METE_LS,-,-
+40,23323,MET 4902,Met. Malz. Müh. Tasarımı II,Fiziksel (Yüz yüze),Murat Baydoğan,-,-,-/- -,-,500,0,-,MET_LS,Detail,-
+41,23324,MET 4902E,Met. & Mat. Engn. Design II,Fiziksel (Yüz yüze),Murat Baydoğan,-,-,-/- -,-,500,0,-,METE_LS,Detail,-
+42,23335,MET 492,Tasarım Projesi,Fiziksel (Yüz yüze),Murat Baydoğan,-,-,-/- -,-,500,0,-,MET_LS,-,Detail
+43,23336,MET 492E,Design Project,Fiziksel (Yüz yüze),Murat Baydoğan,-,-,-/- -,-,500,0,-,METE_LS,-,Detail

@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23643,IML 322,İmalatta Otomasyon,Fiziksel (Yüz yüze),Ramazan Murat Tabanlı,MKB,Friday,09:30/12:29 -,D456,30,0,-,IML_LS; IML_MTM_LS; IML_YD; IMLE_LS,Detail,-
+1,23644,IML 324E,Comp.Aided Manufacturing Eng.,Fiziksel (Yüz yüze),Erkan Günpınar,MKB,Thursday,08:30/11:29 -,D458,30,0,-,IML_LS; IML_MTM_LS; IMLE_LS,Detail,-
+2,23646,IML 326E,Manuf. of Nonmetalic Prod.,Fiziksel (Yüz yüze),Ersan Üstündağ,MKB,Tuesday,08:30/11:29 -,D357,50,0,-,IML_LS; IMLE_LS,Detail,-
+3,23648,IML 337,İmalat Planlama ve Kontrol,Fiziksel (Yüz yüze),Ramazan Murat Tabanlı,MKB,Thursday,14:30/17:29 -,D460,30,0,-,IML_LS; IML_MTM_LS,Detail,-
+4,23651,IML 338,İmalat Sistemleri,Fiziksel (Yüz yüze),Ramazan Murat Tabanlı,MKB,Friday,14:30/17:29 -,D464,30,0,-,IML_LS,Detail,-
+5,23652,IML 401,İmalat Lab I,Fiziksel (Yüz yüze),Canan Gamze Güleryüz Parasız,-,-,-/- -,-,40,0,-,IML_LS; IML_YD,-,Detail
+6,23654,IML 402,İmalat Lab II,Fiziksel (Yüz yüze),Canan Gamze Güleryüz Parasız,-,-,-/- -,-,40,0,-,IML_LS; IML_YD; IMLE_LS,-,Detail
+7,23655,IML 404E,Comp.Simulations in Manuf.Eng.,Fiziksel (Yüz yüze),Canan Gamze Güleryüz Parasız,-,-,-/- -,-,40,0,-,IML_LS; IML_MTM_LS; IML_YD; IMLE_LS,-,Detail
+8,23657,IML 405,Uygulamalı İmalat Projesi,Fiziksel (Yüz yüze),Hacı Abdullah Taşdemir,-,-,-/- -,-,40,0,-,IML_LS,Detail,-
+9,23659,IML 438E,Tool Design,Fiziksel (Yüz yüze),Turgut Gülmez,MKB,Thursday,13:30/16:29 -,D368B,40,0,-,IML_LS; IML_MTM_LS; IMLE_LS,Detail,-
+10,23660,IML 460,Tesis Plan. ve Yerleştirme,Fiziksel (Yüz yüze),Ramazan Murat Tabanlı,MKB,Tuesday,13:30/16:29 -,--,60,0,-,IML_LS,Detail,-
+11,23662,IML 4901,İmalat Müh. Tasarımı I,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,-,-,-/- -,-,200,0,-,IML_LS,Detail,Detail
+12,23664,IML 4901E,Manufacturing Eng. Design I,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,-,-,-/- -,-,200,0,-,IML_LS,Detail,Detail
+13,23665,IML 4902,İmalat Müh. Tasarımı II,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,-,-,-/- -,-,200,0,-,IML_LS,Detail,-
+14,23666,IML 4902E,Manufacturing Eng. Design II,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,-,-,-/- -,-,200,0,-,IML_LS,Detail,-
+15,23667,IML 492,İmalat Tasarım Projesi,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,-,-,-/- -,-,200,0,-,IML_LS,-,Detail
+16,23668,IML 492E,Manufacturing Design Project,Fiziksel (Yüz yüze),İsmail Yalçın Uralcan,-,-,-/- -,-,200,0,-,IML_LS; IMLE_LS,-,Detail

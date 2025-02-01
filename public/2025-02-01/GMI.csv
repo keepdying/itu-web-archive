@@ -1,0 +1,41 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24390,GMI 115,Bilgisayar Dest. Teknik Resim,Fiziksel (Yüz yüze),Emre Kahramanoğlu,DZB,Wednesday,08:30/11:29 -,--,35,0,-,GMI_LS,-,-
+1,24405,GMI 115,Bilgisayar Dest. Teknik Resim,Fiziksel (Yüz yüze),Emre Kahramanoğlu,DZB,Wednesday,12:30/15:29 -,--,25,0,-,GMI_LS,-,-
+2,24413,GMI 115,Bilgisayar Dest. Teknik Resim,Fiziksel (Yüz yüze),Emre Kahramanoğlu,DZB,Thursday,08:30/11:29 -,--,35,0,-,GMI_LS,-,-
+3,24366,GMI 132E,Numerical Analy. of Eng.Syst.,Fiziksel (Yüz yüze),Ata Bilgili,DZB,Monday,15:30/17:29 -,--,80,0,-,GMI_LS,Detail,-
+4,24623,GMI 132E,Numerical Analy. of Eng.Syst.,Fiziksel (Yüz yüze),Ata Bilgili,DZB,Wednesday,17:30/19:29 -,--,60,0,-,MEN_LS,Detail,-
+5,24374,GMI 171E,Maritime English I,Fiziksel (Yüz yüze),Müjgan Özenir,DZB,Tuesday,10:30/12:29 -,--,30,0,-,GMI_LS,-,-
+6,24378,GMI 171E,Maritime English I,Fiziksel (Yüz yüze),Müjgan Özenir,DZB,Tuesday,13:30/15:29 -,--,40,0,-,GMI_LS,-,-
+7,24397,GMI 171E,Maritime English I,Fiziksel (Yüz yüze),Müjgan Özenir,DZB,Wednesday,10:30/12:29 -,--,30,0,-,GMI_LS,-,-
+8,24625,GMI 171E,Maritime English I,Fiziksel (Yüz yüze),Müjgan Özenir,DZB,Tuesday,15:30/17:29 -,--,60,0,-,MEN_LS,-,-
+9,24419,GMI 209,Bilg. Destekli Katı Modelleme,Fiziksel (Yüz yüze),Emre Kahramanoğlu,DZB,Thursday,15:30/17:29 -,--,20,0,-,GMI_LS,-,-
+10,24386,GMI 210,Titreşimin Temelleri,Fiziksel (Yüz yüze),İsmail Çiçek,DZB,Tuesday,15:30/17:29 -,--,35,0,-,GMI_LS,-,-
+11,24377,GMI 213,Termodinamik,Fiziksel (Yüz yüze),Veysi Başhan,DZB,Tuesday,10:30/13:29 -,--,40,0,-,GMI_LS,Detail,-
+12,24418,GMI 213,Termodinamik,Fiziksel (Yüz yüze),Yalçın Durmuşoğlu,DZB,Thursday,12:30/15:29 -,--,40,0,-,GMI_LS,Detail,-
+13,24641,GMI 213E,Thermodynamics,Fiziksel (Yüz yüze),Veysi Başhan,DZB,Monday,13:30/16:29 -,--,60,0,-,MEN_LS,Detail,-
+14,24362,GMI 214,Hidrolik ve Pnömatik,Fiziksel (Yüz yüze),Ömer Berkehan İnal,DZB,Monday,14:30/17:29 -,--,50,0,-,GMI_LS,-,-
+15,24406,GMI 214,Hidrolik ve Pnömatik,Fiziksel (Yüz yüze),Ömer Berkehan İnal,DZB,Wednesday,12:30/15:29 -,--,50,0,-,GMI_LS,-,-
+16,24642,GMI 214E,Hydraulic and Pneumatic,Fiziksel (Yüz yüze),Kemal Demirel,DZB,Tuesday,14:30/17:29 -,--,60,0,-,MEN_LS,-,-
+17,24388,GMI 223,Makine Elemanları,Fiziksel (Yüz yüze),Çağlar Karatuğ,DZB,Tuesday,15:30/17:29 -,--,45,0,-,GMI_LS,-,-
+18,24649,GMI 223E,Machine Elements,Fiziksel (Yüz yüze),Ömer Berkehan İnal,DZB,Friday,10:30/12:29 -,--,60,0,-,MEN_LS,-,-
+19,24363,GMI 225,Gemi Dizel Makineleri I,Fiziksel (Yüz yüze),Burak Zincir,DZB,Monday,14:30/17:29 -,--,40,0,-,GMI_LS,-,-
+20,24402,GMI 225,Gemi Dizel Makineleri I,Fiziksel (Yüz yüze),Cengiz Deniz,DZB,Wednesday,12:30/15:29 -,--,40,0,-,GMI_LS,-,-
+21,24643,GMI 225E,Marine Diesel Engines I,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,DZB,Monday,09:30/12:29 -,--,60,0,-,MEN_LS,-,-
+22,24289,GMI 228,Temel Elektronik,Fiziksel (Yüz yüze),Tayfun Uyanık,DZB,Monday,08:30/10:29 -,--,80,0,-,GMI_LS,-,-
+23,24647,GMI 228E,Basic Electronics,Fiziksel (Yüz yüze),Tayfun Uyanık,DZB,Thursday,10:30/12:29 -,--,60,0,-,MEN_LS; MTM_LS,-,-
+24,24650,GMI 243E,Marine Environmental Chemistry,Fiziksel (Yüz yüze),Yasin Arslanoğlu,DZBDZB,TuesdayWednesday,10:30/12:2917:30/18:29 -,----,60,0,-,MEN_LS,-,-
+25,24354,GMI 256,Elektroteknik,Fiziksel (Yüz yüze),Tayfun Uyanık,DZB,Monday,11:30/14:29 -,--,80,0,-,GMI_LS,Detail,-
+26,24648,GMI 256E,Electrotechnics,Fiziksel (Yüz yüze),Tayfun Uyanık,DZB,Thursday,14:30/17:29 -,--,60,0,-,MEN_LS,Detail,-
+27,24391,GMI 261E,Fluid Mechanics,Fiziksel (Yüz yüze),Ata Bilgili,DZB,Wednesday,08:30/11:29 -,--,75,0,-,GMI_LS,Detail,-
+28,24653,GMI 393E,Long Term Sea Training (6 ay),Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,-,-,-/- -,-,60,0,-,MEN_LS,Detail,-
+29,24382,GMI 462,Buhar & Gaz Türbinleri Operas.,Fiziksel (Yüz yüze),Yalçın Durmuşoğlu,DZB,Tuesday,13:30/15:29 -,--,75,0,-,GMI_LS,Detail,-
+30,24789,GMI 474E,Quality&Safety Management Sys.,Fiziksel (Yüz yüze),Metin Çelik,DZB,Thursday,08:30/10:29 -,--,20,0,-,GMI_LS,-,-
+31,24400,GMI 481E,Marine Insurance,Fiziksel (Yüz yüze),Sinan Çakır,DZB,Wednesday,12:30/14:29 -,--,30,0,-,GMI_LS,-,-
+32,24353,GMI 484E,Engine Room Simulator (ERS) II,Fiziksel (Yüz yüze),İsmail Çiçek,DZB,Monday,08:30/11:29 -,--,16,0,-,GMI_LS,Detail,-
+33,24356,GMI 484E,Engine Room Simulator (ERS) II,Fiziksel (Yüz yüze),Çağlar Karatuğ,DZB,Monday,11:30/14:29 -,--,16,0,-,GMI_LS,Detail,-
+34,24365,GMI 484E,Engine Room Simulator (ERS) II,Fiziksel (Yüz yüze),Çağlar Karatuğ,DZB,Monday,14:30/17:29 -,--,16,0,-,GMI_LS,Detail,-
+35,24394,GMI 484E,Engine Room Simulator (ERS) II,Fiziksel (Yüz yüze),Samet Biçen,DZB,Wednesday,08:30/11:29 -,--,16,0,-,GMI_LS,Detail,-
+36,24403,GMI 484E,Engine Room Simulator (ERS) II,Fiziksel (Yüz yüze),Samet Biçen,DZB,Wednesday,12:30/15:29 -,--,16,0,-,GMI_LS,Detail,-
+37,24415,GMI 485E,Envir.Manag.in Ship Operations,Fiziksel (Yüz yüze),Kadir Çiçek,DZB,Thursday,09:30/11:29 -,--,20,0,-,GMI_LS,-,-
+38,24396,GMI 486E,Shipping Finance,Fiziksel (Yüz yüze),Sinan Çakır,DZB,Wednesday,09:30/11:29 -,--,30,0,-,GMI_LS,-,-
+39,24416,GMI 488E,Surveying Procedures,Fiziksel (Yüz yüze),Fırat Bolat,DZB,Thursday,12:30/14:29 -,--,25,0,-,GMI_LS,-,-

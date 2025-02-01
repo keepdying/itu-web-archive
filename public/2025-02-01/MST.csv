@@ -1,0 +1,12 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24764,MST 222,Marine Electronics,Fiziksel (Yüz yüze),Ali Sinan Çabuk,EEB,Tuesday,11:30/14:29 -,5103,50,0,-,NAE_LS,Detail,-
+1,24665,MST 272,Marit. Human Resources Manag.,Fiziksel (Yüz yüze),Leyla Tavacıoğlu,DZB,Monday,08:30/10:29 -,--,60,0,-,MEN_LS; MTM_LS,-,-
+2,24662,MST 402,Mar.Sec. & Quality Manag. Sys,Fiziksel (Yüz yüze),İsmail Kandemir,DZB,Friday,10:30/12:29 -,--,60,0,-,MEN_LS; MTM_LS,-,-
+3,24673,MST 412,Ship Surveying Procedures,Fiziksel (Yüz yüze),Fırat Bolat,DZB,Wednesday,10:30/12:29 -,--,60,0,-,MEN_LS; MTM_LS,-,-
+4,24770,MST 413,Shipyard Organization,Fiziksel (Yüz yüze),Erdem Üçer,MEDC,Monday,10:30/12:29 -,1D9,50,0,-,NAE_LS,-,-
+5,24664,MST 422,Maritime Law II,Fiziksel (Yüz yüze),Nuri Koray Kurun,DZB,Friday,14:30/17:29 -,--,60,0,-,MEN_LS; MTM_LS,-,-
+6,24661,MST 432,Commercial Ship Management,Fiziksel (Yüz yüze),Özcan Arslan,DZB,Wednesday,08:30/10:29 -,--,60,0,-,MEN_LS; MTM_LS,-,-
+7,24666,MST 441,Deck Machinery,Fiziksel (Yüz yüze),Ömer Berkehan İnal,DZB,Friday,08:30/10:29 -,--,60,0,-,MEN_LS; MTM_LS,-,Detail
+8,24672,MST 451,Marine Insurance,Fiziksel (Yüz yüze),Sinan Çakır,DZB,Tuesday,13:30/15:29 -,--,60,0,-,MTM_LS,-,-
+9,24656,MST 461,Terminal & Tanker Operations,Fiziksel (Yüz yüze),Tanzer Satır,DZB,Tuesday,15:30/17:29 -,--,60,0,-,MEN_LS; MTM_LS,-,-
+10,24671,MST 462,Seafarer's Health and Safety,Fiziksel (Yüz yüze),Esma Uflaz,DZB,Thursday,11:30/13:29 -,--,60,0,-,MEN_LS; MTM_LS,-,-

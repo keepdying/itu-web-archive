@@ -1,0 +1,30 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23338,GID 204E,Momentum Transfer,Fiziksel (Yüz yüze),Filiz Altay,KMB,Thursday,13:30/16:29 -,D104,95,0,-,GID_LS; GIDE_LS,Detail,-
+1,23389,GID 210E,Engineering Mathematics,Fiziksel (Yüz yüze),Evren Demircan,KMBKMB,MondayTuesday,15:00/16:5911:30/13:29 -,D205D304,25,0,-,GID_LS,Detail,-
+2,23344,GID 212,Termodinamik,Fiziksel (Yüz yüze),Aslı Can Karaça,KMB,Wednesday,08:30/12:29 -,D102,20,0,-,GID_LS,-,-
+3,23346,GID 214,Termodinamik,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,KMB,Wednesday,09:30/12:29 -,D104,95,0,-,GID_LS,-,-
+4,23341,GID 222E,Microbiology,Fiziksel (Yüz yüze),Enes Dertli,KMB,Tuesday,13:30/16:29 -,D203,10,0,-,GID_LS; GIDE_LS,-,-
+5,23339,GID 224,Gıda Toksik.;Kontamin.&Katk.,Fiziksel (Yüz yüze),Beraat Özçelik ;Kadriye Nur Kasapoğlu ;Merve Tomaş,KMB,Tuesday,08:30/11:29 -,D201,95,0,-,GID_LS; GID_YD,-,-
+6,23342,GID 226E,Microbiology,Fiziksel (Yüz yüze),-,KMB,Tuesday,13:30/15:29 -,D105,30,0,-,GID_LS; GIDE_LS,-,-
+7,23343,GID 226E,Microbiology,Fiziksel (Yüz yüze),-,KMB,Tuesday,13:30/15:29 -,D204,30,0,-,GID_LS; GIDE_LS,-,-
+8,23348,GID 306E,Food Plant Design & Economics,Fiziksel (Yüz yüze),Gürbüz Güneş,KMB,Wednesday,12:30/15:29 -,D304,95,0,-,GID_LS; GIDE_LS,-,-
+9,23361,GID 312E,Food Microbiology II,Fiziksel (Yüz yüze),-,KMB,Friday,09:30/12:29 -,D302,30,0,-,GID_LS; GIDE_LS,Detail,-
+10,23363,GID 312E,Food Microbiology II,Fiziksel (Yüz yüze),-,KMB,Friday,09:30/12:29 -,D106,25,0,-,GID_LS; GIDE_LS,Detail,-
+11,23364,GID 314,Duyusal Analiz,Fiziksel (Yüz yüze),Beraat Özçelik,KMB,Wednesday,08:30/11:29 -,D305,5,0,-,GID_LS,-,-
+12,23366,GID 316E,Food Packaging,Fiziksel (Yüz yüze),Gülay Özkan,KMB,Thursday,13:30/16:29 -,--,5,0,-,GID_LS; GIDE_LS,-,-
+13,23350,GID 322,Gıda Müh Temel İşlemler II,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil,KMB,Thursday,09:30/12:29 -,D102,95,0,-,GID_LS,Detail,-
+14,23359,GID 324E,Food Safety;Sanitat.&Preserv.,Fiziksel (Yüz yüze),Fatih Ortakcı,KMB,Friday,09:30/12:29 -,D103,10,0,-,GID_LS; GIDE_LS,Detail,-
+15,23352,GID 332,Gıda Mühendisliği Laboratuarı,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil ;Filiz Altay ;Celale Kırkın Gözükırmızı,KMB,Monday,08:30/12:29 -,G114,35,0,-,GID_LS,-,-
+16,23354,GID 332,Gıda Mühendisliği Laboratuarı,Fiziksel (Yüz yüze),Fatma Ebru Fıratlıgil ;Filiz Altay ;Celale Kırkın Gözükırmızı,KMB,Monday,13:00/16:59 -,G114,35,0,-,GID_LS,-,-
+17,23373,GID 408E,Statistical Methods,Fiziksel (Yüz yüze),Aslı Can Karaça ;Evren Demircan,KMBKMB,MondayMonday,08:30/10:2910:30/12:29 -,D303BIL.LAB.1,80,0,-,GID_LS; GIDE_LS,-,-
+18,23381,GID 416E,Shelf Life of Foods,Fiziksel (Yüz yüze),Aslı Can Karaça,KMB,Thursday,13:30/16:29 -,--,5,0,-,GID_LS; GIDE_LS,-,-
+19,23357,GID 421E,Food Technology,Fiziksel (Yüz yüze),Meral Kılıç Akyılmaz ;Neşe Şahin Yeşilçubuk ;Gürbüz Güneş ;Derya Kahveci Karıncaoğlu ;Gülay Özkan ;Esra Çapanoğlu Güven,KMB,Friday,14:00/16:59 -,D104,95,0,-,GID_LS; GIDE_LS,-,-
+20,23384,GID 438,Coğrafi İşaretlerin Korunması,Fiziksel (Yüz yüze),Merve Tomaş,KMB,Friday,09:30/12:29 -,GZ102,5,0,-,GID_LS,-,-
+21,23391,GID 442E,Sustainable Food Production,Fiziksel (Yüz yüze),Derya Kahveci Karıncaoğlu ;Celale Kırkın Gözükırmızı,KMB,Wednesday,09:30/11:29 -,GZ103,15,0,-,GID_LS,-,-
+22,23370,GID 450,Gıda Müh. Özel Konular,Fiziksel (Yüz yüze),Esra Çapanoğlu Güven ;Meral Kılıç Akyılmaz ;Beraat Özçelik ;Gürbüz Güneş ;Pervin Başaran Akocak ;Neşe Şahin Yeşilçubuk ;Hatice Funda Karbancıoğlu Güler ;Filiz Altay ;Enes Dertli ;Aslı Can Karaça ;Fatma Ebru Fıratlıgil ;Derya Kahveci Karıncaoğlu ;Merve Tomaş ;Celale Kırkın Gözükırmızı ;Fatih Ortakcı ;Gülay Özkan ;Kadriye Nur Kasapoğlu ;Evren Demircan,-,-,-/- -,-,85,0,-,GID_LS,Detail,Detail
+23,23365,GID 456,Duyusal Analiz,Fiziksel (Yüz yüze),Esra Çapanoğlu Güven,KMB,Wednesday,09:30/11:29 -,D203,10,0,-,GID_LS,-,-
+24,23367,GID 457E,Food Packaging,Fiziksel (Yüz yüze),Gürbüz Güneş,KMB,Thursday,13:30/15:29 -,D302,10,0,-,GID_LS; GIDE_LS,-,-
+25,23383,GID 461E,Shelf Life of Foods,Fiziksel (Yüz yüze),Meral Kılıç Akyılmaz,KMB,Thursday,13:30/15:29 -,D106,10,0,-,GID_LS; GIDE_LS,-,-
+26,23386,GID 465,Coğrafi İşaretlerin Korunması,Fiziksel (Yüz yüze),Beraat Özçelik ;Didem Özgür,KMB,Friday,09:30/11:29 -,D105,10,0,-,GID_LS,-,-
+27,23368,GID 4902,Gıda Mühendisliği Tasarımı II,Fiziksel (Yüz yüze),Gürbüz Güneş ;Filiz Altay ;Celale Kırkın Gözükırmızı,KMBKMB,TuesdayThursday,08:30/13:2912:30/13:29 -,D303D301,90,0,-,GID_LS,Detail,-
+28,23369,GID 4902,Gıda Mühendisliği Tasarımı II,Fiziksel (Yüz yüze),Meral Kılıç Akyılmaz ;Enes Dertli ;Fatma Ebru Fıratlıgil,KMBKMB,TuesdayThursday,08:30/13:2912:30/13:29 -,D103D304,90,0,-,GID_LS,Detail,-

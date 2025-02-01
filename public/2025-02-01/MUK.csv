@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24515,MUK 203,Mukavemet I,Fiziksel (Yüz yüze),Erol Demirkan,MDB,Thursday,13:30/16:29 -,A203,50,0,-,JEO_LS,Detail,-
+1,22451,MUK 204,Mukavemet II,Fiziksel (Yüz yüze),Bahadır Uğurlu,MEDMEDC,TuesdayThursday,13:30/15:2913:30/14:29 -,B34ZD2,45,0,-,GEM_LS,Detail,-
+2,22454,MUK 204,Mukavemet II,Fiziksel (Yüz yüze),Mustafa Erden Yıldızdağ,MEDCMEDC,TuesdayThursday,13:30/15:2913:30/14:29 -,2D141D3,45,0,-,GEM_LS,Detail,-
+3,22578,MUK 204,Mukavemet II,Fiziksel (Yüz yüze),Oktay Eren Türeyen,MEDC,Monday,13:30/16:29 -,2D18,80,0,-,DEN_LS,Detail,-
+4,24756,MUK 204E,Strength of Materials II,Fiziksel (Yüz yüze),İbrahim Tuğrul Ardıç,MEDC,Tuesday,09:30/12:29 -,3D19,50,0,-,NAE_LS,Detail,-
+5,20862,MUK 207E,Strength of Materials,Fiziksel (Yüz yüze),Levent Önal,MKB,Thursday,08:30/11:29 -,--,40,0,-,TEK_LS; TEKE_LS,Detail,-
+6,20863,MUK 207E,Strength of Materials,Fiziksel (Yüz yüze),Levent Önal,MKB,Wednesday,12:30/15:29 -,--,40,0,-,TEK_LS; TEKE_LS,Detail,-

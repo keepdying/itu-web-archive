@@ -1,0 +1,22 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21622,MAD 243,Yeraltı Maden İşletmeciliği,Fiziksel (Yüz yüze),Muhammet Mustafa Kahraman,MDB,Monday,11:30/14:29 -,A105,75,0,-,MAD_LS; MAD_YD,-,-
+1,24514,MAD 254E,Strngth of Mat.for Mining Eng.,Fiziksel (Yüz yüze),Pınar Teymür,MDB,Tuesday,15:30/17:29 -,A103,50,0,-,MAD_LS; MADE_LS,Detail,-
+2,21623,MAD 302E,Mining and Environment,Fiziksel (Yüz yüze),Türker Hüdaverdi,MDB,Wednesday,08:30/10:29 -,A201,55,0,-,MAD_LS; MADE_LS,-,-
+3,21632,MAD 304E,Drilling Techniques,Fiziksel (Yüz yüze),Hasan Ergin,MDB,Tuesday,08:30/11:29 -,A202,60,0,-,MAD_LS; MADE_LS,-,-
+4,21631,MAD 308,Cevher Hazırlama II,Fiziksel (Yüz yüze),Alim Gül,MDBMDB,WednesdayThursday,11:30/12:2911:30/13:29 -,B204A102,60,0,-,MAD_LS,Detail,-
+5,21388,MAD 314,Topoğrafya,Fiziksel (Yüz yüze),Adil Enis Arslan,INB,Thursday,13:30/17:29 -,A201,60,0,-,MAD_LS,-,-
+6,21634,MAD 322E,Dsgn of Sup in Mines & Tunnels,Fiziksel (Yüz yüze),Hakan Tunçdemir,MDB,Monday,11:30/14:29 -,B207,60,0,-,MAD_LS; MAD_YD,Detail,-
+7,21647,MAD 342E,Hydraulic Power Sys in Mining,Fiziksel (Yüz yüze),Deniz Tumaç,MDB,Tuesday,11:30/13:29 -,A105,55,0,-,MAD_LS; MADE_LS,Detail,-
+8,21648,MAD 406,Madenlerde İş Sağlığı ve Güv.,Fiziksel (Yüz yüze),Abdullah Fişne,MDB,Tuesday,13:30/15:29 -,A201,50,0,-,MAD_LS,Detail,-
+9,21649,MAD 422E,Mine Planing and Design,Fiziksel (Yüz yüze),Cüneyt Atilla Öztürk,MDB,Friday,14:30/17:29 -,A204,55,0,-,MAD_LS,Detail,Detail
+10,21650,MAD 432,Maden. ve Tünellerde Kazı Mek.,Fiziksel (Yüz yüze),Hanifi Çopur ;Cemal Balcı,MDB,Friday,08:30/11:29 -,A201,65,0,-,MAD_LS,Detail,-
+11,21822,MAD 434,Maden Hukuku,Fiziksel (Yüz yüze),Mahmut Kabakcı,MDB,Tuesday,15:30/17:29 -,A201,60,0,-,MAD_LS,-,-
+12,21651,MAD 436,Maden Ekonomisi,Fiziksel (Yüz yüze),Cüneyt Atilla Öztürk,MDB,Thursday,08:30/10:29 -,A102,80,0,-,MAD_LS,Detail,-
+13,21652,MAD 438E,Tunneling,Fiziksel (Yüz yüze),Hanifi Çopur ;Deniz Tumaç,MDB,Tuesday,08:30/10:29 -,A201,60,0,-,MAD_LS; MAD_YD,-,-
+14,21655,MAD 446E,Computer Aided Mine Design,Fiziksel (Yüz yüze),Kürşat Hasözdemir,MDB,Wednesday,08:30/11:29 -,A301,14,0,-,MAD_LS; MAD_YD; MADE_LS,Detail,-
+15,21656,MAD 446E,Computer Aided Mine Design,Fiziksel (Yüz yüze),Kürşat Hasözdemir,MDB,Thursday,13:30/16:29 -,B205,14,0,-,MAD_LS; MAD_YD; MADE_LS,Detail,-
+16,21653,MAD 467,Jeoloji Haritaları,Fiziksel (Yüz yüze),Ufuk Tarı,MDB,Monday,08:30/11:29 -,A301,30,0,-,MAD_LS,-,-
+17,21658,MAD 4901,Maden Müh.Tasarım Projesi I,Fiziksel (Yüz yüze),Türker Hüdaverdi,-,-,-/- -,-,500,0,-,MAD_LS,Detail,Detail
+18,21660,MAD 4902,Maden Müh.Tasarım Projesi II,Fiziksel (Yüz yüze),Türker Hüdaverdi,-,-,-/- -,-,500,0,-,MAD_LS,Detail,Detail
+19,21662,MAD 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Türker Hüdaverdi,-,-,-/- -,-,500,0,-,MAD_LS,-,Detail
+20,21663,MAD 492E,Graduation Project,Fiziksel (Yüz yüze),Türker Hüdaverdi,-,-,-/- -,-,500,0,-,MAD_LS; MADE_LS,-,Detail

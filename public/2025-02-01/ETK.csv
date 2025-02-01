@@ -1,0 +1,6 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21506,ETK 101,Mühendislik Etiği,Fiziksel (Yüz yüze),Ahmet Duran Şahin,MEDC,Monday,14:30/15:29 -,ZA2,90,0,-,IBM_LS; MTO_LS,-,-
+1,21615,ETK 101,Mühendislik Etiği,Fiziksel (Yüz yüze),Türker Hüdaverdi,MDB,Wednesday,13:30/14:29 -,A201,80,0,-,JEF_LS; MAD_LS,-,-
+2,21666,ETK 101,Mühendislik Etiği,Fiziksel (Yüz yüze),Yüksel Örgün Tutay,MDB,Wednesday,13:30/14:29 -,A202,70,0,-,JEO_LS,-,-
+3,21644,ETK 101E,Engineering Ethics,Fiziksel (Yüz yüze),İbrahim Metin Mıhçakan,MDB,Wednesday,13:30/14:29 -,B204,70,0,-,PETE_LS,-,-
+4,21673,ETK 101E,Engineering Ethics,Fiziksel (Yüz yüze),Macid Fikret Suner,MDB,Wednesday,13:30/14:29 -,A203,70,0,-,JEO_LS; JEOE_LS,-,-
