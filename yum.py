@@ -122,7 +122,7 @@ if __name__ == "__main__":
         if len(rows) != 0:
             for row in rows:
                 cols = row.find_elements(by=By.CSS_SELECTOR, value="td")
-                cols = [col.text.replace(",", ";").replace("\n", "") for col in cols]
+                cols = [col.text.replace("\n", "") for col in cols]
                 row_data.append(cols)
 
         df = pd.DataFrame(data=row_data, columns=headers)
