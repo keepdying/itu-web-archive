@@ -1,0 +1,20 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22822,ECN 102E,Principles of Macroeconomics,Physical (Face to face),İsmail Hakkı Genç,MSB,Tuesday,14:30/18:29,104,110,107,-,"ECNE_LS, EFN_LS",-,-
+1,22823,ECN 105E,Principles of Microeconomics,Physical (Face to face),Tolga Yuret,MSB,Wednesday,08:30/12:29,103,100,61,-,"ECNE_LS, EFN_LS",-,-
+2,22828,ECN 202E,Intermediate Macroeconomics,Physical (Face to face),Şerife Genç İleri,MSB,Tuesday,08:30/12:29,101,110,104,END/8/9 | ENDE/8/13 | ISLE/5/4 | Diğer/89/78,"ECNE_LS, END_LS, ENDE_LS, ISLE_LS",Detail,-
+3,25275,ECN 207E,Mathematical Economics,Sınırsız Sınav,Resul Aydemir,-,-,-/-,-,0,1,-,-,-,-
+4,22825,ECN 208E,Public Economics,Physical (Face to face),Aysun Hızıroğlu Aygün,MSB,Wednesday,09:30/12:29,B13-A,100,96,ISLE/5/2 | Diğer/95/94,"ECNE_LS, ISLE_LS",Detail,-
+5,22830,ECN 210E,Financial Accounting,Physical (Face to face),Havva Nur Çiftci,ISB,Monday,09:30/12:29,203,100,94,-,ECNE_LS,-,-
+6,22832,ECN 302E,Econometrics II,Physical (Face to face),Osman Doğan,MSB,Monday,14:30/18:29,216,120,125,END/2/4 | ENDE/3/4 | Diğer/115/117,"ECNE_LS, EFN_LS, END_LS, ENDE_LS",Detail,-
+7,22838,ECN 308E,Competition Law and Policy,Physical (Face to face),"Shourjo Chakravorty ,
+Çiçek Ersoy Kekevi",MSB,Thursday,14:30/17:29,101,150,118,ISLE/20/3 | Diğer/130/115,"ECNE_LS, ISLE_LS",Detail,-
+8,22843,ECN 312E,International Finance,Physical (Face to face),Mete Han Yağmur,MSB,Friday,14:30/17:29,104,110,109,-,"ECNE_LS, EFN_LS",Detail,-
+9,22835,ECN 314E,Financial Economics,Physical (Face to face),Erhan Çetinkaya,MSB,Friday,09:30/12:29,104,100,98,-,ECNE_LS,Detail,-
+10,22845,ECN 402E,Project Appraisal,Physical (Face to face),Zehra Atik,ISB,Wednesday,09:30/12:29,108,100,41,-,ECNE_LS,Detail,-
+11,22858,ECN 407E,Time Series Econometrics,Physical (Face to face),İsmail Hakkı Genç,MSB,Tuesday,09:30/12:29,109,100,24,-,"ECNE_LS, EFN_LS",Detail,-
+12,22854,ECN 412E,Environmental Economics,Physical (Face to face),Umut Kuruüzüm,ISB,Tuesday,14:30/17:29,203,100,85,END/5/0 | ENDE/5/5 | Diğer/90/80,"ECNE_LS, EFN_LS, END_LS, ENDE_LS",Detail,-
+13,22850,ECN 415E,Urban Economics,Physical (Face to face),Kerem Yavuz Arslanlı,ISB,Thursday,14:30/17:29,104,50,27,-,ECNE_LS,Detail,-
+14,22852,ECN 421E,Experimental Economics,Physical (Face to face),Tolga Yuret,MSB,Thursday,09:30/12:29,101,100,91,END/5/4 | ENDE/5/3 | Diğer/90/84,"ECNE_LS, EFN_LS, END_LS, ENDE_LS",Detail,-
+15,22847,ECN 432E,Labor Economics,Physical (Face to face),Şerife Genç İleri,MSB,Monday,09:30/12:29,104,110,97,-,"ECNE_LS, EFN_LS",Detail,-
+16,22861,ECN 4902E,Graduation Project,Physical (Face to face),Bülent Güloğlu,-,-,-/-,-,100,63,-,ECNE_LS,Detail,Detail
+17,22859,ECN 492E,Graduation Project,Physical (Face to face),Bülent Güloğlu,-,-,-/-,-,100,2,-,ECNE_LS,-,Detail

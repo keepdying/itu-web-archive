@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25133,PHY 107,Physics I,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Thursday,17:30/20:29,--,60,4,-,"MEN_LS, MTM_LS",-,-
+1,22222,PHY 124,Physics II,Physical (Face to face),Mehmet Murat Sunar,EEB,Tuesday,14:30/17:29,1301,30,19,-,EHN_LS,-,-
+2,22223,PHY 124L,Physics II Lab,Physical (Face to face),Mehmet Murat Sunar,EEB,Wednesday,11:30/13:29,1301,30,18,-,EHN_LS,-,-
+3,22704,PHY 126,Physics II,Physical (Face to face),Esra Zayim,KMB,Tuesday,14:30/17:29,D106,30,20,-,"MBI_LS, SGI_LS",-,-
+4,22707,PHY 126,Physics II,Physical (Face to face),Yaşar Yılmaz,MED,Tuesday,14:30/17:29,A13,30,30,-,SIN_LS,-,-
+5,22713,PHY 126,Physics II,Physical (Face to face),Emre Onur Kahya,FEB,Tuesday,14:30/17:29,D105,30,27,-,SED_LS,-,-
+6,22706,PHY 126L,Physics II Laboratory,Physical (Face to face),Esra Zayim,FEB,Wednesday,13:30/15:29,--,30,19,-,"MBI_LS, SGI_LS",-,-
+7,22710,PHY 126L,Physics II Laboratory,Physical (Face to face),Yaşar Yılmaz,FEB,Wednesday,11:30/13:29,--,40,34,-,SIN_LS,-,-
+8,22715,PHY 126L,Physics II Laboratory,Physical (Face to face),Emre Onur Kahya,FEB,Monday,11:30/13:29,--,30,25,-,SED_LS,-,-

@@ -1,0 +1,21 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22975,ENT 211E,Industrial Design Studio,Physical (Face to face),Cemal İrfan Çalışkan,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","CATI1
+CATI1",20,3,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",Detail,-
+1,22977,ENT 212E,Society&Sustain. in Ind.Design,Physical (Face to face),Çiğdem Kaya,MMB,Tuesday,08:30/12:29,216,100,91,-,ENTE_LS,-,-
+2,22984,ENT 230E,Parametric Solid Model.&Design,Physical (Face to face),Cemal İrfan Çalışkan,MMB,Thursday,13:30/16:29,BIM2,35,39,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+3,22986,ENT 237E,Structure in Industrial Design,Physical (Face to face),Demet Günal Ertaş,MMB,Thursday,08:30/11:29,217D,33,33,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+4,22999,ENT 334E,Design and Form,Physical (Face to face),Hatice Kübra Yıldız,MMB,Thursday,13:30/16:29,231,28,24,ICM/3/0 | Diğer/25/24,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS, ICM_LS",-,-
+5,23004,ENT 345E,Consumer Behavior,Physical (Face to face),Naz Gürpınar,MMB,Friday,08:30/11:29,311,28,28,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+6,23006,ENT 347E,Introduction to Jewelry Design,Physical (Face to face),Nazire Öykü Kaya,MMB,Wednesday,08:30/11:29,TAKIATÖLYE,15,12,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+7,23013,ENT 350E,Contemporary Furniture Design,Physical (Face to face),Layıka Ney Ece Arıburun Kırca,MMB,Tuesday,08:30/11:29,311,28,26,ICM/3/3 | Diğer/25/23,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS, ICM_LS",-,-
+8,23016,ENT 354E,Emotional Design,Physical (Face to face),Pelin Efilti,MMB,Thursday,13:30/16:29,106,28,28,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+9,25198,ENT 431E,User-Experience Design,Physical (Face to face),Gülbin Yılmaz,MMB,Thursday,08:30/11:29,--,28,28,-,"ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+10,23022,ENT 433E,Street Furniture,Physical (Face to face),Seçil Şatır,MMB,Friday,08:30/11:29,303,28,15,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+11,23023,ENT 434E,Seeing in Design,Physical (Face to face),Seçil Şatır,MMB,Tuesday,08:30/11:29,302,28,29,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+12,23024,ENT 436E,Visualization Techniques,Physical (Face to face),Nazım Erdem Aykam,MMB,Monday,08:30/11:29,315,28,29,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+13,25199,ENT 447E,Creativity in Interaction Dsgn,Physical (Face to face),Mete Fisunoğlu,MMB,Thursday,13:30/16:29,--,28,27,-,"ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+14,23030,ENT 456E,Fashion Accessories Design,Physical (Face to face),Meltem Maralcan Gülmen,MMB,Thursday,13:30/16:29,303,28,28,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+15,23032,ENT 475E,Intro. to Automotive Design,Physical (Face to face),Ekrem Cem Alppay,MMB,Friday,08:30/11:29,307,28,14,-,"ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-

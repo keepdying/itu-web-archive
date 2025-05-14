@@ -1,0 +1,27 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22782,SGI 112,Comp. Aided Technical Drawing,Physical (Face to face),Cihad Delen,"MEDC
+MEDC","Thursday
+Thursday","09:30/11:29
+13:30/16:29","3BİL1
+3BİL1",25,14,-,SGI_LS,-,-
+1,22786,SGI 201,Statics,Physical (Face to face),Mustafa Erden Yıldızdağ,MEDC,Friday,14:00/16:59,1D5,25,13,-,SGI_LS,-,-
+2,22788,SGI 204,Strength of Materials II,Physical (Face to face),Mustafa Erden Yıldızdağ,MEDC,Tuesday,08:30/12:29,2D14,25,4,-,SGI_LS,Detail,-
+3,22789,SGI 205,Fluid Mechanics,Physical (Face to face),Şakir Bal,"MEDC
+MEDC","Monday
+Friday","13:30/16:29
+08:30/10:29","3D19
+1D4",25,4,-,SGI_LS,Detail,-
+4,22790,SGI 206,Thermodynamics,Physical (Face to face),Oğuz Salim Söğüt,"MEDC
+MEDC","Friday
+Friday","10:30/12:29
+14:00/15:59","1D5
+2D17",25,5,-,SGI_LS,-,-
+5,22791,SGI 209,Probability and Statistics,Physical (Face to face),Ahmet Ergin,MEDC,Thursday,13:30/16:29,2D12,25,5,-,SGI_LS,-,-
+6,25107,SGI 210,Engineering Mathematics,Physical (Face to face),Mustafa Erden Yıldızdağ,"MEDC
+MEDC","Monday
+Thursday","11:30/13:29
+10:30/12:29","2D12
+2D12",10,2,-,SGI_LS,Detail,-
+7,22787,SGI 212,Manufacturing Processes,Physical (Face to face),Necip Ünlü,KMB,Wednesday,13:30/15:29,GZ102,25,5,-,SGI_LS,Detail,-
+8,22792,SGI 216,Heat Transfer In Engineering,Physical (Face to face),Selma Ergin,MEDC,Tuesday,13:30/16:29,ZD2,25,5,-,SGI_LS,-,-
+9,22793,SGI 222,Organic Chemistry,Physical (Face to face),Sevil Deniz Yakan Dündar,MEDC,Wednesday,09:30/12:29,1D8,25,5,-,SGI_LS,-,-

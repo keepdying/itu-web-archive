@@ -1,0 +1,17 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23638,MYZ 302E,Artificial Intelligence for Mechanical Engineering,Physical (Face to face),"Atakan Altınkaynak ,
+Emrecan Söylemez ,
+Eren Kalay ,
+Erkan Günpınar ,
+Ersan Üstündağ ,
+Hülya Yalçın ,
+Mesut Kırca",MKB,Tuesday,13:30/16:29,D353,40,23,-,MAK_LS,Detail,-
+1,25012,MYZ 303E,Artificial Intelligence in Civil Engineering,Physical (Face to face),Murat Yılmaz,INB,Friday,14:00/16:59,A103,40,44,-,"AIN_LS, INS_LS, INSE_LS",-,-
+2,21150,MYZ 304E,Artificial Intelligence in Environmental Engineering,Physical (Face to face),Sadullah Levent Kuzu,INB,Monday,08:30/10:29,B307,30,30,-,"CEV_LS, CEVE_LS",-,-
+3,21368,MYZ 305,Harita Mühendisliğinde Yapay Zeka,Physical (Face to face),Caner Güney,INB,Thursday,08:30/10:29,B302,50,20,-,"GEO_LS, HTA_LS",-,-
+4,21370,MYZ 305E,Artificial Intelligence in Geomatics Engineering,Physical (Face to face),Muhammed Oğuzhan Mete,INB,Tuesday,12:30/14:29,B302,50,25,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+5,22218,MYZ 307,Elektrik-Elektronik Mühendisleri için Makine Öğrenmesi,Physical (Face to face),Bilge Günsel,EEB,Tuesday,12:30/15:29,5205,60,30,-,"EHB_LS, ELK_LS, KON_LS",Detail,-
+6,22219,MYZ 307E,Machine Learning for Electrical and Electronics Engineering,Physical (Face to face),Ender Mete Ekşioğlu,EEB,Tuesday,12:30/15:29,5201,60,54,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+7,22220,MYZ 307E,Machine Learning for Electrical and Electronics Engineering,Physical (Face to face),Tufan Kumbasar,EEB,Tuesday,12:30/15:29,5207,60,56,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+8,21816,MYZ 309E,Artificial Intelligence in Mathematical Engineering,Physical (Face to face),Atabey Kaygun,FEB,Tuesday,14:30/17:29,D203,20,18,-,MAT_LS,Detail,-
+9,21968,MYZ 311E,Artificial Intelligence and Machine Learning in Chemistry,Physical (Face to face),Berna Doğan,FEB,Friday,14:00/16:59,B3_Z01-Z03,20,14,-,"KIM_LS, KIM_YD, KIME_LS",Detail,-

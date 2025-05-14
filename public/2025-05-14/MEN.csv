@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24626,MEN 211,Workshop Training-I,Physical (Face to face),Cumali Seçkin Mengeçin,-,-,-/-,-,60,10,-,MEN_LS,-,-
+1,24745,MEN 302,Onboard Training,Physical (Face to face),Cumali Seçkin Mengeçin,-,-,-/-,-,30,3,-,MEN_LS,Detail,-
+2,24651,MEN 331,Workshop Training-II,Physical (Face to face),Cumali Seçkin Mengeçin,-,-,-/-,-,60,11,-,MEN_LS,-,Detail
+3,24659,MEN 402,Graduation Design Project,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,21,-,MEN_LS,-,Detail
+4,25284,MEN 411,Marine Auxialiary Machinery II,Physical (Face to face),Kemal Demirel,DZB,Monday,13:30/16:29,--,10,3,-,"MEN_LS, NAE_LS",Detail,-
+5,24657,MEN 412,Engine Room Simulator (ERS) II,Physical (Face to face),Kemal Demirel,DZB,Thursday,08:30/11:29,--,15,12,-,MEN_LS,Detail,-
+6,24658,MEN 412,Engine Room Simulator (ERS) II,Physical (Face to face),Kemal Demirel,DZB,Thursday,14:30/17:29,--,15,10,-,MEN_LS,Detail,-
+7,25280,MEN 431,Engine Room Mangm.& Leadership,Physical (Face to face),Cumali Seçkin Mengeçin,DZB,Monday,15:30/17:29,--,10,1,-,MEN_LS,-,-

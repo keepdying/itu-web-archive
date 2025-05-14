@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22166,EHN 101,Engineering Ethics,Physical (Face to face),Tayfun Akgül,EEB,Tuesday,11:30/12:29,1303,30,18,-,EHN_LS,-,-
+1,22167,EHN 105,Intr to Sci&Eng Comp (C),Physical (Face to face),Serkan Şimşek,"EEB
+EEB","Thursday
+Thursday","08:30/10:29
+14:30/16:29","1303
+1303",30,18,-,EHN_LS,-,-
+2,22168,EHN 121,Fundamentals of Eng. Dsgn.,Physical (Face to face),İsmail Serdar Özoğuz,EEB,Monday,12:30/14:29,1303,30,18,-,EHN_LS,-,-
+3,22169,EHN 313,Electromagnetic Waves,Physical (Face to face),İbrahim Akduman,EEB,Tuesday,08:30/11:29,1303,30,7,-,EHN_LS,Detail,-
+4,22170,EHN 316,Electronic Devices,Physical (Face to face),Mustafa Berke Yelten,"EEB
+EEB","Tuesday
+Friday","13:30/15:29
+14:00/16:59","1303
+1303",30,7,-,EHN_LS,-,-
+5,22171,EHN 334,Random Signals and Noise,Physical (Face to face),Hakan Ali Çırpan,EEB,Wednesday,12:30/15:29,1303,30,7,-,EHN_LS,Detail,-
+6,22172,EHN 351,Analog Communications,Physical (Face to face),Ender Mete Ekşioğlu,EEB,Thursday,08:30/11:29,1301,30,8,-,EHN_LS,-,-

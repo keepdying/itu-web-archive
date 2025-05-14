@@ -1,0 +1,17 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24515,MUK 203,Mukavemet I,Physical (Face to face),Erol Demirkan,MDB,Thursday,14:30/17:29,A203,90,94,-,"DEN_LS, ELE_LS, ELH_LS, GEM_LS, JEO_LS, TEL_LS, UCK_LS, UZB_LS",Detail,-
+1,22451,MUK 204,Mukavemet II,Physical (Face to face),Bahadır Uğurlu,"MEDC
+MEDC","Tuesday
+Thursday","13:30/15:29
+13:30/14:29","2D15
+2D15",45,26,-,GEM_LS,Detail,-
+2,22454,MUK 204,Mukavemet II,Physical (Face to face),Mustafa Erden Yıldızdağ,"MEDC
+MEDC","Tuesday
+Thursday","13:30/15:29
+13:30/14:29","1D10
+1D10",45,44,-,GEM_LS,Detail,-
+3,22578,MUK 204,Mukavemet II,Physical (Face to face),Oktay Eren Türeyen,MEDC,Monday,13:30/16:29,2D18,120,102,-,DEN_LS,Detail,-
+4,24756,MUK 204E,Strength of Materials II,Physical (Face to face),İbrahim Tuğrul Ardıç,INB,Tuesday,08:30/11:29,A304,50,45,-,NAE_LS,Detail,-
+5,25532,MUK 205,Mukavemet,Ek Sınav,Oğuz Altay,-,-,-/-,-,0,1,-,-,Detail,-
+6,20862,MUK 207E,Strength of Materials,Physical (Face to face),Levent Önal,MKB,Thursday,08:30/11:29,D360,45,37,-,"TEK_LS, TEKE_LS",Detail,-
+7,20863,MUK 207E,Strength of Materials,Physical (Face to face),Levent Önal,MKB,Wednesday,12:30/15:29,D360,45,45,-,"TEK_LS, TEKE_LS",Detail,-

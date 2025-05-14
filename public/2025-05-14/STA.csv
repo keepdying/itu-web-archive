@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22573,STA 201,Statik,Physical (Face to face),Ceren Bilgin Güney,MEDC,Thursday,09:30/12:29,ZA3,90,92,-,DEN_LS,-,-
+1,21446,STA 201E,Statics,Physical (Face to face),Ali Tatar,MEDC,Monday,14:30/17:29,ZD1,90,90,-,"UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS",-,-
+2,21448,STA 201E,Statics,Physical (Face to face),Oğuzcan İnal,MEDC,Monday,14:30/17:29,ZA1,90,88,-,"UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS",-,-
+3,21452,STA 204,Statik ve Mukavemet,Physical (Face to face),Cemil Kurtcebe,MEDC,Wednesday,11:30/14:29,ZA1,90,83,-,"IBM_LS, MTO_LS",-,-
+4,25203,STA 204,Statik ve Mukavemet,Physical (Face to face),Bahattin Kimençe,MDB,Monday,08:30/11:29,B205,70,36,-,CHZ_LS,-,-
+5,24426,STA 204E,Statics&Strength of Materials,Physical (Face to face),Tuğba Kuru,ISB,Thursday,14:30/17:29,207,50,56,-,"ISL_LS, ISLE_LS",-,-
+6,24896,STA 204E,Statics&Strength of Materials,Physical (Face to face),-,EEB,Wednesday,12:30/15:29,--,0,0,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-

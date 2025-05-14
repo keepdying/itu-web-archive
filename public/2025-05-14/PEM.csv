@@ -1,0 +1,66 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24813,PEM 120E,Natural Systems &Design,Physical (Face to face),Meltem Erdem Kaya,MMB,Friday,14:00/15:59,227,90,58,-,"PEM_LS, PEME_LS",-,-
+1,20806,PEM 126E,Hist.Theo.&Crtc.in Lndsc.Arc.I,Physical (Face to face),Nilay Özlü Karaca,MMB,Tuesday,09:30/12:29,127,90,64,-,"PEM_LS, PEME_LS",-,-
+2,20807,PEM 134E,Plant Material I,Physical (Face to face),Didem Dizdaroğlu,MMB,Tuesday,13:30/17:29,333,30,28,-,"PEM_LS, PEME_LS",-,-
+3,20808,PEM 134E,Plant Material I,Physical (Face to face),Didem Dizdaroğlu,MMB,Wednesday,08:30/12:29,333,30,32,-,"PEM_LS, PEME_LS",-,-
+4,20811,PEM 209E,Landform & Built Envir.Studio,Physical (Face to face),"Melih Bozkurt ,
+Didem Dizdaroğlu ,
+Ebru Erbaş Gürler","MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","D380
+D380",10,3,-,"PEM_LS, PEME_LS",Detail,-
+5,20816,PEM 210E,Planting Design Studio,Physical (Face to face),Hayriye Eşbah Tunçay,MMB,Tuesday,08:30/12:29,CATI2,70,43,-,"PEM_LS, PEME_LS",Detail,-
+6,20812,PEM 212E,Landscape Design I,Physical (Face to face),Melih Bozkurt,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","212
+212",17,17,-,"PEM_LS, PEME_LS",Detail,-
+7,20813,PEM 212E,Landscape Design I,Physical (Face to face),Ebru Erbaş Gürler,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",18,18,-,"PEM_LS, PEME_LS",Detail,-
+8,20814,PEM 212E,Landscape Design I,Physical (Face to face),Didem Dizdaroğlu,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",17,17,-,"PEM_LS, PEME_LS",Detail,-
+9,20810,PEM 214E,Resilient Urban Design,Physical (Face to face),Melih Bozkurt,MMB,Wednesday,08:30/12:29,214,80,47,-,"PEM_LS, PEME_LS",-,-
+10,20815,PEM 253E,Landscape Construction I,Physical (Face to face),Hayriye Eşbah Tunçay,MMB,Tuesday,13:30/17:29,212,75,59,-,"PEM_LS, PEME_LS",-,-
+11,20817,PEM 311E,Landscape Design II,Physical (Face to face),Elif Lutfiye Kutay Karaçor,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","217C
+--",10,8,-,"PEM_LS, PEME_LS",Detail,-
+12,20818,PEM 312E,Landscape Design III,Physical (Face to face),Fatma Ayçim Türer Başkaya,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","214
+--",17,17,-,"PEM_LS, PEME_LS",Detail,-
+13,20819,PEM 312E,Landscape Design III,Physical (Face to face),Gülşen Aytaç,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",17,14,-,"PEM_LS, PEME_LS",Detail,-
+14,20820,PEM 312E,Landscape Design III,Physical (Face to face),Meltem Erdem Kaya,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",18,18,-,"PEM_LS, PEME_LS",Detail,-
+15,20821,PEM 316E,Urban Land. Pln& Design,Physical (Face to face),Gülşen Aytaç,MMB,Wednesday,09:30/12:29,106,60,49,-,"PEM_LS, PEME_LS",-,-
+16,20822,PEM 324E,Landscape Management,Physical (Face to face),Fatma Ayçim Türer Başkaya,MMB,Monday,10:30/12:29,227,63,54,-,"PEM_LS, PEME_LS",-,-
+17,20823,PEM 356E,Rural Landscape Plan.&Design,Physical (Face to face),Meltem Erdem Kaya,MMB,Thursday,08:30/12:29,217A,60,51,-,"PEM_LS, PEME_LS",-,-
+18,20827,PEM 4014E,Dig.Repres.Tech.for Lands.Dsgn,Physical (Face to face),Ikhwan Kım,MMB,Friday,14:00/16:59,BIM2,25,25,-,"PEM_LS, PEME_LS",-,-
+19,20828,PEM 4016E,Infrastructure Planning&Dev.,Physical (Face to face),Elif Lutfiye Kutay Karaçor,MMB,Tuesday,10:30/12:29,317,31,31,-,"PEM_LS, PEME_LS",-,-
+20,20829,PEM 4018E,Landscape and Art,Physical (Face to face),Gülşen Aytaç,MMB,Thursday,10:30/12:29,CATI4,32,32,PEME/31/31 | Diğer/1/1,"ENT_LS, EUT_LS, EUTE_LS, PEM_LS, PEME_LS",-,-
+21,20826,PEM 406E,Professional Practice & Ethics,Physical (Face to face),Ebru Erbaş Gürler,MMB,Tuesday,13:30/15:29,107,56,56,-,"PEM_LS, PEME_LS",-,-
+22,20824,PEM 411E,Landscape Design IV,Physical (Face to face),Hayriye Eşbah Tunçay,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","217D
+217D",20,17,-,"PEM_LS, PEME_LS",Detail,-
+23,20832,PEM 4902E,Graduation Project,Physical (Face to face),Meltem Erdem Kaya,-,-,-/-,-,100,38,-,"PEM_LS, PEME_LS",Detail,Detail
+24,20834,PEM 4902E,Graduation Project,Physical (Face to face),-,-,-,-/-,-,0,0,-,"PEM_LS, PEME_LS",Detail,Detail
+25,24889,PEM 4902E,Graduation Project,Physical (Face to face),-,-,-,-/-,-,0,0,-,"PEM_LS, PEME_LS",Detail,Detail
+26,24909,PEM 492E,Graduation Project,Physical (Face to face),Meltem Erdem Kaya,-,-,-/-,-,100,2,-,"PEM_LS, PEME_LS",Detail,Detail

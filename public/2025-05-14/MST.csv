@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24764,MST 222,Marine Electronics,Physical (Face to face),Ali Sinan Çabuk,EEB,Tuesday,11:30/14:29,5103,50,2,-,"MEN_LS, MTM_LS, NAE_LS",Detail,-
+1,25137,MST 222,Marine Electronics,Physical (Face to face),Tayfun Uyanık,DZB,Tuesday,10:30/13:29,--,20,10,-,"MEN_LS, MTM_LS, NAE_LS",Detail,-
+2,25141,MST 262,Maritime English II,Physical (Face to face),Müjgan Özenir,DZB,Wednesday,17:30/19:29,--,20,5,-,MEN_LS,-,-
+3,24665,MST 272,Marit. Human Resources Manag.,Physical (Face to face),Leyla Tavacıoğlu,DZB,Monday,08:30/10:29,--,60,19,-,"MEN_LS, MTM_LS",-,-
+4,25286,MST 301,Technical Ship Management,Physical (Face to face),"Özcan Arslan ,
+Gizem Çevik",DZB,Wednesday,10:30/12:29,--,10,4,-,"MEN_LS, MTM_LS, NAE_LS",-,-
+5,24662,MST 402,Mar.Sec. & Quality Manag. Sys,Physical (Face to face),İsmail Kandemir,DZB,Friday,10:30/12:29,--,60,24,-,"MEN_LS, MTM_LS",-,-
+6,25283,MST 411,Marine Engines,Physical (Face to face),Buğra Arda Zincir,DZB,Friday,15:30/17:29,--,10,2,-,"MEN_LS, MTM_LS",-,-
+7,24770,MST 413,Shipyard Organization,Physical (Face to face),Erdem Üçer,MEDC,Monday,10:30/12:29,1D9,50,13,-,"MEN_LS, MTM_LS, NAE_LS",-,-
+8,25138,MST 421,Meteorology and Oceanography,Physical (Face to face),Ayşe Nak,DZB,Thursday,09:30/11:29,--,40,4,-,MTM_LS,-,-
+9,24664,MST 422,Maritime Law II,Physical (Face to face),Nuri Koray Kurun,DZB,Friday,14:30/17:29,--,60,14,-,"MEN_LS, MTM_LS, NAE_LS",-,-
+10,25181,MST 422,Maritime Law II,Physical (Face to face),-,MEDC,Monday,15:30/18:29,--,0,0,-,NAE_LS,-,-
+11,24661,MST 432,Commercial Ship Management,Physical (Face to face),Özcan Arslan,DZB,Wednesday,08:30/10:29,--,60,15,-,"MEN_LS, MTM_LS, NAE_LS",-,-
+12,24666,MST 441,Deck Machinery,Physical (Face to face),Ömer Berkehan İnal,DZB,Friday,08:30/10:29,--,60,20,-,"MEN_LS, MTM_LS, NAE_LS",-,Detail
+13,24672,MST 451,Marine Insurance,Physical (Face to face),Sinan Çakır,DZB,Tuesday,13:30/15:29,--,60,22,-,"MEN_LS, MTM_LS, NAE_LS",-,-
+14,24656,MST 461,Terminal & Tanker Operations,Physical (Face to face),Tanzer Satır,DZB,Tuesday,15:30/17:29,--,60,17,-,"MEN_LS, MTM_LS, NAE_LS",-,-
+15,24671,MST 462,Seafarer's Health and Safety,Physical (Face to face),Esma Uflaz,DZB,Thursday,11:30/13:29,--,60,16,-,"MEN_LS, MTM_LS, NAE_LS",-,-

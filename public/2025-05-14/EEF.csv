@@ -1,0 +1,200 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21975,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),Sıddık Murat Yeşiloğlu,"EEB
+EEB","Friday
+Friday","08:30/10:29
+10:30/11:29","--
+--",80,79,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+1,21976,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),Deniz Türkpençe,"EEB
+EEB","Friday
+Friday","08:30/10:29
+10:30/11:29","--
+--",80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+2,21977,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),Yusuf Yaşa,"EEB
+EEB","Friday
+Friday","08:30/10:29
+10:30/11:29","--
+--",80,59,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+3,21978,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),Aydın Tarık Zengin,"EEB
+EEB","Tuesday
+Tuesday","08:30/10:29
+10:30/11:29","--
+--",95,83,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+4,21979,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),Emre Dincel,"EEB
+EEB","Tuesday
+Tuesday","08:30/10:29
+10:30/11:29","--
+--",95,94,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+5,21980,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),-,"EEB
+EEB","Tuesday
+Tuesday","08:30/10:29
+10:30/11:29","--
+--",0,0,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+6,21981,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),Bora Döken,"EEB
+EEB","Wednesday
+Wednesday","08:30/10:29
+10:30/11:29","--
+--",95,78,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+7,21982,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),-,"EEB
+EEB","Wednesday
+Wednesday","08:30/10:29
+10:30/11:29","--
+--",0,0,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+8,21983,EEF 110E,Intr. to Prog. Language (C),Virtual (Online),Ali Bahadır,"EEB
+EEB","Wednesday
+Wednesday","08:30/10:29
+10:30/11:29","--
+--",100,100,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+9,21984,EEF 206,İşaret İşleme ve Lineer Sist.,Physical (Face to face),Kemal Uçak,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","5302
+5302",100,99,-,"EHB_LS, ELK_LS, KOM_LS",-,-
+10,21985,EEF 206,İşaret İşleme ve Lineer Sist.,Physical (Face to face),Bilge Günsel,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","5304
+5304",100,100,-,"EHB_LS, ELK_LS, KOM_LS",-,-
+11,21986,EEF 206,İşaret İşleme ve Lineer Sist.,Physical (Face to face),Emine Ayaz,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","4102
+5303",100,58,-,"EHB_LS, ELK_LS, KOM_LS",-,-
+12,21987,EEF 206,İşaret İşleme ve Lineer Sist.,Physical (Face to face),Işın Erer,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","5102
+5102",100,101,-,"EHB_LS, ELK_LS, KOM_LS",-,-
+13,21988,EEF 206E,Signal Processing&Linear Syst.,Physical (Face to face),Mustafa Doğan,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","5202
+5202",105,114,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,-
+14,21989,EEF 206E,Signal Processing&Linear Syst.,Physical (Face to face),Ender Mete Ekşioğlu,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","5204
+5204",105,113,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,-
+15,21990,EEF 206E,Signal Processing&Linear Syst.,Physical (Face to face),Duygu Bayram Kara,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","5104
+5104",105,114,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,-
+16,21991,EEF 206E,Signal Processing&Linear Syst.,Physical (Face to face),Tayfun Akgül,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","6309
+6309",105,112,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,-
+17,21992,EEF 210,Diferansiyel Denklemler,Physical (Face to face),Kemal Uçak,EEB,Tuesday,12:30/15:29,5102,100,82,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+18,21993,EEF 210,Diferansiyel Denklemler,Physical (Face to face),-,EEB,Tuesday,12:30/15:29,--,0,0,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+19,21994,EEF 210E,Differential Equations,Physical (Face to face),Cemanur Aydınalp,EEB,Tuesday,12:30/15:29,5104,100,101,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+20,25226,EEF 210E,Differential Equations,Physical (Face to face),Emre İşcan,EEB,Tuesday,12:30/15:29,5204,100,100,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+21,21995,EEF 212,Elektromagnetik Teori I,Physical (Face to face),Ali Yapar,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","5302
+5302",100,99,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+22,21996,EEF 212,Elektromagnetik Teori I,Physical (Face to face),Funda Akleman Yapar,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","5304
+5304",100,100,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+23,21997,EEF 212,Elektromagnetik Teori I,Physical (Face to face),Murat Tayfun Günel,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","5204
+5204",100,90,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+24,21998,EEF 212E,Electromagnetic Theory I,Physical (Face to face),İbrahim Akduman,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","5202
+5202",100,100,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+25,21999,EEF 212E,Electromagnetic Theory I,Physical (Face to face),Özgür Özdemir,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","5102
+5102",100,99,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+26,22000,EEF 212E,Electromagnetic Theory I,Physical (Face to face),Tuba Yılmaz Abdolsaheb,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","--
+--",100,99,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+27,22001,EEF 212E,Electromagnetic Theory I,Physical (Face to face),Kamil Karaçuha,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","6309
+6309",100,101,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+28,22002,EEF 212E,Electromagnetic Theory I,Physical (Face to face),Mehmet Nuri Akıncı,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","5104
+5104",100,100,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+29,22003,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Bora Döken,EEB,Friday,08:30/10:29,--,48,47,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+30,22004,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),İbrahim Çatalkaya,EEB,Tuesday,12:30/14:29,--,48,42,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+31,22005,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),İbrahim Çatalkaya,EEB,Tuesday,14:30/16:29,--,48,9,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+32,22007,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Bora Döken,EEB,Tuesday,12:30/14:29,--,48,46,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+33,22008,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Ali Bahadır,EEB,Tuesday,12:30/14:29,--,48,48,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+34,22009,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Bora Döken,EEB,Tuesday,14:30/16:29,--,48,48,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+35,22010,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Ali Bahadır,EEB,Tuesday,14:30/16:29,--,48,48,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+36,22011,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Bilgi Görkem Yazgaç,EEB,Friday,14:00/15:59,--,48,40,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+37,22012,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Hasan Bülent Yağcı,EEB,Friday,08:30/10:29,--,48,12,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+38,24830,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Mehmet Ali Sönmez,EEB,Tuesday,10:30/12:29,--,144,88,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+39,24831,EEF 221E,Basics of Elec. Circuits Lab.,Physical (Face to face),Mehmet Ali Sönmez,EEB,Monday,10:30/12:29,--,144,141,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+40,22013,EEF 232,Devre ve Sistem Analizi,Physical (Face to face),Neslihan Serap Şengör,EEB,Monday,13:30/16:29,5102,100,100,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+41,22014,EEF 232,Devre ve Sistem Analizi,Physical (Face to face),Mürvet Kırcı,EEB,Monday,13:30/16:29,2102,85,23,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+42,22015,EEF 232,Devre ve Sistem Analizi,Physical (Face to face),"Sıddıka Berna Örs Yalçın ,
+Yüksel Çakır",EEB,Monday,13:30/16:29,5304,100,100,-,"EHB_LS, ELE_LS, ELH_LS, ELK_LS, KOM_LS, TEL_LS",Detail,-
+43,22016,EEF 232E,Circuit and System Analysis,Physical (Face to face),Onur Ferhanoğlu,EEB,Monday,13:30/16:29,5104,100,112,-,"EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, TEL_LS",Detail,-
+44,22018,EEF 232E,Circuit and System Analysis,Physical (Face to face),Müştak Erhan Yalçın,EEB,Monday,13:30/16:29,5302,100,112,-,"EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, TEL_LS",Detail,-
+45,22019,EEF 232E,Circuit and System Analysis,Physical (Face to face),Bilgi Görkem Yazgaç,EEB,Monday,13:30/16:29,5202,100,109,-,"EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, TEL_LS",Detail,-
+46,25150,EEF 232E,Circuit and System Analysis,Physical (Face to face),Metin Hüner,EEB,Monday,13:30/16:29,5204,100,112,-,"EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, KOM_LS",Detail,-
+47,22020,EEF 262,Elektroniğin Temelleri,Physical (Face to face),Zümray Ölmez,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","5102
+5102",100,100,-,"EHB_LS, ELE_LS, ELK_LS, KOM_LS",Detail,-
+48,22021,EEF 262,Elektroniğin Temelleri,Physical (Face to face),Hacer Atar Yıldız,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","5104
+5104",100,101,-,"EHB_LS, ELE_LS, ELK_LS, KOM_LS",Detail,-
+49,22022,EEF 262E,Fundamentals of Electronics,Physical (Face to face),Nil Banu Tarım,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","5202
+2104",100,30,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+50,22023,EEF 262E,Fundamentals of Electronics,Physical (Face to face),Mustafa Berke Yelten,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","5302
+5302",100,101,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+51,22024,EEF 262E,Fundamentals of Electronics,Physical (Face to face),-,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","--
+--",0,0,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+52,22025,EEF 262E,Fundamentals of Electronics,Physical (Face to face),Mustafa Altun,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","5304
+5304",100,100,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+53,22026,EEF 262E,Fundamentals of Electronics,Physical (Face to face),Sheıda Farajı,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","6309
+6309",100,101,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+54,22027,EEF 262E,Fundamentals of Electronics,Physical (Face to face),Tufan Coşkun Karalar,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","5204
+5204",100,100,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+55,22028,EEF 271E,Probability and Statistics,Physical (Face to face),Ibraheem Abdullah Mohammed Shayea,EEB,Wednesday,12:30/15:29,5302,80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+56,22029,EEF 271E,Probability and Statistics,Physical (Face to face),Müjde Güzelkaya,EEB,Wednesday,12:30/15:29,5202,80,81,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+57,22030,EEF 271E,Probability and Statistics,Physical (Face to face),İsa Yıldırım,EEB,Wednesday,12:30/15:29,5307,80,45,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+58,22031,EEF 281,Lineer Cebir ve Uygulamaları,Physical (Face to face),Ahmet Hamdi Kayran,EEB,Thursday,12:30/15:29,2102,80,79,-,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",-,-
+59,22032,EEF 281,Lineer Cebir ve Uygulamaları,Physical (Face to face),Semih Beyçimen,EEB,Thursday,12:30/15:29,2106,80,70,-,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",-,-
+60,22033,EEF 281,Lineer Cebir ve Uygulamaları,Physical (Face to face),-,EEB,Thursday,12:30/15:29,--,0,0,-,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",-,-
+61,22034,EEF 281E,Linear Algebra & Applications,Physical (Face to face),Vasil Tabatadze,EEB,Thursday,12:30/15:29,5203,80,65,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+62,22035,EEF 281E,Linear Algebra & Applications,Physical (Face to face),Semih Doğu,EEB,Thursday,12:30/15:29,4102,80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+63,22036,EEF 281E,Linear Algebra & Applications,Physical (Face to face),Ömer Melih Gül,EEB,Thursday,12:30/15:29,2104,80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+64,22037,EEF 281E,Linear Algebra & Applications,Physical (Face to face),-,EEB,Thursday,12:30/15:29,--,0,0,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+65,22038,EEF 281E,Linear Algebra & Applications,Physical (Face to face),Ahmet Onat,EEB,Thursday,12:30/15:29,4104,80,80,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-

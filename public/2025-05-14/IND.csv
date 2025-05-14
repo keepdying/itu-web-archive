@@ -1,0 +1,6 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22779,IND 112E,Intr. to Manufacturing Systems,Physical (Face to face),Vehbi Tufan Koç,ISB,Tuesday,14:30/17:29,109,60,28,-,IND_LS,-,-
+1,22781,IND 201E,Industrial Eng.Appl. in Python,Virtual (Online),Mahmut Sami Sivri,ISB,Monday,14:30/17:29,--,60,50,-,IND_LS,Detail,-
+2,22780,IND 232E,Ergonomics,Physical (Face to face),Ayşe Elvan Bayraktaroğlu,MSB,Wednesday,09:30/12:29,204,60,47,-,IND_LS,-,-
+3,22784,IND 311E,Statistics,Physical (Face to face),Çiğdem Kadaifçi Yanmaz,MSB,Thursday,14:30/17:29,109,60,37,-,IND_LS,Detail,-
+4,22783,IND 331E,Operations Research I,Physical (Face to face),Özgür Kabak,MSB,Monday,09:30/12:29,109,60,34,-,IND_LS,Detail,-

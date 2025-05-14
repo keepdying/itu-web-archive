@@ -1,0 +1,39 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,20858,TEK 116E,Fiber Science,Physical (Face to face),Alper Gürarslan,MKB,Monday,09:30/12:29,D360,30,29,-,"TEK_LS, TEK_YD, TEKE_LS",-,-
+1,20859,TEK 116E,Fiber Science,Physical (Face to face),Alper Gürarslan,MKB,Monday,13:30/16:29,D360,30,31,-,"TEK_YD, TEKE_LS",-,-
+2,25277,TEK 213E,Textile Chemistry,Sınırsız Sınav,Berdan Kalav,-,-,-/-,-,0,1,-,-,Detail,-
+3,20872,TEK 233E,Introduction to Yarn Spinning,Physical (Face to face),"Fatma Banu Nergis ,
+Yeşim Beceren",MKB,Friday,08:30/11:29,D368B,40,22,-,"TEK_LS, TEKE_LS",Detail,-
+4,20864,TEK 234E,Weaving Preparation,Physical (Face to face),Burçak Karagüzel Kayaoğlu,MKB,Monday,13:00/15:59,D368A,30,24,-,"TEK_LS, TEKE_LS",Detail,-
+5,20865,TEK 234E,Weaving Preparation,Physical (Face to face),Hande Sezgin,MKB,Tuesday,08:30/11:29,D360,30,42,-,"TEK_LS, TEKE_LS",Detail,-
+6,20870,TEK 254E,Knitting Technology,Physical (Face to face),Cevza Candan,MKB,Tuesday,13:30/16:29,D378,40,33,-,"TEK_LS, TEKE_LS",Detail,-
+7,20871,TEK 254E,Knitting Technology,Physical (Face to face),Sena Duru,MKB,Wednesday,08:30/11:29,D360,40,38,-,"TEK_LS, TEKE_LS",Detail,-
+8,20883,TEK 302E,Int.toColoration&Finishing Prc,Physical (Face to face),Pelin Altay,MKB,Tuesday,09:30/12:29,D380B,40,42,-,"TEK_LS, TEKE_LS",Detail,-
+9,24610,TEK 302E,Int.toColoration&Finishing Prc,Physical (Face to face),Berdan Kalav,MKB,Thursday,09:30/12:29,D378,40,39,-,"TEK_LS, TEKE_LS",Detail,-
+10,20875,TEK 304E,Yarn Spinning Technologies,Physical (Face to face),Nazan Okur,MKB,Monday,08:30/11:29,D368B,40,47,-,"TEK_LS, TEKE_LS",Detail,-
+11,20876,TEK 304E,Yarn Spinning Technologies,Physical (Face to face),"Yeşim Beceren ,
+Fatma Banu Nergis",MKB,Monday,08:30/11:29,D374,40,18,-,"TEK_LS, TEKE_LS",Detail,-
+12,20888,TEK 306E,Weaving Technology,Physical (Face to face),Emel Önder Karaoğlu,MKB,Monday,13:30/16:29,D378,40,23,-,"TEK_LS, TEKE_LS",Detail,-
+13,20890,TEK 306E,Weaving Technology,Physical (Face to face),Ömer Berk Berkalp,MKB,Monday,13:30/16:29,D374,40,40,-,"TEK_LS, TEKE_LS",Detail,-
+14,25351,TEK 331,Yün İplikçiliği,Physical (Face to face),Nazan Okur,MKB,Wednesday,13:30/15:29,--,1,1,-,TEK_LS,Detail,-
+15,25522,TEK 345E,Clothing Technology,Ek Sınav,Selin Hanife Eryürük,-,-,-/-,-,0,1,-,-,Detail,-
+16,20874,TEK 354E,Mathematical Programming,Physical (Face to face),Berdan Kalav,MKB,Monday,09:30/12:29,D381B,50,23,-,"TEK_LS, TEKE_LS",Detail,-
+17,25523,TEK 361E,Mechanisms,Ek Sınav,Ali Kılıç,-,-,-/-,-,0,1,-,-,Detail,-
+18,20877,TEK 392E,Design in Textile Engineering,Physical (Face to face),Ali Kılıç,MKB,Monday,11:30/12:29,D368A,80,54,-,"TEK_LS, TEKE_LS",-,-
+19,25524,TEK 413E,Fabric Design,Ek Sınav,Burçak Karagüzel Kayaoğlu,-,-,-/-,-,0,1,-,-,Detail,-
+20,25525,TEK 455E,Non-Woven Fabrics,Ek Sınav,İpek Yalçın Eniş,-,-,-/-,-,0,1,-,-,Detail,-
+21,20894,TEK 464E,Automatic Control,Physical (Face to face),"Ali Demir ,
+Ali Toptaş",MKB,Tuesday,13:30/16:29,D355,40,47,-,"TEK_LS, TEKE_LS",Detail,-
+22,20893,TEK 466E,Heat Transfer,Physical (Face to face),Sena Duru,MKB,Tuesday,13:30/16:29,D368B,40,12,-,"TEK_LS, TEKE_LS",Detail,-
+23,20897,TEK 473E,Fashion Design&Collec.Develop.,Physical (Face to face),"Selin Hanife Eryürük ,
+Belgin Görgün",MKB,Friday,14:00/15:59,D380A,30,9,-,"TEK_LS, TEKE_LS",Detail,-
+24,20902,TEK 477E,Special Woven Fabrics,Physical (Face to face),Hande Sezgin,MKB,Tuesday,13:30/15:29,D380B,30,12,-,"TEK_LS, TEKE_LS",Detail,-
+25,20905,TEK 479E,Dyeing &Printing Technologies,Physical (Face to face),Berdan Kalav,MKB,Tuesday,13:30/15:29,D380A,30,10,-,"TEK_LS, TEKE_LS",Detail,-
+26,20909,TEK 481E,Qual.Cnt.&Ass.in Tex.&Clot.Prd,Physical (Face to face),Canan Sarıçam,MKB,Monday,08:30/10:29,D380B,30,18,-,"TEK_LS, TEKE_LS",Detail,-
+27,20912,TEK 482E,Int.toSmart Tex.&Wearable Tec.,Physical (Face to face),Özgür Atalay,MKB,Wednesday,08:30/10:29,D380A,30,28,-,"TEK_LS, TEKE_LS",Detail,-
+28,20914,TEK 484E,Knitted Apparel Production,Physical (Face to face),Belgin Görgün,MKB,Monday,13:30/15:29,D380A,30,6,-,"TEK_LS, TEKE_LS",Detail,-
+29,20917,TEK 486E,Colour Analysis,Physical (Face to face),"Nevin Çiğdem Gürsoy ,
+Pelin Altay",MKB,Wednesday,13:30/15:29,D380B,30,30,-,"TEK_LS, TEKE_LS",Detail,-
+30,20922,TEK 4901E,Textile Engineering Design I,Physical (Face to face),Nevin Çiğdem Gürsoy,-,-,-/-,-,100,15,-,"TEK_LS, TEKE_LS",Detail,Detail
+31,20924,TEK 4902E,Textile Engineering Design II,Physical (Face to face),Nevin Çiğdem Gürsoy,-,-,-/-,-,100,56,-,"TEK_LS, TEKE_LS",Detail,-
+32,20920,TEK 492E,Senior Design Project,Physical (Face to face),Nevin Çiğdem Gürsoy,-,-,-/-,-,100,2,-,"TEK_LS, TEKE_LS",-,Detail

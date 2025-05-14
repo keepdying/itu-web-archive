@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25281,ENR 102,Manufacturing Process,Physical (Face to face),Yasin Arslanoğlu,DZB,Monday,15:30/17:29,--,10,8,-,"MEN_LS, MTM_LS, NAE_LS",-,-
+1,25378,ENR 112,Workshop,Physical (Face to face),Cumali Seçkin Mengeçin,DZB,Thursday,08:30/12:29,--,10,2,-,"MEN_LS, NAE_LS",-,-
+2,25235,ENR 212,Strength of Materials I,Physical (Face to face),Yasin Arslanoğlu,DZB,Monday,17:30/20:29,--,30,8,-,"MEN_LS, MTM_LS",-,-
+3,25282,ENR 301,Heat Transfer,Physical (Face to face),Yalçın Durmuşoğlu,DZB,Wednesday,09:30/12:29,--,10,3,-,"MEN_LS, NAE_LS",Detail,-
+4,24765,ENR 351,Mechatronics,Physical (Face to face),Ali Sinan Çabuk,EEB,Wednesday,11:30/13:29,5103,50,7,-,"MEN_LS, NAE_LS",-,-
+5,24663,ENR 401,Refrigeration& HVAC Systems,Physical (Face to face),Yalçın Durmuşoğlu,DZB,Tuesday,08:30/10:29,--,60,21,-,MEN_LS,-,-

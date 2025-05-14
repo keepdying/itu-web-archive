@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24838,ISE 102,Programming I,Physical (Face to face),Deniz Turgay Altılar,"BBB
+BBB","Friday
+Friday","11:00/12:59
+14:00/16:59","104
+--",30,26,-,SBL_LS,-,-
+1,24829,ISE 112,Discrete Mathematics,Physical (Face to face),Mehmet Keskinöz,BBB,Tuesday,13:30/16:29,104,30,27,-,SBL_LS,-,-
+2,24832,ISE 305,Database Systems,Physical (Face to face),Ahmet Cüneyd Tantuğ,BBB,Wednesday,12:30/15:29,Z-22,30,12,-,SBL_LS,-,-
+3,24834,ISE 307,IT Systems Analysis and Design,Physical (Face to face),Ali Çakmak,BBB,Tuesday,13:30/16:29,Z-22,30,8,-,SBL_LS,-,-
+4,24836,ISE 313,WEB-Design & Management Tools,Physical (Face to face),Mustafa Ersel Kamaşak,BBB,Wednesday,08:30/11:29,Z-23,30,10,-,SBL_LS,-,-
+5,24837,ISE 316,Informatics Ethics & Law,Physical (Face to face),Sefer Baday,BBB,Thursday,13:30/16:29,101,30,9,-,SBL_LS,-,-

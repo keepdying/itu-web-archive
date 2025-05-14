@@ -1,0 +1,20 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22367,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Hafzüllah Aksoy,INB,Wednesday,09:30/12:29,A203,65,58,-,"CEV_LS, INS_LS",Detail,-
+1,22368,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Necati Erdem Ünal,INB,Wednesday,09:30/12:29,A304,65,67,-,"CEV_LS, INS_LS",Detail,-
+2,22369,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Cihan Bayındır,INB,Monday,09:30/12:29,A104,65,68,-,"CEV_LS, INS_LS",Detail,-
+3,22409,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Şakir Bal,MEDC,Tuesday,08:30/11:29,2D12,40,38,-,GEM_LS,Detail,-
+4,22433,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Ali Can Takinacı,MEDC,Tuesday,08:30/11:29,2D13,40,49,-,GEM_LS,Detail,-
+5,20895,AKM 204E,Fluid Mechanics,Physical (Face to face),Murat Çakan,MKB,Thursday,14:30/17:29,A501,80,106,-,"CEV_LS, CEVE_LS, INS_LS, INSE_LS, TEK_LS, TEKE_LS",Detail,-
+6,21459,AKM 204E,Fluid Mechanics,Physical (Face to face),Zerefşan Kaymaz,MEDC,Wednesday,08:30/11:29,ZA4,85,85,-,"IBM_LS, MTO_LS, MTOE_LS",Detail,-
+7,22370,AKM 204E,Fluid Mechanics,Physical (Face to face),Abdüsselam Altunkaynak,INB,Monday,09:30/12:29,A105,65,71,-,"CEV_LS, CEVE_LS, INS_LS, INSE_LS, NAE_LS",Detail,-
+8,22371,AKM 204E,Fluid Mechanics,Physical (Face to face),Mehmet Özger,INB,Thursday,09:30/12:29,D203,65,78,-,"CEV_LS, CEVE_LS, INS_LS, INSE_LS, NAE_LS",Detail,-
+9,24517,AKM 204E,Fluid Mechanics,Physical (Face to face),Veysel Şadan Özgür Kırca,MDB,Friday,08:30/11:29,A101,80,71,-,PETE_LS,Detail,-
+10,24640,AKM 204E,Fluid Mechanics,Physical (Face to face),Buğra Arda Zincir,DZB,Friday,17:30/20:29,--,60,45,-,"MEN_LS, MTM_LS",Detail,-
+11,22580,AKM 205,Akışkanlar Mekaniği,Physical (Face to face),Şafak Nur Ertürk Bozkurtoğlu,"MEDC
+MEDC","Tuesday
+Thursday","13:30/16:29
+15:00/16:59","ZA4
+ZA3",90,100,-,DEN_LS,Detail,-
+12,25515,AKM 214E,Fluid Mechanics I,Ek Sınav,Fırat Oğuz Edis,-,-,-/-,-,0,1,-,-,Detail,-
+13,21473,AKM 219,Akışkanlar Mekaniği,Physical (Face to face),Nuriye Leman Okşan Çetiner Yıldırım,MEDC,Tuesday,08:30/11:29,ZA2,120,107,-,UCK_LS,Detail,-
+14,21471,AKM 219E,Fluid Mechanics,Physical (Face to face),Fırat Oğuz Edis,MEDC,Tuesday,08:30/11:29,ZA1,120,103,-,"UZB_LS, UZBE_LS",Detail,-

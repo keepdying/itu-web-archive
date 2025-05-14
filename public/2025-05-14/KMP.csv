@@ -1,0 +1,48 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21225,KMP 102,Kompozisyon II,Physical (Face to face),Eray Altınbüken,TMB,Monday,10:30/12:29,--,10,4,-,"BST_LS, KMP_LS",-,-
+1,21243,KMP 114,Klasik Armoni II,Physical (Face to face),Mehmet Özkan,TMB,Tuesday,10:30/12:29,--,10,6,-,"BST_LS, KMP_LS",-,-
+2,21245,KMP 116,Müzik Formları II,Physical (Face to face),Şirin Karadeniz,TMB,Thursday,10:30/12:29,--,10,4,-,"BST_LS, KMP_LS",-,-
+3,21223,KMP 196,Form Bilgisi II,Physical (Face to face),Şirin Karadeniz,TMB,Wednesday,13:30/15:29,--,30,16,-,"CAB_LS, CEB_LS, MTR_LS, SES_LS",-,-
+4,21221,KMP 198,Konturpuan-Füg II,Physical (Face to face),Ayhan Gunca,TMB,Monday,13:30/15:29,--,30,17,-,"CAB_LS, CEB_LS, MTR_LS",-,-
+5,21227,KMP 202,Kompozisyon IV,Physical (Face to face),Eray Altınbüken,"TMB
+TMB","Monday
+Friday","13:30/15:29
+10:30/12:29","--
+--",10,3,-,"BST_LS, KMP_LS",-,-
+6,21246,KMP 204,Türk Müziği Literatürü II,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB,Monday,10:30/12:29,--,10,4,-,"BST_LS, KMP_LS",Detail,-
+7,21248,KMP 206,Kontrpuan-Füg II,Physical (Face to face),Eray Altınbüken,TMB,Monday,15:30/17:29,--,10,4,-,"BST_LS, KMP_LS",-,-
+8,21219,KMP 294,Armoni II,Physical (Face to face),Recep Gül,TMB,Monday,15:30/17:29,--,30,25,-,"CAB_LS, CEB_LS, MTR_LS",-,-
+9,21230,KMP 302,Kompozisyon VI,Physical (Face to face),Oğuzhan Balcı,"TMB
+TMB","Tuesday
+Friday","08:30/10:29
+14:00/15:59","--
+--",10,1,-,"BST_LS, KMP_LS",Detail,-
+10,21250,KMP 304,Kompozisyon Çözümleme II,Physical (Face to face),Ayhan Gunca,TMB,Wednesday,10:30/12:29,--,10,3,-,"BST_LS, KMP_LS",Detail,-
+11,21254,KMP 306,Koro Şefliği II,Physical (Face to face),Ayhan Gunca,TMB,Monday,10:30/12:29,--,10,3,-,"BST_LS, KMP_LS",-,-
+12,21252,KMP 310,Orkestrasyon I,Physical (Face to face),Ayhan Gunca,TMB,Wednesday,13:30/15:29,--,10,3,-,"BST_LS, KMP_LS",Detail,-
+13,21253,KMP 312,Türk Makam Müzğnde Kompzsyn,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB,Thursday,13:30/15:29,--,10,2,-,"BST_LS, KMP_LS",-,-
+14,21255,KMP 322,Batı Müziği Literatürü II,Physical (Face to face),Mehmet Özkan,TMB,Monday,13:30/15:29,--,10,2,-,"BST_LS, KMP_LS",Detail,-
+15,21270,KMP 332,Ölçü ve Vuruş Tekniği II,Physical (Face to face),Ayhan Gunca,TMB,Thursday,10:30/12:29,--,10,2,-,"BST_LS, KMP_LS",-,-
+16,25157,KMP 361,Türk MzğndeFrmBilg.ve Çzmlme I,Physical (Face to face),"Gözde Çolakoğlu Sarı ,
+Orkun Zafer Özgelen","TMB
+TMB","Thursday
+Friday","15:30/17:29
+17:00/17:59","--
+--",10,3,-,MUZ_LS,-,-
+17,21215,KMP 362,Türk MzğndeFrmBlg.ve Çzmlme II,Physical (Face to face),Eray Cömert,"TMB
+TMB","Wednesday
+Wednesday","10:30/12:29
+13:30/14:29","--
+--",20,8,-,MUZ_LS,-,-
+18,21217,KMP 364,Batı Mzğnde Frm Bilg.ve Çzmlme,Physical (Face to face),Ozan Baysal,TMB,Friday,09:30/12:29,--,20,8,-,MUZ_LS,-,-
+19,21240,KMP 402,Kompozisyon VIII,Physical (Face to face),Oğuzhan Balcı,"TMB
+TMB","Monday
+Wednesday","15:30/17:29
+10:30/12:29","--
+--",10,3,-,"BST_LS, KMP_LS",Detail,-
+20,21271,KMP 404,Kompozisyon Çözümleme IV,Physical (Face to face),"Oğuzhan Balcı ,
+Tayfun Demirbaş",TMB,Tuesday,13:30/15:29,--,10,4,-,"BST_LS, KMP_LS",Detail,-
+21,21277,KMP 422,Batı Müziği Literatürü IV,Physical (Face to face),Mehmet Özkan,TMB,Friday,14:00/15:59,--,10,2,-,"BST_LS, KMP_LS",Detail,-
+22,21273,KMP 424,Türk Müziğinde Polifoni IV,Physical (Face to face),Oğuzhan Balcı,TMB,Tuesday,15:30/17:29,--,10,2,-,"BST_LS, KMP_LS",Detail,-
+23,21279,KMP 434,Partisyon Okuma II,Physical (Face to face),Recep Gül,TMB,Monday,10:30/12:29,--,20,1,-,"BST_LS, KMP_LS",-,-
+24,21214,KMP 492,Bitirme Çalışması,Physical (Face to face),Oğuzhan Balcı,-,-,-/-,-,100,5,-,"BST_LS, KMP_LS",-,Detail
