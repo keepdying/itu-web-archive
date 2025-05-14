@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22166,EHN 101,Engineering Ethics,Fiziksel (Yüz yüze),Tayfun Akgül,EEB,Tuesday,11:30/12:29 -,1303,30,0,-,EHN_LS,-,-
+1,22167,EHN 105,Intr to Sci&Eng Comp (C),Fiziksel (Yüz yüze),Serkan Şimşek,EEBEEB,ThursdayThursday,08:30/10:2913:30/15:29 -,13031303,30,0,-,EHN_LS,-,-
+2,22168,EHN 121,Fundamentals of Eng. Dsgn.,Fiziksel (Yüz yüze),İsmail Serdar Özoğuz,EEB,Monday,12:30/14:29 -,1303,30,0,-,EHN_LS,-,-
+3,22169,EHN 313,Electromagnetic Waves,Fiziksel (Yüz yüze),İbrahim Akduman,EEB,Tuesday,08:30/11:29 -,1303,30,0,-,EHN_LS,Detail,-
+4,22170,EHN 316,Electronic Devices,Fiziksel (Yüz yüze),Mustafa Berke Yelten,EEBEEB,TuesdayFriday,13:30/15:2914:00/16:59 -,13031303,30,0,-,EHN_LS,-,-
+5,22171,EHN 334,Random Signals and Noise,Fiziksel (Yüz yüze),Hakan Ali Çırpan,EEB,Wednesday,12:30/15:29 -,1303,30,0,-,EHN_LS,Detail,-
+6,22172,EHN 351,Analog Communications,Fiziksel (Yüz yüze),Ender Mete Ekşioğlu,EEB,Thursday,08:30/11:29 -,1301,30,0,-,EHN_LS,-,-

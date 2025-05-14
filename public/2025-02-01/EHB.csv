@@ -1,0 +1,45 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22174,EHB 208,Veri Yapıları ve Programlama,Fiziksel (Yüz yüze),-,EEB,Friday,14:00/16:59 -,5102,70,0,-,EHB_LS; ELK_LS; KOM_LS; ROS_LS; TEL_LS,Detail,-
+1,22175,EHB 208E,Data Structures & Programming,Fiziksel (Yüz yüze),-,EEB,Friday,14:00/16:59 -,5104,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,Detail,-
+2,22176,EHB 208E,Data Structures & Programming,Fiziksel (Yüz yüze),-,EEB,Friday,14:00/16:59 -,5204,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,Detail,-
+3,22177,EHB 222E,Introduction to Electronics,Fiziksel (Yüz yüze),Hasan Bülent Yağcı,EEB,Monday,08:30/11:29 -,4102,80,0,-,CEN_LS; EHB_LS; EHBE_LS; ELE_LS; ELH_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; MKN_LS; ROS_LS; ROSE_LS; TEL_LS,-,-
+4,22178,EHB 222E,Introduction to Electronics,Fiziksel (Yüz yüze),Muhammet Tahir Güneşer,EEB,Monday,08:30/11:29 -,4104,80,0,-,CEN_LS; EHB_LS; EHBE_LS; ELE_LS; ELH_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; MKN_LS; ROS_LS; ROSE_LS; TEL_LS,-,-
+5,22179,EHB 308,Haberleşme-II,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,5201,65,0,-,EHB_LS,Detail,-
+6,22180,EHB 308E,Communication II,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,5207,65,0,-,EEE_LS; EHB_LS; EHBE_LS,Detail,-
+7,22181,EHB 308E,Communication II,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,5101,65,0,-,EEE_LS; EHB_LS; EHBE_LS,Detail,-
+8,22182,EHB 311E,Intr.to Electronics Laboratory,Fiziksel (Yüz yüze),Ali Bahadır,EEB,Friday,10:30/12:29 -,--,45,0,-,BLG_LS; BLGE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; KOM_LS; KOME_LS,Detail,-
+9,22183,EHB 311E,Intr.to Electronics Laboratory,Fiziksel (Yüz yüze),Hasan Bülent Yağcı,EEB,Friday,10:30/12:29 -,--,45,0,-,BLG_LS; BLGE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; KOM_LS; KOME_LS,Detail,-
+10,22184,EHB 311E,Intr.to Electronics Laboratory,Fiziksel (Yüz yüze),Hasan Bülent Yağcı,EEB,Friday,14:00/15:59 -,--,45,0,-,BLG_LS; BLGE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; KOM_LS; KOME_LS,Detail,-
+11,22185,EHB 311E,Intr.to Electronics Laboratory,Fiziksel (Yüz yüze),Muhammet Tahir Güneşer,EEB,Friday,14:00/15:59 -,--,45,0,-,BLG_LS; BLGE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; KOM_LS; KOME_LS,Detail,-
+12,22186,EHB 322E,Digital Electronic Circuits,Fiziksel (Yüz yüze),-,EEB,Monday,12:30/15:29 -,5205,50,0,-,BLG_LS; BLGE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; ELE_LS; ELH_LS,Detail,-
+13,22187,EHB 322E,Digital Electronic Circuits,Fiziksel (Yüz yüze),-,EEB,Monday,12:30/15:29 -,5203,50,0,-,BLG_LS; BLGE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; ELE_LS; ELH_LS,Detail,-
+14,22188,EHB 322E,Digital Electronic Circuits,Fiziksel (Yüz yüze),-,EEB,Monday,12:30/15:29 -,5207,50,0,-,BLG_LS; BLGE_LS; EEE_LS; EHB_LS; EHBE_LS; EHS_LS; ELE_LS; ELH_LS,Detail,-
+15,22189,EHB 332,Devre Sentezi,Fiziksel (Yüz yüze),Ece Olcay Güneş,EEB,Monday,08:30/11:29 -,5203,50,0,-,EHB_LS; ELE_LS; ELH_LS,Detail,-
+16,22190,EHB 334E,Random Signals and Noise,Fiziksel (Yüz yüze),Tayfun Akgül,EEB,Friday,14:00/16:59 -,2102,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; KOM_LS; KOME_LS; TEL_LS,Detail,-
+17,22191,EHB 362,Mikrodalga Mühendisliği,Fiziksel (Yüz yüze),-,EEB,Wednesday,12:30/15:29 -,5204,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+18,22192,EHB 362E,Microwave Engineering,Fiziksel (Yüz yüze),-,EEB,Wednesday,12:30/15:29 -,2104,50,0,-,EEE_LS; EHB_LS; EHBE_LS,Detail,-
+19,22193,EHB 362E,Microwave Engineering,Fiziksel (Yüz yüze),-,EEB,Wednesday,12:30/15:29 -,2106,50,0,-,EEE_LS; EHB_LS; EHBE_LS,Detail,-
+20,22194,EHB 408E,Wireless Com.Networks,Fiziksel (Yüz yüze),Ferkan Yılmaz,EEB,Monday,08:30/11:29 -,5103,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+21,22195,EHB 420E,Artificial Neural Networks,Fiziksel (Yüz yüze),İsa Yıldırım,EEB,Friday,14:00/16:59 -,6309,50,0,-,EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+22,22196,EHB 420E,Artificial Neural Networks,Fiziksel (Yüz yüze),Ömer Melih Gül,EEB,Friday,14:00/16:59 -,5304,50,0,-,EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+23,22197,EHB 425E,VLSI Circuit Design II,Fiziksel (Yüz yüze),Sıddıka Berna Örs Yalçın,EEB,Monday,08:30/11:29 -,5107,20,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS,Detail,-
+24,22198,EHB 429E,Communication Electronic Circuits,Fiziksel (Yüz yüze),Hasan Bülent Yağcı,EEB,Monday,12:30/15:29 -,5101,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS,Detail,-
+25,22199,EHB 431E,Design & Appl.Digital Com.Sys.,Fiziksel (Yüz yüze),Hakan Ali Çırpan,EEB,Thursday,08:30/12:29 -,5303,20,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+26,22200,EHB 437,Biyomedikal Düzenler,Fiziksel (Yüz yüze),Zümray Ölmez,EEB,Thursday,13:30/16:29 -,1301,50,0,-,EHB_LS; ELE_LS; ELH_LS; KOM_LS,Detail,-
+27,22201,EHB 440E,Comp.Aided Devices in Medicine,Fiziksel (Yüz yüze),Onur Ergen,EEB,Tuesday,12:30/15:29 -,6309,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS,Detail,-
+28,22202,EHB 445,Tıbbi Enstr. Tasarım ve Uyg.,Fiziksel (Yüz yüze),Tamer Ölmez,EEB,Tuesday,12:30/16:29 -,5203,20,0,-,EHB_LS; ELE_LS,Detail,-
+29,22203,EHB 451E,Active Microwave Circuits,Fiziksel (Yüz yüze),Mehmet Çayören,EEB,Tuesday,08:30/11:29 -,5203,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+30,22204,EHB 453E,Intr.to Mobile Communications,Fiziksel (Yüz yüze),Mustafa Ergen,EEB,Wednesday,12:30/15:29 -,5201,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+31,22205,EHB 455,Mikrodenetleyici Tem.Sist.Tas.,Fiziksel (Yüz yüze),Tamer Ölmez,EEB,Thursday,08:30/11:29 -,2102,50,0,-,EHB_LS; KOM_LS; KON_LS,Detail,-
+32,22206,EHB 456E,Antennas,Fiziksel (Yüz yüze),Mehmet Nuri Akıncı,EEB,Thursday,08:30/11:29 -,5202,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+33,22207,EHB 456E,Antennas,Fiziksel (Yüz yüze),Semih Doğu,EEB,Friday,08:30/11:29 -,5302,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+34,22208,EHB 464E,Satellite Communications,Fiziksel (Yüz yüze),Mesut Kartal,EEB,Thursday,12:30/15:29 -,5107,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+35,22209,EHB 466E,Remote Sensing,Fiziksel (Yüz yüze),İbrahim Çatalkaya,EEB,Tuesday,08:30/11:29 -,5205,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+36,23685,EHB 467E,Radar Systems,Fiziksel (Yüz yüze),Mert Serkan,EEB,Tuesday,12:30/15:29 -,5101,50,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS; TEL_LS,Detail,-
+37,22210,EHB 474E,Introduction to Optimization,Fiziksel (Yüz yüze),Behçet Uğur Töreyin,EEB,Wednesday,08:30/11:29 -,2102,50,0,-,EEE_LS; EHB_LS; EHBE_LS; KOM_LS; KOME_LS; KON_LS,Detail,-
+38,22211,EHB 4901,Elektronik & Hab. Müh. Tas .I,Fiziksel (Yüz yüze),Hakan Ali Çırpan,-,-,-/- -,-,200,0,-,EHB_LS,Detail,Detail
+39,22212,EHB 4901E,Elect.&Comm. Eng. Design I,Fiziksel (Yüz yüze),Hakan Ali Çırpan,-,-,-/- -,-,200,0,-,EHB_LS; EHBE_LS; EHS_LS,Detail,Detail
+40,22213,EHB 4902,Elektronik & Hab. Müh. Tas .II,Fiziksel (Yüz yüze),Hakan Ali Çırpan,-,-,-/- -,-,200,0,-,EHB_LS,Detail,-
+41,22214,EHB 4902E,Elect.&Comm. Eng. Design II,Fiziksel (Yüz yüze),Hakan Ali Çırpan,-,-,-/- -,-,200,0,-,EEE_LS; EHB_LS; EHBE_LS; EHS_LS,Detail,-
+42,22215,EHB 492,Bitirme Projesi,Fiziksel (Yüz yüze),Hakan Ali Çırpan,-,-,-/- -,-,50,0,-,EHB_LS,-,Detail
+43,22216,EHB 492E,Graduation Project,Fiziksel (Yüz yüze),Hakan Ali Çırpan,-,-,-/- -,-,50,0,-,EHB_LS; EHBE_LS,-,Detail

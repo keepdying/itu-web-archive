@@ -1,0 +1,54 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22722,END 112E,Intr. to Manufacturing Systems,Fiziksel (Yüz yüze),Vehbi Tufan Koç,MSB,Thursday,09:30/12:29 -,216,130,0,-,END_LS; ENDE_LS,-,-
+1,22723,END 112E,Intr. to Manufacturing Systems,Fiziksel (Yüz yüze),Vehbi Tufan Koç,MSB,Thursday,14:30/17:29 -,216,130,0,-,END_LS; ENDE_LS,-,-
+2,22724,END 201E,Industrial Engineering Applications in Python,Sanal (Çevrimiçi/Online),Mehmet Ali Ergün,ISB,Tuesday,09:30/12:29 -,--,130,0,-,END_LS; ENDE_LS,Detail,-
+3,22725,END 201E,Industrial Engineering Applications in Python,Sanal (Çevrimiçi/Online),Mehmet Yasin Ulukuş,ISB,Tuesday,14:30/17:29 -,--,130,0,-,END_LS; ENDE_LS,Detail,-
+4,22726,END 210,End. Müh.için Doğrusal Cebir,Fiziksel (Yüz yüze),Cafer Erhan Bozdağ,MSB,Friday,09:30/12:29 -,204,60,0,-,END_LS,-,-
+5,22727,END 210E,Linear Algebra for Indust.Eng.,Fiziksel (Yüz yüze),Erkan Işıklı,MSB,Friday,09:30/12:29 -,B13-A,70,0,IND/5/0 | Diğer/65/0,ENDE_LS; IND_LS; VBAE_LS,-,-
+6,22728,END 215E,System Thinking and Analysis,Fiziksel (Yüz yüze),Çiğdem Kadaifçi Yanmaz,MSB,Tuesday,14:30/16:29 -,204,60,0,IND/5/0 | Diğer/55/0,END_LS; ENDE_LS; IND_LS,-,-
+7,22729,END 232,İşbilim,Fiziksel (Yüz yüze),Ayşe Elvan Bayraktaroğlu,MSB,Monday,14:30/17:29 -,101,80,0,-,END_LS,-,-
+8,22730,END 232E,Ergonomics,Fiziksel (Yüz yüze),Fethi Çalışır,MSB,Wednesday,09:30/12:29 -,B13-A,90,0,-,ENDE_LS,-,-
+9,22731,END 252E,Theory of Probability,Fiziksel (Yüz yüze),Mehmet Güray Güler,ISB,Tuesday,09:30/12:29 -,103,60,0,IND/5/0 | Diğer/55/0,END_LS; ENDE_LS; IND_LS; VBAE_LS,Detail,-
+10,22732,END 308,Kalite Mühendisliği,Fiziksel (Yüz yüze),Hüsnü Bülent Cerit,MSB,Wednesday,09:30/11:29 -,204,60,0,-,END_LS,Detail,-
+11,22733,END 308,Kalite Mühendisliği,Fiziksel (Yüz yüze),Hüsnü Bülent Cerit,MSB,Thursday,14:30/16:29 -,204,60,0,-,END_LS,Detail,-
+12,22734,END 308E,Quality Engineering,Fiziksel (Yüz yüze),Seda Yanık Özbay,MSB,Thursday,10:30/12:29 -,104,80,0,-,ENDE_LS; IND_LS,Detail,-
+13,22735,END 311,İstatistik,Fiziksel (Yüz yüze),Cengiz Kahraman,ISB,Tuesday,09:30/12:29 -,203,80,0,-,END_LS,Detail,-
+14,22736,END 311E,Statistics,Fiziksel (Yüz yüze),Seda Yanık Özbay,MSB,Monday,09:30/12:29 -,101,80,0,-,ENDE_LS,Detail,-
+15,22737,END 312,Mühendislik Ekonomisi,Fiziksel (Yüz yüze),Cengiz Kahraman,ISB,Monday,09:30/12:29 -,203,80,0,-,END_LS,-,-
+16,22738,END 312E,Engineering Economics,Fiziksel (Yüz yüze),Kenan Mengüç,MSB,Friday,14:30/17:29 -,216,90,0,-,ENDE_LS; IND_LS,-,-
+17,22739,END 318,Sistem Dinamiği,Fiziksel (Yüz yüze),Cafer Erhan Bozdağ,MSB,Friday,14:30/17:29 -,103,40,0,-,END_LS,Detail,-
+18,22740,END 322,Sistem Simülasyonu,Fiziksel (Yüz yüze),Cafer Erhan Bozdağ,ISB,Tuesday,14:30/17:29 -,203,80,0,-,END_LS,Detail,-
+19,22741,END 322E,System Simulation,Fiziksel (Yüz yüze),Emine Yaylalı,MSB,Tuesday,09:30/12:29 -,B13-A,80,0,-,END_LS; ENDE_LS; IND_LS,Detail,-
+20,22742,END 322E,System Simulation,Fiziksel (Yüz yüze),Emine Yaylalı,MSB,Tuesday,14:30/17:29 -,B13-A,80,0,-,END_LS; ENDE_LS; IND_LS,Detail,-
+21,22743,END 331,Yöneylem Araştırması I,Fiziksel (Yüz yüze),Özgür Kabak,MSB,Wednesday,09:30/12:29 -,216,100,0,-,END_LS,Detail,-
+22,22744,END 331E,Operations Research I,Fiziksel (Yüz yüze),Hatice Tekiner Moğulkoç,MSB,Friday,09:30/12:29 -,101,100,0,-,ENDE_LS,Detail,-
+23,22745,END 332E,Operations Research II,Fiziksel (Yüz yüze),Tuğberk Tunçinan,MSB,Wednesday,09:30/12:29 -,203,60,0,-,END_LS; ENDE_LS,Detail,-
+24,22746,END 339,Proje Yönetimi,Fiziksel (Yüz yüze),Ayberk Soyer,MSB,Thursday,09:30/12:29 -,103,40,0,-,END_LS,-,-
+25,22747,END 341E,Work Analysis and Design,Fiziksel (Yüz yüze),Fethi Çalışır,ISB,Monday,14:30/17:29 -,203,60,0,-,END_LS; ENDE_LS,Detail,-
+26,22748,END 344,Davranış Bilimleri,Fiziksel (Yüz yüze),Cahit Ali Bayraktar,MSB,Monday,14:30/17:29 -,109,40,0,-,END_LS,-,-
+27,24183,END 365E,People Analytics,Fiziksel (Yüz yüze),Hasan Karabakkal,ISB,Monday,14:30/17:29 -,107,36,0,-,END_LS; ENDE_LS,Detail,-
+28,22749,END 374,Rekabet Yönetimi,Fiziksel (Yüz yüze),Cahit Ali Bayraktar,MSB,Monday,09:30/12:29 -,103,40,0,-,END_LS,-,-
+29,22750,END 382,Üretim Yöntemleri,Fiziksel (Yüz yüze),Hüsnü Bülent Cerit,MSB,Thursday,09:30/12:29 -,210,40,0,-,END_LS,Detail,-
+30,22751,END 382E,Production Methods,Fiziksel (Yüz yüze),Esra Baş,MSB,Thursday,09:30/12:29 -,113,40,0,ENDE/37/0 | IND/3/0 | Diğer/0/0,ENDE_LS; IND_LS,Detail,-
+31,22752,END 412,İnsan Kaynakları Yönetiminin Temelleri,Fiziksel (Yüz yüze),Cemil Ceylan,ISB,Thursday,14:30/17:29 -,107,70,0,-,END_LS,Detail,-
+32,22753,END 412,İnsan Kaynakları Yönetiminin Temelleri,Fiziksel (Yüz yüze),Seçkin Polat,ISB,Tuesday,14:30/17:29 -,108,70,0,-,END_LS,Detail,-
+33,22754,END 412E,Human Resource Management,Fiziksel (Yüz yüze),Gaye Karaçay Aydın,MSB,Thursday,14:30/17:29 -,203,70,0,-,ENDE_LS; IND_LS,Detail,-
+34,22755,END 426,Kurumsal Kaynakların Planlanması,Fiziksel (Yüz yüze),Emre Çevikcan,MSB,Monday,09:30/12:29 -,113,25,0,ISL/5/0 | END/20/0 | Diğer/0/0,END_LS; ISL_LS,Detail,-
+35,22756,END 432E,Facility Layout,Fiziksel (Yüz yüze),Ufuk Cebeci,MSB,Monday,14:30/17:29 -,204,40,0,IMLE/5/0 | Diğer/35/0,END_LS; ENDE_LS; IMLE_LS,-,Detail
+36,22757,END 434,Stratejik Yönetimin Temelleri,Fiziksel (Yüz yüze),Cahit Ali Bayraktar,MSB,Thursday,14:30/17:29 -,113,40,0,-,END_LS,Detail,-
+37,22758,END 441,Endüstri Mühendisliği Projesi,Fiziksel (Yüz yüze),Şule Itır Satoğlu,ISBISB,MondayTuesday,17:30/18:2917:30/18:29 -,----,5,0,-,END_LS,-,Detail
+38,22759,END 441E,Industrial Engineering Project,Fiziksel (Yüz yüze),Şule Itır Satoğlu,ISBISB,WednesdayThursday,17:30/18:2917:30/18:29 -,----,5,0,-,END_LS; ENDE_LS,-,Detail
+39,22760,END 443E,Business Planning & Innovation,Fiziksel (Yüz yüze),Çiğdem Kadaifçi Yanmaz,MSB,Tuesday,09:30/12:29 -,103,40,0,ECNE/5/0 | Diğer/35/0,ECNE_LS; END_LS; ENDE_LS,-,Detail
+40,24841,END 449,End. Müh. Uyg. Seminer Dersi,Sanal (Çevrimiçi/Online),Ayberk Soyer,ISB,Friday,14:30/17:29 -,--,0,0,-,END_LS; ENDE_LS,-,Detail
+41,25021,END 456E,Analytical Credit Risk Management,Fiziksel (Yüz yüze),Mustafa Ceran,ISB,Wednesday,09:30/12:29 -,207,40,0,-,END_LS; ENDE_LS,-,-
+42,22761,END 472E,Advanced Spreadsheet Modeling,Fiziksel (Yüz yüze),Murat Durucu,ISB,Wednesday,09:30/12:29 -,101,40,0,IND/3/0 | Diğer/37/0,END_LS; ENDE_LS; IND_LS,-,-
+43,22762,END 478E,Applied Optimization Models,Fiziksel (Yüz yüze),Burhaneddin Sandıkçı,ISB,Tuesday,09:30/12:29 -,207,40,0,IND/3/0 | Diğer/37/0,END_LS; ENDE_LS; IND_LS,-,-
+44,22763,END 480E,Reliability Engineering,Fiziksel (Yüz yüze),Esra Baş,MSB,Friday,09:30/12:29 -,103,40,0,IND/3/0 | Diğer/37/0,END_LS; ENDE_LS; IND_LS,Detail,-
+45,22764,END 482E,Supply Chain Management,Fiziksel (Yüz yüze),Şeyda Serdar Asan,MSB,Monday,09:30/12:29 -,204,40,0,IND/3/0 | Diğer/37/0,END_LS; ENDE_LS; IND_LS,Detail,-
+46,22765,END 488,ERP Süreçleri ve Kurulumu,Fiziksel (Yüz yüze),Cemil Ceylan,ISB,Tuesday,14:30/17:29 -,101,40,0,-,END_LS,-,-
+47,22766,END 4901,Endüstri Müh. Tasarımı I,Fiziksel (Yüz yüze),Şule Itır Satoğlu,-,-,-/- -,-,200,0,-,END_LS,Detail,Detail
+48,22767,END 4901E,Industrial Engin. Design I,Fiziksel (Yüz yüze),Şule Itır Satoğlu,-,-,-/- -,-,200,0,-,END_LS; ENDE_LS,Detail,Detail
+49,22768,END 4902,Endüstri Müh. Tasarımı II,Fiziksel (Yüz yüze),Şule Itır Satoğlu,-,-,-/- -,-,200,0,-,END_LS,Detail,-
+50,22769,END 4902E,Industrial Engin. Design II,Fiziksel (Yüz yüze),Şule Itır Satoğlu,-,-,-/- -,-,200,0,-,END_LS; ENDE_LS,Detail,-
+51,22770,END 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Şule Itır Satoğlu,-,-,-/- -,-,50,0,-,END_LS,Detail,Detail
+52,22771,END 492E,Graduation Thesis,Fiziksel (Yüz yüze),Şule Itır Satoğlu,-,-,-/- -,-,50,0,-,END_LS; ENDE_LS,Detail,Detail

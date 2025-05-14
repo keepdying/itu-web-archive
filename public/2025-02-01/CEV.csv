@@ -1,0 +1,58 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22342,CEV 104,Yer Bilimi,Fiziksel (Yüz yüze),-,INB,Monday,08:30/10:29 -,B104,70,0,-,CEV_LS,-,-
+1,22343,CEV 104E,Earth Science,Fiziksel (Yüz yüze),-,INB,Thursday,11:30/13:29 -,B104,70,0,-,CEVE_LS,-,-
+2,20992,CEV 202E,Enviromental Chemistry II,Fiziksel (Yüz yüze),Kübra Altuntaş,INB,Tuesday,08:30/11:29 -,B303,20,0,-,CEV_LS; CEVE_LS,Detail,-
+3,20993,CEV 202EL,Enviromental Chemistry II Lab.,Fiziksel (Yüz yüze),Gökşin Özyıldız,INB,Friday,14:00/15:59 -,--,20,0,-,CEV_LS; CEVE_LS,Detail,-
+4,20994,CEV 212,Çevre Kimyası II,Fiziksel (Yüz yüze),İsmail Toröz ;Derya Yüksel İmer ;Ayşe Yüksekdağ,INBINB,TuesdayWednesday,10:30/12:2910:30/12:29 -,A103A103,30,0,-,CEV_LS,Detail,-
+5,20995,CEV 212,Çevre Kimyası II,Fiziksel (Yüz yüze),Nuray Işık Kabdaşlı ;Serdar Doğruel,INBINB,TuesdayThursday,10:30/12:2913:30/15:29 -,B306A104,30,0,-,CEV_LS,Detail,-
+6,20996,CEV 212E,Enviromental Chemistry II,Fiziksel (Yüz yüze),İdil Arslan Alaton ;Elif Pehlivanoğlu,INBINB,MondayTuesday,08:30/10:2911:30/13:29 -,A101A101,30,0,-,CEVE_LS,Detail,-
+7,20997,CEV 212E,Enviromental Chemistry II,Fiziksel (Yüz yüze),Tuğba Ölmez Hancı ;Serdar Doğruel,INBINB,MondayFriday,08:30/10:2914:00/15:59 -,A103B303,30,0,-,CEVE_LS,Detail,-
+8,21000,CEV 216,Çevre Müh. Bilg. Uyg.,Fiziksel (Yüz yüze),-,INB,Friday,08:30/12:29 -,D103,60,0,-,CEV_LS,Detail,-
+9,21001,CEV 216E,Comp. App. in Environment.Eng.,Fiziksel (Yüz yüze),-,INB,Monday,13:30/17:29 -,D101,35,0,-,CEVE_LS,Detail,-
+10,21051,CEV 216E,Comp. App. in Environment.Eng.,Fiziksel (Yüz yüze),-,INB,Monday,13:30/17:29 -,D103,35,0,-,CEVE_LS,Detail,-
+11,22511,CEV 234E,Soil Mechanics,Fiziksel (Yüz yüze),Merve Akbaş,INB,Thursday,11:30/13:29 -,A103,35,0,-,CEV_LS; CEVE_LS,-,-
+12,20873,CEV 243E,Environmental Chemistry,Fiziksel (Yüz yüze),Meltem Tekçin,MKB,Thursday,08:30/11:29 -,D380A,30,0,-,TEK_LS; TEKE_LS,-,-
+13,21054,CEV 246E,Marine and Lake Sciences,Fiziksel (Yüz yüze),Melike Gürel ;Elif Pehlivanoğlu,INB,Thursday,13:30/15:29 -,B306,35,0,-,CEV_LS; CEVE_LS,-,-
+14,21394,CEV 248,Ölçme Bilgisi,Fiziksel (Yüz yüze),Turan Erden,INB,Tuesday,08:30/10:29 -,B306,35,0,-,CEV_LS,-,-
+15,21058,CEV 250,Halk ve İşyeri Sağlığı,Fiziksel (Yüz yüze),Fatma Gülen İskender ;Naciye Esra Ateş Genceli,INB,Wednesday,13:30/15:29 -,A203,50,0,CEV/35/0 | GID/15/0 | Diğer/0/0,CEV_LS; GID_LS,-,-
+16,21060,CEV 250E,Public and Occupational Health,Fiziksel (Yüz yüze),Elif Pehlivanoğlu ;Burçak Kaynak Tezel,INB,Wednesday,10:30/12:29 -,A101,35,0,-,CEV_LS; CEVE_LS,-,-
+17,21061,CEV 302,Biyolojik Prosesler,Fiziksel (Yüz yüze),Emine Çokgör,INBINB,WednesdayFriday,13:30/15:2910:30/12:29 -,A304A201,60,0,-,CEV_LS,Detail,-
+18,21062,CEV 302E,Biological Processes,Fiziksel (Yüz yüze),Ebru Dülekgürgen ;Özlem Karahan Özgün,INBINB,MondayFriday,13:30/15:2910:30/12:29 -,A203A205,35,0,-,CEV_LS; CEVE_LS,Detail,-
+19,21063,CEV 302E,Biological Processes,Fiziksel (Yüz yüze),Seval Sözen ;Rüya Taşlı,INBINB,WednesdayFriday,13:30/15:2910:30/12:29 -,A105A105,35,0,-,CEV_LS; CEVE_LS,Detail,-
+20,21064,CEV 304,Temel İşlemler&Prosesler Lab.,Fiziksel (Yüz yüze),Çiğdem Gömeç ;Derya Yüksel İmer,INB,Thursday,08:30/12:29 -,A201,30,0,-,CEV_LS,Detail,-
+21,21065,CEV 304,Temel İşlemler&Prosesler Lab.,Fiziksel (Yüz yüze),Seval Sözen ;Serdar Doğruel,INB,Thursday,08:30/12:29 -,B308,30,0,-,CEV_LS,Detail,-
+22,21066,CEV 304E,Unit Operations&Processes Lab.,Fiziksel (Yüz yüze),Tuğba Ölmez Hancı ;Ebru Dülekgürgen,INB,Wednesday,08:30/12:29 -,A201,30,0,-,CEVE_LS,Detail,-
+23,21067,CEV 304E,Unit Operations&Processes Lab.,Fiziksel (Yüz yüze),İdil Arslan Alaton ;Gökşin Özyıldız,INB,Wednesday,08:30/12:29 -,B303,30,0,-,CEVE_LS,Detail,-
+24,21068,CEV 308,Hava Kirlenmesi,Fiziksel (Yüz yüze),Vedat Uyak ;Sadullah Levent Kuzu,INB,Wednesday,08:30/11:29 -,A105,60,0,-,CEV_LS,Detail,-
+25,21069,CEV 308E,Air Pollution,Fiziksel (Yüz yüze),Burçak Kaynak Tezel,INB,Thursday,13:30/16:29 -,A304,60,0,-,CEV_LS; CEVE_LS,Detail,-
+26,21071,CEV 318E,Comp Appl of Infrastr Planning,Fiziksel (Yüz yüze),Ali Fuat Aydın,INB,Thursday,13:30/15:29 -,D101,30,0,-,CEV_LS; CEVE_LS,-,-
+27,21073,CEV 330,Su Arıtma Tesisi Tasarımı,Fiziksel (Yüz yüze),İsmail Koyuncu ;Mustafa Evren Erşahin ;Türker Türken,INB,Monday,13:30/17:29 -,A304,60,0,-,CEV_LS,Detail,-
+28,21076,CEV 330E,Water Treatment Plant Design,Fiziksel (Yüz yüze),Mustafa Evren Erşahin ;Recep Kaya ;Onur Işık,INB,Monday,08:30/12:29 -,A203,60,0,-,CEV_LS; CEVE_LS,Detail,-
+29,21078,CEV 334,Katı Atık Yönetimi,Fiziksel (Yüz yüze),Hüseyin Güven ;Mehmet Sadık Akca,INB,Tuesday,13:30/16:29 -,A203,60,0,-,CEV_LS,-,-
+30,21081,CEV 334E,Solid Waste Management,Fiziksel (Yüz yüze),Osman Atilla Arıkan ;Bülent İnanç ;Kadriye Elif Maçin,INB,Tuesday,08:30/11:29 -,A105,60,0,-,CEV_LS; CEVE_LS,-,-
+31,21083,CEV 402,Toprak&Yeraltı Suyu Kirl.Kont.,Fiziksel (Yüz yüze),Mahmut Ekrem Karpuzcu,INB,Monday,13:30/15:29 -,B201,60,0,-,CEV_LS,-,Detail
+32,21085,CEV 402E,Soil&Groundwater Pollut.Cont.,Fiziksel (Yüz yüze),Bülent İnanç ;Mahmut Ekrem Karpuzcu,INB,Friday,15:00/16:59 -,A202,60,0,-,CEV_LS; CEVE_LS,-,Detail
+33,21087,CEV 419E,Structural Engineering,Fiziksel (Yüz yüze),Börte Köse Mutlu,INB,Friday,08:30/10:29 -,B307,30,0,-,CEV_LS; CEVE_LS,-,-
+34,21089,CEV 424E,Wastewtr Mngmnt in Smll Cmmnts,Fiziksel (Yüz yüze),Mahmut Altınbaş,INB,Monday,15:30/17:29 -,A103,30,0,-,CEV_LS; CEVE_LS,-,-
+35,21092,CEV 428E,Envirn.Plan.of Catchment Areas,Fiziksel (Yüz yüze),Melike Gürel ;Alpaslan Ekdal,INB,Tuesday,08:30/10:29 -,A103,30,0,-,CEV_LS; CEVE_LS,-,-
+36,21094,CEV 432,Çevre Ekonomisi,Fiziksel (Yüz yüze),-,INB,Monday,10:30/12:29 -,A304,35,0,-,CEV_LS,-,Detail
+37,21096,CEV 432,Çevre Ekonomisi,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/15:29 -,B302,35,0,-,CEV_LS,-,Detail
+38,21117,CEV 432E,Environmental Economics,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/15:29 -,A104,35,0,-,CEV_LS; CEVE_LS,-,Detail
+39,21121,CEV 432E,Environmental Economics,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/15:29 -,A301,35,0,-,CEV_LS; CEVE_LS,-,Detail
+40,21122,CEV 442,Çevre Hukuku,Fiziksel (Yüz yüze),Fatma Gülen İskender,INB,Wednesday,10:30/12:29 -,A301,60,0,-,CEV_LS,-,Detail
+41,21125,CEV 442E,Environmental Law,Fiziksel (Yüz yüze),Derya Yüksel İmer,INB,Tuesday,15:30/17:29 -,A202,60,0,-,CEV_LS; CEVE_LS,-,Detail
+42,21127,CEV 447,Arazide Arıtma Sistemleri,Fiziksel (Yüz yüze),Mustafa Sait Yazgan,INB,Friday,10:30/12:29 -,B204,30,0,-,CEV_LS,-,-
+43,21129,CEV 447E,Land Treatment Systems,Fiziksel (Yüz yüze),Mahmut Ekrem Karpuzcu,INB,Friday,10:30/12:29 -,B307,30,0,-,CEV_LS; CEVE_LS,-,-
+44,21131,CEV 452,Gürültü ve Kontrolü,Fiziksel (Yüz yüze),İsmail Toröz ;Recep Kaya,INB,Wednesday,08:30/10:29 -,A103,30,0,-,CEV_LS,-,-
+45,21136,CEV 456,İş Sağlığı ve Güvenliği,Fiziksel (Yüz yüze),Fatma Gülen İskender ;Ayşegül Bayın Sarıahmetoğlu,INB,Monday,10:30/11:29 -,A102,50,0,-,CEV_LS,-,-
+46,21138,CEV 456E,Occupational Health and Safety,Fiziksel (Yüz yüze),Bülent İnanç ;Ayşegül Bayın Sarıahmetoğlu,INB,Friday,14:00/14:59 -,A202,50,0,-,CEV_LS; CEVE_LS,-,-
+47,21139,CEV 458E,Design of Marine Disposal Sys.,Fiziksel (Yüz yüze),Ali Fuat Aydın ;Hüseyin Güven,INB,Wednesday,13:30/15:29 -,A1,30,0,-,CEV_LS; CEVE_LS,-,-
+48,21141,CEV 464E,Adv. Comp.App.in Envir. Eng.,Fiziksel (Yüz yüze),Alpaslan Ekdal ;Onur Yılmaz Özcan,INB,Thursday,08:30/10:29 -,A103,30,0,-,CEV_LS; CEVE_LS,-,-
+49,21143,CEV 466,Kentsel Hava Kalitesi Yönetimi,Fiziksel (Yüz yüze),Sadullah Levent Kuzu,INB,Tuesday,13:30/15:29 -,B102,30,0,-,CEV_LS,-,-
+50,21146,CEV 466E,Urban Air Quality Management,Fiziksel (Yüz yüze),Burçak Kaynak Tezel,INB,Thursday,10:30/12:29 -,B304,30,0,-,CEV_LS; CEVE_LS,-,-
+51,21148,CEV 472E,Opr.of Wastewater Treat.Plants,Fiziksel (Yüz yüze),Hüseyin Erdem Görgün ;Gülsüm Emel Zengin Balcı,INB,Tuesday,10:30/12:29 -,B304,30,0,-,CEV_LS; CEVE_LS,-,-
+52,21152,CEV 4901E,Environmental Eng. Design I,Fiziksel (Yüz yüze),Mustafa Evren Erşahin,-,-,-/- -,-,500,0,-,CEV_LS; CEVE_LS,Detail,Detail
+53,21154,CEV 4902,Çevre Müh. Tasarımı II,Fiziksel (Yüz yüze),Mustafa Evren Erşahin,-,-,-/- -,-,500,0,-,CEV_LS,Detail,-
+54,21155,CEV 4902E,Environmental Eng. Design II,Fiziksel (Yüz yüze),Mustafa Evren Erşahin,-,-,-/- -,-,500,0,-,CEV_LS; CEVE_LS,Detail,-
+55,21156,CEV 492,Bitirme Tasarım Projesi,Fiziksel (Yüz yüze),Mustafa Evren Erşahin,-,-,-/- -,-,500,0,-,CEV_LS,-,Detail
+56,21158,CEV 492E,Graduation Design Project,Fiziksel (Yüz yüze),Mustafa Evren Erşahin,-,-,-/- -,-,500,0,-,CEV_LS; CEVE_LS,-,Detail

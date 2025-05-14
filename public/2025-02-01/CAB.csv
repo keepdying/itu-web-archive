@@ -1,0 +1,145 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21059,CAB 1014,Viyola II,Fiziksel (Yüz yüze),Zeynep Barut,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+1,21021,CAB 110,Ud II,Fiziksel (Yüz yüze),Buse Sever,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+2,21761,CAB 1102,Keman II,Fiziksel (Yüz yüze),Ahmet Hakan Şensoy,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+3,21762,CAB 1102,Keman II,Fiziksel (Yüz yüze),Pınar Tezişçi Özmenay,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+4,21022,CAB 114,Ney II,Fiziksel (Yüz yüze),Burak Malçok,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+5,21023,CAB 116,Mey II,Fiziksel (Yüz yüze),Cem Ekmen,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+6,21024,CAB 126,Kudüm II,Fiziksel (Yüz yüze),Erkan Kanat,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+7,21025,CAB 128,3 Telli Kemençe II,Fiziksel (Yüz yüze),Neva Özgen Kösoğlu,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+8,21026,CAB 130,4 Telli Kemençe II,Fiziksel (Yüz yüze),Lale Akay,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+9,21027,CAB 132,Keman II,Fiziksel (Yüz yüze),Ahmet Hakan Şensoy,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+10,21028,CAB 132,Keman II,Fiziksel (Yüz yüze),Ibragım Orazov,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+11,21029,CAB 134,Viyolonsel II,Fiziksel (Yüz yüze),Cenk Öztürk,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+12,21030,CAB 134,Viyolonsel II,Fiziksel (Yüz yüze),Yelda Özgen Öztürk,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+13,21031,CAB 140,Kemane II,Fiziksel (Yüz yüze),Kadir Verim,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+14,21032,CAB 142,Piyano II,Fiziksel (Yüz yüze),Sıtkı Kandemir Basmacıoğlu,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+15,21185,CAB 144,Yrd.Çalgı Piyano II,Fiziksel (Yüz yüze),Devlet Devrim Öztaş,TMB,Tuesday,15:30/17:29 -,--,18,0,-,BST_LS; CAB_LS; CEB_LS; KMP_LS,-,-
+16,21033,CAB 146,Kanun II,Fiziksel (Yüz yüze),Ayşegül Kostak Toksoy,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+17,21034,CAB 148,Tanbur II,Fiziksel (Yüz yüze),Göknil Bişak Özdemir,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+18,21074,CAB 152,Kanun II,Fiziksel (Yüz yüze),Serkan Mesut Halili,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+19,21075,CAB 154,Tanbur II,Fiziksel (Yüz yüze),Göknil Bişak Özdemir,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+20,21077,CAB 156,Tar II,Fiziksel (Yüz yüze),Ahmet Serhat Turunç,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS; THO_LS,Detail,-
+21,21079,CAB 158,Bağlama II,Fiziksel (Yüz yüze),Adnan Koç,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS; THO_LS,Detail,-
+22,21080,CAB 158,Bağlama II,Fiziksel (Yüz yüze),Engin Şafak Gürler,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS; THO_LS,Detail,-
+23,21082,CAB 158,Bağlama II,Fiziksel (Yüz yüze),Metin Eke,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS; THO_LS,Detail,-
+24,21084,CAB 158,Bağlama II,Fiziksel (Yüz yüze),Erdem Şimşek,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS; THO_LS,Detail,-
+25,21086,CAB 160,Ud II,Fiziksel (Yüz yüze),Buse Sever,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+26,21088,CAB 160,Ud II,Fiziksel (Yüz yüze),Sarper Eroğlu,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+27,21765,CAB 162,Ney II,Fiziksel (Yüz yüze),Burak Malçok,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUZ_LS,Detail,-
+28,21091,CAB 164,Mey II,Fiziksel (Yüz yüze),Cem Ekmen,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUZ_LS; THO_LS,Detail,-
+29,21093,CAB 166,Kaval II,Fiziksel (Yüz yüze),Cihan Yurtcu,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUZ_LS; THO_LS,Detail,-
+30,21095,CAB 168,Klarnet II,Fiziksel (Yüz yüze),Özlem Kolat Çakmaksoy,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUZ_LS; THO_LS,Detail,-
+31,21097,CAB 170,3 Telli Kemençe II,Fiziksel (Yüz yüze),Neva Özgen Kösoğlu,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+32,21098,CAB 172,4 Telli Kemençe II,Fiziksel (Yüz yüze),Lale Akay,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+33,21099,CAB 176,Kemane II,Fiziksel (Yüz yüze),Ferhan Yeprem,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; THO_LS,Detail,-
+34,21178,CAB 178,Piyano II,Fiziksel (Yüz yüze),Alper Rumelioğlu,TMB,Friday,16:00/17:59 -,--,22,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+35,21179,CAB 178,Piyano II,Fiziksel (Yüz yüze),Sıtkı Kandemir Basmacıoğlu,TMB,Wednesday,08:30/10:29 -,--,22,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+36,21180,CAB 178,Piyano II,Fiziksel (Yüz yüze),Alper Rumelioğlu,TMB,Monday,08:30/10:29 -,--,22,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+37,21100,CAB 180,Asmalı Davul II,Fiziksel (Yüz yüze),Eyüp Uzunkaya,TMB,Monday,13:30/15:29 -,--,10,0,-,THO_LS,Detail,-
+38,21101,CAB 182,Kudüm II,Fiziksel (Yüz yüze),Erkan Kanat,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUZ_LS,Detail,-
+39,21102,CAB 188,Gitar II,Fiziksel (Yüz yüze),Tolgahan Çoğulu,TMB,Monday,13:30/15:29 -,--,7,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+40,21207,CAB 190,Çalgılama II,Fiziksel (Yüz yüze),Yelda Özgen Öztürk ;Barış Kerem Bahar ;Cem Önertürk,TMB,Wednesday,10:30/12:29 -,--,10,0,-,KMP_LS,-,-
+41,21103,CAB 194,Zurna II,Fiziksel (Yüz yüze),Ünal Yürük,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUZ_LS; THO_LS,Detail,-
+42,21104,CAB 196,Viyolonsel II,Fiziksel (Yüz yüze),Cenk Öztürk,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+43,21105,CAB 2014,Viyola IV,Fiziksel (Yüz yüze),Zeynep Barut,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+44,21035,CAB 208,Bağlama IV,Fiziksel (Yüz yüze),Cihangir Terzi,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+45,21036,CAB 208,Bağlama IV,Fiziksel (Yüz yüze),Adnan Koç,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+46,21037,CAB 208,Bağlama IV,Fiziksel (Yüz yüze),Erdem Şimşek,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+47,21070,CAB 2102,Keman IV,Fiziksel (Yüz yüze),Pınar Tezişçi Özmenay,TMB,Monday,13:30/15:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+48,21038,CAB 214,Ney IV,Fiziksel (Yüz yüze),Burak Malçok,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+49,21039,CAB 216,Mey IV,Fiziksel (Yüz yüze),Cem Ekmen,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+50,21040,CAB 224,Flüt IV,Fiziksel (Yüz yüze),Cem Önertürk,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+51,21041,CAB 234,Viyolonsel IV,Fiziksel (Yüz yüze),Yelda Özgen Öztürk,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+52,21042,CAB 236,Viyola IV,Fiziksel (Yüz yüze),Barış Kerem Bahar,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+53,21043,CAB 240,Kemane IV,Fiziksel (Yüz yüze),Kadir Verim,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+54,21188,CAB 244,Yrd.Çalgı Piyano IV,Fiziksel (Yüz yüze),Sıtkı Kandemir Basmacıoğlu,TMB,Thursday,13:30/15:29 -,--,17,0,-,BST_LS; CAB_LS; CEB_LS; KMP_LS,-,-
+55,21107,CAB 252,Kanun IV,Fiziksel (Yüz yüze),Serkan Mesut Halili,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+56,21108,CAB 254,Tanbur IV,Fiziksel (Yüz yüze),Göknil Bişak Özdemir,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+57,21109,CAB 256,Tar IV,Fiziksel (Yüz yüze),Ahmet Serhat Turunç,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUZ_LS; SES_LS; THO_LS,Detail,-
+58,21110,CAB 258,Bağlama IV,Fiziksel (Yüz yüze),Engin Şafak Gürler,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS; THO_LS,Detail,-
+59,21111,CAB 258,Bağlama IV,Fiziksel (Yüz yüze),Metin Eke,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS; THO_LS,Detail,-
+60,21112,CAB 258,Bağlama IV,Fiziksel (Yüz yüze),Adnan Koç,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS; THO_LS,Detail,-
+61,21113,CAB 260,Ud IV,Fiziksel (Yüz yüze),Buse Sever,TMB,Monday,15:30/17:29 -,--,7,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+62,21114,CAB 262,Ney IV,Fiziksel (Yüz yüze),Burak Malçok,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUZ_LS,Detail,-
+63,21115,CAB 264,Mey IV,Fiziksel (Yüz yüze),Cem Ekmen,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUZ_LS; THO_LS,Detail,-
+64,21116,CAB 266,Kaval IV,Fiziksel (Yüz yüze),Cihan Yurtcu,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUZ_LS; THO_LS,Detail,-
+65,21118,CAB 268,Klarnet IV,Fiziksel (Yüz yüze),Özlem Kolat Çakmaksoy,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUZ_LS; THO_LS,Detail,-
+66,21119,CAB 270,3 Telli Kemence IV,Fiziksel (Yüz yüze),Neva Özgen Kösoğlu,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+67,21120,CAB 272,4 Telli Kemençe IV,Fiziksel (Yüz yüze),Lale Akay,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+68,21123,CAB 276,Kemane IV,Fiziksel (Yüz yüze),Ferhan Yeprem,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; THO_LS,Detail,-
+69,21181,CAB 278,Piyano IV,Fiziksel (Yüz yüze),Devlet Devrim Öztaş,TMB,Monday,08:30/10:29 -,--,22,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+70,21182,CAB 278,Piyano IV,Fiziksel (Yüz yüze),Alper Rumelioğlu,TMB,Friday,14:00/15:59 -,--,22,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+71,21183,CAB 278,Piyano IV,Fiziksel (Yüz yüze),Alper Rumelioğlu,TMB,Wednesday,08:30/10:29 -,--,22,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS; SES_LS,Detail,-
+72,21124,CAB 280,Koltuk Davul II,Fiziksel (Yüz yüze),Salim Sınar,TMB,Monday,15:30/17:29 -,--,10,0,-,THO_LS,Detail,-
+73,21126,CAB 282,Bendir,Fiziksel (Yüz yüze),Erkan Kanat,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUZ_LS,Detail,-
+74,21128,CAB 288,Gitar IV,Fiziksel (Yüz yüze),Tolgahan Çoğulu,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+75,21209,CAB 290,Çalgılama IV,Fiziksel (Yüz yüze),Serkan Mesut Halili ;Cihan Yurtcu ;Ahmet Serhat Turunç,TMB,Thursday,15:30/17:29 -,--,10,0,-,BST_LS; KMP_LS,-,-
+76,21130,CAB 294,Zurna IV,Fiziksel (Yüz yüze),Ünal Yürük,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUZ_LS; THO_LS,Detail,-
+77,21132,CAB 296,Viyolonsel IV,Fiziksel (Yüz yüze),Yelda Özgen Öztürk,TMB,Monday,15:30/17:29 -,--,5,0,-,MTR_LS; MUT_LS; MUZ_LS; MZT_LS,Detail,-
+78,21133,CAB 3014,Viyola VI,Fiziksel (Yüz yüze),Barış Kerem Bahar,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+79,21044,CAB 308,Bağlama VI,Fiziksel (Yüz yüze),Engin Şafak Gürler,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+80,21045,CAB 310,Ud VI,Fiziksel (Yüz yüze),Sarper Eroğlu,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+81,21134,CAB 3102,KemanVI,Fiziksel (Yüz yüze),Ibragım Orazov,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+82,21046,CAB 316,Mey VI,Fiziksel (Yüz yüze),Cem Ekmen,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+83,21047,CAB 330,4 Telli Kemençe VI,Fiziksel (Yüz yüze),Lale Akay,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+84,21186,CAB 344,Yrd.Çalgı Piyano VI,Fiziksel (Yüz yüze),Devlet Devrim Öztaş,TMB,Tuesday,13:30/15:29 -,--,17,0,-,BST_LS; CAB_LS; CEB_LS; KMP_LS; SES_LS,-,-
+85,21048,CAB 346,Kanun VI,Fiziksel (Yüz yüze),Ayşegül Kostak Toksoy,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+86,21764,CAB 352,Kanun VI,Fiziksel (Yüz yüze),Safinaz Rizeli,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS; SES_LS,Detail,-
+87,21137,CAB 354,Tanbur VI,Fiziksel (Yüz yüze),Birol Yayla,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS; SES_LS,Detail,-
+88,21140,CAB 358,Bağlama VI,Fiziksel (Yüz yüze),Adnan Koç,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS; SES_LS,Detail,-
+89,21142,CAB 358,Bağlama VI,Fiziksel (Yüz yüze),Cihangir Terzi,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS; SES_LS,Detail,-
+90,21144,CAB 360,Ud VI,Fiziksel (Yüz yüze),Buse Sever,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+91,21145,CAB 362,Ney VI,Fiziksel (Yüz yüze),Burak Malçok,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+92,21147,CAB 364,Mey VI,Fiziksel (Yüz yüze),Cem Ekmen,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+93,21149,CAB 366,Kaval VI,Fiziksel (Yüz yüze),Haydar Tanrıverdi,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+94,21151,CAB 368,Klarnet VI,Fiziksel (Yüz yüze),Özlem Kolat Çakmaksoy,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+95,21153,CAB 372,4 Telli Kemençe VI,Fiziksel (Yüz yüze),Lale Akay,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+96,21157,CAB 376,Kemane VI,Fiziksel (Yüz yüze),Ferhan Yeprem,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+97,21159,CAB 386,Gitar VI,Fiziksel (Yüz yüze),Tolgahan Çoğulu,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+98,21161,CAB 396,Viyolonsel VI,Fiziksel (Yüz yüze),Yelda Özgen Öztürk,TMB,Tuesday,15:30/17:29 -,--,5,0,-,MTR_LS,Detail,-
+99,21166,CAB 4014,Viyola VIII,Fiziksel (Yüz yüze),Barış Kerem Bahar,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+100,21049,CAB 408,Bağlama VIII,Fiziksel (Yüz yüze),Ali Kazım Akdağ,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+101,21050,CAB 408,Bağlama VIII,Fiziksel (Yüz yüze),Cihangir Terzi,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+102,21052,CAB 410,Ud VIII,Fiziksel (Yüz yüze),Yüce Gümüş,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+103,21167,CAB 4102,Keman VIII,Fiziksel (Yüz yüze),Ali Cihat Aşkın,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+104,21168,CAB 4102,Keman VIII,Fiziksel (Yüz yüze),Ibragım Orazov,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+105,21053,CAB 420,Klarnet VIII,Fiziksel (Yüz yüze),Özlem Kolat Çakmaksoy,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+106,21055,CAB 420,Klarnet VIII,Fiziksel (Yüz yüze),Ünsal Çeliksu,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+107,21056,CAB 440,Kemane VIII,Fiziksel (Yüz yüze),Kadir Verim,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+108,21187,CAB 444,Yrd.Çalgı Piyano VIII,Fiziksel (Yüz yüze),Devlet Devrim Öztaş,TMB,Monday,13:30/15:29 -,--,17,0,-,BST_LS; CAB_LS; CEB_LS; KMP_LS; SES_LS,-,-
+109,21057,CAB 446,Kanun VIII,Fiziksel (Yüz yüze),Safinaz Rizeli,-,-,-/- -,-,5,0,-,CAB_LS; CEB_LS,Detail,-
+110,21169,CAB 452,Kanun VIII,Fiziksel (Yüz yüze),Serkan Mesut Halili,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS; SES_LS,Detail,-
+111,21170,CAB 454,Tanbur VIII,Fiziksel (Yüz yüze),Birol Yayla,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS; SES_LS,Detail,-
+112,21171,CAB 458,Bağlama VIII,Fiziksel (Yüz yüze),Engin Şafak Gürler,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS; SES_LS,Detail,-
+113,21184,CAB 460,Ud VIII,Fiziksel (Yüz yüze),Buse Sever,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS; SES_LS,Detail,-
+114,21172,CAB 462,Ney VIII,Fiziksel (Yüz yüze),Burak Malçok,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+115,21211,CAB 464,Mey VIII,Fiziksel (Yüz yüze),Cem Ekmen,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+116,21173,CAB 466,Kaval VIII,Fiziksel (Yüz yüze),Haydar Tanrıverdi,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+117,21174,CAB 468,Klarnet VIII,Fiziksel (Yüz yüze),Özlem Kolat Çakmaksoy,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+118,21175,CAB 476,Kemane VIII,Fiziksel (Yüz yüze),Ferhan Yeprem,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+119,21176,CAB 486,Gitar VIII,Fiziksel (Yüz yüze),Tufan Kurdoğlu,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+120,21008,CAB 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Kadir Verim,-,-,-/- -,-,100,0,-,CAB_LS; CEB_LS,-,Detail
+121,21177,CAB 496,Viyolonsel VIII,Fiziksel (Yüz yüze),Gülyar Say,TMB,Wednesday,13:30/15:29 -,--,5,0,-,MTR_LS,Detail,-
+122,21199,CAB 724,Oda Müziği IV,Fiziksel (Yüz yüze),Pınar Tezişçi Özmenay,TMBTMB,TuesdayWednesday,15:30/17:2913:30/15:29 -,----,15,0,-,CAB_LS; CEB_LS,-,-
+123,21197,CAB 730,Uslup Tavır ve Yorum IV,Fiziksel (Yüz yüze),Engin Şafak Gürler,TMBTMB,ThursdayFriday,13:30/15:2910:30/12:29 -,----,15,0,-,CAB_LS; CEB_LS,-,-
+124,21201,CAB 730,Uslup Tavır ve Yorum IV,Fiziksel (Yüz yüze),Ayşegül Kostak Toksoy,TMBTMB,WednesdayFriday,08:30/10:2916:00/17:59 -,----,15,0,-,CAB_LS; CEB_LS,-,-
+125,21013,CAB 732,Toplu Uygulama II (Orkestra),Fiziksel (Yüz yüze),Gülyar Say,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+126,21009,CAB 734,Toplu Uygulama II (THM),Fiziksel (Yüz yüze),Haydar Tanrıverdi,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+127,21017,CAB 736,Toplu Uygulama II (TSM),Fiziksel (Yüz yüze),Hatice Doğan Sevinç,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+128,21014,CAB 742,Toplu Uygulama IV (Orkestra),Fiziksel (Yüz yüze),Gülyar Say,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+129,21010,CAB 744,Toplu Uygulama IV (THM),Fiziksel (Yüz yüze),Haydar Tanrıverdi,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+130,21018,CAB 746,Toplu Uygulama IV (TSM),Fiziksel (Yüz yüze),Hatice Doğan Sevinç,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+131,21015,CAB 752,Toplu Uygulama VI (Orkestra),Fiziksel (Yüz yüze),Gülyar Say,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+132,21011,CAB 754,Toplu Uygulama VI (THM),Fiziksel (Yüz yüze),Haydar Tanrıverdi,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+133,21019,CAB 756,Toplu Uygulama VI (TSM),Fiziksel (Yüz yüze),Hatice Doğan Sevinç,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+134,21016,CAB 762,Toplu Uygulama VIII (Orkestra),Fiziksel (Yüz yüze),Gülyar Say,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+135,21012,CAB 764,Toplu Uygulama VIII (THM),Fiziksel (Yüz yüze),Haydar Tanrıverdi,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+136,21020,CAB 766,Toplu Uygulama VIII (TSM),Fiziksel (Yüz yüze),Hatice Doğan Sevinç,TMBTMB,MondayWednesday,10:30/12:2910:30/12:29 -,----,20,0,-,CAB_LS; CEB_LS,-,-
+137,21189,CAB 776,18-19.yy Saz Eserleri Rep,Fiziksel (Yüz yüze),Neva Özgen Kösoğlu,TMB,Friday,09:30/12:29 -,--,15,0,-,CAB_LS; CEB_LS,-,-
+138,21190,CAB 778,Oyun Havaları Repertuarı II,Fiziksel (Yüz yüze),Ferhan Yeprem,TMB,Friday,09:30/12:29 -,--,15,0,-,CAB_LS; CEB_LS,-,-
+139,21191,CAB 782,Uslup Tavır ve Yorum II,Fiziksel (Yüz yüze),Ayşegül Kostak Toksoy,TMBTMB,TuesdayFriday,15:30/17:2914:00/15:59 -,----,15,0,-,CAB_LS; CEB_LS,-,-
+140,21195,CAB 782,Uslup Tavır ve Yorum II,Fiziksel (Yüz yüze),Engin Şafak Gürler,TMBTMB,ThursdayFriday,10:30/12:2916:00/17:59 -,----,15,0,-,CAB_LS; CEB_LS,-,-
+141,21193,CAB 786,Oda Müziği II,Fiziksel (Yüz yüze),Ahmet Hakan Şensoy,TMBTMB,TuesdayFriday,15:30/17:2914:00/15:59 -,----,15,0,-,CAB_LS; CEB_LS,-,-
+142,21203,CAB 792,Bağlmda Çalp Söylme Gelneği II,Fiziksel (Yüz yüze),Metin Eke,TMB,Thursday,10:30/12:29 -,--,15,0,-,CAB_LS; CEB_LS,-,-
+143,21205,CAB 796,20-21.yy Saz Eserleri Rep.,Fiziksel (Yüz yüze),Göknil Bişak Özdemir,TMB,Thursday,15:30/17:29 -,--,15,0,-,CAB_LS; CEB_LS,-,-

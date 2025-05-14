@@ -1,0 +1,36 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22890,ISL 114E,Engineering Ethics,Fiziksel (Yüz yüze),Zeynep Erden Bayazıt,MSB,Tuesday,14:30/16:29 -,B13-B,20,0,-,ISL_LS; ISLE_LS,-,-
+1,22894,ISL 214E,Statistics II,Fiziksel (Yüz yüze),Raziye Selim,MSB,Tuesday,14:30/17:29 -,216,90,0,-,ISL_LS; ISLE_LS,Detail,-
+2,22896,ISL 214E,Statistics II,Fiziksel (Yüz yüze),Raziye Selim,MSB,Wednesday,09:30/12:29 -,101,90,0,-,ISL_LS; ISLE_LS,Detail,-
+3,22897,ISL 224E,Cost Accounting,Sanal (Çevrimiçi/Online),Oktay Taş,ISB,Monday,09:30/12:29 -,--,120,0,EFN/30/0 | END/5/0 | ENDE/5/0 | Diğer/80/0,EFN_LS; END_LS; ENDE_LS; ISL_LS; ISLE_LS,-,-
+4,22900,ISL 233E,Microeconomics,Fiziksel (Yüz yüze),İbrahim Öner Günçavdı,ISB,Wednesday,09:30/12:29 -,204,90,0,ISL/40/0 | ISLE/40/0 | MMD/10/0 | Diğer/0/0,ISL_LS; ISLE_LS; MMD_LS,-,-
+5,22903,ISL 234E,Management and Organization,Fiziksel (Yüz yüze),Zeynep Erden Bayazıt,MSB,Monday,14:30/17:29 -,B13-A,90,0,ECNE/10/0 | GID/5/0 | GIDE/5/0 | Diğer/70/0,ECNE_LS; GID_LS; GIDE_LS; ISL_LS; ISLE_LS,-,Detail
+6,22906,ISL 234E,Management and Organization,Fiziksel (Yüz yüze),Zeynep Erden Bayazıt,MSB,Tuesday,09:30/12:29 -,104,90,0,ECNE/10/0 | GID/5/0 | GIDE/5/0 | Diğer/70/0,ECNE_LS; GID_LS; GIDE_LS; ISL_LS; ISLE_LS,-,Detail
+7,22908,ISL 244E,Macroeconomics,Fiziksel (Yüz yüze),İpek İlkkaracan Ajas ;Derya Gültekin,MSB,Tuesday,14:30/17:29 -,203,90,0,-,ISL_LS; ISLE_LS,Detail,-
+8,22911,ISL 244E,Macroeconomics,Fiziksel (Yüz yüze),İpek İlkkaracan Ajas ;Derya Gültekin,ISB,Wednesday,09:30/12:29 -,203,90,0,-,ISL_LS; ISLE_LS,Detail,-
+9,22913,ISL 333E,Finance,Fiziksel (Yüz yüze),Kaya Tokmakçıoğlu,MSB,Monday,14:30/17:29 -,104,90,0,END/2/0 | ENDE/3/0 | Diğer/85/0,END_LS; ENDE_LS; ISL_LS; ISLE_LS,Detail,-
+10,22915,ISL 333E,Finance,Fiziksel (Yüz yüze),Cumhur Enis Ekinci,MSB,Tuesday,09:30/12:29 -,203,90,0,END/2/0 | ENDE/3/0 | Diğer/85/0,END_LS; ENDE_LS; ISL_LS; ISLE_LS,Detail,-
+11,22917,ISL 343E,Management Information Syst.,Sanal (Çevrimiçi/Online),Nihan Yıldırım,ISB,Wednesday,12:30/15:29 -,--,150,0,ECNE/20/0 | ISL/60/0 | ISLE/70/0 | Diğer/0/0,ECNE_LS; ISL_LS; ISLE_LS,-,Detail
+12,22919,ISL 353E,Marketing,Fiziksel (Yüz yüze),Huriye Şebnem Burnaz,ISB,Tuesday,14:30/17:29 -,204,90,0,ECNE/10/0 | ENTE/5/0 | EUT/15/0 | Diğer/60/0,ECNE_LS; ENTE_LS; EUT_LS; ISL_LS; ISLE_LS,Detail,-
+13,23477,ISL 354E,Managerial Decision Making,Fiziksel (Yüz yüze),Fuat Kosanoğlu,ISB,Wednesday,09:30/12:29 -,103,60,0,-,ISL_LS; ISLE_LS,-,Detail
+14,22922,ISL 360E,Quantitative Rsrch&DataAnlys.,Fiziksel (Yüz yüze),Elif Karaosmanoğlu,ISB,Monday,08:30/12:29 -,204,90,0,-,ISL_LS; ISLE_LS,Detail,-
+15,22923,ISL 360E,Quantitative Rsrch&DataAnlys.,Fiziksel (Yüz yüze),Kemal Burç Ülengin,ISB,Monday,14:30/18:29 -,204,90,0,-,ISL_LS; ISLE_LS,Detail,-
+16,22929,ISL 363E,Human Resources Management,Fiziksel (Yüz yüze),İdil Vedia Evcimen,MSB,Tuesday,09:30/12:29 -,204,90,0,-,ISL_LS; ISLE_LS,Detail,-
+17,22930,ISL 364E,Business Law,Fiziksel (Yüz yüze),Çiçek Ersoy Kekevi ;Özgür Öztürk,MSB,Friday,09:30/12:29 -,216,100,0,MMD/30/0 | Diğer/70/0,ECNE_LS; EFN_LS; ISL_LS; ISLE_LS; MMD_LS,-,-
+18,22934,ISL 374E,Management Eng. Design I,Fiziksel (Yüz yüze),Mehmet Erçek ;Deniz Tunçalp,ISB,Thursday,09:30/12:29 -,203,90,0,-,ISL_LS; ISLE_LS,-,Detail
+19,22936,ISL 374E,Management Eng. Design I,Fiziksel (Yüz yüze),Mehmet Erçek ;Deniz Tunçalp,ISB,Thursday,14:30/17:29 -,203,90,0,-,ISL_LS; ISLE_LS,-,Detail
+20,22938,ISL 384E,Production Planning&Control,Fiziksel (Yüz yüze),Saeed Tasoujı Hassanpour,MSB,Thursday,09:30/12:29 -,B13-A,90,0,-,ISL_LS; ISLE_LS,Detail,-
+21,22940,ISL 384E,Production Planning&Control,Fiziksel (Yüz yüze),Hür bersam Sidal,MSB,Thursday,14:30/17:29 -,104,90,0,-,ISL_LS; ISLE_LS,Detail,-
+22,22942,ISL 432E,Simulation in Operations Mng.,Sanal (Çevrimiçi/Online),Tuncay Özcan,ISB,Friday,09:30/12:29 -,--,90,0,-,ISL_LS; ISLE_LS,-,-
+23,22944,ISL 433,İş Hukuku,Fiziksel (Yüz yüze),Ulaş Baysal,MSB,Wednesday,13:30/15:29 -,101,90,0,-,ISL_LS; ISLE_LS,-,-
+24,22946,ISL 435E,The World Economy at a Glance,Fiziksel (Yüz yüze),İpek İlkkaracan Ajas,MSB,Thursday,14:30/17:29 -,212,35,0,-,ISL_LS; ISLE_LS,Detail,-
+25,22947,ISL 439E,Int.to Mach.Learn.with Bus.App,Fiziksel (Yüz yüze),Tolga Kaya,ISB,Wednesday,09:30/12:29 -,107,50,0,-,ISL_LS; ISLE_LS,Detail,-
+26,22949,ISL 448E,Optimization Models & App.,Fiziksel (Yüz yüze),Fuat Kosanoğlu,ISB,Tuesday,14:30/17:29 -,104,90,0,-,ISL_LS; ISLE_LS,-,Detail
+27,22952,ISL 460E,E-Marketing,Fiziksel (Yüz yüze),Adnan Veysel Ertemel,MSB,Friday,14:30/17:29 -,101,60,0,-,ISL_LS; ISLE_LS,Detail,-
+28,22953,ISL 478E,Entrepreneurship,Fiziksel (Yüz yüze),Deniz Tunçalp,MSB,Tuesday,14:30/17:29 -,210,40,0,-,ISL_LS; ISLE_LS,-,Detail
+29,22959,ISL 4901,İşletme Müh. Tasarım Projesi I,Fiziksel (Yüz yüze),Hatice Camgöz Akdağ,-,-,-/- -,-,500,0,-,ISL_LS,Detail,Detail
+30,22961,ISL 4901E,Manage. Engin. Design Proj. I,Fiziksel (Yüz yüze),Hatice Camgöz Akdağ,-,-,-/- -,-,500,0,-,ISL_LS; ISLE_LS,Detail,Detail
+31,22964,ISL 4902,İşletme Müh.Tasarım Projesi II,Fiziksel (Yüz yüze),Hatice Camgöz Akdağ,-,-,-/- -,-,500,0,-,ISL_LS,Detail,-
+32,22965,ISL 4902E,Manage. Engin. Design Proj.II,Fiziksel (Yüz yüze),Hatice Camgöz Akdağ,-,-,-/- -,-,500,0,-,ISL_LS; ISLE_LS,Detail,-
+33,22956,ISL 492,İşletme Müh. Tasarım Prj.,Fiziksel (Yüz yüze),Hatice Camgöz Akdağ,-,-,-/- -,-,500,0,-,ISL_LS,-,Detail
+34,22957,ISL 492E,Management Eng. Design Project,Fiziksel (Yüz yüze),Hatice Camgöz Akdağ,-,-,-/- -,-,500,0,-,ISL_LS; ISLE_LS,-,Detail

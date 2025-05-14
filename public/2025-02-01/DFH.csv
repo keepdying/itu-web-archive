@@ -1,0 +1,40 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24285,DFH 112,Denizde Güvenlik II,Fiziksel (Yüz yüze),Hakan Çap,DZB,Monday,08:30/11:29 -,--,120,0,-,DUI_LS; GMI_LS,-,-
+1,24358,DFH 112,Denizde Güvenlik II,Fiziksel (Yüz yüze),Sinan Çakır,DZB,Monday,11:30/14:29 -,--,70,0,-,DUI_LS; GMI_LS,-,-
+2,24361,DFH 112,Denizde Güvenlik II,Fiziksel (Yüz yüze),Hakan Çap,DZB,Monday,14:30/17:29 -,--,120,0,-,DUI_LS; GMI_LS,-,-
+3,24618,DFH 112E,Maritime Safety II,Fiziksel (Yüz yüze),Hakan Çap,DZB,Friday,14:00/16:59 -,--,35,0,-,MEN_LS; MTM_LS,-,-
+4,24619,DFH 172E,Maritime English I,Fiziksel (Yüz yüze),Seda Çınar Alabay,DZB,Thursday,09:30/11:29 -,--,60,0,-,MTM_LS,-,-
+5,24698,DFH 172E,Maritime English I,Fiziksel (Yüz yüze),-,DZB,Thursday,13:30/15:29 -,--,0,0,-,MMD_LS,-,-
+6,24750,DFH 172E,Maritime English I,Fiziksel (Yüz yüze),Seda Çınar Alabay,DZB,Friday,08:30/10:29 -,--,60,0,-,DUI_LS,-,-
+7,24751,DFH 172E,Maritime English I,Fiziksel (Yüz yüze),Seda Çınar Alabay,DZB,Tuesday,13:30/15:29 -,--,60,0,-,DUI_LS,-,-
+8,24277,DFH 184,Denizcilik Gelenekleri,Fiziksel (Yüz yüze),Gizem Çevik ;Cenk Ay,DZB,Thursday,08:30/11:29 -,--,60,0,-,DUI_LS,-,-
+9,24278,DFH 186,Gemicilik Uygulamaları,Fiziksel (Yüz yüze),Orhan Gönel,DZB,Thursday,11:30/14:29 -,--,60,0,-,DUI_LS,-,-
+10,24297,DFH 202,Gemilerde Acil Durum. Müdahale,Fiziksel (Yüz yüze),Orhan Gönel,DZB,Tuesday,10:30/12:29 -,--,70,0,-,DUI_LS,-,Detail
+11,24298,DFH 202,Gemilerde Acil Durum. Müdahale,Fiziksel (Yüz yüze),Orhan Gönel,DZB,Tuesday,13:30/15:29 -,--,70,0,-,DUI_LS,-,Detail
+12,24634,DFH 202E,Ship Emergency Response,Fiziksel (Yüz yüze),Orhan Gönel,DZB,Thursday,15:30/17:29 -,--,60,0,-,MEN_LS; MTM_LS,-,Detail
+13,24279,DFH 225,Türk Denizcilik Tarihi&Kültürü,Fiziksel (Yüz yüze),Muhsin Kadıoğlu,DZB,Thursday,15:30/17:29 -,--,60,0,-,DUI_LS,-,-
+14,24326,DFH 226,Ekonomik Coğrafya,Fiziksel (Yüz yüze),Muhsin Kadıoğlu,DZB,Thursday,10:30/13:29 -,--,60,0,-,DUI_LS,-,-
+15,24635,DFH 232E,Business Logistics,Fiziksel (Yüz yüze),Pelin Bolat,DZB,Friday,14:30/16:29 -,--,60,0,-,MTM_LS,-,-
+16,24282,DFH 254E,Maritime Conventions,Fiziksel (Yüz yüze),Gizem Kayişoğlu,DZB,Tuesday,13:30/15:29 -,--,70,0,-,DUI_LS,-,-
+17,24283,DFH 254E,Maritime Conventions,Fiziksel (Yüz yüze),Gizem Kayişoğlu,DZB,Tuesday,15:30/17:29 -,--,70,0,-,DUI_LS,-,-
+18,24629,DFH 254E,Maritime Conventions,Fiziksel (Yüz yüze),Gizem Kayişoğlu,DZB,Thursday,09:30/11:29 -,--,60,0,-,MTM_LS,-,-
+19,24295,DFH 278E,Maritime Economics,Fiziksel (Yüz yüze),Levent Kırval,DZB,Wednesday,09:30/11:29 -,--,70,0,-,DUI_LS,-,-
+20,24296,DFH 278E,Maritime Economics,Fiziksel (Yüz yüze),Levent Kırval,DZB,Wednesday,11:30/13:29 -,--,70,0,-,DUI_LS,-,-
+21,24633,DFH 278E,Maritime Economics,Fiziksel (Yüz yüze),Levent Kırval,DZB,Monday,14:30/16:29 -,--,60,0,-,MTM_LS,-,-
+22,24946,DFH 278E,Maritime Economics,Fiziksel (Yüz yüze),Rofaida Benotsmane,ISB,Tuesday,09:30/11:29 -,104,50,0,-,MMD_LS,-,-
+23,24309,DFH 282,Akışkanlar Mekaniği,Fiziksel (Yüz yüze),Melek Ertogan,DZB,Monday,08:30/10:29 -,--,150,0,-,DUI_LS,-,-
+24,24310,DFH 282,Akışkanlar Mekaniği,Fiziksel (Yüz yüze),Melek Ertogan,DZB,Monday,10:30/12:29 -,--,70,0,-,DUI_LS,-,-
+25,24321,DFH 414E,Port Management,Fiziksel (Yüz yüze),Tanzer Satır,DZB,Tuesday,13:30/15:29 -,--,60,0,-,DUI_LS,-,-
+26,24707,DFH 414E,Port Management,Fiziksel (Yüz yüze),Muhittin Orhan,DZB,Monday,08:30/10:29 -,--,50,0,-,MMD_LS,-,-
+27,24322,DFH 452,Güverte Makineleri,Fiziksel (Yüz yüze),Yunus Emre Şenol,DZB,Wednesday,11:30/13:29 -,--,45,0,-,DUI_LS,-,-
+28,24327,DFH 472E,Commercial Ship Management,Fiziksel (Yüz yüze),Pelin Bolat,DZB,Thursday,08:30/11:29 -,--,60,0,-,DUI_LS,-,-
+29,24721,DFH 472E,Commercial Ship Management,Fiziksel (Yüz yüze),-,MED,Thursday,11:30/14:29 -,A35,0,0,-,MMD_LS,-,-
+30,24328,DFH 474,Denizcilikte Yön.Dav.&Perf.,Fiziksel (Yüz yüze),Leyla Tavacıoğlu,DZB,Wednesday,08:30/11:29 -,--,50,0,-,DUI_LS,-,-
+31,24323,DFH 482E,Cargo Handling Simulator,Fiziksel (Yüz yüze),Yunus Emre Şenol,DZB,Monday,08:30/10:29 -,--,45,0,-,DUI_LS,-,-
+32,24324,DFH 482E,Cargo Handling Simulator,Fiziksel (Yüz yüze),Yunus Emre Şenol,DZB,Monday,11:30/13:29 -,--,45,0,-,DUI_LS,-,-
+33,24325,DFH 486E,Chartering,Fiziksel (Yüz yüze),Emre Akyüz,DZB,Thursday,13:30/15:29 -,--,60,0,-,DUI_LS,-,-
+34,24306,DFH 490E,E-Navigation Systems,Fiziksel (Yüz yüze),Serdar Kum,DZB,Wednesday,09:30/11:29 -,--,75,0,-,DUI_LS,-,-
+35,24307,DFH 490E,E-Navigation Systems,Fiziksel (Yüz yüze),Serdar Kum,DZB,Wednesday,11:30/13:29 -,--,75,0,-,DUI_LS,-,-
+36,24308,DFH 490E,E-Navigation Systems,Fiziksel (Yüz yüze),Serdar Kum,DZB,Thursday,12:30/14:29 -,--,60,0,-,MTM_LS,-,-
+37,24329,DFH 495,Gemiadamı Sağlığı&İş Emniyeti,Fiziksel (Yüz yüze),Esma Uflaz,DZB,Thursday,14:30/17:29 -,--,40,0,-,DUI_LS,-,-
+38,24330,DFH 497E,Org.Mngt &Behavior in Maritime,Fiziksel (Yüz yüze),Leyla Tavacıoğlu,DZB,Monday,14:30/17:29 -,--,50,0,-,DUI_LS,-,-

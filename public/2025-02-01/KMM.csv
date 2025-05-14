@@ -1,0 +1,49 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23185,KMM 210E,Engineering Mathematics,Fiziksel (Yüz yüze),Elif Öztürk Er,KMBKMB,MondayFriday,14:30/16:2914:00/15:59 -,D103D103,50,0,-,KMM_LS,Detail,-
+1,23047,KMM 220,Akışkanlar Mekaniği,Fiziksel (Yüz yüze),Fatma Seniha Güner,KMBKMB,MondayThursday,09:30/11:2911:30/12:29 -,D103D103,50,0,-,KMM_LS,Detail,-
+2,23048,KMM 220,Akışkanlar Mekaniği,Fiziksel (Yüz yüze),Ayşe Banu Kocaağa,KMBKMB,MondayThursday,09:30/11:2911:30/12:29 -,D102D203,50,0,-,KMM_LS,Detail,-
+3,23049,KMM 222E,Computati. Meth. in Chem. Eng.,Fiziksel (Yüz yüze),Ayşe Özge Kürkçüoğlu Levitas,KMBKMBKMB,ThursdayFridayFriday,13:30/15:2911:00/11:5912:00/12:59 -,D304D204BIL.LAB.1,50,0,-,KMM_LS,Detail,-
+4,23050,KMM 222E,Computati. Meth. in Chem. Eng.,Fiziksel (Yüz yüze),Ahmet Sirkecioğlu ;Hüseyin Enis Karahan,KMBKMB,ThursdayFriday,13:30/15:2911:00/12:59 -,D303D303,50,0,-,KMM_LS,Detail,-
+5,23051,KMM 224,Kimya Müh.Termodinamiği,Fiziksel (Yüz yüze),Reha Yavuz,KMBKMB,WednesdayThursday,09:00/11:5909:00/10:59 -,D103D203,50,0,-,KMM_LS; KMM_YD,Detail,-
+6,23052,KMM 224,Kimya Müh.Termodinamiği,Fiziksel (Yüz yüze),Ayşegül Meriçboyu ;Melek Mümine Erol Taygun,KMBKMB,WednesdayThursday,09:00/11:5909:00/10:59 -,D201D201,50,0,-,KMM_LS; KMM_YD,Detail,-
+7,23053,KMM 305E,Heat and Mass Transfer,Fiziksel (Yüz yüze),Fatma Elif Genceli Güner ;Melek Mümine Erol Taygun,KMBKMB,MondayTuesday,13:30/16:2913:30/14:29 -,D302D202,30,0,-,KMM_LS; KMM_YD,Detail,-
+8,23059,KMM 308E,Chem Reac Eng,Fiziksel (Yüz yüze),Ahmet Sirkecioğlu,KMBKMB,ThursdayFriday,09:30/12:2909:00/10:59 -,D302D204,50,0,-,KMM_LS; KMM_YD,Detail,-
+9,23062,KMM 308E,Chem Reac Eng,Fiziksel (Yüz yüze),Hüseyin Enis Karahan,KMBKMB,ThursdayFriday,09:30/12:2909:00/10:59 -,D204D203,50,0,-,KMM_LS; KMM_YD,Detail,-
+10,23064,KMM 312E,Chemical Reaction Eng I,Fiziksel (Yüz yüze),Alper Sarıoğlan,KMB,Thursday,09:30/12:29 -,D105,10,0,-,KMM_LS; KMM_YD,Detail,-
+11,23055,KMM 332,Ayırma İşlemleri,Fiziksel (Yüz yüze),Gülhayat Saygılı,KMBKMB,MondayWednesday,10:30/12:2910:30/12:29 -,D301D301,50,0,-,KMM_LS; KMM_YD,Detail,-
+12,23057,KMM 332,Ayırma İşlemleri,Fiziksel (Yüz yüze),Ömer Şahin,KMBKMB,MondayWednesday,10:30/12:2910:30/12:29 -,D303D302,50,0,-,KMM_LS; KMM_YD,Detail,-
+13,23065,KMM 342E,Math Modelling in Chemical Eng,Fiziksel (Yüz yüze),Ayşe Özge Kürkçüoğlu Levitas,KMBKMB,WednesdayFriday,13:30/15:2915:00/15:59 -,D204D204,50,0,-,KMM_LS; KMM_YD,Detail,-
+14,23069,KMM 342E,Math Modelling in Chemical Eng,Fiziksel (Yüz yüze),Ramazan Kızıl,KMBKMB,WednesdayFriday,13:30/15:2915:00/15:59 -,D203D202,50,0,-,KMM_LS; KMM_YD,Detail,-
+15,23160,KMM 418E,Paper Technology,Fiziksel (Yüz yüze),Ayşe Banu Kocaağa,KMB,Thursday,14:00/16:59 -,GZ102,15,0,-,KMM_LS,-,-
+16,23072,KMM 422E,Chemical Engineering Desing II,Fiziksel (Yüz yüze),Sinan Kutluay,KMBKMB,MondayWednesday,08:30/10:2909:30/12:29 -,D104D204,10,0,-,KMM_LS,Detail,-
+17,23164,KMM 424,Biyoteknolojik Uygulamalar,Fiziksel (Yüz yüze),Fatoş Yüksel Güvenilir,KMB,Thursday,12:30/15:29 -,D204,15,0,-,BIO_LS; KMM_LS,-,-
+18,23155,KMM 424E,Biotechnological Applications,Fiziksel (Yüz yüze),Ramazan Kızıl,KMB,Monday,10:30/13:29 -,D101,15,0,-,KMM_LS,-,-
+19,23161,KMM 428,Özel Ayırma Yöntemleri,Fiziksel (Yüz yüze),Nalan Erdöl Aydın,KMB,Monday,09:30/12:29 -,GZ103,15,0,-,KMM_LS,-,-
+20,23078,KMM 434,Kalite;Çevre ve Güvenlik,Fiziksel (Yüz yüze),Ahmet Alper Aydın,KMB,Monday,13:30/16:29 -,D301,60,0,-,KMM_LS; KMM_YD,Detail,-
+21,23080,KMM 434,Kalite;Çevre ve Güvenlik,Fiziksel (Yüz yüze),Alper Sarıoğlan ;Nalan Erdöl Aydın,KMB,Monday,13:30/16:29 -,D204,60,0,-,KMM_LS; KMM_YD,Detail,-
+22,23186,KMM 446,Atık Yönetimi,Fiziksel (Yüz yüze),Ömer Şahin,KMB,Tuesday,09:30/12:29 -,D106,15,0,-,KMM_LS,-,-
+23,23173,KMM 453,Kimya Müh.Bilg.Dest.Tasarım,Fiziksel (Yüz yüze),İlayda Nur Oksal,KMB,Tuesday,13:30/16:29 -,BIL.LAB.1,40,0,-,KMM_LS,-,-
+24,23184,KMM 461E,Introduction to Electrochemical Engineering,Fiziksel (Yüz yüze),Mehmet Suha Yazıcı,KMB,Tuesday,13:30/16:29 -,D101,15,0,-,KMM_LS,-,-
+25,23102,KMM 462,Kimya Mühendisliği Lab II,Fiziksel (Yüz yüze),Nalan Erdöl Aydın ;Elif Öztürk Er ;Ayşe Arifoğlu ;Cemile Yerlikaya ;Nil Özbek,KMB,Tuesday,08:30/12:29 -,K407,40,0,-,KMM_LS,Detail,-
+26,23112,KMM 462,Kimya Mühendisliği Lab II,Fiziksel (Yüz yüze),Nalan Erdöl Aydın ;Elif Öztürk Er ;Ayşe Arifoğlu ;Cemile Yerlikaya ;Nil Özbek,KMB,Tuesday,13:00/16:59 -,K407,40,0,-,KMM_LS,Detail,-
+27,23120,KMM 462,Kimya Mühendisliği Lab II,Fiziksel (Yüz yüze),Nalan Erdöl Aydın ;Elif Öztürk Er ;Ayşe Arifoğlu ;Cemile Yerlikaya ;Nil Özbek,KMB,Friday,08:30/12:29 -,K407,0,0,-,KMM_LS,Detail,-
+28,23165,KMM 466,Bor Teknolojisi,Fiziksel (Yüz yüze),Hale Gürbüz ;Hüseyin Enis Karahan,KMB,Tuesday,13:30/16:29 -,D305,15,0,-,KMM_LS,-,-
+29,23163,KMM 467,Kristalizasyon,Fiziksel (Yüz yüze),Ayşen Aktürk Sertbaş,KMB,Thursday,12:30/15:29 -,GZ103,15,0,-,KMM_LS,-,-
+30,23167,KMM 468,Endüstride Enerji Tasarrufu,Fiziksel (Yüz yüze),Serdar Yaman,KMB,Tuesday,13:30/16:29 -,D302,15,0,-,KMM_LS,-,-
+31,23157,KMM 468E,Energy Conservation in Indstry,Fiziksel (Yüz yüze),Serdar Yaman,KMB,Tuesday,09:30/12:29 -,D302,15,0,-,KMM_LS,-,-
+32,23169,KMM 474,Yağ Teknolojisi,Fiziksel (Yüz yüze),Melek Tüter,KMB,Tuesday,09:30/12:29 -,D205,15,0,-,KMM_LS,-,-
+33,23172,KMM 477,Endüstriyel Su Hazırlama Yöntm,Fiziksel (Yüz yüze),Hanzade Açma,KMB,Tuesday,09:30/12:29 -,D204,15,0,-,KMM_LS,-,-
+34,23124,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Gülhayat Saygılı,KMB,Friday,14:00/16:59 -,--,2,0,-,KMM_LS,Detail,-
+35,23127,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Fatma Seniha Güner,KMB,Friday,14:00/16:59 -,--,2,0,-,KMM_LS,Detail,-
+36,23130,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Melek Tüter,KMB,Friday,14:00/16:59 -,--,2,0,-,KMM_LS,Detail,-
+37,23133,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Alper Sarıoğlan,KMB,Monday,10:30/13:29 -,--,2,0,-,KMM_LS,Detail,-
+38,23136,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Devrim Barış Kaymak,KMB,Friday,14:00/16:59 -,--,2,0,-,KMM_LS,Detail,-
+39,23138,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Şerife Birgül Ersolmaz,KMB,Friday,14:00/16:59 -,--,2,0,-,KMM_LS,Detail,-
+40,23141,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Alıreza Khataee,KMB,Friday,14:00/16:59 -,--,2,0,-,KMM_LS,Detail,-
+41,23142,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Nil Özbek,KMB,Thursday,09:30/12:29 -,--,2,0,-,KMM_LS,Detail,-
+42,23145,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Fatma Elif Genceli Güner,KMB,Friday,14:00/16:59 -,--,3,0,-,KMM_LS,Detail,-
+43,23147,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Ayşe Özge Kürkçüoğlu Levitas,KMB,Thursday,09:30/12:29 -,--,2,0,-,KMM_LS,Detail,-
+44,23150,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Elif Öztürk Er,KMB,Thursday,13:30/16:29 -,--,2,0,-,KMM_LS,Detail,-
+45,23152,KMM 484,Araştırma Projesi II,Fiziksel (Yüz yüze),Hanzade Açma,KMB,Friday,14:00/16:59 -,--,2,0,-,KMM_LS,Detail,-
+46,23076,KMM 4902E,Chem. Eng. Design II,Fiziksel (Yüz yüze),Hale Gürbüz ;Devrim Barış Kaymak,KMBKMB,MondayWednesday,08:30/10:2909:30/12:29 -,D301D303,100,0,-,KMM_LS; KMM_YD,Detail,-
+47,23153,KMM 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Alper Sarıoğlan,-,-,-/- -,-,50,0,-,KMM_LS,-,Detail

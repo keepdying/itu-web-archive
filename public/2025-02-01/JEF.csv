@@ -1,0 +1,23 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21565,JEF 208E,Comp. Appl. in Geophy.,Fiziksel (Yüz yüze),Seda Yolsal Çevikbilen ;Neslihan Ocakoğlu Gökaşan ;Doğa Doğan,MDB,Tuesday,08:30/11:29 -,B207,60,0,-,JEF_LS; JEF_YD; JEFE_LS,-,-
+1,21564,JEF 212E,Data Processing,Fiziksel (Yüz yüze),Hüseyin Argun Kocaoğlu,MDBMDB,MondayFriday,10:30/12:2914:30/16:29 -,A203B207,60,0,-,JEF_LS; JEF_YD; JEFE_LS,Detail,-
+2,21566,JEF 222,Arama Jeofiziğinin Temelleri,Fiziksel (Yüz yüze),Caner İmren,MDB,Tuesday,13:30/17:29 -,B206,60,0,-,JEF_LS; JEF_YD,-,-
+3,21573,JEF 322,Jeomanyetizma,Fiziksel (Yüz yüze),Turgay İşseven,MDB,Friday,09:30/12:29 -,A203,60,0,-,JEF_LS,-,-
+4,21570,JEF 331,Elektromanyetik Prospeksiyon,Fiziksel (Yüz yüze),Ümit Avşar,MDB,Wednesday,08:30/12:29 -,B206,50,0,-,JEF_LS,Detail,-
+5,21568,JEF 334,Sismik Prospeksiyon,Fiziksel (Yüz yüze),Hülya Kurt,MDB,Monday,13:30/17:29 -,B204,50,0,-,JEF_LS,Detail,-
+6,21567,JEF 346,Jeofizikte Ölçmeler,Fiziksel (Yüz yüze),Caner İmren,MDB,Thursday,13:30/17:29 -,A105,60,0,-,JEF_LS; JEF_YD,Detail,-
+7,21581,JEF 360E,Geodynamics,Fiziksel (Yüz yüze),Tuna Eken,MDB,Friday,14:30/16:29 -,A203,20,0,-,JEF_LS; JEF_YD; JEFE_LS,Detail,-
+8,21577,JEF 361E,Marine Geophysics,Fiziksel (Yüz yüze),Mustafa Emin Demirbağ,MDB,Tuesday,08:30/10:29 -,A302,20,0,-,JEF_LS; JEF_YD; JEFE_LS,Detail,-
+9,21580,JEF 362E,Groundwater Exploration,Fiziksel (Yüz yüze),Doğa Doğan,MDB,Friday,08:30/10:29 -,A302,20,0,-,JEF_LS; JEF_YD; JEFE_LS,Detail,-
+10,21579,JEF 363E,Hydrocarbon Geophysics,Fiziksel (Yüz yüze),Neslihan Ocakoğlu Gökaşan,MDB,Thursday,13:30/15:29 -,A301,20,0,-,JEF_LS; JEF_YD; JEFE_LS,Detail,-
+11,21574,JEF 364E,Seismotectonics,Fiziksel (Yüz yüze),Seda Yolsal Çevikbilen,MDB,Tuesday,13:30/15:29 -,A204,20,0,-,JEF_LS; JEF_YD; JEFE_LS,Detail,-
+12,21582,JEF 369E,Environmental Geophysics,Fiziksel (Yüz yüze),Abdullah Karaman,MDB,Monday,08:30/10:29 -,B206,20,0,-,JEF_LS; JEF_YD; JEFE_LS,Detail,-
+13,21576,JEF 370,Sismik Yorumlama,Fiziksel (Yüz yüze),Hülya Kurt,MDB,Wednesday,10:30/12:29 -,A202,20,0,-,JEF_LS; JEF_YD,Detail,-
+14,21575,JEF 371,Paleomanyetizma,Fiziksel (Yüz yüze),Turgay İşseven,MDB,Friday,14:30/16:29 -,A205,20,0,-,JEF_LS; JEF_YD,Detail,-
+15,23831,JEF 446E,Engineering Seismology,Fiziksel (Yüz yüze),Hüseyin Argun Kocaoğlu,MDB,Thursday,08:30/11:29 -,--,50,0,-,JEF_LS; JEFE_LS,-,-
+16,21586,JEF 4901,Jeofizik Müh.Tasarım Projesi I,Fiziksel (Yüz yüze),Hülya Kurt,-,-,-/- -,-,100,0,-,JEF_LS,Detail,Detail
+17,21588,JEF 4901E,Geophysical Eng. Design Prj. I,Fiziksel (Yüz yüze),Hülya Kurt,-,-,-/- -,-,100,0,-,JEF_LS; JEFE_LS,Detail,Detail
+18,21587,JEF 4902,Jeofizik Müh.Tasarım Proje. II,Fiziksel (Yüz yüze),Hülya Kurt,-,-,-/- -,-,100,0,-,JEF_LS,Detail,Detail
+19,21589,JEF 4902E,Geophysical Eng. Design Prj.II,Fiziksel (Yüz yüze),Hülya Kurt,-,-,-/- -,-,100,0,-,JEF_LS; JEFE_LS,Detail,Detail
+20,21584,JEF 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Hülya Kurt,-,-,-/- -,-,100,0,-,JEF_LS,-,Detail
+21,21585,JEF 492E,Graduation Project,Fiziksel (Yüz yüze),Hülya Kurt,-,-,-/- -,-,100,0,-,JEF_LS; JEFE_LS,-,Detail

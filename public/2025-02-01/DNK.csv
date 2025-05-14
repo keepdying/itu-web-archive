@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22359,DNK 201,Dinamik,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/16:29 -,A102,60,0,-,INS_LS,Detail,-
+1,24894,DNK 201,Dinamik,Fiziksel (Yüz yüze),Erol Demirkan,EEB,Tuesday,12:30/15:29 -,4104,50,0,-,EHB_LS; ELE_LS; ELH_LS; ELK_LS; KOM_LS; KON_LS; ROS_LS; TEL_LS,Detail,-
+2,22360,DNK 201E,Dynamics,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,A104,60,0,-,INS_LS; INSE_LS; NAE_LS,Detail,-
+3,24895,DNK 201E,Dynamics,Fiziksel (Yüz yüze),Sedat Kömürcü,EEB,Friday,14:00/16:59 -,2104,50,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,Detail,-

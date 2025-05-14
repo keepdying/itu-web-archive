@@ -1,0 +1,22 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21591,CHZ 214,Tanecik Teknolojisi,Fiziksel (Yüz yüze),Gülay Bulut ;Şükriye Beste Aydın,MDB,Tuesday,08:30/12:29 -,A205,50,0,-,CHZ_LS; CHZ_YD,-,-
+1,21592,CHZ 216,Fiziksel Zeng. Yöntemleri,Fiziksel (Yüz yüze),Alim Gül,MDBMDB,MondayWednesday,11:30/13:2913:30/15:29 -,A101A105,50,0,-,CHZ_LS; CHZ_YD,Detail,-
+2,21593,CHZ 242,Proses Mineralojisi,Fiziksel (Yüz yüze),Alim Gül ;Emin Çiftçi,MDB,Tuesday,13:30/16:29 -,A205,55,0,-,CHZ_LS; CHZ_YD,-,-
+3,21594,CHZ 306,Cevher Haz.Akışkanlar Mek.,Fiziksel (Yüz yüze),Birgül Benli,MDB,Friday,14:00/15:59 -,B208,55,0,-,CHZ_LS,-,-
+4,21595,CHZ 308,Cevher Hazırlamada İş Güven.,Fiziksel (Yüz yüze),Kudret Tahsin Perek,MDB,Tuesday,13:30/15:29 -,A202,50,0,-,CHZ_LS,-,-
+5,21596,CHZ 318,Endüstriyel Hammaddeler,Fiziksel (Yüz yüze),Murat Olgaç Kangal,MDB,Monday,08:30/11:29 -,B204,80,0,-,CHZ_LS; CHZ_YD; MAD_LS; MAD_YD,-,-
+6,21601,CHZ 320E,Metallurgy II,Fiziksel (Yüz yüze),Fatma Arslan,MDB,Wednesday,13:30/15:29 -,B208,60,0,-,CHZ_LS; CHZE_LS,Detail,-
+7,21597,CHZ 328E,Comp. Appl. in Mineral Proces.,Fiziksel (Yüz yüze),Ayhan Ali Sirkeci,MDB,Wednesday,09:30/12:29 -,B207,50,0,-,CHZ_LS; CHZ_YD; CHZE_LS,-,-
+8,21598,CHZ 332E,Flotation and Flocculation,Fiziksel (Yüz yüze),Gülay Bulut,MDB,Thursday,13:30/17:29 -,A201,60,0,-,CHZ_LS; CHZ_YD; CHZE_LS,Detail,-
+9,21599,CHZ 352,Kömür Teknolojisi,Fiziksel (Yüz yüze),Mustafa Özer,MDB,Thursday,11:30/13:29 -,A201,50,0,-,CHZ_LS; CHZ_YD,-,-
+10,21600,CHZ 358E,Perform. Eva.in Coal Prp.Plnts,Fiziksel (Yüz yüze),Feridun Boylu,MDB,Friday,10:30/12:29 -,A302,35,0,-,CHZ_LS; CHZ_YD,-,-
+11,21606,CHZ 412,Susuzlandırma ve Kurutma,Fiziksel (Yüz yüze),Orhan Özdemir,MDB,Thursday,08:30/10:29 -,B204,50,0,-,CHZ_LS,-,-
+12,21602,CHZ 424,Cev.Haz.Tesis Yönetimi ve Ekon,Fiziksel (Yüz yüze),Kudret Tahsin Perek,MDB,Monday,13:30/15:29 -,A203,50,0,-,CHZ_LS,-,-
+13,21603,CHZ 432,Cevher Haz. Tesis Tasarımı,Fiziksel (Yüz yüze),Hüseyin Baştürkcü,MDB,Tuesday,08:30/12:29 -,B204,50,0,-,CHZ_LS; CHZ_YD,Detail,-
+14,21604,CHZ 446,İleri Teknoloji Hammaddeleri,Fiziksel (Yüz yüze),Şükriye Beste Aydın,MDB,Friday,08:30/10:29 -,B204,35,0,-,CHZ_LS,-,-
+15,21605,CHZ 450,Agrega Haz. ve Teknolojisi,Fiziksel (Yüz yüze),Orhan Özdemir,MDB,Friday,08:30/10:29 -,B208,35,0,-,CHZ_LS,-,-
+16,21607,CHZ 458E,Remdtn of Indus.&Minerl Wastes,Fiziksel (Yüz yüze),Fırat Burat,MDB,Friday,14:00/15:59 -,--,35,0,-,CHZ_LS; CHZE_LS,-,-
+17,21610,CHZ 4901,Cevher Hazırl. Müh. Tasarımı I,Fiziksel (Yüz yüze),Murat Olgaç Kangal,-,-,-/- -,-,200,0,-,CHZ_LS,Detail,Detail
+18,21611,CHZ 4902,Cevher Hazırl. Müh.Tasarımı II,Fiziksel (Yüz yüze),Murat Olgaç Kangal,-,-,-/- -,-,200,0,-,CHZ_LS,Detail,Detail
+19,21608,CHZ 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Murat Olgaç Kangal,-,-,-/- -,-,10,0,-,CHZ_LS,-,Detail
+20,21609,CHZ 492E,Graduation Thesis,Fiziksel (Yüz yüze),Murat Olgaç Kangal,-,-,-/- -,-,10,0,-,CHZ_LS; CHZE_LS,-,Detail

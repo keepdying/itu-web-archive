@@ -1,0 +1,48 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22575,BLG 102E,Intr to Sci&Eng Comp (C),Fiziksel (Yüz yüze),Ali Çakmak,BBBBBB,MondayThursday,13:30/16:2915:30/17:29 -,Z-18Z-18,75,0,-,BLG_LS; BLGE_LS; SECE_LS,-,-
+1,22576,BLG 102E,Intr to Sci&Eng Comp (C),Fiziksel (Yüz yüze),Yaşar Erenler,BBBBBB,MondayThursday,13:30/16:2915:30/17:29 -,Z-19Z-19,75,0,-,BLG_LS; BLGE_LS; SECE_LS,-,-
+2,22590,BLG 202E,Numerical Methods in CE,Fiziksel (Yüz yüze),Yusuf Yaslan,BBB,Tuesday,09:30/12:29 -,Z-17,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+3,22592,BLG 202E,Numerical Methods in CE,Fiziksel (Yüz yüze),Enver Özdemir,BBB,Tuesday,09:30/12:29 -,Z-18,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+4,22594,BLG 202E,Numerical Methods in CE,Fiziksel (Yüz yüze),Abdulkerim Çapar,BBB,Tuesday,09:30/12:29 -,Z-19,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+5,22596,BLG 222E,Computer Organization,Fiziksel (Yüz yüze),Gökhan İnce,BBB,Thursday,08:30/11:29 -,Z-18,80,0,-,BLG_LS; BLGE_LS,Detail,-
+6,22598,BLG 222E,Computer Organization,Fiziksel (Yüz yüze),Deniz Turgay Altılar,BBB,Thursday,08:30/11:29 -,Z-19,80,0,-,BLG_LS; BLGE_LS,Detail,-
+7,22599,BLG 222E,Computer Organization,Fiziksel (Yüz yüze),Mustafa Ersel Kamaşak,BBB,Thursday,08:30/11:29 -,104,80,0,-,BLG_LS; BLGE_LS,Detail,-
+8,22600,BLG 242E,Logic Circuits Laboratory,Fiziksel (Yüz yüze),Nizamettin Aydın,BBB,Thursday,15:30/17:29 -,--,55,0,-,BLG_LS; BLGE_LS,Detail,-
+9,22601,BLG 242E,Logic Circuits Laboratory,Fiziksel (Yüz yüze),Nizamettin Aydın,BBB,Friday,14:00/15:59 -,--,55,0,-,BLG_LS; BLGE_LS,Detail,-
+10,22602,BLG 242E,Logic Circuits Laboratory,Fiziksel (Yüz yüze),Nizamettin Aydın,BBB,Friday,16:00/17:59 -,--,55,0,-,BLG_LS; BLGE_LS,Detail,-
+11,22603,BLG 252E,Object Oriented Programming,Fiziksel (Yüz yüze),Cihan Topal,BBB,Monday,09:30/12:29 -,Z-16,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+12,22604,BLG 252E,Object Oriented Programming,Fiziksel (Yüz yüze),Feza Buzluca,BBB,Monday,09:30/12:29 -,Z-17,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+13,22605,BLG 252E,Object Oriented Programming,Fiziksel (Yüz yüze),Sanem Kabadayı,BBB,Monday,09:30/12:29 -,Z-19,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+14,22606,BLG 311E,Formal Languages and Automata,Fiziksel (Yüz yüze),Tolga Ovatman,BBB,Friday,09:30/12:29 -,Z-16,100,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+15,22607,BLG 311E,Formal Languages and Automata,Fiziksel (Yüz yüze),Gökhan Seçinti,BBB,Friday,09:30/12:29 -,Z-18,100,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+16,22608,BLG 311E,Formal Languages and Automata,Fiziksel (Yüz yüze),Mehmet Tahir Sandıkkaya,BBB,Friday,09:30/12:29 -,Z-19,100,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+17,22609,BLG 312E,Computer Operating Systems,Fiziksel (Yüz yüze),Nizamettin Aydın,BBB,Wednesday,08:30/11:29 -,Z-16,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+18,22610,BLG 312E,Computer Operating Systems,Fiziksel (Yüz yüze),Kemal Bıçakcı,BBB,Wednesday,08:30/11:29 -,Z-17,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+19,22611,BLG 322E,Computer Architecture,Fiziksel (Yüz yüze),Ayşe Yılmazer Metin,BBB,Thursday,08:30/11:29 -,Z-16,90,0,-,BLG_LS; BLGE_LS,Detail,-
+20,22612,BLG 322E,Computer Architecture,Fiziksel (Yüz yüze),Sanem Kabadayı,BBB,Thursday,08:30/11:29 -,Z-20,90,0,-,BLG_LS; BLGE_LS,Detail,-
+21,22613,BLG 336E,Analysis of Algorithms II,Fiziksel (Yüz yüze),İlkay Öksüz,BBB,Tuesday,08:30/11:29 -,Z-16,90,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+22,22614,BLG 336E,Analysis of Algorithms II,Fiziksel (Yüz yüze),Mehmet Baysan,BBB,Tuesday,13:30/16:29 -,Z-18,90,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+23,22615,BLG 354E,Signal&Systems for Comp.Eng.,Fiziksel (Yüz yüze),Burak Berk Üstündağ,BBB,Monday,08:30/11:29 -,Z-18,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+24,22616,BLG 354E,Signal&Systems for Comp.Eng.,Fiziksel (Yüz yüze),Yusuf Hüseyin Şahin,BBB,Monday,08:30/11:29 -,104,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,Detail,-
+25,22622,BLG 368E,Operations Research,Fiziksel (Yüz yüze),Nizamettin Bayyurt,BBB,Tuesday,14:30/17:29 -,Z-16,100,0,-,BLG_LS; BLGE_LS; YZVE_LS,-,-
+26,22617,BLG 374E,Tech. Communic.for Comp.Eng.,Fiziksel (Yüz yüze),Sefer Baday,BBB,Wednesday,13:30/15:29 -,--,120,0,-,BLG_LS; BLGE_LS,Detail,-
+27,22632,BLG 433E,Computer Communications,Fiziksel (Yüz yüze),Abdül Halim Zaim,BBB,Wednesday,10:30/12:29 -,123,30,0,-,BLG_LS; BLGE_LS,Detail,-
+28,22666,BLG 439E,Computer Project I,Fiziksel (Yüz yüze),Abdül Halim Zaim,BBB,Monday,09:30/12:29 -,Z-23,30,0,-,BLG_LS; BLGE_LS,Detail,-
+29,22665,BLG 440E,Computer Project II,Fiziksel (Yüz yüze),Mehmet Keskinöz,BBB,Wednesday,08:30/11:29 -,122,30,0,-,BLG_LS; BLGE_LS,Detail,-
+30,22624,BLG 442E,Tech.&Innov. Mng.for Inf.Tech.,Fiziksel (Yüz yüze),Gökhan İnce,BBB,Friday,08:30/11:29 -,Z-20,60,0,-,BLG_LS; BLGE_LS,-,-
+31,22630,BLG 448E,Project Management in Eng.,Fiziksel (Yüz yüze),Selin Metin Doğu,BBB,Friday,08:30/11:29 -,Z-17,80,0,-,BLG_LS; BLGE_LS; YZVE_LS,-,-
+32,22634,BLG 449E,Prog.in Parallel&DistrubedSys.,Fiziksel (Yüz yüze),Deniz Turgay Altılar,BBB,Monday,13:30/15:29 -,122,30,0,-,BLG_LS; BLGE_LS,Detail,-
+33,22626,BLG 454E,Learning From Data,Fiziksel (Yüz yüze),Mehmet Keskinöz,BBB,Wednesday,12:30/15:29 -,Z-21,70,0,-,BLG_LS; BLGE_LS,Detail,-
+34,22627,BLG 454E,Learning From Data,Fiziksel (Yüz yüze),Behçet Uğur Töreyin,BBB,Thursday,09:30/12:29 -,Z-21,70,0,-,YZVE_LS,Detail,-
+35,22636,BLG 458E,Functional Programming,Fiziksel (Yüz yüze),-,BBB,Thursday,13:30/16:29 -,101,30,0,-,-,Detail,-
+36,22661,BLG 460E,Secure Programming,Fiziksel (Yüz yüze),Mehmet Tahir Sandıkkaya,BBB,Tuesday,15:30/17:29 -,Z-20,30,0,-,BLG_LS; BLGE_LS,Detail,-
+37,22662,BLG 468E,Object Oriented Model.&Design,Fiziksel (Yüz yüze),Feza Buzluca,BBB,Wednesday,08:30/10:29 -,123,30,0,-,BLG_LS; BLGE_LS,Detail,-
+38,22641,BLG 475E,Software Quality and Testing,Fiziksel (Yüz yüze),Ayşe Tosun Kühn,BBB,Thursday,10:30/12:29 -,123,30,0,-,BLG_LS; BLGE_LS,Detail,-
+39,22663,BLG 477E,Multimedia Computing,Fiziksel (Yüz yüze),Uluğ Bayazıt,BBB,Tuesday,13:30/15:29 -,123,30,0,-,BLG_LS; BLGE_LS,Detail,-
+40,22664,BLG 478E,Network Security,Fiziksel (Yüz yüze),Şerif Bahtiyar,BBB,Tuesday,08:30/10:29 -,123,30,0,-,BLG_LS; BLGE_LS,Detail,-
+41,22667,BLG 4901,Bilgisayar Müh. Tasarımı I,Fiziksel (Yüz yüze),Yusuf Hüseyin Şahin,-,-,-/- -,-,200,0,-,BLG_LS; BLGE_LS,Detail,Detail
+42,22668,BLG 4901E,Computer Engineering Design I,Fiziksel (Yüz yüze),Yusuf Hüseyin Şahin,-,-,-/- -,-,200,0,-,BLG_LS; BLGE_LS,Detail,Detail
+43,22669,BLG 4902,Bilgisayar Mühen. Tasarımı II,Fiziksel (Yüz yüze),Yusuf Hüseyin Şahin,-,-,-/- -,-,200,0,-,BLG_LS; BLGE_LS,Detail,-
+44,22670,BLG 4902E,Computer Engineering Design II,Fiziksel (Yüz yüze),Yusuf Hüseyin Şahin,-,-,-/- -,-,200,0,-,BLG_LS; BLGE_LS,Detail,-
+45,22671,BLG 492,Bitirme Çalışması,Fiziksel (Yüz yüze),Yusuf Hüseyin Şahin,-,-,-/- -,-,200,0,-,BLG_LS; BLGE_LS,-,Detail
+46,22672,BLG 492E,Graduation Project,Fiziksel (Yüz yüze),Yusuf Hüseyin Şahin,-,-,-/- -,-,200,0,-,BLG_LS; BLGE_LS,-,Detail

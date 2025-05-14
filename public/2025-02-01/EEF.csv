@@ -1,0 +1,66 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21975,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,FridayFriday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+1,21976,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,FridayFriday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+2,21977,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,FridayFriday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+3,21978,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,TuesdayTuesday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+4,21979,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,TuesdayTuesday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+5,21980,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,TuesdayTuesday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+6,21981,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,WednesdayWednesday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+7,21982,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,WednesdayWednesday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+8,21983,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEBEEB,WednesdayWednesday,08:30/10:2910:30/11:29 -,----,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+9,22017,EEF 110E,Intr. to Prog. Language (C),Sanal (Çevrimiçi/Online),-,EEB,Monday,13:30/16:29 -,5204,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELE_LS; ELH_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS; TEL_LS,-,-
+10,21984,EEF 206,İşaret İşleme ve Lineer Sist.,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,10:30/12:2912:30/14:29 -,41024102,75,0,-,EHB_LS; ELK_LS; KOM_LS,-,-
+11,21985,EEF 206,İşaret İşleme ve Lineer Sist.,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,10:30/12:2912:30/14:29 -,53045304,75,0,-,EHB_LS; ELK_LS; KOM_LS,-,-
+12,21986,EEF 206,İşaret İşleme ve Lineer Sist.,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,10:30/12:2912:30/14:29 -,53025302,75,0,-,EHB_LS; ELK_LS; KOM_LS,-,-
+13,21987,EEF 206,İşaret İşleme ve Lineer Sist.,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,10:30/12:2912:30/14:29 -,51025102,75,0,-,EHB_LS; ELK_LS; KOM_LS,-,-
+14,21988,EEF 206E,Signal Processing&Linear Syst.,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,10:30/12:2912:30/14:29 -,52025202,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,-,-
+15,21989,EEF 206E,Signal Processing&Linear Syst.,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,10:30/12:2912:30/14:29 -,52045204,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,-,-
+16,21990,EEF 206E,Signal Processing&Linear Syst.,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,10:30/12:2912:30/14:29 -,41044104,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,-,-
+17,21991,EEF 206E,Signal Processing&Linear Syst.,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,10:30/12:2912:30/14:29 -,63096309,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,-,-
+18,21992,EEF 210,Diferansiyel Denklemler,Fiziksel (Yüz yüze),-,EEB,Tuesday,12:30/15:29 -,5102,75,0,-,EHB_LS; ELK_LS; KOM_LS,Detail,-
+19,21993,EEF 210,Diferansiyel Denklemler,Fiziksel (Yüz yüze),-,EEB,Tuesday,12:30/15:29 -,5202,75,0,-,EHB_LS; ELK_LS; KOM_LS,Detail,-
+20,21994,EEF 210E,Differential Equations,Fiziksel (Yüz yüze),-,EEB,Tuesday,12:30/15:29 -,5104,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+21,21995,EEF 212,Elektromagnetik Teori I,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,08:30/10:2914:30/16:29 -,53025302,75,0,-,EHB_LS; ELK_LS; KOM_LS,Detail,-
+22,21996,EEF 212,Elektromagnetik Teori I,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,08:30/10:2914:30/16:29 -,53045304,75,0,-,EHB_LS; ELK_LS; KOM_LS,Detail,-
+23,21997,EEF 212,Elektromagnetik Teori I,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,08:30/10:2914:30/16:29 -,52045204,75,0,-,EHB_LS; ELK_LS; KOM_LS,Detail,-
+24,21998,EEF 212E,Electromagnetic Theory I,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,08:30/10:2914:30/16:29 -,52025202,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+25,21999,EEF 212E,Electromagnetic Theory I,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,08:30/10:2914:30/16:29 -,51025102,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+26,22000,EEF 212E,Electromagnetic Theory I,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,08:30/10:2914:30/16:29 -,41024102,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+27,22001,EEF 212E,Electromagnetic Theory I,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,08:30/10:2914:30/16:29 -,63096309,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+28,22002,EEF 212E,Electromagnetic Theory I,Fiziksel (Yüz yüze),-,EEBEEB,WednesdayThursday,08:30/10:2914:30/16:29 -,51045104,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+29,22003,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Bora Döken,EEB,Friday,08:30/10:29 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+30,22004,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),İbrahim Çatalkaya,EEB,Tuesday,12:30/14:29 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+31,22005,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),İbrahim Çatalkaya,EEB,Tuesday,14:30/16:29 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+32,22007,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Bora Döken,EEB,Tuesday,12:30/14:29 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+33,22008,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Ali Bahadır,EEB,Tuesday,12:30/14:29 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+34,22009,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Bora Döken,EEB,Tuesday,14:30/16:29 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+35,22010,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Ali Bahadır,EEB,Tuesday,14:30/16:29 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+36,22011,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Bilgi Görkem Yazgaç,EEB,Friday,14:00/15:59 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+37,22012,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Hasan Bülent Yağcı,EEB,Friday,08:30/10:29 -,--,48,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+38,24830,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Mehmet Ali Sönmez,EEB,Tuesday,10:30/12:29 -,--,144,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+39,24831,EEF 221E,Basics of Elec. Circuits Lab.,Fiziksel (Yüz yüze),Mehmet Ali Sönmez,EEB,Monday,10:30/12:29 -,--,144,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+40,22013,EEF 232,Devre ve Sistem Analizi,Fiziksel (Yüz yüze),-,EEB,Monday,13:30/16:29 -,5102,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+41,22014,EEF 232,Devre ve Sistem Analizi,Fiziksel (Yüz yüze),-,EEB,Monday,13:30/16:29 -,5304,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+42,22015,EEF 232,Devre ve Sistem Analizi,Fiziksel (Yüz yüze),-,EEB,Monday,13:30/16:29 -,2102,75,0,-,EHB_LS; ELE_LS; ELH_LS; ELK_LS; KOM_LS; TEL_LS,Detail,-
+43,22016,EEF 232E,Circuit and System Analysis,Fiziksel (Yüz yüze),-,EEB,Monday,13:30/16:29 -,5104,75,0,-,EHB_LS; ELE_LS; ELH_LS; ELK_LS; KOM_LS; TEL_LS,Detail,-
+44,22018,EEF 232E,Circuit and System Analysis,Fiziksel (Yüz yüze),-,EEB,Monday,13:30/16:29 -,5302,75,0,-,EEE_LS; EHB_LS; ELE_LS; ELH_LS; ELK_LS; KOM_LS; TEL_LS,Detail,-
+45,22019,EEF 232E,Circuit and System Analysis,Fiziksel (Yüz yüze),-,EEB,Monday,13:30/16:29 -,5202,75,0,-,EEE_LS; EHB_LS; ELE_LS; ELH_LS; ELK_LS; KOM_LS; TEL_LS,Detail,-
+46,22020,EEF 262,Elektroniğin Temelleri,Fiziksel (Yüz yüze),-,EEBEEB,MondayTuesday,08:30/10:2908:30/10:29 -,51025102,75,0,-,EHB_LS; ELE_LS; ELK_LS; KOM_LS,Detail,-
+47,22021,EEF 262,Elektroniğin Temelleri,Fiziksel (Yüz yüze),-,EEBEEB,MondayTuesday,08:30/10:2908:30/10:29 -,51045104,75,0,-,EHB_LS; ELE_LS; ELK_LS; KOM_LS,Detail,-
+48,22022,EEF 262E,Fundamentals of Electronics,Fiziksel (Yüz yüze),-,EEBEEB,MondayTuesday,08:30/10:2908:30/10:29 -,52025202,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+49,22023,EEF 262E,Fundamentals of Electronics,Fiziksel (Yüz yüze),-,EEBEEB,MondayTuesday,08:30/10:2908:30/10:29 -,63096309,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+50,22024,EEF 262E,Fundamentals of Electronics,Fiziksel (Yüz yüze),-,EEBEEB,MondayTuesday,08:30/10:2908:30/10:29 -,53025302,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+51,22025,EEF 262E,Fundamentals of Electronics,Fiziksel (Yüz yüze),-,EEBEEB,MondayTuesday,08:30/10:2908:30/10:29 -,53045304,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+52,22026,EEF 262E,Fundamentals of Electronics,Fiziksel (Yüz yüze),-,EEBEEB,MondayTuesday,08:30/10:2908:30/10:29 -,21022104,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+53,22027,EEF 262E,Fundamentals of Electronics,Fiziksel (Yüz yüze),-,EEBEEB,MondayTuesday,08:30/10:2908:30/10:29 -,52045204,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS,Detail,-
+54,22028,EEF 271E,Probability and Statistics,Fiziksel (Yüz yüze),-,EEB,Wednesday,12:30/15:29 -,5302,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+55,22029,EEF 271E,Probability and Statistics,Fiziksel (Yüz yüze),-,EEB,Wednesday,12:30/15:29 -,5202,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+56,22030,EEF 271E,Probability and Statistics,Fiziksel (Yüz yüze),-,EEB,Wednesday,12:30/15:29 -,5102,70,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+57,22031,EEF 281,Lineer Cebir ve Uygulamaları,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,2102,75,0,-,EHB_LS; ELK_LS; KOM_LS; ROS_LS,-,-
+58,22032,EEF 281,Lineer Cebir ve Uygulamaları,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,2106,75,0,-,EHB_LS; ELK_LS; KOM_LS; ROS_LS,-,-
+59,22033,EEF 281,Lineer Cebir ve Uygulamaları,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,5105,75,0,-,EHB_LS; ELK_LS; KOM_LS; ROS_LS,-,-
+60,22034,EEF 281E,Linear Algebra & Applications,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,5203,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+61,22035,EEF 281E,Linear Algebra & Applications,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,5103,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+62,22036,EEF 281E,Linear Algebra & Applications,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,2104,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+63,22037,EEF 281E,Linear Algebra & Applications,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,5301,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-
+64,22038,EEF 281E,Linear Algebra & Applications,Fiziksel (Yüz yüze),-,EEB,Thursday,12:30/15:29 -,5303,75,0,-,EEE_LS; EHB_LS; EHBE_LS; ELK_LS; ELKE_LS; KOM_LS; KOME_LS; ROS_LS; ROSE_LS,-,-

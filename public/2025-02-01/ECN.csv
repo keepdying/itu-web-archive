@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22822,ECN 102E,Principles of Macroeconomics,Fiziksel (Yüz yüze),İsmail Hakkı Genç,MSB,Tuesday,14:30/18:29 -,101,100,0,-,ECNE_LS; EFN_LS,-,-
+1,22823,ECN 105E,Principles of Microeconomics,Fiziksel (Yüz yüze),Tolga Yuret,MSB,Wednesday,08:30/12:29 -,103,100,0,-,ECNE_LS; EFN_LS,-,-
+2,22828,ECN 202E,Intermediate Macroeconomics,Fiziksel (Yüz yüze),Şerife Genç İleri,MSB,Tuesday,08:30/12:29 -,101,110,0,END/5/0 | ENDE/5/0 | ISLE/5/0 | Diğer/95/0,ECNE_LS; END_LS; ENDE_LS; ISLE_LS,Detail,-
+3,22825,ECN 208E,Public Economics,Fiziksel (Yüz yüze),Aysun Hızıroğlu Aygün,MSB,Wednesday,09:30/12:29 -,104,100,0,ISLE/5/0 | Diğer/95/0,ECNE_LS; ISLE_LS,Detail,-
+4,22830,ECN 210E,Financial Accounting,Fiziksel (Yüz yüze),Resul Aydemir,MSB,Monday,09:30/12:29 -,104,100,0,-,ECNE_LS,-,-
+5,22832,ECN 302E,Econometrics II,Fiziksel (Yüz yüze),Osman Doğan,MSB,Monday,14:30/18:29 -,216,100,0,END/2/0 | ENDE/3/0 | Diğer/95/0,ECNE_LS; EFN_LS; END_LS; ENDE_LS,Detail,-
+6,22838,ECN 308E,Competition Law and Policy,Fiziksel (Yüz yüze),Shourjo Chakravorty ;Çiçek Ersoy Kekevi,MSB,Thursday,14:30/17:29 -,101,100,0,ISLE/5/0 | Diğer/95/0,ECNE_LS; ISLE_LS,Detail,-
+7,22843,ECN 312E,International Finance,Fiziksel (Yüz yüze),Mete Han Yağmur,MSB,Friday,14:30/17:29 -,104,110,0,-,ECNE_LS; EFN_LS,Detail,-
+8,22835,ECN 314E,Financial Economics,Fiziksel (Yüz yüze),Erhan Çetinkaya,MSB,Friday,09:30/12:29 -,104,100,0,-,ECNE_LS,Detail,-
+9,22845,ECN 402E,Project Appraisal,Fiziksel (Yüz yüze),Zehra Atik,ISB,Wednesday,09:30/12:29 -,108,100,0,-,ECNE_LS,Detail,-
+10,22858,ECN 407E,Time Series Econometrics,Fiziksel (Yüz yüze),İsmail Hakkı Genç,MSB,Tuesday,09:30/12:29 -,109,100,0,-,ECNE_LS; EFN_LS,Detail,-
+11,22854,ECN 412E,Environmental Economics,Fiziksel (Yüz yüze),Umut Kuruüzüm,MSB,Tuesday,14:30/17:29 -,104,100,0,END/5/0 | ENDE/5/0 | Diğer/90/0,ECNE_LS; EFN_LS; END_LS; ENDE_LS,Detail,-
+12,22850,ECN 415E,Urban Economics,Fiziksel (Yüz yüze),Kerem Yavuz Arslanlı,MSB,Thursday,14:30/17:29 -,109,50,0,-,ECNE_LS,Detail,-
+13,22852,ECN 421E,Experimental Economics,Fiziksel (Yüz yüze),Tolga Yuret,MSB,Thursday,09:30/12:29 -,101,100,0,END/5/0 | ENDE/5/0 | Diğer/90/0,ECNE_LS; END_LS; ENDE_LS,Detail,-
+14,22847,ECN 432E,Labor Economics,Fiziksel (Yüz yüze),Şerife Genç İleri,MSB,Monday,09:30/12:29 -,216,110,0,-,ECNE_LS; EFN_LS,Detail,-
+15,22861,ECN 4902E,Graduation Project,Fiziksel (Yüz yüze),Bülent Güloğlu,-,-,-/- -,-,100,0,-,ECNE_LS,Detail,Detail
+16,22859,ECN 492E,Graduation Project,Fiziksel (Yüz yüze),Bülent Güloğlu,-,-,-/- -,-,100,0,-,ECNE_LS,-,Detail

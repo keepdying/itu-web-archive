@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24626,MEN 211,Workshop Training-I,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,-,-,-/- -,-,60,0,-,MEN_LS,-,-
+1,24745,MEN 302,Onboard Training,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,-,-,-/- -,-,30,0,-,MEN_LS,Detail,-
+2,24651,MEN 331,Workshop Training-II,Fiziksel (Yüz yüze),Cumali Seçkin Mengeçin,-,-,-/- -,-,60,0,-,MEN_LS,-,Detail
+3,24659,MEN 402,Graduation Design Project,Fiziksel (Yüz yüze),Selim Aksoy,-,-,-/- -,-,60,0,-,MEN_LS,-,Detail
+4,24657,MEN 412,Engine Room Simulator (ERS) II,Fiziksel (Yüz yüze),Kemal Demirel,DZB,Thursday,08:30/11:29 -,--,15,0,-,MEN_LS,Detail,-
+5,24658,MEN 412,Engine Room Simulator (ERS) II,Fiziksel (Yüz yüze),Kemal Demirel,DZB,Wednesday,12:30/15:29 -,--,15,0,-,MEN_LS,Detail,-

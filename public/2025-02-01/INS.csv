@@ -1,0 +1,128 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22345,INS 101,Teknik Resim,Fiziksel (Yüz yüze),-,INB,Friday,09:30/12:29 -,D201,40,0,-,INS_LS,-,-
+1,22346,INS 101E,Technical Drawing,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,D201,40,0,-,INS_LS; INSE_LS,-,-
+2,22349,INS 102,Statik,Fiziksel (Yüz yüze),-,INBINB,TuesdayFriday,13:30/15:2914:00/15:59 -,A201--,45,0,-,INS_LS,Detail,-
+3,22350,INS 102,Statik,Fiziksel (Yüz yüze),-,INBINB,TuesdayFriday,13:30/15:2914:00/15:59 -,A204A101,45,0,-,INS_LS,Detail,-
+4,22351,INS 102,Statik,Fiziksel (Yüz yüze),-,INBINB,WednesdayFriday,13:30/15:2910:30/12:29 -,A305A305,45,0,-,INS_LS,Detail,-
+5,22352,INS 102E,Statics,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,08:30/10:2910:30/12:29 -,A203A104,45,0,-,INS_LS; INSE_LS,Detail,-
+6,22353,INS 102E,Statics,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,08:30/10:2908:30/10:29 -,B203B203,45,0,-,INS_LS; INSE_LS,Detail,-
+7,22347,INS 107E,Int. to Prog. Lang. (Python),Sanal (Çevrimiçi/Online),-,INB,Wednesday,09:30/12:29 -,--,60,0,-,INS_LS; INSE_LS,-,-
+8,22348,INS 107E,Int. to Prog. Lang. (Python),Sanal (Çevrimiçi/Online),-,INB,Friday,14:00/16:59 -,--,60,0,-,INS_LS; INSE_LS,-,-
+9,22354,INS 112,İnşaat Müh. İçin Yerbilimi,Fiziksel (Yüz yüze),-,INB,Wednesday,08:30/10:29 -,A302,50,0,-,INS_LS,-,-
+10,22355,INS 112,İnşaat Müh. İçin Yerbilimi,Fiziksel (Yüz yüze),-,INB,Thursday,08:30/10:29 -,A305,50,0,-,INS_LS,-,-
+11,22356,INS 112,İnşaat Müh. İçin Yerbilimi,Fiziksel (Yüz yüze),-,INB,Friday,08:30/10:29 -,A104,50,0,-,INS_LS,-,-
+12,22357,INS 112E,Earth Science for Civil Engin.,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/15:29 -,B307,50,0,-,INS_LS; INSE_LS,-,-
+13,22358,INS 112E,Earth Science for Civil Engin.,Fiziksel (Yüz yüze),-,INB,Friday,10:30/12:29 -,A204,50,0,-,INS_LS; INSE_LS,-,-
+14,22366,INS 202E,Numerical Methods inCivil Eng.,Fiziksel (Yüz yüze),-,INB,Monday,10:30/12:29 -,B101,50,0,-,INS_LS; INSE_LS,Detail,-
+15,22361,INS 210,İnşaat Müh. için Matematik,Fiziksel (Yüz yüze),-,INB,Tuesday,10:30/12:29 -,A102,50,0,-,INS_LS,Detail,-
+16,22362,INS 210E,Mathematics in Civil Eng.,Fiziksel (Yüz yüze),-,INB,Tuesday,10:30/12:29 -,B103,50,0,-,INS_LS; INSE_LS,Detail,-
+17,22379,INS 214E,Partial Differential Equations,Fiziksel (Yüz yüze),-,INB,Tuesday,09:30/12:29 -,B206,50,0,-,INS_LS; INSE_LS,-,-
+18,22365,INS 215E,Materials Science,Fiziksel (Yüz yüze),-,INB,Wednesday,09:30/12:29 -,A202,70,0,-,INS_LS; INSE_LS,Detail,-
+19,22363,INS 217,Mukavemet I,Fiziksel (Yüz yüze),-,INBINB,WednesdayThursday,13:30/15:2910:30/12:29 -,B203A105,45,0,-,INS_LS,Detail,-
+20,22364,INS 217E,Strength of Materials I,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,10:30/12:2914:00/15:59 -,B201B201,45,0,-,INS_LS; INSE_LS,Detail,-
+21,22372,INS 218,Mukavemet II,Fiziksel (Yüz yüze),-,INBINB,WednesdayFriday,13:30/15:2914:00/15:59 -,A102A204,45,0,-,INS_LS,Detail,-
+22,22373,INS 218,Mukavemet II,Fiziksel (Yüz yüze),-,INBINB,WednesdayFriday,13:30/15:2910:30/12:29 -,A103A103,45,0,-,INS_LS,Detail,-
+23,22374,INS 218,Mukavemet II,Fiziksel (Yüz yüze),-,-,-,-/- -,-,0,0,-,INS_LS,Detail,-
+24,22375,INS 218,Mukavemet II,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,10:30/12:2910:30/12:29 -,A202A202,45,0,-,INS_LS,Detail,-
+25,22376,INS 218E,Strength of Materials II,Fiziksel (Yüz yüze),-,INBINB,WednesdayFriday,13:30/15:2914:00/15:59 -,B201A105,45,0,-,INSE_LS,Detail,-
+26,25010,INS 218E,Strength of Materials II,Fiziksel (Yüz yüze),-,INBINB,TuesdayFriday,13:30/15:2910:30/12:29 -,----,45,0,-,INS_LS; INSE_LS,Detail,-
+27,22378,INS 226,Mühendis Matematik Model Esas,Fiziksel (Yüz yüze),-,INB,Tuesday,09:30/12:29 -,B205,35,0,-,INS_LS,-,-
+28,22380,INS 230,Yapı Malzemesi,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,B201,45,0,-,INS_LS,Detail,-
+29,22381,INS 230,Yapı Malzemesi,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,B205,45,0,-,INS_LS,Detail,-
+30,22382,INS 230,Yapı Malzemesi,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,B205,45,0,-,INS_LS,Detail,-
+31,22383,INS 230,Yapı Malzemesi,Fiziksel (Yüz yüze),-,INB,Wednesday,09:30/12:29 -,B201,45,0,-,INS_LS,Detail,-
+32,22384,INS 230E,Building Materials,Fiziksel (Yüz yüze),-,INB,Wednesday,09:30/12:29 -,A205,45,0,-,INS_LS; INSE_LS,Detail,-
+33,22385,INS 230E,Building Materials,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,B203,45,0,-,INS_LS; INSE_LS,Detail,-
+34,21377,INS 232,Ölçme Bilgisi,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,A201,60,0,-,INS_LS,-,-
+35,21379,INS 232,Ölçme Bilgisi,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/16:29 -,A303,50,0,-,INS_LS,-,-
+36,21381,INS 232,Ölçme Bilgisi,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/16:29 -,B308,50,0,-,INS_LS,-,-
+37,21383,INS 232E,Surveying,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,A202,60,0,-,INS_LS; INSE_LS,-,-
+38,21385,INS 232E,Surveying,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/16:29 -,A205,60,0,-,INS_LS; INSE_LS,-,-
+39,22406,INS 301,Mühendislik Ekonomisi,Fiziksel (Yüz yüze),-,INB,Thursday,10:30/12:29 -,B205,50,0,-,INS_LS,-,-
+40,22408,INS 301E,Engineering Economics,Fiziksel (Yüz yüze),-,INB,Wednesday,08:30/10:29 -,A101,50,0,-,AIN_LS; INS_LS; INSE_LS,-,-
+41,22420,INS 302,Karayolu Mühendisliği,Fiziksel (Yüz yüze),-,INBINB,TuesdayThursday,13:30/15:2915:30/17:29 -,A305A101,45,0,-,INS_LS,Detail,-
+42,22421,INS 302,Karayolu Mühendisliği,Fiziksel (Yüz yüze),-,INB,Tuesday,13:00/16:59 -,A103,45,0,-,INS_LS,Detail,-
+43,22422,INS 302,Karayolu Mühendisliği,Fiziksel (Yüz yüze),-,INBINB,TuesdayThursday,12:30/14:2910:30/12:29 -,A304B204,45,0,-,INS_LS,Detail,-
+44,22423,INS 302E,Highway Engineering,Fiziksel (Yüz yüze),-,INB,Monday,09:00/12:59 -,A303,45,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+45,25017,INS 302E,Highway Engineering,Fiziksel (Yüz yüze),-,INB,Tuesday,13:00/16:59 -,--,45,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+46,22400,INS 303,Zemin Mekaniği I,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,13:30/16:2910:30/12:29 -,A301A203,45,0,-,INS_LS,Detail,-
+47,22401,INS 303E,Soil Mechanics I,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,13:30/16:2910:30/12:29 -,A302A301,45,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+48,22434,INS 304,Yapı İşletmesi,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,B206,40,0,-,INS_LS,-,Detail
+49,22435,INS 304,Yapı İşletmesi,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,A1,40,0,-,INS_LS,-,Detail
+50,22437,INS 304,Yapı İşletmesi,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,A1,40,0,-,INS_LS,-,Detail
+51,22438,INS 304,Yapı İşletmesi,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,A202,40,0,-,INS_LS,-,Detail
+52,22439,INS 304E,Construction Management,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,A302,40,0,-,AIN_LS; INS_LS; INSE_LS,-,Detail
+53,22441,INS 304E,Construction Management,Fiziksel (Yüz yüze),-,INB,Friday,09:30/12:29 -,B308,40,0,-,AIN_LS; INS_LS; INSE_LS,-,Detail
+54,22403,INS 305,Olasılık ve İstatistik,Fiziksel (Yüz yüze),-,INB,Tuesday,13:00/14:59 -,B104,75,0,-,INS_LS,-,-
+55,22404,INS 305E,Probability and Statistics,Fiziksel (Yüz yüze),-,INB,Tuesday,13:00/14:59 -,D202,75,0,-,AIN_LS; INS_LS; INSE_LS,-,-
+56,22393,INS 323,Yapı Statiği I,Fiziksel (Yüz yüze),-,INBINB,MondayTuesday,08:30/10:2910:30/12:29 -,B302A201,40,0,-,INS_LS,Detail,-
+57,22394,INS 323,Yapı Statiği I,Fiziksel (Yüz yüze),-,INBINB,MondayTuesday,08:30/10:2910:30/12:29 -,B308A301,40,0,-,INS_LS,Detail,-
+58,22395,INS 323E,Theory of Structures I,Fiziksel (Yüz yüze),-,INBINB,TuesdayWednesday,10:30/12:2910:30/12:29 -,A303A303,40,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+59,22396,INS 323E,Theory of Structures I,Fiziksel (Yüz yüze),-,INBINB,TuesdayWednesday,10:30/12:2910:30/12:29 -,A203D201,40,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+60,22397,INS 325,Demiryolu Müh.,Fiziksel (Yüz yüze),-,INB,Wednesday,10:30/12:29 -,D203,40,0,-,INS_LS,Detail,-
+61,22398,INS 325,Demiryolu Müh.,Fiziksel (Yüz yüze),-,INB,Wednesday,10:30/12:29 -,B305,40,0,-,INS_LS,Detail,-
+62,22399,INS 325E,Railway Engineering,Fiziksel (Yüz yüze),-,INB,Wednesday,13:30/15:29 -,D203,60,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+63,22428,INS 332,Temel İnşaatı I,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,B202,40,0,-,INS_LS,Detail,-
+64,22429,INS 332,Temel İnşaatı I,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,B203,40,0,-,INS_LS,Detail,-
+65,22430,INS 332,Temel İnşaatı I,Fiziksel (Yüz yüze),-,INB,Friday,09:30/12:29 -,B201,40,0,-,INS_LS,Detail,-
+66,22431,INS 332E,Foundation Engineering I,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,B305,40,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+67,22432,INS 332E,Foundation Engineering I,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,A105,40,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+68,22424,INS 336,Yapı Statiği II,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,08:30/10:2914:00/15:59 -,A301A301,40,0,-,INS_LS,Detail,-
+69,22425,INS 336,Yapı Statiği II,Fiziksel (Yüz yüze),-,INBINB,TuesdayWednesday,10:30/12:2910:30/12:29 -,B204B204,40,0,-,INS_LS,Detail,-
+70,22426,INS 336,Yapı Statiği II,Fiziksel (Yüz yüze),-,INBINB,TuesdayWednesday,10:30/12:2910:30/12:29 -,B203B203,40,0,-,INS_LS,Detail,-
+71,22427,INS 336E,Theory of Structures II,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,08:30/10:2914:00/15:59 -,A302A302,30,0,-,AIN_LS; INSE_LS,Detail,-
+72,22411,INS 338,Betonarme I,Fiziksel (Yüz yüze),-,INBINB,TuesdayThursday,08:30/10:2910:30/12:29 -,A303A303,45,0,-,INS_LS,Detail,-
+73,22412,INS 338,Betonarme I,Fiziksel (Yüz yüze),-,INBINB,TuesdayThursday,08:30/10:2910:30/12:29 -,B203B203,45,0,-,INS_LS,Detail,-
+74,22413,INS 338,Betonarme I,Fiziksel (Yüz yüze),-,INBINB,WednesdayThursday,13:30/15:2913:30/15:29 -,A101A101,45,0,-,INS_LS,Detail,-
+75,22414,INS 338E,Reinforced Concrete I,Fiziksel (Yüz yüze),-,INBINB,TuesdayThursday,08:30/10:2910:30/12:29 -,A102A102,45,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+76,22415,INS 338E,Reinforced Concrete I,Fiziksel (Yüz yüze),-,INBINB,WednesdayThursday,13:30/15:2913:30/15:29 -,B307B307,45,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+77,22442,INS 344,Çelik Yapılar I,Fiziksel (Yüz yüze),-,INBINB,TuesdayWednesday,10:30/12:2910:30/12:29 -,B308B308,45,0,-,INS_LS,Detail,-
+78,22444,INS 344,Çelik Yapılar I,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,08:30/10:2914:00/15:59 -,A303A303,45,0,-,INS_LS,Detail,-
+79,22446,INS 344,Çelik Yapılar I,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,08:30/10:2914:00/15:59 -,A202A203,45,0,-,INS_LS,Detail,-
+80,25035,INS 344,Çelik Yapılar I,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,08:30/10:2914:00/15:59 -,----,45,0,-,INS_LS,Detail,-
+81,22448,INS 344E,Steel Structures I,Fiziksel (Yüz yüze),-,INBINB,TuesdayWednesday,10:30/12:2910:30/12:29 -,A302A302,45,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+82,22449,INS 344E,Steel Structures I,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,08:30/10:2914:00/15:59 -,B204B204,45,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+83,22410,INS 345,Yap. Bilg. Dest. Model. Giriş,Fiziksel (Yüz yüze),-,INB,Wednesday,09:30/12:29 -,--,30,0,-,INS_LS,Detail,-
+84,22416,INS 354,Hidroloji,Fiziksel (Yüz yüze),-,INB,Monday,09:30/12:29 -,B206,55,0,-,INS_LS,-,-
+85,22417,INS 354,Hidroloji,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/16:29 -,B205,55,0,-,INS_LS,-,-
+86,22418,INS 354E,Hydrology,Fiziksel (Yüz yüze),-,INB,Monday,09:30/12:29 -,B205,55,0,-,AIN_LS; INS_LS; INSE_LS,-,-
+87,22419,INS 354E,Hydrology,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/16:29 -,B201,55,0,-,AIN_LS; INS_LS; INSE_LS,-,-
+88,22391,INS 360,Hidrolik,Fiziksel (Yüz yüze),-,INBINB,MondayWednesday,10:30/12:2913:30/15:29 -,A202A202,50,0,-,CEV_LS,Detail,-
+89,22392,INS 360E,Hydraulics,Fiziksel (Yüz yüze),-,INBINB,MondayWednesday,10:30/12:2913:30/15:29 -,B203A201,50,0,-,AIN_LS; CEV_LS; CEVE_LS,Detail,-
+90,22479,INS 401,Su Kaynakları,Fiziksel (Yüz yüze),-,INB,Wednesday,09:30/11:29 -,A305,50,0,-,INS_LS,Detail,-
+91,22480,INS 401E,Water Resources,Fiziksel (Yüz yüze),-,INB,Monday,09:30/11:29 -,A201,50,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+92,22452,INS 4033,Şantiye Tekniği,Fiziksel (Yüz yüze),-,INB,Wednesday,09:30/12:29 -,A1,30,0,-,INS_LS,Detail,-
+93,22453,INS 4035E,Insulation&Protec.of Buildings,Fiziksel (Yüz yüze),-,INB,Friday,09:30/12:29 -,A102,60,0,-,AIN_LS; INS_LS; INSE_LS,-,-
+94,22496,INS 4036E,Fundamentals of Earthquake Eng,Fiziksel (Yüz yüze),-,INB,Wednesday,12:30/15:29 -,B204,40,0,-,AIN_LS; INS_LS; INSE_LS,-,-
+95,22455,INS 4039,Yapısal Yangın Güvenliği,Fiziksel (Yüz yüze),-,INB,Thursday,09:30/12:29 -,A2,60,0,-,INS_LS,-,-
+96,23378,INS 403E,Earthworks,Fiziksel (Yüz yüze),-,KMB,Tuesday,13:30/15:29 -,--,50,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+97,22457,INS 4041,Bina Tasarım Yönetimi,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/16:29 -,A302,45,0,-,INS_LS,-,-
+98,22495,INS 4042E,Dams,Fiziksel (Yüz yüze),-,INB,Thursday,09:30/12:29 -,B102,30,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+99,22482,INS 4044E,Plastic Dsgn of Steel Strctrs,Fiziksel (Yüz yüze),-,INB,Tuesday,13:30/16:29 -,B206,15,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+100,22484,INS 4048E,Geotechnical Earthquake Eng,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,B306,35,0,-,AIN_LS; INS_LS; INSE_LS,-,-
+101,22464,INS 4051E,Finite Element Methods,Fiziksel (Yüz yüze),-,INB,Friday,09:30/12:29 -,B306,35,0,-,AIN_LS; INS_LS; INSE_LS,-,-
+102,22485,INS 4052,Betonarme Temeller,Fiziksel (Yüz yüze),-,INB,Wednesday,09:30/12:29 -,B306,35,0,-,INS_LS,Detail,-
+103,22487,INS 4054,Çelik Yapılar II,Fiziksel (Yüz yüze),-,INB,Friday,09:30/12:29 -,B305,30,0,-,INS_LS,Detail,-
+104,22488,INS 4058,İleri Beton Teknolojisi,Fiziksel (Yüz yüze),-,INB,Wednesday,12:30/15:29 -,B304,20,0,-,INS_LS,Detail,-
+105,22489,INS 4058E,Advanced Concrete Technology,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,B304,20,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+106,22478,INS 405E,Health&Safety in Construction,Fiziksel (Yüz yüze),-,INB,Wednesday,09:30/11:29 -,A102,50,0,-,AIN_LS; INS_LS; INSE_LS,-,Detail
+107,22490,INS 4068E,Earthquake Resist.Des.ofStruc.,Fiziksel (Yüz yüze),-,INB,Tuesday,09:30/12:29 -,A104,50,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+108,22491,INS 4070,Öngerilmeli Beton,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,B308,45,0,-,INS_LS,Detail,-
+109,22472,INS 4071,Çubuk Sonlu Elemanlar,Fiziksel (Yüz yüze),-,INB,Tuesday,09:30/12:29 -,B302,35,0,-,INS_LS,Detail,-
+110,22462,INS 4073,Temel İnşaatı II,Fiziksel (Yüz yüze),-,INB,Wednesday,12:30/15:29 -,B308,35,0,-,INS_LS,Detail,-
+111,22492,INS 4076E,Intr.to Environmental Geotech.,Fiziksel (Yüz yüze),-,INB,Monday,10:30/13:29 -,B307,30,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+112,25011,INS 4077E,Dsgn.of Water Supp.&Sewer Sys.,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,--,60,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+113,22493,INS 4084,Kıyı ve Liman Yapıları,Fiziksel (Yüz yüze),-,INB,Thursday,13:30/16:29 -,B304,30,0,-,INS_LS,Detail,-
+114,22494,INS 4084E,Coastal and Harbor Structures,Fiziksel (Yüz yüze),-,INB,Monday,13:30/16:29 -,B303,30,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+115,22473,INS 433,Betonarme II,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,10:30/12:2914:00/15:59 -,A301B302,20,0,-,INS_LS,Detail,-
+116,22474,INS 433,Betonarme II,Fiziksel (Yüz yüze),-,INBINB,ThursdayFriday,10:30/12:2914:00/15:59 -,A302B307,20,0,-,INS_LS,Detail,-
+117,22475,INS 433,Betonarme II,Fiziksel (Yüz yüze),-,INBINB,TuesdayWednesday,10:30/12:2913:30/15:29 -,B102B102,20,0,-,INS_LS,Detail,-
+118,22477,INS 433,Betonarme II,Fiziksel (Yüz yüze),-,INBINB,WednesdayThursday,10:30/12:2913:30/15:29 -,B307B303,20,0,-,INS_LS,Detail,-
+119,22476,INS 433E,Reinforced Concrete II,Fiziksel (Yüz yüze),-,INBINB,TuesdayWednesday,10:30/12:2913:30/15:29 -,----,20,0,-,AIN_LS; INSE_LS,Detail,-
+120,22481,INS 462E,Engineering Ethics,Fiziksel (Yüz yüze),-,INB,Wednesday,08:30/09:29 -,B101,100,0,-,AIN_LS; INS_LS; INSE_LS,-,Detail
+121,22497,INS 4901,İnşaat Müh. Tasarımı I,Fiziksel (Yüz yüze),Mustafa Gençoğlu,-,-,-/- -,-,500,0,-,INS_LS,Detail,Detail
+122,22498,INS 4901E,Civil Eng. Design I,Fiziksel (Yüz yüze),Mustafa Gençoğlu,-,-,-/- -,-,500,0,-,AIN_LS; INS_LS; INSE_LS,Detail,Detail
+123,22499,INS 4902,İnşaat Müh. Tasarımı II,Fiziksel (Yüz yüze),Mustafa Gençoğlu,-,-,-/- -,-,500,0,-,INS_LS,Detail,-
+124,22500,INS 4902E,Civil Eng. Design II,Fiziksel (Yüz yüze),Mustafa Gençoğlu,-,-,-/- -,-,500,0,-,AIN_LS; INS_LS; INSE_LS,Detail,-
+125,22501,INS 492,Mühendislik Tasarım Projesi,Fiziksel (Yüz yüze),Mustafa Gençoğlu,-,-,-/- -,-,500,0,-,INS_LS,-,Detail
+126,22502,INS 492E,Engineering Design Project,Fiziksel (Yüz yüze),Mustafa Gençoğlu,-,-,-/- -,-,500,0,-,INS_LS; INSE_LS,-,Detail
