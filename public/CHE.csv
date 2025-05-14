@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24424,CHE 101,Chemistry I,Physical (Face to face),Şennur Özçelik,"INB
+FEB","Monday
+Thursday","08:30/11:29
+08:30/10:29","B103
+LAB-E",30,30,-,"SED_LS, SIN_LS",-,-
+1,25008,CHE 301,Chemistry II,Physical (Face to face),Muhammet Übeydullah Kahveci,"KMB
+FEB","Monday
+Thursday","08:30/11:29
+08:30/10:29","D104
+LAB-C",40,6,-,MBI_LS,-,-

@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22359,DNK 201,Dinamik,Physical (Face to face),Reha Artan,INB,Tuesday,13:30/16:29,A102,60,40,-,INS_LS,Detail,-
+1,24894,DNK 201,Dinamik,Physical (Face to face),Erol Demirkan,EEB,Tuesday,12:30/15:29,5202,90,94,-,"DEN_LS, DENE_LS, DUI_LS, DUIE_LS, EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GMI_LS, GMIE_LS, INS_LS, INS_MTM_LS, INS_MTM_YO, INS_MTM_YRT, INSE_LS, JEO_LS, JEOE_LS, KOM_LS, KOME_LS, KON_LS, MAD_LS, MAK_YD, MAT_LS, MATE_LS, MKN_YD_EL, MKN_YD_MK, MTM_LS, MTO_LS, NAE_LS, PETE_LS, ROS_LS, TEK_LS, TEL_LS, UCK_LS, UCK_YD, UZB_LS, UZBE_LS",Detail,-
+2,22360,DNK 201E,Dynamics,Physical (Face to face),Tuğba Kuru,INB,Monday,13:30/16:29,A104,60,55,-,"INS_LS, INSE_LS, NAE_LS",Detail,-
+3,24895,DNK 201E,Dynamics,Physical (Face to face),Sedat Kömürcü,EEB,Friday,14:00/16:59,2104,50,75,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-
