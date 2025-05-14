@@ -1,0 +1,130 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22821,ICM 104,İç Mimarlıkta Tarih ve Kuram I,Physical (Face to face),Ahmet Erdem Tozoğlu,MMB,Tuesday,13:30/16:29,230,80,38,-,ICM_LS,-,-
+1,22824,ICM 205,İç Mimarlıkta Tarih &Kuram III,Physical (Face to face),Ahmet Erdem Tozoğlu,MMB,Tuesday,09:30/12:29,109,80,41,-,ICM_LS,Detail,-
+2,22826,ICM 206E,Surv andRepr.Tch.in Intr.Arch.,Physical (Face to face),Orkan Zeynel Güzelci,MMB,Friday,08:30/12:29,107,80,66,-,"IAD_LS, ICM_LS",-,-
+3,22827,ICM 209E,Inter.Arch.Design Fund.Studio,Physical (Face to face),-,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",0,0,-,"IAD_LS, ICM_LS",Detail,-
+4,22829,ICM 209E,Inter.Arch.Design Fund.Studio,Physical (Face to face),Özge Cordan,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",1,1,-,"IAD_LS, ICM_LS",Detail,-
+5,22833,ICM 209E,Inter.Arch.Design Fund.Studio,Physical (Face to face),-,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",0,0,-,"IAD_LS, ICM_LS",Detail,-
+6,22834,ICM 209E,Inter.Arch.Design Fund.Studio,Physical (Face to face),-,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",0,0,-,"IAD_LS, ICM_LS",Detail,-
+7,22837,ICM 246E,Interior Arch. Design Studio I,Physical (Face to face),Emine Görgül,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",17,15,-,"IAD_LS, ICM_LS",Detail,-
+8,22841,ICM 246E,Interior Arch. Design Studio I,Physical (Face to face),Özge Cordan,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",15,15,-,"IAD_LS, ICM_LS",Detail,-
+9,22842,ICM 246E,Interior Arch. Design Studio I,Physical (Face to face),Demet Arslan Dinçay,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",17,17,-,"IAD_LS, ICM_LS",Detail,-
+10,22846,ICM 246E,Interior Arch. Design Studio I,Physical (Face to face),Shahryar Habıbı,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",17,17,-,"IAD_LS, ICM_LS",Detail,-
+11,22862,ICM 346,Yapı Malzemesi II,Physical (Face to face),-,MMB,Wednesday,08:30/12:29,--,0,0,-,ICM_LS,Detail,-
+12,22849,ICM 349E,Interior Arch.Design Studio II,Physical (Face to face),Emine Görgül,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",2,2,-,"IAD_LS, ICM_LS",Detail,-
+13,22851,ICM 349E,Interior Arch.Design Studio II,Physical (Face to face),Özge Cordan,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",2,2,-,"IAD_LS, ICM_LS",Detail,-
+14,22855,ICM 349E,Interior Arch.Design Studio II,Physical (Face to face),Demet Arslan Dinçay,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",2,2,-,"IAD_LS, ICM_LS",Detail,-
+15,22856,ICM 349E,Interior Arch.Design Studio II,Physical (Face to face),Shahryar Habıbı,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",2,2,-,"IAD_LS, ICM_LS",Detail,-
+16,22871,ICM 366E,Interior Arch.Desgn Studio III,Physical (Face to face),Ervin Garip,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","203A
+203A",15,16,-,"IAD_LS, ICM_LS",Detail,-
+17,22872,ICM 366E,Interior Arch.Desgn Studio III,Physical (Face to face),Seniye Banu Garip,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",15,16,-,"IAD_LS, ICM_LS",Detail,-
+18,22873,ICM 366E,Interior Arch.Desgn Studio III,Physical (Face to face),Orkan Zeynel Güzelci,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",14,15,-,"IAD_LS, ICM_LS",Detail,-
+19,22875,ICM 366E,Interior Arch.Desgn Studio III,Physical (Face to face),Enes Yaşa,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",14,13,-,"IAD_LS, ICM_LS",Detail,-
+20,22877,ICM 368E,Dsgn Prins of Intr. Fins. Sys,Physical (Face to face),Mehmet Serkan Yatağan,MMB,Thursday,08:30/13:29,215,100,95,-,"IAD_LS, ICM_LS",-,-
+21,22879,ICM 374,Meslek Pratiği,Physical (Face to face),Gülfer Oraz,MMB,Tuesday,08:30/12:29,215,80,71,-,ICM_LS,-,-
+22,22891,ICM 4013,Cevresel Psikoloji,Physical (Face to face),Ervin Garip,MMB,Monday,10:30/12:29,313,18,16,-,ICM_LS,-,-
+23,22881,ICM 4014,İç Mimarlıkta Tekstil,Physical (Face to face),Belgin Görgün,MMB,Friday,10:30/12:29,302,23,22,-,ICM_LS,-,-
+24,22884,ICM 4029E,Interior Space in Cinema,Physical (Face to face),Demet Arslan Dinçay,MMB,Wednesday,10:30/12:29,3505,24,25,-,"IAD_LS, ICM_LS",-,-
+25,25210,ICM 4030E,Lightn. Desig.for Inter.Spaces,Physical (Face to face),Damla Çağal Taşdelen,MMB,Wednesday,10:30/12:29,--,18,18,-,"IAD_LS, ICM_LS",-,-
+26,22889,ICM 4035E,"Social Transform.,Gender&Space",Physical (Face to face),Emine Görgül,MMB,Wednesday,10:30/12:29,307,18,15,-,"IAD_LS, ICM_LS",-,-
+27,22886,ICM 4041E,Urban Interiors,Physical (Face to face),Ahmet Erdem Tozoğlu,MMB,Wednesday,13:30/15:29,319,20,19,-,"IAD_LS, ICM_LS",-,-
+28,25211,ICM 4042E,Yacht Interioris Design,Physical (Face to face),Mert Ünnü,MMB,Friday,10:30/12:29,--,20,21,-,"IAD_LS, ICM_LS",-,-
+29,22892,ICM 408E,Comm Design In Interior Arch.,Physical (Face to face),Seniye Banu Garip,MMB,Monday,10:30/12:29,216,90,74,-,"IAD_LS, ICM_LS",-,-
+30,22893,ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Seniye Banu Garip,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",3,3,-,"IAD_LS, ICM_LS",Detail,-
+31,22895,ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Orkan Zeynel Güzelci,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",3,3,-,"IAD_LS, ICM_LS",Detail,-
+32,22898,ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Enes Yaşa,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",6,4,-,"IAD_LS, ICM_LS",Detail,-
+33,24983,ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Ervin Garip,"MMB
+MMB","Monday
+Thursday","13:30/17:29
+13:30/17:29","--
+--",3,2,-,"IAD_LS, ICM_LS",Detail,-
+34,22899,ICM 4902,Diploma Projesi,Physical (Face to face),"Ahmet Erdem Tozoğlu ,
+Emine Görgül",-,-,-/-,-,100,15,-,ICM_LS,Detail,-
+35,22901,ICM 4902,Diploma Projesi,Physical (Face to face),"Ahmet Gün ,
+Ervin Garip",-,-,-/-,-,100,12,-,ICM_LS,Detail,-
+36,22902,ICM 4902,Diploma Projesi,Physical (Face to face),"Ethem Gürer ,
+Orkan Zeynel Güzelci",-,-,-/-,-,100,15,-,ICM_LS,Detail,-
+37,22907,ICM 4902,Diploma Projesi,Physical (Face to face),-,-,-,-/-,-,0,0,-,ICM_LS,Detail,-
+38,22904,ICM 4902E,Graduation Project,Physical (Face to face),"Ahmet Erdem Tozoğlu ,
+Emine Görgül",-,-,-/-,-,100,10,-,ICM_LS,Detail,-
+39,22905,ICM 4902E,Graduation Project,Physical (Face to face),"Ahmet Gün ,
+Ervin Garip",-,-,-/-,-,100,11,-,ICM_LS,Detail,-
+40,24984,ICM 4902E,Graduation Project,Physical (Face to face),"Ethem Gürer ,
+Orkan Zeynel Güzelci",-,-,-/-,-,100,9,-,ICM_LS,Detail,-
+41,22910,ICM 492,Bitirme Çalışması,Physical (Face to face),"Ahmet Gün ,
+Ervin Garip",-,-,-/-,-,5,1,-,ICM_LS,Detail,Detail

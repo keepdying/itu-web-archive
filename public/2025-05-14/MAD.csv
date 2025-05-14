@@ -1,0 +1,31 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25341,MAD 205,Mineraloji ve Petrografi,Ek Sınav,Fatma Gülmez Yıldırım,-,-,-/-,-,0,0,-,-,-,-
+1,25332,MAD 213,Maden Üretim Teknolojisi,Ek Sınav,Emre Avunduk,-,-,-/-,-,0,1,-,-,-,-
+2,21622,MAD 243,Yeraltı Maden İşletmeciliği,Physical (Face to face),Muhammet Mustafa Kahraman,MDB,Monday,11:30/14:29,A105,90,85,-,"MAD_LS, MAD_YD",-,-
+3,24514,MAD 254E,Strngth of Mat.for Mining Eng.,Physical (Face to face),Pınar Teymür,INB,Tuesday,15:30/17:29,A104,60,59,-,"MAD_LS, MADE_LS",Detail,-
+4,21623,MAD 302E,Mining and Environment,Physical (Face to face),Türker Hüdaverdi,MDB,Wednesday,08:30/10:29,A201,55,48,-,"MAD_LS, MADE_LS",-,-
+5,21632,MAD 304E,Drilling Techniques,Physical (Face to face),Hasan Ergin,MDB,Tuesday,08:30/11:29,A202,60,46,-,"MAD_LS, MADE_LS",-,-
+6,21631,MAD 308,Cevher Hazırlama II,Physical (Face to face),Alim Gül,"MDB
+MDB","Wednesday
+Thursday","11:30/12:29
+11:30/13:29","B204
+A102",70,62,-,MAD_LS,Detail,-
+7,21388,MAD 314,Topoğrafya,Physical (Face to face),Adil Enis Arslan,INB,Thursday,13:30/17:29,A201,70,62,-,MAD_LS,-,-
+8,21634,MAD 322E,Dsgn of Sup in Mines & Tunnels,Physical (Face to face),Hakan Tunçdemir,MDB,Monday,11:30/14:29,B207,60,49,-,"MAD_LS, MAD_YD",Detail,-
+9,25342,MAD 327,Madenlerde Ulaşım ve Su Atımı,Ek Sınav,Cemal Balcı,-,-,-/-,-,0,0,-,-,Detail,-
+10,21647,MAD 342E,Hydraulic Power Sys in Mining,Physical (Face to face),Deniz Tumaç,MDB,Tuesday,11:30/13:29,A105,70,58,-,"MAD_LS, MADE_LS",Detail,-
+11,21648,MAD 406,Madenlerde İş Sağlığı ve Güv.,Physical (Face to face),Abdullah Fişne,MDB,Tuesday,13:30/15:29,A201,50,60,-,MAD_LS,Detail,-
+12,21649,MAD 422E,Mine Planing and Design,Physical (Face to face),Cüneyt Atilla Öztürk,MDB,Friday,14:00/17:59,A204,55,46,-,MAD_LS,Detail,Detail
+13,21650,MAD 432,Maden. ve Tünellerde Kazı Mek.,Physical (Face to face),"Hanifi Çopur ,
+Cemal Balcı",MDB,Friday,08:30/11:29,A201,65,53,-,MAD_LS,Detail,-
+14,21822,MAD 434,Maden Hukuku,Physical (Face to face),"Mahmut Kabakcı ,
+Mahmut Alper Kılıç",MDB,Tuesday,15:30/17:29,A201,60,51,-,MAD_LS,-,-
+15,21651,MAD 436,Maden Ekonomisi,Physical (Face to face),Cüneyt Atilla Öztürk,MDB,Thursday,08:30/10:29,A102,80,60,-,MAD_LS,Detail,-
+16,21652,MAD 438E,Tunneling,Physical (Face to face),"Hanifi Çopur ,
+Deniz Tumaç",MDB,Tuesday,08:30/10:29,A201,60,40,-,"MAD_LS, MAD_YD",-,-
+17,21655,MAD 446E,Computer Aided Mine Design,Physical (Face to face),Kürşat Hasözdemir,MDB,Wednesday,08:30/11:29,A301,14,14,-,"MAD_LS, MAD_YD, MADE_LS",Detail,-
+18,21656,MAD 446E,Computer Aided Mine Design,Physical (Face to face),Kürşat Hasözdemir,MDB,Thursday,13:30/16:29,B205,14,14,-,"MAD_LS, MAD_YD, MADE_LS",Detail,-
+19,21653,MAD 467,Jeoloji Haritaları,Physical (Face to face),Ufuk Tarı,MDB,Monday,08:30/11:29,A301,30,17,-,MAD_LS,-,-
+20,21658,MAD 4901,Maden Müh.Tasarım Projesi I,Physical (Face to face),Türker Hüdaverdi,-,-,-/-,-,500,9,-,MAD_LS,Detail,Detail
+21,21660,MAD 4902,Maden Müh.Tasarım Projesi II,Physical (Face to face),Türker Hüdaverdi,-,-,-/-,-,500,41,-,MAD_LS,Detail,Detail
+22,21662,MAD 492,Bitirme Çalışması,Physical (Face to face),Türker Hüdaverdi,-,-,-/-,-,500,2,-,MAD_LS,-,Detail

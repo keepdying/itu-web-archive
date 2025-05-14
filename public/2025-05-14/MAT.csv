@@ -1,0 +1,285 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24213,MAT 103,Matematik I,Physical (Face to face),Sabire Cömert,"DZB
+DZB","Monday
+Tuesday","11:30/13:29
+10:30/13:29","--
+--",110,32,-,"DUI_LS, GMI_LS",-,-
+1,20540,MAT 103E,Mathematics I,Physical (Face to face),Ali Sait Demir,"MED
+MED","Wednesday
+Thursday","08:30/11:29
+12:30/14:29","A35
+A11",200,200,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+2,20541,MAT 103E,Mathematics I,Physical (Face to face),Havva Uluçay,"MED
+MED","Wednesday
+Thursday","08:30/11:29
+12:30/14:29","A12
+A12",200,174,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+3,20542,MAT 103E,Mathematics I,Physical (Face to face),Gülçin Mihriye Muslu,"MED
+MED","Wednesday
+Thursday","08:30/11:29
+12:30/14:29","A13
+A13",200,156,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+4,20543,MAT 103E,Mathematics I,Physical (Face to face),Zerrin Şentürk,"MED
+MED","Wednesday
+Thursday","08:30/11:29
+12:30/14:29","A36
+A14",200,73,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+5,20544,MAT 103E,Mathematics I,Physical (Face to face),Ali Sait Demir,"MED
+MED","Wednesday
+Thursday","11:30/13:29
+08:30/11:29","A11
+A11",180,180,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+6,20545,MAT 103E,Mathematics I,Physical (Face to face),Mevlüt Tekkoyun,"MED
+MED","Wednesday
+Thursday","11:30/13:29
+08:30/11:29","A12
+A12",179,179,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+7,20546,MAT 103E,Mathematics I,Physical (Face to face),İrma Hacınlıyan,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A16
+A16",195,185,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+8,20547,MAT 103E,Mathematics I,Physical (Face to face),Mehmet Ali Karaca,"MED
+MED","Wednesday
+Thursday","11:30/13:29
+08:30/11:29","A14
+A14",168,168,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+9,20548,MAT 103E,Mathematics I,Physical (Face to face),Mehmet Ali Karaca,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A32
+A32",200,113,-,"ARC_LS, CEN_LS, EEE_LS, EFN_LS, IAD_LS, IND_LS, MEN_LS, MMD_LS, MTM_LS, NAE_LS",-,-
+10,25254,MAT 103E,Mathematics I,Physical (Face to face),Sabire Cömert,"DZB
+DZB","Monday
+Wednesday","17:30/20:29
+18:30/20:29","--
+--",40,36,-,"MEN_LS, MTM_LS",-,-
+11,25269,MAT 103E,Mathematics I,Physical (Face to face),Ayşegül Tepe,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A34
+A34",183,182,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+12,25307,MAT 103E,Mathematics I,Physical (Face to face),Ayşegül Tepe,"MED
+MED","Wednesday
+Thursday","11:30/13:29
+08:30/11:29","A13
+A13",150,150,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, ICM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, PEM_LS, PEME_LS, PETE_LS, ROS_LS, ROSE_LS, SBP_LS, SBPE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",-,-
+13,20549,MAT 104,Matematik II,Physical (Face to face),Şenay Pasinlioğlu,"MED
+MED","Monday
+Tuesday","12:30/14:29
+14:30/17:29","A11
+A11",200,199,-,"BIO_LS, BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, EHB_MTM_LS, ELK_LS, ELK_MTM_LS, END_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, MAD_LS, MAK_LS, MET_LS, MTO_LS, ROS_LS, TEK_LS, UCK_LS, UZB_LS",Detail,-
+14,24211,MAT 104,Matematik II,Physical (Face to face),Bayram Barış Kızılsaç,"DZB
+DZB","Tuesday
+Wednesday","08:30/10:29
+08:30/11:29","--
+--",120,69,-,"DUI_LS, GMI_LS",Detail,-
+15,24212,MAT 104,Matematik II,Physical (Face to face),Bayram Barış Kızılsaç,"DZB
+DZB","Tuesday
+Wednesday","15:30/17:29
+12:30/15:29","--
+--",120,49,-,"DUI_LS, GMI_LS",Detail,-
+16,24526,MAT 104,Matematik II,Physical (Face to face),Muhammed Kurulay,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A11
+A11",200,198,-,"BIO_LS, BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, EHB_MTM_LS, ELK_LS, ELK_MTM_LS, END_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, MAD_LS, MAK_LS, MET_LS, MTO_LS, ROS_LS, TEK_LS, UCK_LS, UZB_LS",Detail,-
+17,24527,MAT 104,Matematik II,Physical (Face to face),Fuat Ergezen,"MDB
+FEB","Wednesday
+Thursday","08:30/11:29
+12:30/14:29","B208
+D202",200,131,-,"BIO_LS, BLG_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, EHB_MTM_LS, ELK_LS, ELK_MTM_LS, END_LS, FIZ_LS, GEM_LS, GEO_LS, GID_LS, GMI_LS, HTA_LS, IBM_LS, IML_LS, INS_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KMM_LS, KOM_LS, MAD_LS, MAK_LS, MET_LS, MTO_LS, ROS_LS, TEK_LS, UCK_LS, UZB_LS",Detail,-
+18,20551,MAT 104E,Mathematics II,Physical (Face to face),İlkay Bakırtaş Akar,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A12
+A12",200,199,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+19,20552,MAT 104E,Mathematics II,Physical (Face to face),Nalan Antar,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A13
+A13",200,188,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+20,20553,MAT 104E,Mathematics II,Physical (Face to face),Burhaneddin İzgi,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A14
+A14",200,144,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+21,20554,MAT 104E,Mathematics II,Physical (Face to face),Saadet Seher Özer,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A15
+A15",200,140,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+22,20555,MAT 104E,Mathematics II,Physical (Face to face),Ahmet Duran,"MED
+MED","Monday
+Tuesday","12:30/14:29
+14:30/17:29","A12
+A12",200,174,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+23,20557,MAT 104E,Mathematics II,Physical (Face to face),Seher Melike Aydoğan,"MED
+MED","Monday
+Tuesday","12:30/14:29
+14:30/17:29","A14
+A14",200,197,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+24,20558,MAT 104E,Mathematics II,Physical (Face to face),Güler Arsan,"MED
+MED","Monday
+Tuesday","12:30/14:29
+14:30/17:29","A15
+A15",200,124,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+25,20559,MAT 104E,Mathematics II,Physical (Face to face),Sezgin Altay Demirbağ,"MED
+MED","Monday
+Tuesday","12:30/14:29
+14:30/17:29","A16
+A16",200,98,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+26,20560,MAT 104E,Mathematics II,Physical (Face to face),Sultan Erdoğan Demir,"MED
+MED","Wednesday
+Thursday","08:30/11:29
+12:30/14:29","A34
+A31",119,119,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+27,20561,MAT 104E,Mathematics II,Physical (Face to face),Sultan Erdoğan Demir,"MED
+MED","Wednesday
+Thursday","11:30/13:29
+08:30/11:29","A31
+A31",130,128,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+28,20562,MAT 104E,Mathematics II,Physical (Face to face),Ahmet Duran,"MED
+MED","Monday
+Tuesday","08:30/11:29
+11:30/13:29","A31
+A31",200,95,-,"CEN_LS, EEE_LS, EFN_LS, IND_LS, MEN_LS, MMD_LS, MTM_LS, NAE_LS",Detail,-
+29,24611,MAT 104E,Mathematics II,Physical (Face to face),Sabire Cömert,"DZB
+DZB","Monday
+Wednesday","14:30/17:29
+13:30/15:29","--
+--",60,43,-,"MEN_LS, MTM_LS",Detail,-
+30,25308,MAT 104E,Mathematics II,Physical (Face to face),Nurhan Çolakoğlu,"MED
+MED","Wednesday
+Thursday","11:30/13:29
+08:30/11:29","A32
+A32",130,130,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+31,25309,MAT 104E,Mathematics II,Physical (Face to face),Burhaneddin İzgi,"EEB
+FEB","Wednesday
+Thursday","08:30/11:29
+12:30/14:29","5103
+D203",100,86,-,"BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, CEV_LS, CEVE_LS, CHZ_LS, DEN_LS, DENE_LS, DUI_LS, DUIE_LS, ECNE_LS, EHB_LS, EHB_MTM_LS, EHBE_LS, ELK_LS, ELK_MTM_LS, ELKE_LS, END_LS, ENDE_LS, FIZ_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, GMI_LS, GMIE_LS, HTA_LS, HTAE_LS, IBM_LS, IML_LS, IMLE_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEO_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KOM_LS, KOME_LS, MAD_LS, MAK_LS, MAKE_LS, MET_LS, METE_LS, MTO_LS, PETE_LS, ROS_LS, ROSE_LS, SECE_LS, TEK_LS, TEKE_LS, UCK_LS, UZB_LS, UZBE_LS, VBAE_LS, YZVE_LS",Detail,-
+32,21771,MAT 115E,Intro. to Programming Language,Physical (Face to face),Evren Tanrıöver,FEB,Monday,08:30/12:29,OBL3,30,29,-,MAT_LS,-,-
+33,21772,MAT 115E,Intro. to Programming Language,Physical (Face to face),Burcu Tunga,FEB,Monday,13:30/17:29,OBL3,30,13,-,MAT_LS,-,-
+34,21776,MAT 116E,Advanced Sci. & Eng. Computing,Physical (Face to face),Nalan Antar,"FEB
+FEB","Wednesday
+Friday","10:30/12:29
+10:30/12:29","OBL3
+OBL3",40,29,-,MAT_LS,Detail,-
+35,21777,MAT 116E,Advanced Sci. & Eng. Computing,Physical (Face to face),İlkay Bakırtaş Akar,"FEB
+FEB","Wednesday
+Friday","08:30/10:29
+08:30/10:29","OBL3
+OBL3",40,26,-,MAT_LS,Detail,-
+36,21773,MAT 117,Matematik Müh. Giriş ve Etik,Physical (Face to face),Sevgi Harman,FEB,Wednesday,13:30/15:29,D204,80,27,-,MAT_LS,-,-
+37,21778,MAT 148,Ayrık Matematik,Physical (Face to face),Saadet Seher Özer,FEB,Thursday,08:30/11:29,D205,60,25,-,MAT_LS,-,-
+38,21779,MAT 148E,Discrete Mathematics,Physical (Face to face),Burak Yıldıran Stodolsky,FEB,Thursday,08:30/11:29,D304,70,72,-,MAT_LS,-,-
+39,21774,MAT 185,Matematik I,Physical (Face to face),-,"FEB
+FEB","Tuesday
+Friday","14:30/17:29
+14:00/15:59","--
+--",0,0,-,MAT_LS,-,-
+40,25032,MAT 185E,Mathematics I,Physical (Face to face),Aybike Özer,"FEB
+FEB","Tuesday
+Friday","14:30/17:29
+14:00/15:59","D101
+D202",60,32,-,MAT_LS,-,-
+41,21781,MAT 186E,Mathematics II,Physical (Face to face),Elif Canfes,"FEB
+FEB","Tuesday
+Friday","14:30/17:29
+14:00/15:59","D103
+D103",51,42,-,MAT_LS,Detail,-
+42,25176,MAT 186E,Mathematics II,Physical (Face to face),-,"FEB
+FEB","Tuesday
+Friday","14:30/17:29
+14:00/15:59","--
+--",0,0,-,MAT_LS,Detail,-
+43,21613,MAT 202,Sayısal Yöntemler,Physical (Face to face),Birgül Benli,MDB,Monday,14:30/17:29,B205,70,74,-,"CEV_LS, CHZ_LS, CHZ_YD, MAD_LS, PET_LS",Detail,-
+44,25337,MAT 202,Sayısal Yöntemler,Ek Sınav,Deniz Bayraktar Bural,-,-,-/-,-,0,1,-,-,Detail,-
+45,20868,MAT 202E,Numerical Methods,Physical (Face to face),İkilem Göcek,MKB,Wednesday,12:30/15:29,D381A,50,50,-,"TEK_LS, TEKE_LS",Detail,-
+46,20869,MAT 202E,Numerical Methods,Physical (Face to face),İpek Yalçın Eniş,MKB,Thursday,13:30/16:29,D361A,40,44,-,"TEK_LS, TEKE_LS",Detail,-
+47,21454,MAT 202E,Numerical Methods,Physical (Face to face),Bahtiyar Efe,MEDC,Tuesday,08:30/11:29,ZD2,60,61,-,"IBM_LS, MTO_LS, MTOE_LS",Detail,-
+48,21456,MAT 202E,Numerical Methods,Physical (Face to face),Bahtiyar Efe,MEDC,Friday,14:30/17:29,ZD2,60,64,-,"IBM_LS, MTO_LS, MTOE_LS",Detail,-
+49,21482,MAT 202E,Numerical Methods,Physical (Face to face),Aytaç Arıkoğlu,MEDC,Thursday,14:30/17:29,ZA1,65,65,-,"MTO_LS, MTOE_LS, UCK_LS, UZB_LS, UZBE_LS",Detail,-
+50,21483,MAT 202E,Numerical Methods,Physical (Face to face),Bülent Tutkun,MEDC,Thursday,08:30/11:29,ZA1,65,56,-,"MTO_LS, MTOE_LS, UCK_LS, UZB_LS, UZBE_LS",Detail,-
+51,21572,MAT 202E,Numerical Methods,Physical (Face to face),Mustafa Emin Demirbağ,MDB,Friday,08:30/11:29,A103,60,78,-,"CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, MAD_LS, MADE_LS, MTO_LS, MTOE_LS, UCK_LS, UZB_LS, UZBE_LS",Detail,-
+52,21645,MAT 202E,Numerical Methods,Physical (Face to face),İhsan Burak Kulga,MDB,Tuesday,13:30/16:29,B205,70,70,-,PETE_LS,Detail,-
+53,22217,MAT 202E,Numerical Methods,Physical (Face to face),Zehra Elif Batman,EEB,Tuesday,12:30/15:29,5305,50,22,-,"ELK_LS, ELKE_LS",Detail,-
+54,24291,MAT 210,Mühendislik Matematiği,Physical (Face to face),Sabire Cömert,"DZB
+DZB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","--
+--",50,28,-,"DUI_LS, GMI_LS",Detail,-
+55,21617,MAT 210E,Engineering Mathematics,Physical (Face to face),Kürşat Hasözdemir,MDB,Wednesday,11:30/15:29,A205,65,82,-,"CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS",Detail,-
+56,21618,MAT 210E,Engineering Mathematics,Physical (Face to face),Kürşat Hasözdemir,MDB,Friday,08:30/12:29,A205,65,66,-,"CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS",Detail,-
+57,22968,MAT 210E,Engineering Mathematics,Physical (Face to face),Ahmet Göncü,ISB,Friday,08:30/12:29,104,90,56,ECNE/15/8 | Diğer/75/48,"ECNE_LS, ISL_LS, ISLE_LS",Detail,-
+58,25263,MAT 210E,Engineering Mathematics,Physical (Face to face),Sabire Cömert,"DZB
+DZB","Thursday
+Friday","11:30/14:29
+16:30/17:29","--
+--",10,8,-,"MEN_LS, MTM_LS",Detail,-
+59,21782,MAT 221,Olasılık Teorisi,Physical (Face to face),Bahri Güldoğan,FEB,Tuesday,08:30/11:29,D203,60,19,-,MAT_LS,-,-
+60,21784,MAT 226,Veri Yapıları,Physical (Face to face),Evren Tanrıöver,FEB,Thursday,08:30/11:29,D103,55,55,-,MAT_LS,Detail,-
+61,21785,MAT 226E,Data Structures,Physical (Face to face),İzzet Göksel,FEB,Thursday,08:30/11:29,D104,55,50,-,MAT_LS,Detail,-
+62,24521,MAT 232,Diferansiyel Denklemler,Physical (Face to face),Kamil Oruçoğlu,"INB
+INB","Thursday
+Friday","15:30/17:29
+14:00/15:59","B101
+B101",80,76,-,"MAT_LS, MAT_YD_EC, MAT_YD_UY",Detail,-
+63,21786,MAT 234,Kısmi Diferansiyel Denklemler,Physical (Face to face),Ayşe Peker,FEB,Friday,09:30/12:29,D103,70,71,-,"MAT_LS, MAT_YD_UY",Detail,-
+64,21787,MAT 234E,Partial Differential Equations,Physical (Face to face),Cihangir Özemir,FEB,Friday,09:30/12:29,D102,70,61,-,"MAT_LS, MAT_YD_UY",Detail,-
+65,21788,MAT 244,İstatistik,Physical (Face to face),Bahri Güldoğan,FEB,Monday,08:30/11:29,D203,80,59,-,MAT_LS,Detail,-
+66,21789,MAT 244E,Statistics,Physical (Face to face),Atabey Kaygun,MED,Monday,08:30/11:29,A35,80,81,-,MAT_LS,Detail,-
+67,21451,MAT 261,Lineer Cebir,Physical (Face to face),Egnar Özdikililer,MEDC,Monday,08:30/11:29,ZA1,80,73,-,UCK_LS,-,-
+68,21453,MAT 261E,Linear Algebra,Physical (Face to face),Egnar Özdikililer,MEDC,Wednesday,08:30/11:29,ZA2,90,94,-,UZBE_LS,-,-
+69,21790,MAT 264E,Computational Mathematics,Physical (Face to face),Gülçin Mihriye Muslu,FEB,Tuesday,11:30/14:29,D203,75,75,-,"MAT_LS, MAT_YD_UY",Detail,-
+70,21791,MAT 264E,Computational Mathematics,Physical (Face to face),Ahmet Kırış,FEB,Tuesday,11:30/14:29,D104,75,63,-,"MAT_LS, MAT_YD_UY",Detail,-
+71,22447,MAT 271,Olasılık ve İstatistik,Physical (Face to face),Ahmet Ergin,MEDC,Friday,14:00/16:59,ZA2,80,82,-,GEM_LS,-,-
+72,23177,MAT 271,Olasılık ve İstatistik,Physical (Face to face),Ayşe Arifoğlu,KMB,Monday,09:30/12:29,D203,50,16,-,"GID_LS, KMM_LS, MET_LS",-,-
+73,23179,MAT 271,Olasılık ve İstatistik,Physical (Face to face),Taylan Maraş,KMB,Thursday,13:30/16:29,D103,50,18,-,"GID_LS, KMM_LS, MET_LS",-,-
+74,20866,MAT 271E,Probability and Statistics,Physical (Face to face),Aslı Tunçay Atalay,MKB,Thursday,09:30/12:29,D359,40,18,-,"TEK_LS, TEKE_LS",-,-
+75,20867,MAT 271E,Probability and Statistics,Physical (Face to face),Aslı Tunçay Atalay,MKB,Thursday,14:30/17:29,D361B,40,34,-,"TEK_LS, TEKE_LS",-,-
+76,21163,MAT 271E,Probability and Statistics,Physical (Face to face),Mustafa Sait Yazgan,INB,Wednesday,08:30/11:29,A204,80,90,-,"CEV_LS, CEVE_LS",-,-
+77,21164,MAT 271E,Probability and Statistics,Physical (Face to face),Mustafa Sait Yazgan,INB,Monday,10:30/13:29,A204,70,75,-,"CEV_LS, CEVE_LS",-,-
+78,21839,MAT 271E,Probability and Statistics,Physical (Face to face),Mehmet Ali Karaca,MEDC,Wednesday,08:30/11:29,1D6,128,128,-,"CEN_LS, MEN_LS, MMD_LS, MTM_LS, NAE_LS",-,-
+79,22554,MAT 271E,Probability and Statistics,Physical (Face to face),Halil Bayraktar,FEB,Wednesday,12:30/15:29,D102,80,70,-,"BIO_LS, BIOE_LS, DEN_LS, PETE_LS",-,-
+80,22581,MAT 271E,Probability and Statistics,Physical (Face to face),Burak Karacık,MEDC,Wednesday,09:30/12:29,2D18,90,90,-,"DEN_LS, DENE_LS",-,-
+81,23181,MAT 271E,Probability and Statistics,Physical (Face to face),"Ayşen Aktürk Sertbaş ,
+Mustafa Sertbaş",KMB,Wednesday,12:30/15:29,D302,50,11,-,KMM_LS,-,-
+82,24372,MAT 271E,Probability and Statistics,Physical (Face to face),Aydın Mert,DZB,Tuesday,10:30/13:29,--,70,62,-,"DUI_LS, GMI_LS",-,-
+83,24412,MAT 271E,Probability and Statistics,Physical (Face to face),Aydın Mert,DZB,Thursday,08:30/11:29,--,70,59,-,"DUI_LS, GMI_LS",-,-
+84,24417,MAT 271E,Probability and Statistics,Physical (Face to face),Aydın Mert,DZB,Thursday,12:30/15:29,--,70,28,-,"DUI_LS, GMI_LS",-,-
+85,24628,MAT 271E,Probability and Statistics,Physical (Face to face),Sabire Cömert,DZB,Wednesday,08:30/11:29,--,82,23,-,"MEN_LS, MTM_LS",-,-
+86,25346,MAT 271E,Probability and Statistics,Physical (Face to face),Ahmet Hamdi Kayran,EEB,Wednesday,12:30/15:29,5105,50,49,-,"BLG_LS, BLGE_LS",-,-
+87,21792,MAT 272E,Advanced Mathematics,Physical (Face to face),Nurhan Çolakoğlu,FEB,Wednesday,08:30/11:29,D102,70,70,-,"MAT_LS, MAT_YD_TE",Detail,-
+88,21793,MAT 272E,Advanced Mathematics,Physical (Face to face),Nurettin Cenk Turgay,FEB,Wednesday,08:30/11:29,D103,70,59,-,"MAT_LS, MAT_YD_TE",Detail,-
+89,21783,MAT 287,Matematik III,Physical (Face to face),Fatma Özdemir,"FEB
+FEB","Monday
+Wednesday","14:30/17:29
+13:30/15:29","D202
+D202",65,63,-,"MAT_LS, MAT_YD_EC, MAT_YD_TE, MAT_YD_UY",Detail,-
+90,21794,MAT 324E,Algebra,Physical (Face to face),Ergün Yaraneri,FEB,Tuesday,08:30/11:29,D104,65,54,-,"MAT_LS, MAT_YD_TE",Detail,-
+91,21795,MAT 324E,Algebra,Physical (Face to face),Sevgi Harman,FEB,Tuesday,08:30/11:29,D102,65,64,-,"MAT_LS, MAT_YD_TE",Detail,-
+92,21796,MAT 342E,Differential Geometry,Physical (Face to face),Güler Arsan,FEB,Thursday,11:30/14:29,D104,60,60,-,"MAT_LS, MAT_YD_TE",Detail,-
+93,21797,MAT 342E,Differential Geometry,Physical (Face to face),Gülçin Çivi Bilir,FEB,Thursday,11:30/14:29,D103,60,48,-,"MAT_LS, MAT_YD_TE",Detail,-
+94,24982,MAT 368E,Mathematical Modeling,Physical (Face to face),Ersin Özuğurlu,FEB,Friday,14:30/17:29,D206,40,40,-,MAT_LS,Detail,-
+95,21798,MAT 374,Hes. Sürekli Ortamlar Mekaniği,Physical (Face to face),Ahmet Kırış,FEB,Monday,11:30/14:29,D203,60,48,-,MAT_LS,Detail,-
+96,21799,MAT 374,Hes. Sürekli Ortamlar Mekaniği,Physical (Face to face),Rahmiye Ergün,FEB,Monday,11:30/14:29,D103,60,60,-,MAT_LS,Detail,-
+97,21804,MAT 417E,Theory of Surfaces,Physical (Face to face),-,FEB,Thursday,14:30/17:29,--,0,0,-,MAT_LS,Detail,-
+98,21805,MAT 423E,Numerical Solutions of ODE,Physical (Face to face),Semra Ahmetolan,FEB,Tuesday,14:30/17:29,D106,25,18,-,MAT_LS,Detail,-
+99,21806,MAT 425E,Stochastic ODE,Physical (Face to face),-,FEB,Monday,14:30/17:29,--,0,0,-,MAT_LS,Detail,-
+100,21807,MAT 428E,Functional Analysis,Physical (Face to face),-,FEB,Thursday,14:30/17:29,--,0,0,-,MAT_LS,Detail,-
+101,21808,MAT 438,Matematik Tarihi,Physical (Face to face),Muhammed Kurulay,FEB,Monday,14:30/17:29,D206,25,26,-,MAT_LS,Detail,-
+102,21810,MAT 448E,Number Theory,Physical (Face to face),Burak Yıldıran Stodolsky,FEB,Thursday,14:30/17:29,D103,25,21,-,MAT_LS,Detail,-
+103,21811,MAT 455E,Topology,Physical (Face to face),Ergün Yaraneri,FEB,Friday,14:00/16:59,D201,40,6,-,MAT_LS,Detail,-
+104,21812,MAT 468E,Nonlinear Waves,Physical (Face to face),-,FEB,Friday,14:00/16:59,--,0,0,-,MAT_LS,Detail,-
+105,21819,MAT 472E,Computational Finance,Physical (Face to face),Ahmet Duran,MED,Thursday,14:30/17:29,A13,80,28,-,MAT_LS,Detail,-
+106,21813,MAT 485E,Graph Theory,Physical (Face to face),Burak Yıldıran Stodolsky,FEB,Tuesday,14:30/17:29,D304,30,25,-,MAT_LS,Detail,-
+107,21814,MAT 488E,Numerical Solutions of PDE,Physical (Face to face),Ersin Özuğurlu,FEB,Wednesday,12:30/15:29,OBL3,25,18,-,MAT_LS,Detail,-
+108,21817,MAT 4901,Matematik Müh. Tasarımı I,Physical (Face to face),Fuat Ergezen,-,-,-/-,-,40,21,-,MAT_LS,Detail,Detail
+109,21818,MAT 4901E,Math. Engineering Design I,Physical (Face to face),Fuat Ergezen,-,-,-/-,-,40,11,-,MAT_LS,Detail,Detail
+110,21820,MAT 4902,Matematik Müh. Tasarımı II,Physical (Face to face),Fuat Ergezen,-,-,-/-,-,70,31,-,MAT_LS,Detail,-
+111,21821,MAT 4902E,Math. Engineering Design II,Physical (Face to face),Fuat Ergezen,-,-,-/-,-,70,25,-,MAT_LS,Detail,-
+112,21823,MAT 492,Bitirme Çalışması,Physical (Face to face),Fuat Ergezen,-,-,-/-,-,5,2,-,MAT_LS,-,Detail
+113,21824,MAT 492E,Graduation Project,Physical (Face to face),-,-,-,-/-,-,0,0,-,MAT_LS,-,Detail
+114,21815,MAT 497E,Tensor Analysis,Physical (Face to face),Füsun Zengin,FEB,Monday,14:30/17:29,D101,20,7,-,"MAT_LS, MAT_YD_UY",Detail,-

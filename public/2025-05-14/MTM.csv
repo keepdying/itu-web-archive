@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24627,MTM 211,Onboard Training-I,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,3,-,MTM_LS,-,-
+1,24655,MTM 302,Onboard Training-III,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,4,-,MTM_LS,Detail,-
+2,24652,MTM 341,Onboard Training-II,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,16,-,MTM_LS,-,Detail
+3,24670,MTM 402,Graduation Design Project,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,13,-,MTM_LS,-,Detail
+4,24660,MTM 412,Ship Management and Leadership,Physical (Face to face),Cemil Yurtören,"DZB
+DZB","Wednesday
+Wednesday","12:30/15:29
+17:30/18:29","--
+--",40,18,-,MTM_LS,Detail,-

@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24262,RES 102,Bilg. Destekli Teknik Resim,Physical (Face to face),Melek Ertogan,DZB,Tuesday,08:30/12:29,--,85,23,-,DUI_LS,-,-
+1,24264,RES 102,Bilg. Destekli Teknik Resim,Physical (Face to face),Melek Ertogan,DZB,Thursday,11:30/15:29,--,85,44,-,DUI_LS,-,-
+2,24617,RES 102E,Com.Aided Technical Drawing,Physical (Face to face),Melek Ertogan,DZB,Friday,08:30/12:29,--,90,84,-,"MEN_LS, MTM_LS",-,-
+3,25520,RES 103E,Technical Drawing,Ek Sınav,Sena Duru,-,-,-/-,-,0,1,-,-,-,-
+4,23330,RES 107E,Technical Drawing,Physical (Face to face),Münir Cansın Özden,KMB,Friday,14:00/16:59,D301,53,61,-,"MET_LS, METE_LS",-,-
+5,25053,RES 107E,Technical Drawing,Physical (Face to face),"Erçin Çağan Duran ,
+Yonca Alkan Göksu",KMB,Thursday,08:30/11:29,D301,53,58,-,"MET_LS, METE_LS",-,-
+6,25054,RES 107E,Technical Drawing,Physical (Face to face),"Erçin Çağan Duran ,
+Yonca Alkan Göksu",KMB,Thursday,13:30/16:29,D301,53,56,-,"MET_LS, METE_LS",-,-
+7,24516,RES 111E,Technical Drawing (CAD),Physical (Face to face),Hazal Gülhan Eksin,MDB,Thursday,13:30/16:29,B207,60,61,-,"CHZ_LS, CHZE_LS",-,-

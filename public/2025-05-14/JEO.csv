@@ -1,0 +1,69 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21560,JEO 121,Yer Bilimlerinde Tas. Geometri,Physical (Face to face),"Şenel Özdamar ,
+Gökhan Şans",MDB,Friday,08:30/11:29,A301,60,44,-,JEF_LS,-,-
+1,21678,JEO 204E,Petrog. of Magmatic Rocks,Physical (Face to face),Mehmet Keskin,MDB,Tuesday,08:30/11:29,A105,40,26,-,"JEO_LS, JEO_YD, JEOE_LS",Detail,-
+2,21680,JEO 204E,Petrog. of Magmatic Rocks,Physical (Face to face),"Şafak Altunkaynak ,
+Alp Ünal",MDB,Tuesday,13:30/16:29,A102,40,40,-,"JEO_LS, JEO_YD, JEOE_LS",Detail,-
+3,21683,JEO 211,Mineraloji,Physical (Face to face),"Şenel Özdamar ,
+Bala Ekinci Şans",MDB,Monday,08:30/11:29,A302,30,33,-,"JEO_LS, JEO_YD",Detail,-
+4,21684,JEO 211,Mineraloji,Physical (Face to face),"Zekiye Karacık ,
+Fatma Gülmez Yıldırım",MDB,Thursday,14:30/17:29,A202,30,18,-,JEO_LS,Detail,-
+5,25340,JEO 222,Jeomekanik,Ek Sınav,Yılmaz Mahmutoğlu,-,-,-/-,-,0,1,-,-,Detail,-
+6,21583,JEO 254,Yapısal Jeolojiye Giriş,Physical (Face to face),İrem Elitez,MDB,Thursday,13:30/15:29,A302,60,14,-,JEF_LS,-,-
+7,21687,JEO 256E,Structural Geology,Physical (Face to face),Borıs Natalın,MDB,Wednesday,12:30/15:29,B205,90,89,-,"JEO_LS, JEO_YD, JEOE_LS",Detail,-
+8,21690,JEO 262E,Stratigraphy,Physical (Face to face),Borıs Natalın,MDB,Thursday,08:30/10:29,A201,73,54,-,"JEO_LS, JEO_YD, JEOE_LS",-,-
+9,25296,JEO 262E,Stratigraphy,Physical (Face to face),"Cengiz Zabcı ,
+Gülsen Uçarkuş",MDB,Thursday,08:30/10:29,A202,35,35,-,"JEO_LS, JEO_YD, JEOE_LS",-,-
+10,21391,JEO 263,Ölçme Bilgisi,Physical (Face to face),Adil Enis Arslan,INB,Monday,13:30/16:29,A204,80,79,-,JEO_LS,-,-
+11,21691,JEO 311,Şev Stabilitesi Analizleri,Physical (Face to face),Erkan Bozkurtoğlu,MDB,Thursday,13:30/16:29,B206,20,8,-,JEO_LS,-,-
+12,21692,JEO 312,Saha Jeoloji,Physical (Face to face),Cengiz Zabcı,MDB,Monday,13:30/17:29,A204,60,7,-,"JEO_LS, JEO_YD",Detail,-
+13,21563,JEO 315,Jeolojide Arz. ve Hrta Tekn.,Physical (Face to face),"Hüsnü Serdar Akyüz ,
+Ufuk Tarı",MDB,Wednesday,12:30/15:29,A301,50,46,-,JEF_LS,-,-
+14,21694,JEO 322,Hidrojeoloji,Physical (Face to face),Erkan Bozkurtoğlu,MDB,Tuesday,08:30/12:29,A203,60,21,-,"JEO_LS, JEO_YD",Detail,-
+15,21696,JEO 330,Maden Yatakları,Physical (Face to face),"Emin Çiftçi ,
+Mustafa Kaya",MDB,Monday,08:30/12:29,B208,60,50,-,JEO_LS,Detail,-
+16,25185,JEO 331,Petrografi,Physical (Face to face),Mehmet Keskin,MDB,Thursday,13:30/16:29,--,5,1,-,"MAD_LS, MADE_LS",-,-
+17,21697,JEO 335,Uygulamalı Zemin Mekaniği,Physical (Face to face),Erkan Bozkurtoğlu,MDB,Thursday,08:30/11:29,A301,25,21,-,JEO_LS,-,-
+18,21698,JEO 348,Sedimenter Kayaç Petrografisi,Physical (Face to face),"Hüsnü Serdar Akyüz ,
+Ümmühan Sadet Sancar",MDB,Friday,08:30/11:29,B206,30,14,-,"JEO_LS, JEO_YD",Detail,-
+19,21699,JEO 348,Sedimenter Kayaç Petrografisi,Physical (Face to face),"Kürşad Kadir Eriş ,
+Nurettin Yakupoğlu",MDB,Wednesday,08:30/11:29,A302,35,35,-,"JEO_LS, JEO_YD",Detail,-
+20,21700,JEO 355E,Sedimentology,Physical (Face to face),Gülsen Uçarkuş,MDB,Wednesday,09:30/11:29,B204,70,66,-,"JEO_LS, JEO_YD, JEOE_LS",-,-
+21,21701,JEO 357E,Experimental Rock Mechanics,Physical (Face to face),-,MDB,Friday,14:30/17:29,--,0,0,-,"JEO_LS, JEOE_LS",-,-
+22,21693,JEO 359,Saha Jeolojisi,Physical (Face to face),Gürsel Sunal,MDB,Monday,13:30/16:29,A205,60,33,-,"JEO_LS, JEO_YD",Detail,-
+23,21695,JEO 362,Hidrojeoloji,Physical (Face to face),İrfan Yolcubal,MDB,Tuesday,08:30/12:29,A204,60,45,-,"JEO_LS, JEO_YD",Detail,-
+24,21702,JEO 386E,Applied Geophysics,Physical (Face to face),Ahmet Murat Akoğlu,MDB,Tuesday,14:30/17:29,B207,20,10,-,"JEO_LS, JEOE_LS",Detail,-
+25,21703,JEO 391,Zemin Mekaniğine Giriş,Physical (Face to face),Erkan Bozkurtoğlu,MDB,Tuesday,14:30/17:29,A202,25,18,-,JEO_LS,-,-
+26,21770,JEO 398E,Well Logging,Physical (Face to face),Sedat İnan,MDB,Friday,14:30/17:29,A301,40,38,-,"JEO_LS, JEOE_LS",Detail,-
+27,21654,JEO 406E,Fossil Fuels Geology,Physical (Face to face),"Sedat İnan ,
+Zeynep Döner",MDB,Thursday,11:30/14:29,A202,60,15,-,"JEO_LS, JEOE_LS",Detail,-
+28,21657,JEO 408,Jeoloji Mühendisliğinde Seçmeli Konular,Physical (Face to face),Şenel Özdamar,MDB,Monday,11:30/17:29,A103,100,8,-,JEO_LS,Detail,-
+29,21659,JEO 408E,Selected Topics in Geological Engineering,Physical (Face to face),Alp Ünal,"MDB
+MDB","Friday
+Friday","08:30/12:29
+14:30/16:29","--
+--",100,3,-,"JEO_LS, JEOE_LS",Detail,-
+30,21661,JEO 409,Türkiye Jeolojisi,Physical (Face to face),Cenk Yaltırak,MDB,Wednesday,12:30/14:29,A102,60,42,-,"JEO_LS, JEO_YD",-,-
+31,25182,JEO 410E,Remote Sensing in Geology,Physical (Face to face),"Emin Çiftçi ,
+Muhittin Karaman",MDB,Friday,14:30/16:29,A102,20,20,-,"JEO_LS, JEOE_LS",-,-
+32,25183,JEO 411E,Tectonics,Physical (Face to face),"Borıs Natalın ,
+Cengiz Zabcı",MDB,Thursday,11:30/14:29,A204,20,19,-,"JEO_LS, JEOE_LS",Detail,-
+33,25184,JEO 412,Endüstriyel Hammaddeler,Physical (Face to face),Şenel Özdamar,MDB,Wednesday,08:30/10:29,A202,20,13,-,"JEO_LS, JEOE_LS",Detail,-
+34,21679,JEO 422E,Neotectonics,Physical (Face to face),-,MDB,Friday,10:30/12:29,--,0,0,-,"JEO_LS, JEOE_LS",-,-
+35,22225,JEO 439,Yerbilimlerinde CBS Uygulamaları,Physical (Face to face),-,MDB,Tuesday,08:30/10:29,--,0,0,-,JEO_LS,-,-
+36,21704,JEO 449E,Chrc.of Disc.Medi-Mch.&Hyd.Pr.,Physical (Face to face),-,MDB,Thursday,13:30/16:29,--,0,0,-,"JEO_LS, JEOE_LS",-,-
+37,21674,JEO 454E,Mineral Explorations,Physical (Face to face),"Emin Çiftçi ,
+Hüseyin Kocatürk",MDB,Wednesday,08:30/10:29,--,20,12,-,"JEO_LS, JEOE_LS",-,-
+38,21672,JEO 456E,Geomicrobiology,Physical (Face to face),Nurgül Çelik Balcı,MDB,Wednesday,08:30/10:29,--,20,2,-,"JEO_LS, JEOE_LS",-,-
+39,21682,JEO 462E,Energy Raw Materials,Physical (Face to face),"Sedat İnan ,
+Zeynep Döner",MDB,Tuesday,11:30/13:29,B206,20,9,-,"JEO_LS, JEOE_LS",-,-
+40,21677,JEO 464E,Geothermal Systems,Physical (Face to face),-,MDB,Tuesday,13:30/15:29,--,0,0,-,"JEO_LS, JEOE_LS",-,-
+41,21685,JEO 466E,Precious Metals & Mining,Physical (Face to face),-,MDB,Friday,08:30/10:29,--,0,0,-,"JEO_LS, JEOE_LS",Detail,-
+42,21686,JEO 468E,Base Metals and Mining,Physical (Face to face),-,MDB,Friday,10:30/12:29,--,0,0,-,"JEO_LS, JEOE_LS",Detail,-
+43,21667,JEO 4901,Jeoloji Müh. Tasarımı I,Physical (Face to face),Ömer Ündül,-,-,-/-,-,100,5,-,"JEO_LS, JEO_YD",Detail,Detail
+44,21669,JEO 4902,Jeoloji Müh. Tasarımı II,Physical (Face to face),Şenel Özdamar,-,-,-/-,-,100,42,-,"JEO_LS, JEO_YD",Detail,Detail
+45,21670,JEO 4902E,Geological Engin. Design II,Physical (Face to face),Ömer Ündül,-,-,-/-,-,100,4,-,"JEO_LS, JEO_YD, JEOE_LS",Detail,Detail
+46,21664,JEO 492,Bitirme Tasarım Projesi,Physical (Face to face),Şenel Özdamar,-,-,-/-,-,100,1,-,JEO_LS,Detail,Detail
+47,21675,JEO 494E,Marine Geology,Physical (Face to face),"Gülsen Uçarkuş ,
+Kürşad Kadir Eriş",MDB,Tuesday,13:30/15:29,A302,20,20,-,"JEO_LS, JEOE_LS",-,-
+48,21681,JEO 496E,Selected Topics in Geology,Physical (Face to face),Nurgül Çelik Balcı,MDB,Thursday,14:30/16:29,A103,20,7,-,"JEO_LS, JEOE_LS",-,-

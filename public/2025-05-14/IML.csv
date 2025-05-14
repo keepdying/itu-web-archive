@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,25533,IML 320,Makina Elemanları,Ek Sınav,Atakan Altınkaynak,-,-,-/-,-,0,1,-,-,Detail,-
+1,23643,IML 322,İmalatta Otomasyon,Physical (Face to face),Ramazan Murat Tabanlı,MKB,Friday,09:30/12:29,D456,30,11,-,"IML_LS, IML_MTM_LS, IML_YD",Detail,-
+2,23644,IML 324E,Comp.Aided Manufacturing Eng.,Physical (Face to face),Erkan Günpınar,MKB,Monday,08:30/11:29,D458,30,4,-,"IML_LS, IML_MTM_LS, IMLE_LS",Detail,-
+3,23646,IML 326E,Manuf. of Nonmetalic Prod.,Physical (Face to face),Ersan Üstündağ,"MKB
+MKB","Monday
+Friday","16:30/18:29
+14:30/15:29","--
+--",50,4,-,"IML_LS, IMLE_LS",Detail,-
+4,23651,IML 338,İmalat Sistemleri,Physical (Face to face),Ramazan Murat Tabanlı,MKB,Monday,13:30/16:29,D464,30,1,-,IML_LS,Detail,-
+5,23655,IML 404E,Comp.Simulations in Manuf.Eng.,Physical (Face to face),Canan Gamze Güleryüz Parasız,-,-,-/-,-,40,3,-,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",-,Detail
+6,23659,IML 438E,Tool Design,Physical (Face to face),Turgut Gülmez,MKB,Thursday,13:30/16:29,D368B,40,4,-,"IML_LS, IML_MTM_LS, IMLE_LS",Detail,-
+7,23660,IML 460,Tesis Plan. ve Yerleştirme,Physical (Face to face),Ramazan Murat Tabanlı,MKB,Tuesday,12:30/15:29,--,60,2,-,IML_LS,Detail,-
+8,23662,IML 4901,İmalat Müh. Tasarımı I,Physical (Face to face),İsmail Yalçın Uralcan,-,-,-/-,-,200,1,-,IML_LS,Detail,Detail
+9,23664,IML 4901E,Manufacturing Eng. Design I,Physical (Face to face),-,-,-,-/-,-,0,0,-,IML_LS,Detail,Detail
+10,23665,IML 4902,İmalat Müh. Tasarımı II,Physical (Face to face),İsmail Yalçın Uralcan,-,-,-/-,-,200,5,-,IML_LS,Detail,-
+11,23666,IML 4902E,Manufacturing Eng. Design II,Physical (Face to face),-,-,-,-/-,-,0,0,-,IML_LS,Detail,-
+12,23667,IML 492,İmalat Tasarım Projesi,Physical (Face to face),İsmail Yalçın Uralcan,-,-,-/-,-,200,1,-,IML_LS,-,Detail
+13,23668,IML 492E,Manufacturing Design Project,Physical (Face to face),-,-,-,-/-,-,0,0,-,"IML_LS, IMLE_LS",-,Detail

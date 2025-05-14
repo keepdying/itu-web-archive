@@ -1,0 +1,217 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21198,GEO 108E,Fundamentals of Programming,Virtual (Online),Volkan Özbey,"INB
+INB","Wednesday
+Wednesday","08:30/09:29
+10:30/12:29","--
+--",85,85,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+1,21200,GEO 108E,Fundamentals of Programming,Virtual (Online),Muhammed Enes Atik,"INB
+INB","Wednesday
+Wednesday","09:30/10:29
+12:30/14:29","--
+--",75,33,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+2,21202,GEO 114,Yersel Ölçme Don. Ve Yaz.,Physical (Face to face),Serdar Erol,INB,Thursday,08:30/11:29,A204,30,14,-,"GEO_LS, HTA_LS",Detail,-
+3,21204,GEO 114E,Terr. Surv. Equip. and Soft.,Physical (Face to face),Ramazan Alper Kuçak,INB,Thursday,08:30/11:29,B305,35,35,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+4,21206,GEO 114E,Terr. Surv. Equip. and Soft.,Physical (Face to face),Turan Erden,INB,Thursday,11:30/14:29,A204,50,50,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+5,21208,GEO 182E,Geomatics Project I,Physical (Face to face),Himmet Karaman,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",20,2,-,"GEO_LS, GEOE_LS",Detail,-
+6,21210,GEO 203,Koord. Sist. Ve Jeodezi I,Physical (Face to face),Hayri Hakan Denli,INB,Thursday,13:30/17:29,A103,30,12,-,"GEO_LS, HTA_LS",-,-
+7,21212,GEO 203E,Coordinate Sys. and Geodesy I,Physical (Face to face),"Serdar Erol ,
+Bihter Erol",INB,Wednesday,08:30/12:29,B304,30,27,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+8,21213,GEO 204,Hata Teo ve Dengeleme,Physical (Face to face),Orhan Akyılmaz,INB,Thursday,13:30/17:29,A102,70,71,-,"GEO_LS, HTA_LS",Detail,-
+9,21216,GEO 204E,Th.of Err. And Ad. C.,Physical (Face to face),Mustafa Tevfik Özlüdemir,INB,Monday,13:30/17:29,A205,75,67,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+10,21218,GEO 208,Uzaktan Algılama I,Physical (Face to face),Şinasi Kaya,INB,Monday,09:30/11:29,B201,38,36,-,"GEO_LS, HTA_LS",-,-
+11,21220,GEO 208,Uzaktan Algılama I,Physical (Face to face),Çiğdem Göksel,INB,Monday,10:30/12:29,B302,48,48,-,"GEO_LS, HTA_LS",-,-
+12,21222,GEO 208E,Remote Sensing I,Physical (Face to face),Ayşe Filiz Sunar,INB,Thursday,15:30/17:29,B206,40,38,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+13,21224,GEO 208E,Remote Sensing I,Physical (Face to face),Uğur Algancı,INB,Thursday,15:30/17:29,B204,40,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+14,21226,GEO 210,Yükseklik Ölçmeleri,Physical (Face to face),"Ramazan Alper Kuçak ,
+Hasan Hakan Yavaşoğlu",INB,Tuesday,15:30/17:29,B104,95,94,-,"GEO_LS, HTA_LS",Detail,-
+15,21228,GEO 210E,Fundamentals of Levelling,Physical (Face to face),"Mustafa Fahri Karabulut ,
+Doğuş Güler",INB,Thursday,13:30/15:29,B103,70,62,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+16,21229,GEO 212,Mühendislik Ölçmeleri,Physical (Face to face),"Mustafa Yanalak ,
+Mehmet İşiler",INB,Monday,13:30/16:29,B101,90,91,-,"GEO_LS, HTA_LS",Detail,-
+17,21231,GEO 212E,Engineering Surveying,Physical (Face to face),Ergin Tarı,INB,Monday,09:30/12:29,A302,75,66,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+18,21232,GEO 216,Bilgisayar Dest. Harita Tas.,Physical (Face to face),Mehmet Ufuk Özerman,INB,Thursday,08:30/12:29,D103,40,45,-,"GEO_LS, HTA_LS",-,-
+19,21233,GEO 216,Bilgisayar Dest. Harita Tas.,Physical (Face to face),Adalet Dervişoğlu,INB,Thursday,08:30/12:29,--,40,38,-,"GEO_LS, HTA_LS",-,-
+20,21234,GEO 216E,Computer Aided Map Design,Physical (Face to face),Ahmet Özgür Doğru,INB,Thursday,08:30/12:29,D104,40,36,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+21,21235,GEO 216E,Computer Aided Map Design,Physical (Face to face),Serdar Bilgi,INB,Thursday,08:30/12:29,D101,40,27,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+22,21236,GEO 282E,Geomatics Project II,Physical (Face to face),Mehmet İşiler,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",25,10,-,"GEO_LS, GEOE_LS",Detail,-
+23,21237,GEO 292,Geomatik Projesi 10,Physical (Face to face),Turan Erden,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","B103
+B103",30,30,-,"GEO_LS, HTA_LS",Detail,-
+24,21238,GEO 292,Geomatik Projesi 10,Physical (Face to face),Ramazan Alper Kuçak,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,10,-,"GEO_LS, HTA_LS",Detail,-
+25,21239,GEO 292,Geomatik Projesi 10,Physical (Face to face),Şinasi Kaya,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,10,-,"GEO_LS, HTA_LS",Detail,-
+26,21241,GEO 292,Geomatik Projesi 10,Physical (Face to face),Mustafa Yanalak,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,8,-,"GEO_LS, HTA_LS",Detail,-
+27,21242,GEO 292,Geomatik Projesi 10,Physical (Face to face),Mehmet Ufuk Özerman,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",20,20,-,"GEO_LS, HTA_LS",Detail,-
+28,24839,GEO 292,Geomatik Projesi 10,Physical (Face to face),Doğuş Güler,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,4,-,"GEO_LS, HTA_LS",Detail,-
+29,21244,GEO 292E,Geomatics Project 10,Physical (Face to face),Ergin Tarı,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,9,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+30,21247,GEO 292E,Geomatics Project 10,Physical (Face to face),Muhammed Oğuzhan Mete,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,9,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+31,21249,GEO 292E,Geomatics Project 10,Physical (Face to face),Serdar Bilgi,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,9,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+32,21251,GEO 292E,Geomatics Project 10,Physical (Face to face),Mahmut Oğuz Selbesoğlu,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,9,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+33,21256,GEO 292E,Geomatics Project 10,Physical (Face to face),Ahmet Özgür Doğru,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,10,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+34,21258,GEO 292E,Geomatics Project 10,Physical (Face to face),Uğur Algancı,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",20,16,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+35,25485,GEO 301,Özel Ölçme Uygulamaları,Ek Sınav,Reha Metin Alkan,-,-,-/-,-,0,0,-,-,Detail,-
+36,21261,GEO 302E,Land Management,Physical (Face to face),Doğuş Güler,INB,Tuesday,08:30/11:29,A202,30,12,-,"GEO_LS, GEOE_LS",Detail,-
+37,25092,GEO 303E,Cadastre,Physical (Face to face),Mehmet İşiler,INB,Tuesday,09:30/11:29,B201,30,30,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+38,21265,GEO 306,Fotogrametri II,Physical (Face to face),Zaide Duran,INB,Thursday,08:30/11:29,D202,30,25,-,"GEO_LS, HTA_LS",Detail,-
+39,21266,GEO 306E,Photogrammetry II,Physical (Face to face),Muhammed Enes Atik,INB,Thursday,08:30/11:29,B303,30,29,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+40,21267,GEO 306E,Photogrammetry II,Physical (Face to face),Dursun Zafer Şeker,INB,Tuesday,11:30/14:29,D203,45,41,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+41,25486,GEO 307,Kartografya II,Ek Sınav,Ahmet Özgür Doğru,-,-,-/-,-,0,0,-,-,Detail,-
+42,21268,GEO 308,Taşınmaz Değerlemesi,Physical (Face to face),Reha Metin Alkan,INB,Wednesday,13:30/15:29,A301,50,46,-,"GEO_LS, HTA_LS",-,-
+43,21269,GEO 308E,Real Estate Valuation,Physical (Face to face),Muhammed Oğuzhan Mete,INB,Monday,12:30/14:29,B302,60,59,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+44,21272,GEO 310,Uzaktan Algılama II,Physical (Face to face),Nebiye Musaoğlu,INB,Thursday,13:30/16:29,A205,50,35,-,"GEO_LS, HTA_LS",Detail,-
+45,21274,GEO 310E,Remote Sensing II,Physical (Face to face),Ayşe Filiz Sunar,INB,Wednesday,12:30/15:29,A302,40,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+46,21278,GEO 310E,Remote Sensing II,Physical (Face to face),Esra Erten,INB,Wednesday,12:30/15:29,A303,40,20,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+47,21280,GEO 312E,Spatial Analy. and Alg.in GIS,Physical (Face to face),Doğuş Güler,INB,Monday,14:30/17:29,--,30,30,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+48,21282,GEO 312E,Spatial Analy. and Alg.in GIS,Physical (Face to face),Hande Demirel,INB,Monday,14:30/17:29,D104,30,27,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+49,21284,GEO 312E,Spatial Analy. and Alg.in GIS,Physical (Face to face),Şaziye Özge Atik,INB,Tuesday,14:30/17:29,D103,50,44,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+50,25390,GEO 313E,Digital Image Processing,Ek Sınav,Uğur Algancı,-,-,-/-,-,0,0,-,-,Detail,-
+51,21262,GEO 314,Jeodezi-II ve Projeksiyonlar,Physical (Face to face),Hayri Hakan Denli,INB,Monday,14:30/17:29,A301,60,29,-,"GEO_LS, HTA_LS",Detail,-
+52,21263,GEO 314E,Geodesy II and Projections,Physical (Face to face),Volkan Özbey,INB,Thursday,13:30/16:29,A203,40,34,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+53,21264,GEO 314E,Geodesy II and Projections,Physical (Face to face),Bihter Erol,INB,Thursday,13:30/16:29,B308,40,31,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+54,21290,GEO 322,Arazi Yönetimi,Physical (Face to face),Tahsin Yomralıoğlu,INB,Monday,08:30/10:29,B204,50,32,-,"GEO_LS, HTA_LS",Detail,-
+55,21292,GEO 322E,Land Management,Physical (Face to face),Tahsin Yomralıoğlu,INB,Tuesday,08:30/10:29,A203,60,55,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+56,21294,GEO 325E,Databases in Engineering,Physical (Face to face),"Nebiye Musaoğlu ,
+Aylin Tuzcu Kokal",INB,Tuesday,08:30/10:29,D203,60,60,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+57,21297,GEO 325E,Databases in Engineering,Physical (Face to face),Elif Sertel,INB,Thursday,08:30/10:29,B306,40,19,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+58,21299,GEO 325E,Databases in Engineering,Physical (Face to face),Filiz Bektaş Balçık,INB,Wednesday,08:30/10:29,B305,50,21,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+59,25377,GEO 325E,Databases in Engineering,Physical (Face to face),Şaziye Özge Atik,INB,Tuesday,08:30/10:29,B202,60,60,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+60,21300,GEO 327,Arazi Modelleme,Physical (Face to face),Ramazan Alper Kuçak,INB,Tuesday,11:30/13:29,B202,50,49,-,"GEO_LS, HTA_LS",Detail,-
+61,21303,GEO 327,Arazi Modelleme,Physical (Face to face),Adalet Dervişoğlu,INB,Tuesday,11:30/13:29,B201,50,41,-,"GEO_LS, HTA_LS",Detail,-
+62,21305,GEO 327E,Terrain Modelling,Physical (Face to face),Uğur Algancı,INB,Tuesday,11:30/13:29,A204,70,67,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+63,21307,GEO 382E,Geomatics Project III,Physical (Face to face),Şaziye Özge Atik,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",30,12,-,"GEO_LS, GEOE_LS",Detail,-
+64,21310,GEO 392,Geomatik Projesi 20,Physical (Face to face),Zaide Duran,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,9,-,"GEO_LS, HTA_LS",Detail,-
+65,21312,GEO 392,Geomatik Projesi 20,Physical (Face to face),Adalet Dervişoğlu,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,5,-,"GEO_LS, HTA_LS",Detail,-
+66,21314,GEO 392,Geomatik Projesi 20,Physical (Face to face),Nebiye Musaoğlu,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,9,-,"GEO_LS, HTA_LS",Detail,-
+67,21316,GEO 392,Geomatik Projesi 20,Physical (Face to face),Hayri Hakan Denli,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,3,-,"GEO_LS, HTA_LS",Detail,-
+68,21318,GEO 392,Geomatik Projesi 20,Physical (Face to face),Mustafa Tevfik Özlüdemir,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,1,-,"GEO_LS, HTA_LS",Detail,-
+69,21320,GEO 392,Geomatik Projesi 20,Physical (Face to face),Volkan Özbey,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,10,-,"GEO_LS, HTA_LS",Detail,-
+70,21322,GEO 392E,Geomatics Project 20,Physical (Face to face),Bihter Erol,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,9,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+71,21325,GEO 392E,Geomatics Project 20,Physical (Face to face),Muhammed Enes Atik,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,10,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+72,21327,GEO 392E,Geomatics Project 20,Physical (Face to face),Esra Erten,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,9,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+73,21329,GEO 392E,Geomatics Project 20,Physical (Face to face),Filiz Bektaş Balçık,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","--
+--",10,10,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+74,21331,GEO 392E,Geomatics Project 20,Physical (Face to face),Serdar Erol,"INB
+INB","Friday
+Friday","08:30/11:29
+14:30/17:29","B104
+B104",10,8,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+75,21333,GEO 401E,Physical Geodesy,Physical (Face to face),Bihter Erol,INB,Monday,13:30/15:29,B305,30,6,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+76,21334,GEO 413E,Navigation Sys. and Methods,Physical (Face to face),"Mahmut Oğuz Selbesoğlu ,
+Mustafa Fahri Karabulut",INB,Wednesday,10:30/12:29,D202,50,22,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+77,21336,GEO 415,Jeodezik Uydular,Physical (Face to face),"Serdar Erol ,
+Bihter Erol",INB,Wednesday,13:30/15:29,B206,30,7,-,"GEO_LS, HTA_LS",-,-
+78,21345,GEO 415E,Geodetic Satellite,Physical (Face to face),Caner Güney,INB,Monday,13:30/15:29,A305,30,10,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+79,21348,GEO 427,Fotog. Ve Laser Veri. Entg.,Physical (Face to face),"Zaide Duran ,
+Muhammed Enes Atik",INB,Monday,10:30/12:29,B303,30,24,-,"GEO_LS, HTA_LS",-,-
+80,21350,GEO 433E,Urban Information Systems,Physical (Face to face),Doğuş Güler,INB,Monday,10:30/12:29,B308,45,40,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+81,21352,GEO 435,Kentsel Dönüşüm,Physical (Face to face),Tahsin Yomralıoğlu,INB,Tuesday,11:30/13:29,B307,30,17,-,"GEO_LS, HTA_LS",-,-
+82,21354,GEO 440E,Robotic App. in Geom. Eng.,Physical (Face to face),Caner Güney,INB,Wednesday,13:30/15:29,B303,35,25,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+83,25022,GEO 452E,3D Mod. with Rem. Sens. Data,Physical (Face to face),Adil Enis Arslan,INB,Wednesday,08:30/10:29,B307,25,17,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+84,25354,GEO 460E,Road Design and Construction,Physical (Face to face),Mehmet İşiler,INB,Monday,10:30/12:29,A301,15,4,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+85,21356,GEO 466E,Deformation Measurements,Physical (Face to face),"Serdar Erol ,
+Bihter Erol",INB,Monday,10:30/12:29,B306,30,9,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+86,21359,GEO 468,UA'da Özel Konular,Physical (Face to face),Şinasi Kaya,INB,Thursday,10:30/12:29,B302,30,9,-,"GEO_LS, HTA_LS",Detail,-
+87,21363,GEO 472E,Advanced Remote Sensing,Physical (Face to face),"Nebiye Musaoğlu ,
+Aylin Tuzcu Kokal",INB,Thursday,10:30/12:29,A101,30,22,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+88,21364,GEO 474,Hidrografik Ölçmeler,Physical (Face to face),Reha Metin Alkan,INB,Tuesday,14:30/16:29,A304,35,27,-,"GEO_LS, HTA_LS",-,-
+89,21366,GEO 480E,Building İnf.Model in Geo.Eng.,Physical (Face to face),Hande Demirel,INB,Monday,08:30/10:29,B203,60,58,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+90,21371,GEO 4901,Geomatik Müh. Tasarımı I,Physical (Face to face),Mehmet Ufuk Özerman,-,-,-/-,-,500,10,-,"GEO_LS, HTA_LS",Detail,Detail
+91,21372,GEO 4901E,Geomatics Eng. Design I,Physical (Face to face),Mehmet Ufuk Özerman,-,-,-/-,-,500,10,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,Detail
+92,21373,GEO 4902,Geomatik Müh. Tasarımı II,Physical (Face to face),Mustafa Yanalak,-,-,-/-,-,500,44,-,"GEO_LS, HTA_LS",Detail,-
+93,21375,GEO 4902E,Geomatics Eng. Design II,Physical (Face to face),Mustafa Yanalak,-,-,-/-,-,500,39,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-

@@ -1,0 +1,23 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22675,YZV 104E,Int.toPrg.forDataSci.(Python),Physical (Face to face),Ahmet Cüneyd Tantuğ,"BBB
+BBB","Thursday
+Thursday","09:30/12:29
+13:30/15:29","Z-17
+Z-17",85,73,-,YZVE_LS,-,-
+1,22676,YZV 202E,Optimization for Data Science,Physical (Face to face),Faik Boray Tek,BBB,Tuesday,13:30/16:29,Z-17,70,69,-,YZVE_LS,Detail,-
+2,22677,YZV 212E,Fund.ofArtificial Intelligence,Physical (Face to face),Sanem Sarıel Uzer,BBB,Wednesday,12:30/15:29,Z-19,85,85,-,YZVE_LS,Detail,-
+3,22678,YZV 321E,Fund.ofArtificial Intelligence,Physical (Face to face),Cihan Topal,BBB,Wednesday,12:30/15:29,--,5,2,-,YZVE_LS,Detail,-
+4,22680,YZV 322E,Applied Data Engineering,Physical (Face to face),"Ahmet Cüneyd Tantuğ ,
+Tacettin Ayar",BBB,Monday,12:30/16:29,Z-18,85,77,-,YZVE_LS,Detail,-
+5,22681,YZV 405E,Natural Language Processing,Physical (Face to face),Gülşen Eryiğit,BBB,Wednesday,08:30/11:29,104,55,45,-,YZVE_LS,Detail,-
+6,22682,YZV 416E,Computer Vision,Physical (Face to face),Cihan Topal,BBB,Thursday,14:30/17:29,104,55,49,-,"CEN_LS, YZVE_LS",Detail,-
+7,22686,YZV 445E,Artificial Intelligence Project,Virtual (Online),"Gülşen Eryiğit ,
+Tacettin Ayar",BBB,Thursday,09:30/12:29,Z-23,30,26,-,YZVE_LS,Detail,-
+8,22685,YZV 447E,Cognitive Neuroscience,Physical (Face to face),Murat Okatan,"BBB
+BBB","Wednesday
+Friday","13:30/15:29
+14:30/16:29","Z-23
+Z-23",25,8,-,YZVE_LS,Detail,-
+9,22683,YZV 4901E,AI &Data Engineering Design I,Physical (Face to face),Faik Boray Tek,-,-,-/-,-,45,10,-,YZVE_LS,Detail,Detail
+10,22684,YZV 4902E,AI& Data Engineering Design II,Physical (Face to face),Tuğçe Bilen,-,-,-/-,-,45,29,-,YZVE_LS,Detail,-
+11,25036,YZV 495E,Speech and Audio Processing,Physical (Face to face),Cenk Demiroğlu,BBB,Friday,09:00/11:59,102,20,9,-,YZVE_LS,Detail,-

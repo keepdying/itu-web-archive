@@ -1,0 +1,33 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21450,UZB 106E,Int.Astronaut. Eng.&Des.,Physical (Face to face),Alim Rüstem Aslan,INB,Tuesday,13:30/17:29,D201,100,85,-,"UZB_LS, UZBE_LS",-,-
+1,21445,UZB 112E,Computer Aided Drafting,Physical (Face to face),Hüsnü Barbaros Soyer,INB,Thursday,08:30/11:29,D100,60,42,-,"UCK_LS, UZB_LS, UZBE_LS",-,-
+2,21486,UZB 218E,Int.to Partial Diff.Eq. in Eng,Physical (Face to face),Mehmet Şahin,MEDC,Thursday,14:30/17:29,1D7,25,12,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+3,21479,UZB 220E,Mechanical Vibrations,Physical (Face to face),Özge Özdemir,MEDC,Wednesday,12:30/15:29,ZD1,66,66,-,"UCK_LS, UZB_LS, UZBE_LS",-,-
+4,21480,UZB 220E,Mechanical Vibrations,Physical (Face to face),Demet Balkan,MEDC,Wednesday,12:30/15:29,2D18,66,66,-,"UCK_LS, UZB_LS, UZBE_LS",-,-
+5,21481,UZB 220E,Mechanical Vibrations,Physical (Face to face),Ali Tatar,MEDC,Wednesday,12:30/15:29,ZA2,66,65,-,"UCK_LS, UZB_LS, UZBE_LS",-,-
+6,21487,UZB 310E,Compressible Aerodynamics,Physical (Face to face),Bayram Çelik,MEDC,Tuesday,14:30/17:29,ZA1,60,62,-,"UCK_LS, UZB_LS, UZB_YD, UZBE_LS",Detail,-
+7,21488,UZB 310E,Compressible Aerodynamics,Physical (Face to face),Aydın Mısırlıoğlu,MEDC,Tuesday,14:30/17:29,ZA2,60,60,-,"UCK_LS, UZB_LS, UZB_YD, UZBE_LS",Detail,-
+8,21489,UZB 310E,Compressible Aerodynamics,Physical (Face to face),Melike Nikbay,MEDC,Tuesday,14:30/17:29,3D20,60,42,-,"UCK_LS, UZB_LS, UZB_YD, UZBE_LS",Detail,-
+9,21496,UZB 314E,Heat Transfer,Physical (Face to face),Bülent Tutkun,MEDC,Wednesday,08:30/10:29,ZD1,73,54,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+10,21497,UZB 314E,Heat Transfer,Physical (Face to face),Cemil Kurtcebe,MEDC,Monday,11:30/13:29,3D20,73,88,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+11,21498,UZB 314E,Heat Transfer,Physical (Face to face),Onur Tunçer,MEDC,Wednesday,08:30/10:29,ZA1,73,72,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+12,21503,UZB 318E,Finite Element Method,Physical (Face to face),Vedat Ziya Doğan,MEDC,Monday,14:30/17:29,1D7,48,58,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+13,21475,UZB 337E,Aerospace Structures,Physical (Face to face),Seher Eken,MEDC,Monday,08:30/12:29,ZA2,120,106,-,"UZB_LS, UZBE_LS",Detail,-
+14,25421,UZB 352E,Orbital Mechanics,Ek Sınav,Demet Çilden Güler,-,-,-/-,-,0,1,-,-,Detail,-
+15,21545,UZB 381E,Applic.of Satellite-Based Data,Physical (Face to face),Esra Erten,MEDC,Tuesday,11:30/14:29,1D9,38,35,-,UZBE_LS,-,-
+16,21504,UZB 386E,Boundary Layer Theory,Physical (Face to face),Mete Budaklı,MEDC,Monday,13:30/16:29,1D8,48,48,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+17,25531,UZB 411E,Space Environment,Ek Sınav,Zerefşan Kaymaz,-,-,-/-,-,0,1,-,-,-,-
+18,25429,UZB 415E,Spacecraft Systems Design I,Ek Sınav,Alim Rüstem Aslan,-,-,-/-,-,0,2,-,-,-,Detail
+19,21513,UZB 420E,Spacecraft Systems Design II,Physical (Face to face),Alim Rüstem Aslan,MEDC,Tuesday,08:30/12:29,ZA3,60,41,-,"UZB_LS, UZB_YD, UZBE_LS",Detail,-
+20,21514,UZB 420E,Spacecraft Systems Design II,Physical (Face to face),Alim Rüstem Aslan,MEDC,Monday,08:30/12:29,ZA4,60,39,-,"UZB_LS, UZB_YD, UZBE_LS",Detail,-
+21,21501,UZB 421E,Attitude Determination & Ctrl.,Physical (Face to face),Demet Çilden Güler,MEDC,Friday,09:30/12:29,ZA2,110,113,-,"UZB_LS, UZBE_LS",Detail,-
+22,22717,UZB 425E,Digital Control Design,Physical (Face to face),Burak Boyacıoğlu,MEDC,Thursday,08:30/11:29,1D7,40,24,-,"UCK_LS, UZBE_LS",Detail,-
+23,24428,UZB 438E,Robotic Control Systems,Physical (Face to face),Murad Abu-khalaf,MEDC,Thursday,14:30/17:29,2D15,40,40,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+24,25517,UZB 441E,Rocket Propulsion,Ek Sınav,Fırat Oğuz Edis,-,-,-/-,-,0,2,-,-,Detail,-
+25,23893,UZB 451E,Spacecraft Communications,Physical (Face to face),Erdem Onur Özyurt,MEDC,Friday,14:30/17:29,ZA1,105,105,-,"UZB_LS, UZBE_LS",-,-
+26,21546,UZB 461E,Lunar Mission Trajectories,Physical (Face to face),Cuma Yarım,MEDC,Wednesday,12:30/15:29,1D3,45,32,-,UZBE_LS,Detail,-
+27,22718,UZB 479E,Air and Space Law,Physical (Face to face),Nazlı Can,MEDC,Thursday,14:30/17:29,1D9,40,41,-,"UCK_LS, UZB_LS, UZBE_LS",-,-
+28,25431,UZB 487E,CAD/CAM,Ek Sınav,Hüsnü Barbaros Soyer,-,-,-/-,-,0,1,-,-,-,-
+29,21550,UZB 4901E,Astronautical Eng. Design I,Physical (Face to face),Melike Nikbay,-,-,-/-,-,500,16,-,UZBE_LS,Detail,Detail
+30,21551,UZB 4902E,Astronautical Eng. Design II,Physical (Face to face),Melike Nikbay,-,-,-/-,-,500,71,-,"UZB_LS, UZBE_LS",Detail,-
+31,21549,UZB 492E,Graduation Project,Physical (Face to face),Melike Nikbay,-,-,-/-,-,500,3,-,"UZB_LS, UZBE_LS",-,Detail

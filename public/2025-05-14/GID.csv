@@ -1,0 +1,81 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23338,GID 204E,Momentum Transfer,Physical (Face to face),Filiz Altay,KMB,Thursday,13:30/16:29,D104,95,73,-,"GID_LS, GIDE_LS",Detail,-
+1,23389,GID 210E,Engineering Mathematics,Physical (Face to face),Evren Demircan,"KMB
+KMB","Monday
+Tuesday","15:00/16:59
+11:30/13:29","D205
+D304",25,24,-,GID_LS,Detail,-
+2,23344,GID 212,Termodinamik,Physical (Face to face),Aslı Can Karaça,KMB,Wednesday,08:30/12:29,D102,20,9,-,GID_LS,-,-
+3,23346,GID 214,Termodinamik,Physical (Face to face),Fatma Ebru Fıratlıgil,KMB,Wednesday,09:30/12:29,D104,95,84,-,GID_LS,-,-
+4,23341,GID 222E,Microbiology,Physical (Face to face),Enes Dertli,KMB,Tuesday,13:30/16:29,D203,10,1,-,"GID_LS, GIDE_LS",-,-
+5,23339,GID 224,"Gıda Toksik.,Kontamin.&Katk.",Physical (Face to face),"Beraat Özçelik ,
+Kadriye Nur Kasapoğlu ,
+Merve Tomaş",KMB,Tuesday,08:30/11:29,D201,95,72,-,"GID_LS, GID_YD",-,-
+6,23342,GID 226E,Microbiology,Physical (Face to face),Pervin Başaran Akocak,KMB,Tuesday,13:30/15:29,D105,37,37,-,"GID_LS, GIDE_LS",-,-
+7,23343,GID 226E,Microbiology,Physical (Face to face),Fatih Ortakcı,KMB,Tuesday,13:30/15:29,D204,37,36,-,"GID_LS, GIDE_LS",-,-
+8,23348,GID 306E,Food Plant Design & Economics,Physical (Face to face),"Gürbüz Güneş ,
+Celale Kırkın Gözükırmızı",KMB,Wednesday,12:30/15:29,D304,95,45,-,"GID_LS, GIDE_LS",-,-
+9,25508,GID 311,Gıda Mikrobiyolojisi I,Ek Sınav,Pervin Başaran Akocak,-,-,-/-,-,0,1,-,-,-,-
+10,23361,GID 312E,Food Microbiology II,Physical (Face to face),Hatice Funda Karbancıoğlu Güler,KMB,Friday,09:30/12:29,D302,30,26,-,"GID_LS, GIDE_LS",Detail,-
+11,23363,GID 312E,Food Microbiology II,Physical (Face to face),Enes Dertli,KMB,Friday,09:30/12:29,D106,25,25,-,"GID_LS, GIDE_LS",Detail,-
+12,23364,GID 314,Duyusal Analiz,Physical (Face to face),Beraat Özçelik,KMB,Wednesday,08:30/11:29,D305,8,7,-,GID_LS,-,-
+13,23366,GID 316E,Food Packaging,Physical (Face to face),Gülay Özkan,KMB,Thursday,13:30/16:29,--,9,8,-,"GID_LS, GIDE_LS",-,-
+14,23350,GID 322,Gıda Müh Temel İşlemler II,Physical (Face to face),Fatma Ebru Fıratlıgil,KMB,Thursday,09:30/12:29,D102,95,55,-,GID_LS,Detail,-
+15,23359,GID 324E,"Food Safety,Sanitat.&Preserv.",Physical (Face to face),Fatih Ortakcı,KMB,Friday,09:30/12:29,D103,15,14,-,"GID_LS, GIDE_LS",Detail,-
+16,23352,GID 332,Gıda Mühendisliği Laboratuarı,Physical (Face to face),"Fatma Ebru Fıratlıgil ,
+Celale Kırkın Gözükırmızı",KMB,Monday,08:30/12:29,G114,35,24,-,GID_LS,-,-
+17,23354,GID 332,Gıda Mühendisliği Laboratuarı,Physical (Face to face),"Fatma Ebru Fıratlıgil ,
+Celale Kırkın Gözükırmızı",KMB,Monday,13:00/16:59,G114,35,31,-,GID_LS,-,-
+18,23373,GID 408E,Statistical Methods,Physical (Face to face),"Aslı Can Karaça ,
+Evren Demircan","KMB
+KMB","Monday
+Monday","08:30/10:29
+10:30/12:29","D303
+BIL.LAB.1",80,62,-,"GID_LS, GIDE_LS",-,-
+19,25330,GID 409,Proses Kontrol,Ek Sınav,Filiz Altay,-,-,-/-,-,0,0,-,-,Detail,-
+20,23357,GID 421E,Food Technology,Physical (Face to face),"Meral Kılıç Akyılmaz ,
+Neşe Şahin Yeşilçubuk ,
+Gürbüz Güneş ,
+Derya Kahveci Karıncaoğlu ,
+Gülay Özkan ,
+Esra Çapanoğlu Güven",KMB,Friday,14:00/16:59,D104,95,60,-,"GID_LS, GIDE_LS",-,-
+21,23384,GID 438,Avrupa Birliği Hukukunda Coğrafi İşaretlerin ve Geleneksel Özellikli Ürün Adının Korunması,Physical (Face to face),"Merve Tomaş ,
+Didem Özgür",KMB,Friday,09:30/12:29,GZ102,10,10,-,GID_LS,-,-
+22,23391,GID 442E,Sustainable Food Production,Physical (Face to face),"Derya Kahveci Karıncaoğlu ,
+Celale Kırkın Gözükırmızı",KMB,Wednesday,09:30/11:29,D101,20,15,-,GID_LS,-,-
+23,23370,GID 450,Gıda Müh. Özel Konular,Physical (Face to face),"Esra Çapanoğlu Güven ,
+Meral Kılıç Akyılmaz ,
+Beraat Özçelik ,
+Gürbüz Güneş ,
+Pervin Başaran Akocak ,
+Neşe Şahin Yeşilçubuk ,
+Hatice Funda Karbancıoğlu Güler ,
+Filiz Altay ,
+Enes Dertli ,
+Aslı Can Karaça ,
+Fatma Ebru Fıratlıgil ,
+Derya Kahveci Karıncaoğlu ,
+Merve Tomaş ,
+Celale Kırkın Gözükırmızı ,
+Fatih Ortakcı ,
+Gülay Özkan ,
+Kadriye Nur Kasapoğlu ,
+Evren Demircan",-,-,-/-,-,85,62,-,GID_LS,Detail,Detail
+24,23365,GID 456,Duyusal Analiz,Physical (Face to face),Esra Çapanoğlu Güven,KMB,Wednesday,09:30/11:29,D203,12,15,-,GID_LS,-,-
+25,23367,GID 457E,Food Packaging,Physical (Face to face),Gürbüz Güneş,KMB,Thursday,13:30/15:29,D302,15,8,-,"GID_LS, GIDE_LS",-,-
+26,23383,GID 461E,Shelf Life of Foods,Physical (Face to face),Meral Kılıç Akyılmaz,KMB,Thursday,13:30/15:29,D106,17,14,-,"GID_LS, GIDE_LS",-,-
+27,23386,GID 465,Coğrafi İşaretlerin Korunması,Physical (Face to face),Beraat Özçelik,KMB,Friday,09:30/11:29,D105,17,17,-,GID_LS,-,-
+28,25222,GID 4901E,Food Engineering Design I,Physical (Face to face),Meral Kılıç Akyılmaz,KMB,Wednesday,10:30/15:29,--,0,6,-,"GID_LS, GIDE_LS",Detail,Detail
+29,23368,GID 4902,Gıda Mühendisliği Tasarımı II,Physical (Face to face),"Gürbüz Güneş ,
+Celale Kırkın Gözükırmızı","KMB
+KMB","Tuesday
+Thursday","08:30/13:29
+12:30/13:29","D303
+D301",90,32,-,GID_LS,Detail,-
+30,23369,GID 4902,Gıda Mühendisliği Tasarımı II,Physical (Face to face),"Meral Kılıç Akyılmaz ,
+Enes Dertli ,
+Fatma Ebru Fıratlıgil","KMB
+KMB","Tuesday
+Thursday","08:30/13:29
+12:30/13:29","D103
+D304",90,22,-,GID_LS,Detail,-

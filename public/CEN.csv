@@ -1,9 +1,0 @@
-,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
-0,25219,CEN 102E,Intr to Sci&Eng Comp (C),Physical (Face to face),Meriç Yücel,"BBB
-BBB","Wednesday
-Friday","08:30/11:29
-14:30/16:29","Z-20
-Z-20",50,33,-,CEN_LS,-,-
-1,25278,CEN 202E,Numerical Methods in CE,Physical (Face to face),Deniz Turgay Altılar,BBB,Monday,08:30/11:29,102,60,38,-,CEN_LS,Detail,-
-2,25218,CEN 222E,Computer Organization,Physical (Face to face),Kadir Özlem,BBB,Thursday,08:30/11:29,Z-19,90,85,-,CEN_LS,Detail,-
-3,25217,CEN 354E,Signal&Systems for Comp.Eng.,Physical (Face to face),İbrahim Papila,BBB,Monday,08:30/11:29,Z-21,50,43,-,CEN_LS,Detail,-

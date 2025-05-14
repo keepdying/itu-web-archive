@@ -1,0 +1,54 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21825,MTH 102,Calculus II,Physical (Face to face),-,"KMB
+KMB","Monday
+Tuesday","15:30/17:29
+08:30/11:29","--
+--",0,0,-,MBI_LS,Detail,-
+1,21826,MTH 102,Calculus II,Physical (Face to face),Samet Yücel Kadıoğlu,"BBB
+BBB","Monday
+Tuesday","15:30/17:29
+08:30/11:29","101
+101",30,30,-,"MBI_LS, SBL_LS",Detail,-
+2,21827,MTH 104,Calculus II,Physical (Face to face),Ahmet Kırış,"FEB
+FEB","Monday
+Tuesday","15:30/17:29
+08:30/11:29","L400
+L400",30,25,-,SED_LS,Detail,-
+3,21833,MTH 105,Calculus I,Physical (Face to face),Burhaneddin İzgi,FEB,Tuesday,08:30/11:29,B1_226,20,6,-,SIS_LS,-,-
+4,21834,MTH 106,Calculus II,Physical (Face to face),Cihangir Özemir,EEB,Tuesday,08:30/11:29,Z1,30,21,-,SIS_LS,Detail,-
+5,21835,MTH 108,Calculus II,Physical (Face to face),Nurhan Çolakoğlu,"INB
+MEDC","Monday
+Tuesday","14:30/17:29
+08:30/11:29","B102
+1D9",35,36,-,"SGI_LS, SIN_LS",Detail,-
+6,21836,MTH 108,Calculus II,Physical (Face to face),-,"INB
+INB","Monday
+Tuesday","09:30/12:29
+08:30/11:29","--
+--",0,0,-,SIN_LS,Detail,-
+7,21840,MTH 118,Mathematics II,Physical (Face to face),-,"MED
+MEDC","Monday
+Tuesday","15:30/17:29
+08:30/11:29","--
+--",0,0,-,NAE_LS,Detail,-
+8,25131,MTH 118,Mathematics II,Physical (Face to face),Sabire Cömert,"DZB
+DZB","Tuesday
+Thursday","18:30/20:29
+14:30/17:29","--
+--",60,13,-,"MEN_LS, MTM_LS",Detail,-
+9,21837,MTH 132,Mathematics II,Physical (Face to face),Elif Canfes,"EEB
+EEB","Monday
+Tuesday","15:30/17:29
+08:30/11:29","1301
+5303",20,17,-,EHN_LS,Detail,-
+10,22224,MTH 132,Mathematics II,Physical (Face to face),-,-,-,-/-,-,0,0,-,-,Detail,-
+11,21841,MTH 204,Linear Algebra,Physical (Face to face),Güler Arsan,FEB,Monday,14:30/17:29,D201,30,13,-,"ARC_LS, NAE_LS",-,-
+12,25136,MTH 204,Linear Algebra,Physical (Face to face),Bayram Barış Kızılsaç,DZB,Wednesday,17:30/20:29,--,20,6,-,"MEN_LS, MTM_LS",-,-
+13,22173,MTH 271,Probability and Statistics,Physical (Face to face),Tuba Yılmaz Abdolsaheb,EEB,Friday,08:30/11:29,1303,30,20,-,EHN_LS,-,-
+14,24552,MTH 401E,RISC-V Architecture &Processor,Physical (Face to face),-,-,-,-/-,-,0,0,-,-,-,Detail
+15,24891,MTH 401E,RISC-V Architecture &Processor,Virtual (Online),"Müştak Erhan Yalçın ,
+Hasan Erdem Yantır",EEB,Wednesday,12:30/15:29,5205,50,22,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS",-,Detail
+16,24553,MTH 403E,Fnc.Safety&PwrtrainAppAutoInd,Virtual (Online),İlker Üstoğlu,EEB,Tuesday,08:30/11:29,2106,50,44,-,"ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,Detail
+17,25195,MTH 406,Model Tabanlı Tasarım ve Yapay Zeka,Virtual (Online),Tufan Kumbasar,EEB,Tuesday,16:00/18:59,2102,70,42,-,"EHB_LS, ELK_LS, KOM_LS",-,-
+18,25202,MTH 407,Otomatik Hedef İzleme Temelleri,Physical (Face to face),Burcu Tunga,INB,Wednesday,09:30/12:29,A104,55,42,FIZ/5/0 | Diğer/50/42,"FIZ_LS, MAT_LS",Detail,-
+19,25189,MTH 408,Uzay Radyasyon Ortamı ve Etkileri,Virtual (Online),Berna Morova,FEB,Friday,14:00/16:59,--,40,40,-,FIZ_LS,-,-

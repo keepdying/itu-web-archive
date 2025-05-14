@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22720,MEK 205,Mühendislik Mekaniği,Physical (Face to face),Oğuz Altay,MKB,Monday,09:30/12:29,A101,80,62,-,"CHZ_LS, END_LS, GID_LS, GMI_LS, IML_LS, ISL_LS, JEF_LS, JEO_LS, MAD_LS, PET_LS",Detail,-
+1,25336,MEK 205,Mühendislik Mekaniği,Ek Sınav,Uğurcan Eroğlu,-,-,-/-,-,0,1,-,-,Detail,-
+2,22339,MEK 205E,Engineering Mechanics,Physical (Face to face),Metin Kayıtmazbatır,MKB,Thursday,09:30/12:29,A201,80,128,-,"CHZ_LS, CHZE_LS, END_LS, ENDE_LS, GID_LS, GMI_LS, GMIE_LS, IML_LS, IND_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, MEN_LS, PET_LS, PETE_LS, TEKE_LS",Detail,-
