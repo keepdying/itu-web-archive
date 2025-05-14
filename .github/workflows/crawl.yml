@@ -6,9 +6,8 @@ on:
   #     - "main"
   workflow_dispatch:
   schedule:
-  # “At 00:00 on day-of-month 15 in every 3rd month.”
+    # “At 00:00 on day-of-month 15 in every 3rd month.”
     - cron: '0 0 15 */3 *'
-
 
 permissions:
   contents: write
@@ -22,20 +21,35 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Setup Python
         uses: actions/setup-python@v2.2.2
         with:
-             python-version: 3.9
+          python-version: 3.9
+
       - name: Install Python dependencies
         run: |
           pip install selenium webdriver_manager pandas tqdm
+
       - name: Fetch Course programme
-        run: python yum.py
-      - name: Push to repo
+        run: python yum.py # This script is expected to make changes in ./public/
+
+      - name: Commit and Push to repo
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "username@users.noreply.github.com"
+
           git add ./public/
+
+          if ! git diff --staged --quiet; then
+            echo "Changes detected in ./public/, committing..."
+            git commit -m "${{ env.CI_COMMIT_MESSAGE }} (before rebase)"
+          else
+            echo "No changes in ./public/ to commit."
+          fi
+
+          echo "Pulling from origin main with rebase..."
           git pull --rebase origin main
-          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
-          git push
+
+          echo "Pushing to origin main..."
+          git push origin main
