@@ -46,6 +46,7 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
   const [selectedDay, setSelectedDay] = useState<string[]>([]);
   const [selectedBuilding, setSelectedBuilding] = useState<string>("");
   const [selectedMajorRestriction, setSelectedMajorRestriction] = useState<string[]>([]);
+  const [selectedInstructor, setSelectedInstructor] = useState<string[]>([]);
 
   const StyledTableCell = styled(TableCell, {
     shouldForwardProp: (prop) => prop !== 'isPlaceholder',
@@ -87,6 +88,7 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
     setSelectedDay([]);
     setSelectedBuilding("");
     setSelectedMajorRestriction([]);
+    setSelectedInstructor([]);
     setNoDataAvailable(false);
     if (csvUrl === '') {
       setLoading(false);
@@ -113,6 +115,7 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
       setSelectedDay([]);
       setSelectedBuilding("");
       setSelectedMajorRestriction([]);
+      setSelectedInstructor([]);
       setNoDataAvailable(false);
     });
   }, [csvUrl]);
@@ -125,6 +128,7 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
   const dayOptions = useMemo(() => getUniqueSortedColumnValues(tableData, 'Day'), [tableData]);
   const buildingOptions = useMemo(() => getUniqueSortedColumnValues(tableData, 'Building'), [tableData]);
   const majorRestrictionOptions = useMemo(() => getUniqueParsedAndSortedColumnValues(tableData, 'Major Restriction', ', '), [tableData]);
+  const instructorOptions = useMemo(() => getUniqueSortedColumnValues(tableData, 'Instructor'), [tableData]);
 
   const filteredData = tableData.filter((row) => {
     // Text search filter
@@ -150,7 +154,10 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
       }
     }
 
-    return searchMatch && dayMatch && buildingMatch && majorRestrictionMatch;
+    // Instructor filter logic for multi-select
+    const instructorMatch = selectedInstructor.length === 0 || (row && selectedInstructor.includes(String(row['Instructor'])));
+
+    return searchMatch && dayMatch && buildingMatch && majorRestrictionMatch && instructorMatch;
   });
 
   if (csvUrl == '') {
@@ -171,45 +178,102 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
 
   return (
     <Box sx={{ width: '100%' }}>
-      <Box sx={{ display: 'flex', gap: 2, marginBottom: 2, alignItems: 'center', flexWrap: 'wrap' }}>
+      {/* Container for all filters and search input */}
+      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2, marginBottom: 2 }}>
+        {/* Box for dropdown filters - allows wrapping and centers items */}
+        <Box sx={{
+          display: 'flex', 
+          flexWrap: 'wrap', 
+          gap: 2, 
+          alignItems: 'center', 
+          justifyContent: 'center' // Center items on each line
+        }}>
+          {dayOptions.length > 0 && (
+            <Box sx={{
+              minWidth: 150, 
+              flexGrow: 1, // Allow to grow
+              [theme.breakpoints.down('sm')]: { // On small screens (mobile)
+                minWidth: 'calc(50% - 8px)', // 50% width minus half the gap (gap is theme.spacing(2) = 16px)
+                flexBasis: 'calc(50% - 8px)',
+              }
+            }}>
+              <DropdownSelect
+                isMulti={true}
+                options={[{ label: "All Days", value: "" }, ...dayOptions]}
+                label="Day"
+                selectedValue={selectedDay}
+                setSelectedValue={setSelectedDay}
+              />
+            </Box>
+          )}
+          {buildingOptions.length > 0 && (
+            <Box sx={{
+              minWidth: 150, 
+              flexGrow: 1,
+              [theme.breakpoints.down('sm')]: {
+                minWidth: 'calc(50% - 8px)',
+                flexBasis: 'calc(50% - 8px)',
+              }
+            }}>
+              <DropdownSelect
+                options={[{ label: "All Buildings", value: "" }, ...buildingOptions]}
+                label="Building"
+                selectedValue={selectedBuilding}
+                setSelectedValue={setSelectedBuilding}
+              />
+            </Box>
+          )}
+          {/* Instructor filter - moved before Major Restriction */}
+          {instructorOptions.length > 0 && (
+            <Box sx={{
+              minWidth: 200, 
+              maxWidth: 300, 
+              flexGrow: 1,
+              [theme.breakpoints.down('sm')]: {
+                minWidth: 'calc(50% - 8px)',
+                maxWidth: 'calc(50% - 8px)', 
+                flexBasis: 'calc(50% - 8px)',
+              }
+            }}>
+              <DropdownSelect
+                isMulti={true}
+                options={[{ label: "All Instructors", value: "" }, ...instructorOptions]}
+                label="Instructor"
+                selectedValue={selectedInstructor}
+                setSelectedValue={setSelectedInstructor}
+              />
+            </Box>
+          )}
+          {/* Major Restriction filter - now after Instructor */}
+          {majorRestrictionOptions.length > 0 && (
+            <Box sx={{
+              minWidth: 250, 
+              maxWidth: 400, 
+              flexGrow: 1,
+              [theme.breakpoints.down('sm')]: {
+                minWidth: 'calc(50% - 8px)',
+                maxWidth: 'calc(50% - 8px)', 
+                flexBasis: 'calc(50% - 8px)',
+              }
+            }}>
+              <DropdownSelect
+                isMulti={true}
+                options={[{ label: "All Major Restrictions", value: "" }, ...majorRestrictionOptions]}
+                label="Major Restriction"
+                selectedValue={selectedMajorRestriction}
+                setSelectedValue={setSelectedMajorRestriction}
+              />
+            </Box>
+          )}
+        </Box>
+        {/* Search input - now separate and will take full width of its line */}
         <Input 
           placeholder="Search table..." 
           value={searchTerm} 
           onChange={handleSearchChange} 
-          sx={{ flexGrow: 1, padding: '4px 8px', border: '1px solid lightgray', borderRadius: '4px' }} 
+          fullWidth // Make search input take full width
+          sx={{ padding: '4px 8px', border: '1px solid lightgray', borderRadius: '4px' }} 
         />
-        {dayOptions.length > 0 && (
-          <Box sx={{ minWidth: 150 }}>
-            <DropdownSelect
-              isMulti={true}
-              options={[{ label: "All Days", value: "" }, ...dayOptions]}
-              label="Day"
-              selectedValue={selectedDay}
-              setSelectedValue={setSelectedDay}
-            />
-          </Box>
-        )}
-        {buildingOptions.length > 0 && (
-          <Box sx={{ minWidth: 150 }}>
-            <DropdownSelect
-              options={[{ label: "All Buildings", value: "" }, ...buildingOptions]}
-              label="Building"
-              selectedValue={selectedBuilding}
-              setSelectedValue={setSelectedBuilding}
-            />
-          </Box>
-        )}
-        {majorRestrictionOptions.length > 0 && (
-          <Box sx={{ minWidth: 250, maxWidth: 400 }}>
-            <DropdownSelect
-              isMulti={true}
-              options={[{ label: "All Major Restrictions", value: "" }, ...majorRestrictionOptions]}
-              label="Major Restriction"
-              selectedValue={selectedMajorRestriction}
-              setSelectedValue={setSelectedMajorRestriction}
-            />
-          </Box>
-        )}
       </Box>
       <TableContainer component={Paper} sx={{ maxHeight: '70vh' }}>
         <Table sx={{minWidth: 650}} size="small" stickyHeader>
