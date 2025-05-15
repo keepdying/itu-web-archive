@@ -3,11 +3,11 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  basePath: '/itu-web-archive',
+  basePath: "/itu-web-archive",
   // assetPrefix: '/itu-web-archive/',
   images: {
-    unoptimized : true
+    unoptimized: true,
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
