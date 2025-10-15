@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12857,IND 113E,Int.to Industrial Eng.& Ethics,Physical (Face to face),Şeyda Serdar Asan,MEDC,Wednesday,09:30/11:29,1D3,40,36,-,IND_LS,-,-
+1,12858,IND 210E,Linear Algebra for Indust.Eng.,Physical (Face to face),Kenan Mengüç,MSB,Thursday,09:30/12:29,B04,40,32,-,IND_LS,Detail,-
+2,12859,IND 213E,Data Manag.in Industrial Syst.,Virtual (Online),Başar Öztayşi,ISB,Monday,09:30/12:29,--,40,26,-,IND_LS,-,-
+3,12860,IND 215E,System Thinking and Analysis,Physical (Face to face),Ayşe Elvan Bayraktaroğlu,ISB,Monday,14:30/16:29,104,40,31,-,IND_LS,-,-
+4,12861,IND 252E,Theory of Probability,Physical (Face to face),Hatice Tekiner Moğulkoç,MSB,Thursday,14:30/17:29,B01,40,34,-,IND_LS,Detail,-
+5,12862,IND 305E,Data Analytics for Business,Virtual (Online),Mehmet Ali Ergün,ISB,Friday,14:30/17:29,--,25,16,-,IND_LS,Detail,-
+6,12863,IND 332E,Operations Research II,Physical (Face to face),Tuğberk Tunçinan,MSB,Tuesday,14:30/17:29,B04,25,22,-,IND_LS,Detail,-
+7,12864,IND 341E,Work Analysis and Design,Physical (Face to face),Çiğdem Altın Gümüşsoy,MSB,Tuesday,09:30/12:29,B01,40,39,-,IND_LS,Detail,-
+8,12865,IND 421E,Production Planning&Control,Physical (Face to face),Esra Baş,MSB,Thursday,09:30/12:29,B02,25,22,-,IND_LS,Detail,-

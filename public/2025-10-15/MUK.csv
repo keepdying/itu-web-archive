@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,13003,MUK 203,Mukavemet I,Physical (Face to face),Oktay Eren Türeyen,MEDC,Tuesday,13:30/16:29,ZA2,80,75,-,DEN_LS,Detail,-
+1,15602,MUK 204E,Strength of Materials II,Ek Sınav,Oktay Eren Türeyen,-,-,-/-,-,0,0,-,-,Detail,-
+2,15061,MUK 205,Mukavemet,Physical (Face to face),Uğurcan Eroğlu,"MKB
+MKB","Tuesday
+Wednesday","11:30/14:29
+08:30/10:29","D462
+D462",40,4,-,IML_LS,Detail,-
+3,13708,MUK 207E,Strength of Materials,Physical (Face to face),Levent Önal,MKB,Monday,09:30/12:29,D381B,40,28,-,"TEK_LS, TEKE_LS",Detail,-
+4,12433,MUK 211,Mukavemet,Physical (Face to face),Zahit Mecitoğlu,"MEDC
+MEDC","Monday
+Tuesday","12:30/14:29
+11:30/13:29","ZA1
+ZA1",60,47,-,UCK_LS,Detail,-
+5,12434,MUK 211E,Strength of Materials,Physical (Face to face),Tahir Soyugüzel,"MEDC
+MEDC","Monday
+Tuesday","12:30/14:29
+11:30/13:29","ZA2
+ZA2",60,73,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-

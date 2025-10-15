@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12876,VBA 111E,Introduction to Data Science and Analytics,Physical (Face to face),Muammer Altan Çakır,MSB,Friday,14:30/16:29,212,40,34,-,VBAE_LS,-,-
+1,12877,VBA 113E,Foundations of Algorithm and Programming,Physical (Face to face),Mahmut Sami Sivri,ISB,Thursday,14:30/17:29,101,40,35,-,VBAE_LS,-,-
+2,12878,VBA 115E,Fundamentals of Linux,Physical (Face to face),Mehmet Ali Ergün,ISB,Monday,14:30/17:29,101,40,34,-,VBAE_LS,-,-
+3,12879,VBA 211E,Deterministic Models in Data Science,Physical (Face to face),Burhaneddin Sandıkçı,ISB,Tuesday,09:30/12:29,108,40,17,VBAE_LS/3/3 | IND_LS/7/1 | Diğer/30/13,"END_LS, ENDE_LS, IND_LS, VBAE_LS",Detail,-
+4,12880,VBA 213E,Data Visualization,Physical (Face to face),Mehmet Ali Ergün,MSB,Monday,09:30/12:29,B02,20,13,-,VBAE_LS,-,-
+5,12881,VBA 311E,Statistics,Physical (Face to face),Mehmet Güray Güler,MSB,Wednesday,09:30/12:29,101,60,75,VBAE_LS/3/3 | Diğer/57/72,"END_LS, ENDE_LS, VBAE_LS",Detail,-

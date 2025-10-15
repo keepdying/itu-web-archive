@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15368,PHY 107,Physics I,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Wednesday,17:30/20:29,--,0,3,-,"MEN_LS, MTM_LS",-,-
+1,15364,PHY 108,Physics II,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Monday,17:30/20:29,--,0,1,-,"MEN_LS, MTM_LS",-,-
+2,14536,PHY 123,Physics I,Physical (Face to face),Kazım Yavuz Ekşi,EEB,Tuesday,14:30/17:29,1303,40,40,-,EHN_LS,-,-
+3,14537,PHY 123L,Physics I Lab,Physical (Face to face),Kazım Yavuz Ekşi,EEB,Wednesday,13:30/15:29,1303,40,35,-,EHN_LS,-,-
+4,11016,PHY 125,Physics I,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Monday,08:30/11:29,--,10,10,-,"SDU_LS, SGM_LS",-,-
+5,13113,PHY 125,Physics I,Physical (Face to face),İbrahim Türhan,EEB,Tuesday,14:30/17:29,5103,40,25,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+6,15226,PHY 125,Physics I,Physical (Face to face),Abdurrahman Savaş Arapoğlu,FEB,Tuesday,14:30/17:29,D106,40,6,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+7,15229,PHY 125,Physics I,Physical (Face to face),Sevim İşçi Turutoğlu,FEB,Tuesday,14:30/17:29,D204,40,27,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+8,11017,PHY 125L,Physics I Laboratory,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Wednesday,08:30/10:29,--,10,6,-,"SDU_LS, SGM_LS",-,-
+9,11208,PHY 125L,Physics I Laboratory,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Wednesday,13:30/15:29,--,10,4,-,"GMI_LS, SGM_LS",-,-
+10,13114,PHY 125L,Physics I Laboratory,Physical (Face to face),İbrahim Türhan,FEB,Wednesday,13:30/15:29,--,40,26,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+11,15228,PHY 125L,Physics I Laboratory,Physical (Face to face),Abdurrahman Savaş Arapoğlu,FEB,Wednesday,08:30/10:29,--,40,8,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+12,15231,PHY 125L,Physics I Laboratory,Physical (Face to face),Sevim İşçi Turutoğlu,FEB,Wednesday,10:30/12:29,--,40,22,-,"MBI_LS, SED_LS, SGI_LS, SIN_LS",-,-
+13,13571,PHY 127,Physics,Physical (Face to face),Demet Aktaş,FEB,Tuesday,13:30/16:29,L300,45,17,-,SBL_LS,-,-
+14,13572,PHY 127L,Physics Lab,Physical (Face to face),Demet Aktaş,BBB,Wednesday,13:30/15:29,--,45,16,-,SBL_LS,-,-

@@ -1,0 +1,48 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14011,EUT 117E,Int.to Indus.Prod.Dsgn.&Ethics,Physical (Face to face),"Cemal İrfan Çalışkan ,
+Layıka Ney Ece Arıburun Kırca ,
+Elif Küçüksayraç",MMB,Thursday,13:30/16:29,229,90,80,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+1,14013,EUT 204E,Manufacturing Methods,Physical (Face to face),Demet Günal Ertaş,MMB,Monday,13:30/17:29,313,10,0,-,"EUT_LS, EUT_YD, EUTE_LS",-,-
+2,14022,EUT 220E,Industrial Design Studio I,Physical (Face to face),Elif Küçüksayraç,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",20,3,-,"ENTE_LS, EUT_LS, EUTE_LS",Detail,-
+3,14027,EUT 241E,Computer Aided Design,Physical (Face to face),Ahmet Hamurcu,MMB,Tuesday,09:30/12:29,BIM2,30,29,-,"ENTE_LS, EUT_LS, EUTE_LS",-,-
+4,14029,EUT 241E,Computer Aided Design,Physical (Face to face),Cemal İrfan Çalışkan,MMB,Friday,08:30/11:29,BIM2,30,34,-,"ENTE_LS, EUT_LS, EUTE_LS",-,-
+5,14030,EUT 271E,Research for Product Design,Physical (Face to face),Pelin Efilti,MMB,Wednesday,13:30/15:29,230,120,82,-,"ENT_LS, ENTE_LS, EUT_LS, EUTE_LS",-,-
+6,14033,EUT 319E,Industrial Design Studio II,Physical (Face to face),Özge Çelikoğlu,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","217D
+217D",27,23,-,"ENTE_LS, EUT_LS, EUTE_LS",Detail,-
+7,14035,EUT 319E,Industrial Design Studio II,Physical (Face to face),Ahmet Hamurcu,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","217A
+217A",27,27,-,"ENTE_LS, EUT_LS, EUTE_LS",Detail,-
+8,14039,EUT 319E,Industrial Design Studio II,Physical (Face to face),Ekrem Cem Alppay,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",27,26,-,"ENTE_LS, EUT_LS, EUTE_LS",Detail,-
+9,14042,EUT 320E,Industrial Design Studio III,Physical (Face to face),Çiğdem Kaya,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",20,7,-,"ENTE_LS, EUT_LS, EUTE_LS",Detail,-
+10,14044,EUT 325E,History of Design II,Physical (Face to face),Meltem Maralcan Gülmen,MMB,Tuesday,09:30/12:29,214,90,82,-,"ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+11,14055,EUT 367E,Intr. to Mechanical Design,Physical (Face to face),Eren Mutlu,MMB,Thursday,08:30/12:29,231,90,88,-,"ENTE_LS, EUT_YD, EUTE_LS",-,-
+12,14058,EUT 419E,Industrial Design Studio IV,Physical (Face to face),Aysun Ateş Akdeniz,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","217C
+217C",32,32,-,"ENTE_LS, EUT_LS, EUTE_LS",Detail,-
+13,14059,EUT 419E,Industrial Design Studio IV,Physical (Face to face),Layıka Ney Ece Arıburun Kırca,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",32,32,-,"ENTE_LS, EUT_LS, EUTE_LS",Detail,-
+14,14060,EUT 423E,Cult.and Com.in Product Design,Physical (Face to face),Özge Çelikoğlu,MMB,Thursday,13:30/15:29,216,90,72,-,"ENTE_LS, EUT_LS, EUTE_LS",-,-
+15,14068,EUT 4902E,Graduation Project,Physical (Face to face),Ekrem Cem Alppay,-,-,-/-,-,500,30,-,"ENTE_LS, EUT_LS, EUTE_LS",Detail,Detail
+16,14067,EUT 492,Bitirme Çalışması,Physical (Face to face),Ekrem Cem Alppay,-,-,-/-,-,50,0,-,EUT_LS,Detail,Detail

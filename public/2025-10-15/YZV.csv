@@ -1,0 +1,23 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,13515,YZV 101E,Intr. to AI & Data Eng& Ethics,Physical (Face to face),Tuğçe Bilen,BBB,Wednesday,13:30/15:29,122,5,0,-,YZVE_LS,-,-
+1,13516,YZV 103E,Intr. to AI & Data Eng& Ethics,Physical (Face to face),Faik Boray Tek,BBB,Wednesday,13:30/15:29,104,65,61,-,YZVE_LS,-,-
+2,13520,YZV 201E,Data Structures,Physical (Face to face),Gülşen Eryiğit,BBB,Tuesday,08:30/12:29,104,70,59,-,YZVE_LS,Detail,-
+3,13522,YZV 211E,Intro to Data Science and Eng.,Physical (Face to face),Ahmet Cüneyd Tantuğ,BBB,Wednesday,09:30/12:29,Z-17,75,70,-,YZVE_LS,-,-
+4,13527,YZV 302E,Deep Learning,Physical (Face to face),Behçet Uğur Töreyin,BBB,Monday,14:30/17:29,122,5,1,-,YZVE_LS,Detail,-
+5,13528,YZV 303E,Deep Learning,Physical (Face to face),Faik Boray Tek,BBB,Monday,14:30/17:29,104,65,66,-,YZVE_LS,Detail,-
+6,13533,YZV 311E,Data Mining,Physical (Face to face),Şule Öğüdücü,BBB,Tuesday,13:30/16:29,104,65,59,-,YZVE_LS,Detail,-
+7,13535,YZV 312E,Data Mining,Physical (Face to face),Tuğçe Bilen,BBB,Tuesday,13:30/16:29,--,5,2,-,YZVE_LS,Detail,-
+8,13553,YZV 401E,Legal Aspects of AI&Data Eng.,Physical (Face to face),Çiçek Ersoy Kekevi,BBB,Friday,14:30/16:29,Z-19,80,53,-,YZVE_LS,-,-
+9,13557,YZV 406E,Robotics,Physical (Face to face),Sanem Sarıel Uzer,BBB,Wednesday,09:30/12:29,104,83,79,-,"BLGE_LS, YZVE_LS",Detail,-
+10,13554,YZV 411E,Big Data Analytics,Physical (Face to face),Cihan Topal,BBB,Thursday,14:30/17:29,Z-20,55,53,-,YZVE_LS,Detail,-
+11,13560,YZV 413E,Graph Theory and Algorithms,Physical (Face to face),Berna Kiraz,BBB,Tuesday,09:30/12:29,102,35,34,-,YZVE_LS,Detail,-
+12,13561,YZV 445E,Artificial Intelligence Project,Physical (Face to face),Gözde Ünal,BBB,Monday,09:30/12:29,122,20,11,-,YZVE_LS,Detail,-
+13,13558,YZV 447E,Cognitive Neuroscience,Physical (Face to face),Didem Gökçay,"BBB
+BBB","Tuesday
+Friday","15:30/17:29
+17:00/18:59","121
+122",20,11,-,YZVE_LS,Detail,-
+14,14386,YZV 448E,Machine Learning System Development and Operations (MLOps),Physical (Face to face),Mehmet Tunçel,BBB,Monday,13:30/16:29,121,25,24,-,YZVE_LS,Detail,-
+15,13559,YZV 475E,Data Visualization,Physical (Face to face),Sefer Baday,BBB,Wednesday,12:30/15:29,123,35,41,-,YZVE_LS,Detail,-
+16,13555,YZV 4901E,AI &Data Engineering Design I,Physical (Face to face),Faik Boray Tek,-,-,-/-,-,40,39,-,YZVE_LS,Detail,Detail
+17,13556,YZV 4902E,AI& Data Engineering Design II,Physical (Face to face),Tuğçe Bilen,-,-,-/-,-,40,10,-,YZVE_LS,Detail,-

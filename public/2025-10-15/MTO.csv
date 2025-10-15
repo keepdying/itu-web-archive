@@ -1,0 +1,78 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12633,MTO 101,Meteoroloji Müh. Giriş ve Etik,Physical (Face to face),Ahmet Duran Şahin,MEDC,Thursday,13:30/14:29,ZA3,65,63,-,"IBM_LS, MTO_LS",-,-
+1,15609,MTO 102,Bilgisayarlı Teknik Resim,Ek Sınav,Hüsnü Barbaros Soyer,-,-,-/-,-,0,0,-,-,-,-
+2,12634,MTO 111E,Intr. to Atmospheric Sciences,Physical (Face to face),Mikdat Kadıoğlu,MEDC,Monday,14:30/17:29,ZD1,75,73,-,"IBM_LS, MTO_LS, MTOE_LS",-,-
+3,15640,MTO 214,Atmosfer Termodinamiği,Ek Sınav,Kasım Koçak,-,-,-/-,-,0,0,-,-,-,-
+4,14744,MTO 223,Bilgisayar Grafiğine Giriş,Physical (Face to face),Barış Önol,MEDC,Friday,14:30/17:29,2D18,95,79,-,"IBM_LS, IBM_YD, MTO_LS",-,-
+5,12655,MTO 225,Güneş ve Yer Radyasyonu,Physical (Face to face),Filiz Türk Katırcıoğlu,MEDC,Thursday,14:30/17:29,2D11,45,45,-,"FIZ_LS, IBM_LS, MTO_LS",-,-
+6,12656,MTO 225E,Solar & Terrestrial Radiation,Physical (Face to face),Deniz Demirhan,MEDC,Thursday,14:30/17:29,1D9,45,25,-,"FIZ_LS, FIZE_LS, IBM_LS, MTO_LS, MTOE_LS",-,-
+7,12659,MTO 227,Ekosistem Ekolojisi,Physical (Face to face),Barış Çaldağ,MEDC,Monday,14:30/17:29,2D11,35,32,-,"IBM_LS, MTO_LS",-,-
+8,12671,MTO 229E,Physics ofClouds&Precipitation,Physical (Face to face),Sevinç Asilhan,MEDC,Tuesday,14:30/17:29,2D14,73,73,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD, MTOE_LS",Detail,-
+9,12672,MTO 301,Meteo.Uzaktan Algılamanın Tem.,Physical (Face to face),Ahmet Öztopal,MEDC,Friday,10:30/12:29,ZA1,100,91,-,"IBM_LS, MTO_LS",-,-
+10,12739,MTO 302E,Wheather Analysis and Prediction I,Physical (Face to face),Emrah Tuncay Özdemir,"MEDC
+MEDC","Monday
+Tuesday","11:30/13:29
+09:30/11:29","2D14
+2D14",50,44,-,"IBM_LS, IBM_YD, MTO_LS, MTOE_LS",Detail,-
+11,12722,MTO 303E,Comput.Fluid Dyn.in Meteo.Eng.,Physical (Face to face),Elçin Tan,MEDC,Wednesday,10:30/12:29,1D7,55,60,-,"IBM_LS, MTO_LS",Detail,-
+12,12740,MTO 304,Havacılık Meteorolojisi,Physical (Face to face),Emrah Tuncay Özdemir,MEDC,Monday,14:30/16:29,2D14,35,32,-,"IBM_LS, MTO_LS",-,-
+13,12674,MTO 311E,Data Analysis,Physical (Face to face),Kasım Koçak,"MEDC
+MEDC","Wednesday
+Thursday","13:30/15:29
+08:30/11:29","ZD1
+ZD1",70,69,-,"IBM_LS, MTO_LS, MTOE_LS",-,-
+14,12661,MTO 323,Atmosfer Kimyası,Physical (Face to face),Ceyhan Kahya,MEDC,Thursday,11:30/14:29,1D6,20,22,-,"IBM_LS, MTO_LS",-,-
+15,12663,MTO 337,Atmosfer Dinamiği I,Physical (Face to face),"Ali Deniz ,
+Bahtiyar Efe","MEDC
+MEDC","Tuesday
+Thursday","11:30/13:29
+12:30/14:29","2D11
+2D11",30,43,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",-,-
+16,12668,MTO 337E,Atmospheric Dynamics I,Physical (Face to face),Yurdanur Ünal,"MEDC
+MEDC","Tuesday
+Thursday","11:30/13:29
+12:30/14:29","2D14
+2D14",35,34,-,"IBM_LS, MTO_LS, MTOE_LS",-,-
+17,15642,MTO 340,Atmosfer Dinamiği II,Ek Sınav,Bahtiyar Efe,-,-,-/-,-,0,0,-,-,Detail,-
+18,12723,MTO 350E,Air Pollution Fundamentals,Physical (Face to face),Ceyhan Kahya,MEDC,Monday,11:30/14:29,1D9,20,23,-,"IBM_LS, MTO_LS, MTOE_LS",-,-
+19,12724,MTO 353,Tarım ve Orman Meteorolojisi I,Physical (Face to face),Levent Şaylan,MEDC,Monday,08:30/11:29,1D7,20,18,-,"IBM_LS, MTO_LS",-,-
+20,12725,MTO 357E,Physics of Upper Atmosphere,Physical (Face to face),Zerefşan Kaymaz,MEDC,Thursday,14:30/17:29,1D7,25,19,-,"FIZ_LS, FIZE_LS, IBM_LS, MTO_LS, MTOE_LS",-,-
+21,12726,MTO 359,Biyometeoroloji,Physical (Face to face),Barış Çaldağ,MEDC,Wednesday,08:30/11:29,1D6,20,7,-,"IBM_LS, MTO_LS",-,-
+22,15645,MTO 361,Hava Kirliliği Modellemesi,Ek Sınav,Hüseyin Toros,-,-,-/-,-,0,0,-,-,-,-
+23,14613,MTO 388,Coğrafi Bilgi Bilimi,Physical (Face to face),Filiz Türk Katırcıoğlu,INB,Tuesday,11:30/14:29,D101,30,32,-,"IBM_LS, MTO_LS",-,-
+24,12728,MTO 406,Hava Analizi ve Öngörü II,Physical (Face to face),Şükran Sibel Menteş,"MEDC
+MEDC","Monday
+Tuesday","11:30/13:29
+08:30/10:29","1D4
+--",40,26,-,"IBM_LS, IBM_YD, MTO_LS",Detail,-
+25,15644,MTO 426E,Micrometeorology,Ek Sınav,Ceyhan Kahya,-,-,-/-,-,0,0,-,-,Detail,-
+26,15646,MTO 462E,Severe and Hazardous Weather,Ek Sınav,Filiz Türk Katırcıoğlu,-,-,-/-,-,0,0,-,-,-,-
+27,14747,MTO 464,İklim Değişikliği,Physical (Face to face),Yurdanur Ünal,MEDC,Thursday,14:30/17:29,1D6,20,20,-,"IBM_LS, MTO_LS, OSN_YD",-,-
+28,12731,MTO 464E,Climate Change,Physical (Face to face),Yurdanur Ünal,MEDC,Monday,14:30/17:29,1D7,20,14,-,"IBM_LS, MTO_LS, MTOE_LS, OSN_YD",-,-
+29,12736,MTO 465,Çevre Biyofiziği,Physical (Face to face),Levent Şaylan,MEDC,Tuesday,14:30/17:29,1D6,20,10,-,"IBM_LS, MTO_LS",-,-
+30,12737,MTO 466E,Atmospheric Optics & Acoustics,Physical (Face to face),Deniz Demirhan,MEDC,Friday,09:30/12:29,1D6,20,16,-,"FIZ_LS, FIZE_LS, IBM_LS, MTO_LS, MTOE_LS",-,-
+31,12729,MTO 470E,Oceanography,Physical (Face to face),Elçin Tan,MEDC,Friday,14:30/16:29,1D7,30,14,-,"IBM_LS, MTO_LS, MTOE_LS",-,-
+32,12742,MTO 4901,Meteoroloji Müh. Tasarımı I,Physical (Face to face),Mikdat Kadıoğlu,-,-,-/-,-,500,50,-,"IBM_LS, MTO_LS",Detail,Detail
+33,15394,MTO 4902,Meteoroloji Müh. Tasarımı II,Physical (Face to face),Mikdat Kadıoğlu,-,-,-/-,-,500,0,-,"IBM_LS, MTO_LS",Detail,-
+34,15643,MTO 4902,Meteoroloji Müh. Tasarımı II,Ek Sınav,Mikdat Kadıoğlu,-,-,-/-,-,0,0,-,-,Detail,-
+35,12743,MTO 492,Bitirme Çalışması,Physical (Face to face),Mikdat Kadıoğlu,-,-,-/-,-,500,1,-,"IBM_LS, MTO_LS",-,Detail
+36,12745,MTO 494,Araştırma Projesi,Physical (Face to face),Mikdat Kadıoğlu,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+37,12746,MTO 494,Araştırma Projesi,Physical (Face to face),Levent Şaylan,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+38,12748,MTO 494,Araştırma Projesi,Physical (Face to face),Kasım Koçak,-,-,-/-,-,3,2,-,"IBM_LS, MTO_LS",-,Detail
+39,12749,MTO 494,Araştırma Projesi,Physical (Face to face),Zerefşan Kaymaz,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+40,12751,MTO 494,Araştırma Projesi,Physical (Face to face),Ahmet Duran Şahin,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+41,12752,MTO 494,Araştırma Projesi,Physical (Face to face),Yurdanur Ünal,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+42,12753,MTO 494,Araştırma Projesi,Physical (Face to face),Şükran Sibel Menteş,-,-,-/-,-,3,1,-,"IBM_LS, MTO_LS",-,Detail
+43,12755,MTO 494,Araştırma Projesi,Physical (Face to face),Sevinç Asilhan,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+44,12756,MTO 494,Araştırma Projesi,Physical (Face to face),Ali Deniz,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+45,12757,MTO 494,Araştırma Projesi,Physical (Face to face),Hüseyin Toros,-,-,-/-,-,3,1,-,"IBM_LS, MTO_LS",-,Detail
+46,12758,MTO 494,Araştırma Projesi,Physical (Face to face),Barış Önol,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+47,12759,MTO 494,Araştırma Projesi,Physical (Face to face),Elçin Tan,-,-,-/-,-,3,3,-,"IBM_LS, MTO_LS",-,Detail
+48,12760,MTO 494,Araştırma Projesi,Physical (Face to face),Ahmet Öztopal,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+49,12761,MTO 494,Araştırma Projesi,Physical (Face to face),Barış Çaldağ,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+50,12762,MTO 494,Araştırma Projesi,Physical (Face to face),Bahtiyar Efe,-,-,-/-,-,3,3,-,"IBM_LS, MTO_LS",-,Detail
+51,12763,MTO 494,Araştırma Projesi,Physical (Face to face),Ceyhan Kahya,-,-,-/-,-,3,3,-,"IBM_LS, MTO_LS",-,Detail
+52,12764,MTO 494,Araştırma Projesi,Physical (Face to face),Deniz Demirhan,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail
+53,12765,MTO 494,Araştırma Projesi,Physical (Face to face),Filiz Türk Katırcıoğlu,-,-,-/-,-,3,1,-,"IBM_LS, MTO_LS",-,Detail
+54,12767,MTO 494,Araştırma Projesi,Physical (Face to face),Emrah Tuncay Özdemir,-,-,-/-,-,3,2,-,"IBM_LS, MTO_LS",-,Detail
+55,14224,MTO 494,Araştırma Projesi,Physical (Face to face),Şeyda Tilev,-,-,-/-,-,3,0,-,"IBM_LS, MTO_LS",-,Detail

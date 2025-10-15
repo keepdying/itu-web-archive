@@ -1,0 +1,34 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12442,UCK 203E,"Circuits, Signals and Systems",Physical (Face to face),Ramazan Yeniçeri,MEDC,Tuesday,14:30/17:29,2D18,65,58,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+1,12436,UCK 207,Termodinamik,Physical (Face to face),Saliha Banu Yılmaz,MEDC,Friday,09:30/12:29,2D18,70,72,-,UCK_LS,Detail,-
+2,12437,UCK 207E,Thermodynamics,Physical (Face to face),Ahmet Ziyaettin Şahin,MEDC,Friday,09:30/12:29,3D20,65,66,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+3,12438,UCK 207E,Thermodynamics,Physical (Face to face),Mete Budaklı,MEDC,Friday,09:30/12:29,ZA3,65,55,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+4,12439,UCK 217E,Aerospace Materials,Physical (Face to face),Samet Çeri,MEDC,Monday,09:30/12:29,2D13,60,53,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+5,12440,UCK 217E,Aerospace Materials,Physical (Face to face),Hülya Cebeci,MEDC,Tuesday,08:30/11:29,ZA1,62,62,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+6,12441,UCK 217E,Aerospace Materials,Physical (Face to face),Oğuzcan İnal,MEDC,Tuesday,08:30/11:29,ZA2,62,62,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+7,15614,UCK 236E,Composite Materials,Ek Sınav,Hülya Cebeci,-,-,-/-,-,0,0,-,-,Detail,-
+8,12548,UCK 303E,Automatic Control,Physical (Face to face),Gökhan İnalhan,MEDC,Friday,14:30/17:29,ZA2,105,105,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+9,12576,UCK 303E,Automatic Control,Physical (Face to face),Emre Koyuncu,MEDC,Friday,14:30/17:29,ZA3,115,112,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+10,12453,UCK 305,Aerodinamik,Physical (Face to face),Aydın Mısırlıoğlu,MEDC,Tuesday,14:30/17:29,ZA3,60,53,-,UCK_LS,Detail,-
+11,12520,UCK 305E,Aerodynamics,Physical (Face to face),Melike Nikbay,MEDC,Tuesday,14:30/17:29,3D20,58,55,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+12,12522,UCK 305E,Aerodynamics,Physical (Face to face),Bayram Çelik,MEDC,Tuesday,14:30/17:29,ZA1,55,56,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+13,12543,UCK 322E,Flight Mechanics,Physical (Face to face),Barış Başpınar,MEDC,Monday,11:30/14:29,2D18,60,40,-,"UCK_LS, UCK_YD",-,-
+14,12546,UCK 322E,Flight Mechanics,Physical (Face to face),Barış Başpınar,MEDC,Wednesday,08:30/11:29,2D18,60,46,-,"UCK_LS, UCK_YD",-,-
+15,12587,UCK 348E,Computer Applic.in Engineering,Physical (Face to face),Bülent Tutkun,MEDC,Thursday,11:30/14:29,1D7,40,25,-,"UCK_LS, UZBE_LS",Detail,-
+16,15650,UCK 350E,Analytical Dynamics,Ek Sınav,İbrahim Özkol,-,-,-/-,-,0,0,-,-,Detail,-
+17,15612,UCK 361E,Design of Machine Elements,Ek Sınav,Halit Süleyman Türkmen,-,-,-/-,-,0,0,-,-,-,-
+18,12581,UCK 364E,Design of Machine Elements,Physical (Face to face),Halit Süleyman Türkmen,MEDC,Tuesday,08:30/11:29,1D7,55,50,-,"UCK_LS, UZBE_LS",-,-
+19,12595,UCK 419E,Computational Aerodynamics,Physical (Face to face),Fırat Oğuz Edis,MEDC,Monday,14:30/17:29,3D20,80,75,-,"UCK_LS, UZBE_LS",Detail,-
+20,12596,UCK 421E,Jet Propulsion Principles,Physical (Face to face),Onur Tunçer,MEDC,Thursday,11:30/14:29,3D20,60,58,-,"UCK_LS, UCK_YD",-,Detail
+21,12590,UCK 423E,Princip. of Aircraft Design I,Physical (Face to face),Hayri Acar,MEDC,Tuesday,11:30/14:29,ZA4,52,53,-,"UCK_LS, UCK_YD",Detail,-
+22,12592,UCK 423E,Princip. of Aircraft Design I,Physical (Face to face),Hayri Acar,MEDC,Tuesday,08:30/11:29,ZA4,50,44,-,"UCK_LS, UCK_YD",Detail,-
+23,12599,UCK 427E,Combustion,Physical (Face to face),Mete Budaklı,MEDC,Tuesday,11:30/14:29,1D10,45,26,-,"UCK_LS, UZBE_LS",Detail,-
+24,15649,UCK 439E,Intr. to Optimal Control,Ek Sınav,Barış Başpınar,-,-,-/-,-,0,0,-,-,Detail,-
+25,12601,UCK 448E,Avionic Systems,Physical (Face to face),Cengiz Hacızade,MEDC,Thursday,08:30/11:29,1D7,40,7,-,"UCK_LS, UZBE_LS",Detail,-
+26,12600,UCK 459E,Helicopter Theory,Physical (Face to face),Özge Özdemir,MEDC,Monday,08:30/11:29,1D10,80,86,-,"UCK_LS, UCK_YD, UZBE_LS",Detail,Detail
+27,12597,UCK 472E,Aeroelasticity,Physical (Face to face),Melike Nikbay,MEDC,Thursday,08:30/11:29,2D17,40,19,-,"UCK_LS, UZBE_LS",Detail,-
+28,12598,UCK 474E,Aircraft Engine Design,Physical (Face to face),Onur Tunçer,MEDC,Wednesday,11:30/14:29,1D6,40,11,-,"UCK_LS, UZBE_LS",-,-
+29,12613,UCK 4901,Uçak Müh. Tasarımı I,Physical (Face to face),Halit Süleyman Türkmen,-,-,-/-,-,500,83,-,UCK_LS,Detail,Detail
+30,12615,UCK 4902,Uçak Müh. Tasarımı II,Physical (Face to face),Halit Süleyman Türkmen,-,-,-/-,-,500,14,-,UCK_LS,Detail,-
+31,12616,UCK 492,Bitirme Çalışması,Physical (Face to face),Halit Süleyman Türkmen,-,-,-/-,-,500,3,-,UCK_LS,-,Detail
+32,12618,UCK 492E,Graduation Project,Physical (Face to face),Halit Süleyman Türkmen,-,-,-/-,-,500,1,-,UCK_LS,-,Detail

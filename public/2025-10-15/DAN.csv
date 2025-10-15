@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12219,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Hüseyin Güven,INB,Wednesday,15:30/17:29,--,0,2,-,"CEV_LS, CEVE_LS",-,-
+1,13806,DAN 102,Girişimcilik & Kariyer Danış.,Virtual (Online),İbrahim Özçeşmeci,MED,Wednesday,15:30/17:29,--,0,1,-,"KIM_LS, KIME_LS",-,-
+2,14528,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Hakan Ali Çırpan,EEB,Wednesday,15:30/17:29,--,500,27,-,"EHB_LS, EHBE_LS",-,-
+3,14529,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Suat İlhan,EEB,Wednesday,15:30/17:29,--,500,28,-,"ELK_LS, ELKE_LS",-,-
+4,14530,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),İlker Üstoğlu,EEB,Wednesday,15:30/17:29,--,500,25,-,"KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+5,15209,DAN 102,Girişimcilik & Kariyer Danış.,Virtual (Online),Ahmet Güllü,INB,Wednesday,15:30/17:29,--,60,34,-,"AIN_LS, INS_LS, INSE_LS",-,-
+6,15314,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Selma Ergin,GDB,Wednesday,15:30/17:29,--,0,3,-,GEM_LS,-,-
+7,15400,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Ayşe Tosun Kühn,BBB,Wednesday,15:30/17:29,--,0,6,-,"BLG_LS, BLGE_LS",-,-
+8,15533,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),İsmail Yalçın Uralcan,MKB,Wednesday,15:30/17:29,KS,150,20,-,"IML_LS, MAK_LS, MSS_LS",-,-
+9,15537,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Elif Bal Beşikçi,DZB,Wednesday,15:30/17:29,--,15,2,-,DUI_LS,-,-
+10,15554,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Ayşe Tosun Kühn,-,-,-/-,-,0,0,-,-,-,-
+11,15574,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Ahmet Güllü,-,-,-/-,-,0,1,-,-,-,-
+12,15661,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Derya Güleç Özer,-,-,-/-,-,0,1,-,-,-,-
+13,15670,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Akif Yavuz,-,-,-/-,-,0,2,-,-,-,-
+14,15729,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Suat İlhan,-,-,-/-,-,0,0,-,-,-,-
+15,15739,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Serkan Şimşek,-,-,-/-,-,0,0,-,-,-,-
+16,15749,DAN 102,Girişimcilik & Kariyer Danış.,Virtual (Online),Mete Han Yağmur,ISB,Wednesday,15:30/17:29,--,0,1,-,"ECNE_LS, END_LS, ENDE_LS, ISLE_LS",-,-

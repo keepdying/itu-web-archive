@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14692,MEN 211,Workshop Training-I,Physical (Face to face),Cumali Seçkin Mengeçin,-,-,-/-,-,60,1,-,MEN_LS,-,-
+1,14715,MEN 302,Onboard Training,Physical (Face to face),Cumali Seçkin Mengeçin,-,-,-/-,-,60,2,-,MEN_LS,Detail,-
+2,14713,MEN 331,Workshop Training-II,Physical (Face to face),Cumali Seçkin Mengeçin,-,-,-/-,-,60,1,-,MEN_LS,-,Detail
+3,15857,MEN 401,Oper.of Steam & Gas Turbines,Physical (Face to face),Yalçın Durmuşoğlu,DZB,Tuesday,13:30/17:29,--,5,1,-,MEN_LS,Detail,-
+4,14732,MEN 402,Graduation Design Project,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,3,-,MEN_LS,-,Detail
+5,15522,MEN 411,Marine Auxialiary Machinery II,Physical (Face to face),Ahmet Ergün Palaz,MEDC,Thursday,10:30/13:29,2D13,40,6,-,NAE_LS,Detail,-
+6,15363,MEN 431,Engine Room Mangm.& Leadership,Physical (Face to face),Cumali Seçkin Mengeçin,DZB,Tuesday,09:30/11:29,--,5,3,-,MEN_LS,-,-

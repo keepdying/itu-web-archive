@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12785,SGI 101,Int.to Nav.Arch.&Mar.Eng.&Eth.,Physical (Face to face),Erdem Üçer,MEDC,Friday,14:00/15:59,1D5,25,17,-,SGI_LS,-,-
+1,12787,SGI 102,Intr.to Prog.Language(PYTHON),Physical (Face to face),Bilge Tutak,MEDC,Thursday,13:30/16:29,1D5,25,17,-,SGI_LS,-,-
+2,12795,SGI 103,Intr.to Sci& Eng.Comp.(MATLAB),Physical (Face to face),Erdem Üçer,MEDC,Tuesday,13:30/16:29,--,25,13,-,SGI_LS,-,-
+3,12793,SGI 202,Dynamics,Physical (Face to face),Mustafa Erden Yıldızdağ,"MEDC
+MEDC","Monday
+Wednesday","11:30/13:29
+09:30/10:29","1D3
+1D5",25,11,-,SGI_LS,Detail,-
+4,12799,SGI 203,Strength of Materials I,Physical (Face to face),Mustafa Erden Yıldızdağ,"MEDC
+MEDC","Tuesday
+Friday","08:30/11:29
+08:30/09:29","1D5
+1D5",25,13,-,SGI_LS,Detail,-
+5,12792,SGI 207,Materials Science,Physical (Face to face),Necip Ünlü,MEDC,Thursday,13:30/16:29,1D8,25,13,-,SGI_LS,-,-
+6,12789,SGI 208,Numerical Methods,Physical (Face to face),Münir Cansın Özden,MEDC,Friday,09:30/12:29,1D5,25,10,-,SGI_LS,Detail,-
+7,12791,SGI 210,Engineering Mathematics,Physical (Face to face),Devrim Bülent Danışman,MEDC,Monday,13:30/17:29,1D5,25,10,-,SGI_LS,Detail,-
+8,12798,SGI 211,Ship Geometry,Physical (Face to face),Murat Emre Demir,MEDC,Friday,14:00/16:59,3BİL1,25,13,-,SGI_LS,Detail,-

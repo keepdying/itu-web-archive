@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15112,MEK 205,Mühendislik Mekaniği,Physical (Face to face),Sevinç Ayşe Zaloğlu,MKB,Wednesday,09:30/12:29,D460,80,3,-,"END_LS, IML_LS, IML_MTM_LS, ISL_LS",Detail,-
+1,15215,MEK 205,Mühendislik Mekaniği,Physical (Face to face),Erol Demirkan,INB,Thursday,13:30/16:29,B103,100,104,-,"CHZ_LS, END_LS, JEF_LS, JEO_LS, MAD_LS, PET_LS",Detail,-
+2,11155,MEK 205E,Engineering Mechanics,Physical (Face to face),Zuhal Er,DZB,Tuesday,08:30/11:29,--,62,70,-,GMI_LS,Detail,-
+3,13691,MEK 205E,Engineering Mechanics,Physical (Face to face),"Şule Selçuk ,
+Ali Kılıç",MKB,Friday,09:30/12:29,D378,40,39,-,"TEK_LS, TEKE_LS",Detail,-
+4,13692,MEK 205E,Engineering Mechanics,Physical (Face to face),"Ali Kılıç ,
+Şule Selçuk",MKB,Friday,14:00/16:59,D368B,50,31,-,"TEK_LS, TEKE_LS",Detail,-
+5,14686,MEK 205E,Engineering Mechanics,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Thursday,18:30/21:29,--,60,52,-,"MEN_LS, MTM_LS",Detail,-
+6,15113,MEK 205E,Engineering Mechanics,Physical (Face to face),Metin Kayıtmazbatır,MKB,Wednesday,09:30/12:29,A501,80,59,-,"END_LS, ENDE_LS, IML_LS, IML_MTM_LS, IMLE_LS, ISL_LS, ISLE_LS",Detail,-

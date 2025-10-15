@@ -1,0 +1,12 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15078,CHE 101,Chemistry I,Physical (Face to face),Argun Talat Gökçeören,"MED
+FEB","Monday
+Thursday","08:30/11:29
+08:30/10:29","B34
+LAB-A",25,19,-,SGI_LS,-,-
+1,15098,CHE 101,Chemistry I,Physical (Face to face),Erdem Yavuz,"MED
+FEB","Monday
+Thursday","08:30/11:29
+08:30/10:29","B33
+LAB-B",25,17,-,"MBI_LS, SIN_LS",-,-
+2,14544,CHE 123,General Chemistry I,Physical (Face to face),Cüneyt Hüseyin Ünlü,EEB,Thursday,13:30/16:29,5101,40,39,-,EHN_LS,-,-
