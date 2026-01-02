@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15651,RES 103E,Technical Drawing,Ek Sınav,Sena Duru,-,-,-/-,-,0,1,-,-,-,-
+1,12614,RES 107,Teknik Resim,Physical (Face to face),Selim Ertürk,KMB,Thursday,08:30/11:29,D301,54,56,-,"GID_LS, KMM_LS",-,-
+2,12620,RES 107,Teknik Resim,Physical (Face to face),Selim Ertürk,KMB,Friday,08:30/11:29,D301,54,54,-,"GID_LS, KMM_LS",-,-
+3,12623,RES 107,Teknik Resim,Physical (Face to face),Selim Ertürk,KMB,Friday,14:00/16:59,D301,54,50,-,GID_LS,-,-
+4,13680,RES 107E,Technical Drawing,Physical (Face to face),Sena Duru,MKB,Thursday,09:30/12:29,409,40,39,-,"TEK_LS, TEKE_LS",-,-
+5,13681,RES 107E,Technical Drawing,Physical (Face to face),Sena Duru,MKB,Tuesday,13:30/16:29,409,40,16,-,"TEK_LS, TEKE_LS",-,-
+6,15241,RES 107E,Technical Drawing,Physical (Face to face),Hazal Gülhan Eksin,INB,Thursday,13:30/16:29,D103,55,59,-,"PET_LS, PETE_LS",-,-

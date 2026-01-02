@@ -1,0 +1,25 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,13490,BBF 101E,Introduction to Information Systems,Physical (Face to face),Nizamettin Aydın,"BBB
+BBB","Thursday
+Thursday","08:30/10:29
+10:30/11:29","KON1
+KON1",140,138,-,"BLG_LS, BLGE_LS, CEN_LS, SECE_LS, YZVE_LS",-,-
+1,13562,BBF 101E,Introduction to Information Systems,Physical (Face to face),"Faik Boray Tek ,
+Tacettin Ayar","BBB
+BBB","Thursday
+Thursday","08:30/10:29
+10:30/11:29","Z-18
+Z-19",110,117,-,"BLGE_LS, SECE_LS, YZVE_LS",-,-
+2,13492,BBF 102E,Linear Algebra and Applications,Physical (Face to face),Uluğ Bayazıt,BBB,Tuesday,13:30/16:29,Z-20,80,65,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+3,13493,BBF 102E,Linear Algebra and Applications,Physical (Face to face),Ahmet Hamdi Kayran,BBB,Tuesday,13:30/16:29,Z-17,70,77,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+4,13517,BBF 102E,Linear Algebra and Applications,Physical (Face to face),Behçet Uğur Töreyin,BBB,Monday,09:30/12:29,Z-16,100,115,-,"BLGE_LS, SECE_LS, YZVE_LS",-,-
+5,13498,BBF 201E,Probability and Statistics,Physical (Face to face),Ahmet Hamdi Kayran,"BBB
+BBB","Monday
+Thursday","12:30/14:29
+13:30/15:29","Z-16
+Z-18",100,122,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+6,13524,BBF 201E,Probability and Statistics,Physical (Face to face),Murat Okatan,"BBB
+BBB","Thursday
+Friday","08:30/10:29
+14:00/15:59","123
+123",80,44,-,"BLGE_LS, SECE_LS, YZVE_LS",-,-

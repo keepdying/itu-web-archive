@@ -1,0 +1,38 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15108,MTH 101,Calculus I,Physical (Face to face),Aybike Özer,"FEB
+FEB","Monday
+Tuesday","15:30/17:29
+08:30/11:29","L400
+L400",45,20,-,"MBI_LS, SBL_LS",-,-
+1,13112,MTH 103,Calculus I,Physical (Face to face),Cihangir Özemir,"INB
+INB","Monday
+Tuesday","15:30/17:29
+08:30/11:29","A301
+A301",40,21,-,SED_LS,-,-
+2,13648,MTH 105,Calculus I,Physical (Face to face),Saadet Seher Özer,INB,Tuesday,08:30/11:29,B303,30,29,-,SIS_LS,-,-
+3,15161,MTH 107,Calculus I,Physical (Face to face),Ahmet Duran,"INB
+INB","Monday
+Tuesday","14:30/17:29
+08:30/11:29","B305
+B305",30,17,-,SIN_LS,-,-
+4,15162,MTH 107,Calculus I,Physical (Face to face),Sezgin Altay Demirbağ,"FEB
+EEB","Monday
+Tuesday","14:30/17:29
+08:30/11:29","D201
+5203",30,17,-,SGI_LS,-,-
+5,15365,MTH 117,Mathematics I,Physical (Face to face),Sabire Cömert,DZB,Monday,17:30/22:29,--,0,3,-,"MEN_LS, MTM_LS",-,-
+6,11013,MTH 121,Calculus I,Physical (Face to face),Bayram Barış Kızılsaç,DZB,Monday,13:30/17:29,--,10,9,-,"SDU_LS, SGM_LS",-,-
+7,14619,MTH 123,Calculus,Physical (Face to face),Güler Arsan,INB,Tuesday,08:30/11:29,A103,40,22,-,STP_LS,-,-
+8,14534,MTH 131,Mathematics I,Physical (Face to face),Ali Sait Demir,"EEB
+EEB","Monday
+Tuesday","15:30/17:29
+08:30/11:29","1301
+1301",40,39,-,EHN_LS,-,-
+9,15355,MTH 204,Linear Algebra,Physical (Face to face),Sabire Cömert,DZB,Tuesday,17:30/20:29,--,5,4,-,"MEN_LS, MTM_LS",-,-
+10,14535,MTH 281,Linear Algebra and Applicat.,Physical (Face to face),İbrahim Akduman,EEB,Friday,08:30/11:29,1303,40,35,-,EHN_LS,-,-
+11,15541,MTH 405E,Flight Control Systems,Virtual (Online),İlker Üstoğlu,EEB,Wednesday,08:30/11:29,--,65,65,-,"KOM_LS, KOME_LS",-,Detail
+12,15340,MTH 407,Otomatik Hedef İzleme Temelleri,Physical (Face to face),Ahmet Kırış,FEB,Monday,09:30/12:29,D204,40,32,FIZ_LS/5/2 | Diğer/35/30,"FIZ_LS, MAT_LS",Detail,-
+13,15875,MTH 409,Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri,Virtual (Online),Burcu Tunga,FEB,Friday,09:30/12:29,--,40,40,-,MAT_LS,Detail,-
+14,15858,MTH 410E,"Technical Risk Analysis, Tools and Methods in Product Development Engineering",Virtual (Online),Ceren Bilgin Güney,MEDC,Monday,08:30/11:29,--,20,25,-,"DEN_LS, DENE_LS",-,Detail
+15,15872,MTH 411,Bilgi Teknolojilerinde Proje Yönetimi,Virtual (Online),Emine Yaylalı,ISB,Friday,09:30/12:29,--,40,15,-,END_LS,-,-
+16,15874,MTH 413E,Product Development Methods and Applications in Industry,Virtual (Online),Çiğdem Altın Gümüşsoy,ISB,Monday,14:30/17:29,--,40,28,-,"END_LS, ENDE_LS",-,-

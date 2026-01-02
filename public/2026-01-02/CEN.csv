@@ -1,0 +1,14 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15763,CEN 101E,Intr. to Information Systems,Physical (Face to face),Ömer Özyıldırım,BBB,Thursday,08:30/11:29,Z-20,60,26,-,CEN_LS,-,-
+1,15122,CEN 223E,Data Structures,Physical (Face to face),Meriç Yücel,"BBB
+BBB","Wednesday
+Thursday","09:30/11:29
+09:30/11:29","123
+122",40,23,-,CEN_LS,Detail,-
+2,15399,CEN 231E,Digital Circuits,Physical (Face to face),Mustafa Ersel Kamaşak,"BBB
+BBB","Wednesday
+Thursday","14:30/15:29
+13:30/15:29","Z-22
+101",40,24,-,CEN_LS,-,-
+3,15124,CEN 351E,Microcomputer Lab.,Physical (Face to face),Deniz Turgay Altılar,BBB,Tuesday,13:30/15:29,--,50,42,-,CEN_LS,Detail,-
+4,15895,CEN 351E,Microcomputer Lab.,Physical (Face to face),Gökhan Seçinti,BBB,Wednesday,13:30/15:29,--,50,27,-,CEN_LS,Detail,-

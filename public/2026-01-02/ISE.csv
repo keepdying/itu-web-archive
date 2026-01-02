@@ -1,0 +1,24 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,13565,ISE 101,Intro.to Information Sys. and,Physical (Face to face),Mustafa Ersel Kamaşak,"BBB
+BBB","Wednesday
+Thursday","08:30/11:29
+10:30/12:29","102
+123",45,16,-,SBL_LS,-,-
+1,13564,ISE 111,Linear Algebra,Physical (Face to face),Mehmet Akif Yazıcı,"BBB
+BBB","Monday
+Thursday","09:30/10:59
+15:30/16:59","Z-22
+122",35,17,-,SBL_LS,-,-
+2,13568,ISE 302,Operating Systems,Physical (Face to face),Deniz Turgay Altılar,BBB,Thursday,08:30/11:29,Z-22,45,18,-,SBL_LS,-,-
+3,13569,ISE 304,SW Engineering,Physical (Face to face),Ahmet Cüneyd Tantuğ,BBB,Tuesday,10:30/13:29,123,45,18,-,SBL_LS,-,-
+4,13573,ISE 308,Artifical Intell. & Expert Sys,Physical (Face to face),Mehmet Keskinöz,"BBB
+BBB","Tuesday
+Wednesday","08:30/10:29
+09:30/10:29","123
+122",45,10,-,SBL_LS,-,-
+5,13574,ISE 315,Analysis of Algorithms,Physical (Face to face),Ali Çakmak,"BBB
+BBB","Monday
+Monday","08:30/11:29
+13:30/15:29","102
+123",45,14,-,SBL_LS,-,-
+6,13575,ISE 333,Int. to Comp. & Inf. Security,Physical (Face to face),Şerif Bahtiyar,BBB,Tuesday,13:30/16:29,102,45,15,-,SBL_LS,-,-

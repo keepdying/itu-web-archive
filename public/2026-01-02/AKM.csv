@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11189,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Cihan Bayındır,INB,Wednesday,12:30/15:29,A305,60,62,-,CEV_LS,Detail,-
+1,11193,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Necati Erdem Ünal,INB,Wednesday,12:30/15:29,A204,60,63,-,INS_LS,Detail,-
+2,11192,AKM 204E,Fluid Mechanics,Physical (Face to face),Hafzüllah Aksoy,INB,Wednesday,12:30/15:29,B206,60,53,-,"INS_LS, INSE_LS",Detail,-
+3,11195,AKM 204E,Fluid Mechanics,Physical (Face to face),Abdüsselam Altunkaynak,INB,Wednesday,12:30/15:29,A105,60,66,-,CEVE_LS,Detail,-
+4,12405,AKM 214E,Fluid Mechanics I,Physical (Face to face),Ahmet Ziyaettin Şahin,MEDC,Monday,08:30/11:29,1D3,10,4,-,"UCK_LS, UZBE_LS",Detail,-
+5,12450,AKM 219E,Fluid Mechanics,Physical (Face to face),Ayşe Gül Güngör,MEDC,Wednesday,08:30/11:29,2D11,30,38,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-

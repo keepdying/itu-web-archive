@@ -1,0 +1,57 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11837,KMP 101,Kompozisyon I,Physical (Face to face),Eray Altınbüken,TMB,Monday,08:30/10:29,--,10,3,-,"BST_LS, KMP_LS",-,-
+1,11834,KMP 113,Klasik Armoni I,Physical (Face to face),Mehmet Özkan,TMB,Wednesday,10:30/12:29,--,10,4,-,"BST_LS, KMP_LS",-,-
+2,11836,KMP 115,Müzik Formları I,Physical (Face to face),Ayhan Gunca,TMB,Tuesday,10:30/12:29,--,10,5,-,"BST_LS, KMP_LS",-,-
+3,11858,KMP 193,Armoni I,Physical (Face to face),Ayhan Gunca,"TMB
+TMB","Monday
+Friday","08:30/09:29
+08:30/10:29","--
+--",25,14,-,"MUZ_LS, SES_LS",-,-
+4,11835,KMP 195,Form Bilgisi I,Physical (Face to face),"Recep Gül ,
+Tayfun Demirbaş",TMB,Thursday,08:30/10:29,--,25,23,-,"CAB_LS, CEB_LS, MTR_LS, SES_LS",-,-
+5,11828,KMP 197,Konturpuan-Füg I,Physical (Face to face),Ayhan Gunca,TMB,Thursday,13:30/15:29,--,25,20,-,"CAB_LS, CEB_LS, MTR_LS",-,-
+6,11831,KMP 197,Konturpuan-Füg I,Physical (Face to face),Ayhan Gunca,TMB,Wednesday,10:30/12:29,--,25,14,-,"CAB_LS, CEB_LS, MTR_LS",-,-
+7,15680,KMP 198,Konturpuan-Füg II,Ek Sınav,Ayhan Gunca,-,-,-/-,-,0,3,-,-,-,-
+8,11857,KMP 199,Çalgılama,Physical (Face to face),Ayhan Gunca,TMB,Thursday,08:30/10:29,--,25,3,-,MTR_LS,-,-
+9,11838,KMP 201,Kompozisyon III,Physical (Face to face),Eray Altınbüken,"TMB
+TMB","Monday
+Tuesday","10:30/12:29
+13:30/15:29","--
+--",5,4,-,"BST_LS, KMP_LS",-,-
+10,11839,KMP 203,Türk Müziği Literatürü I,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB,Monday,08:30/10:29,--,5,5,-,"BST_LS, KMP_LS",-,-
+11,11840,KMP 205,Kontrpuan- Füg I,Physical (Face to face),Eray Altınbüken,TMB,Tuesday,15:30/17:29,--,5,4,-,"BST_LS, KMP_LS",-,-
+12,11832,KMP 293,Armoni I,Physical (Face to face),Recep Gül,TMB,Thursday,13:30/15:29,--,40,38,-,"CAB_LS, CEB_LS, MTR_LS",-,-
+13,15691,KMP 294,Armoni II,Ek Sınav,Recep Gül,-,-,-/-,-,0,2,-,-,-,-
+14,11845,KMP 301,Kompozisyon V,Physical (Face to face),Oğuzhan Balcı,"TMB
+TMB","Monday
+Wednesday","13:30/15:29
+13:30/15:29","--
+--",5,4,-,"BST_LS, KMP_LS",Detail,-
+15,11847,KMP 303,Kompozisyon Çözümleme I,Physical (Face to face),"Oğuzhan Balcı ,
+Gizem Alever Sancaktar",TMB,Tuesday,08:30/10:29,--,5,2,-,"BST_LS, KMP_LS",-,-
+16,11843,KMP 305,Koro Şefliği I,Physical (Face to face),Ayhan Gunca,TMB,Tuesday,13:30/15:29,--,5,4,-,"BST_LS, KMP_LS",-,-
+17,11842,KMP 307,Prozodi,Physical (Face to face),Neşe Yeşim Altınel Çoban,TMB,Thursday,13:30/15:29,--,10,3,-,"BST_LS, KMP_LS",-,-
+18,11844,KMP 321,Batı Müziği Literatürü I,Physical (Face to face),Mehmet Özkan,TMB,Thursday,10:30/12:29,--,5,2,-,"BST_LS, KMP_LS",-,-
+19,11848,KMP 323,Türk Müziğinde Polifoni I,Physical (Face to face),Oğuzhan Balcı,TMB,Tuesday,10:30/12:29,--,5,1,-,"BST_LS, KMP_LS",-,-
+20,15686,KMP 324,Türk Müziğinde Polifoni II,Ek Sınav,Eray Altınbüken,-,-,-/-,-,0,1,-,-,Detail,-
+21,11829,KMP 361,Türk MzğndeFrmBilg.ve Çzmlme I,Physical (Face to face),"Gözde Çolakoğlu Sarı ,
+Orkun Zafer Özgelen","TMB
+TMB","Monday
+Tuesday","13:30/15:29
+09:30/10:29","--
+--",25,7,-,MUZ_LS,-,-
+22,11849,KMP 401,Kompozisyon VII,Physical (Face to face),Oğuzhan Balcı,"TMB
+TMB","Monday
+Wednesday","15:30/17:29
+10:30/12:29","--
+--",5,2,-,"BST_LS, KMP_LS",Detail,-
+23,15393,KMP 402,Kompozisyon VIII,Physical (Face to face),Oğuzhan Balcı,"TMB
+TMB","Monday
+Thursday","10:30/12:29
+10:30/12:29","--
+--",5,2,-,"BST_LS, KMP_LS",Detail,-
+24,11854,KMP 403,Kompozisyon Çözümleme III,Physical (Face to face),Ayhan Gunca,TMB,Thursday,10:30/12:29,--,5,2,-,"BST_LS, KMP_LS",Detail,-
+25,11853,KMP 405,Modern Armoni,Physical (Face to face),Recep Gül,TMB,Monday,10:30/12:29,--,10,5,-,"BST_LS, KMP_LS",-,-
+26,11850,KMP 411,Orkestrasyon II,Physical (Face to face),Ayhan Gunca,TMB,Wednesday,13:30/15:29,--,5,1,-,"BST_LS, KMP_LS",-,-
+27,11851,KMP 421,Batı Müziği Literatürü III,Physical (Face to face),Mehmet Özkan,TMB,Thursday,08:30/10:29,--,5,1,-,"BST_LS, KMP_LS",Detail,-
+28,11827,KMP 492,Bitirme Çalışması,Physical (Face to face),Neşe Yeşim Altınel Çoban,-,-,-/-,-,100,2,-,"BST_LS, KMP_LS",-,Detail

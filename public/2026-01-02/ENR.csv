@@ -1,0 +1,6 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15366,ENR 201,Fluid Mechanics,Physical (Face to face),Ata Bilgili,DZB,Thursday,17:30/20:29,--,0,1,-,"MEN_LS, MTM_LS",-,-
+1,15361,ENR 212,Strength of Materials I,Physical (Face to face),Yasin Arslanoğlu,DZB,Tuesday,11:30/14:29,--,5,3,-,MEN_LS,-,-
+2,15360,ENR 221,Num.Analysis of Eng.Sys,Physical (Face to face),Ata Bilgili,DZB,Monday,17:30/19:29,--,5,9,-,MEN_LS,Detail,-
+3,15374,ENR 301,Heat Transfer,Physical (Face to face),Murat Durmaz,MEDC,Tuesday,16:30/19:29,3D19,40,2,-,NAE_LS,Detail,-
+4,15362,ENR 311,Machinery Elements,Physical (Face to face),Yasin Arslanoğlu,DZB,Tuesday,14:30/17:29,--,5,3,-,MEN_LS,-,-

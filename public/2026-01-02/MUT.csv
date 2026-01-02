@@ -1,0 +1,58 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11941,MUT 101,Kemençe Yapımı I,Physical (Face to face),Mehmet Haşim Açanal,-,-,-/-,-,10,2,-,"MUT_LS, MZT_LS",-,-
+1,11942,MUT 111,Tanbur Yapımı,Physical (Face to face),Şafak Köksal,-,-,-/-,-,10,1,-,"MUT_LS, MZT_LS",-,-
+2,11939,MUT 131,Akustik I,Physical (Face to face),Murat Tıraş,TMB,Thursday,13:30/15:29,--,40,21,-,"KMP_LS, MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+3,11940,MUT 141,Kayıt Teknikleri,Physical (Face to face),Oğuz Öz,"TMB
+TMB","Tuesday
+Thursday","08:30/10:29
+15:30/17:29","--
+--",15,12,-,"MUT_LS, MZT_LS",-,-
+4,11943,MUT 153,Sayısal Ses Çalışma Ortamları,Physical (Face to face),Sair Sinan Kestelli,TMB,Wednesday,10:30/12:29,--,15,14,-,"MUT_LS, MZT_LS",-,-
+5,11946,MUT 161,Ağaç Teknolojisi,Physical (Face to face),Mehmet Tangör,TMB,Wednesday,10:30/12:29,--,15,3,-,"MUT_LS, MZT_LS",-,-
+6,11948,MUT 201,Kemane Yapımı,Physical (Face to face),Ahmet Tunç Buyruklar,-,-,-/-,-,10,1,-,"MUT_LS, MZT_LS",-,-
+7,11950,MUT 211,Ud Yapımı,Physical (Face to face),Şafak Köksal,-,-,-/-,-,10,1,-,"MUT_LS, MZT_LS",-,-
+8,11953,MUT 241,İleri Kayıt Teknikleri,Physical (Face to face),Can Karadoğan,"TMB
+TMB","Tuesday
+Thursday","10:30/12:29
+10:30/12:29","--
+--",15,11,-,"MUT_LS, MZT_LS",-,-
+9,11954,MUT 253,Prodüksiyon Analizi,Physical (Face to face),Oğuz Öz,TMB,Tuesday,13:30/15:29,--,15,6,-,"MUT_LS, MZT_LS",-,-
+10,11955,MUT 263,Ölçme ve Kontrol Bilgisi,Physical (Face to face),Mehmet Haşim Açanal,TMB,Tuesday,13:30/15:29,--,15,1,-,"MUT_LS, MZT_LS",-,-
+11,11968,MUT 267,Stüdyo Akustiği,Physical (Face to face),Murat Tıraş,TMB,Wednesday,10:30/12:29,--,15,12,-,"MUT_LS, MZT_LS",-,-
+12,11969,MUT 269,Çalgı Teknik Resmi I,Physical (Face to face),Şafak Köksal,TMB,Wednesday,10:30/12:29,--,15,3,-,"MUT_LS, MZT_LS",-,-
+13,11961,MUT 301,Keman Yapımı II,Physical (Face to face),Ahmet Tunç Buyruklar,-,-,-/-,-,10,1,-,"MUT_LS, MZT_LS",-,-
+14,11972,MUT 304,Ney Yapımı,Physical (Face to face),Ahmet Tunç Buyruklar,TMB,Monday,15:30/17:29,--,15,3,-,"MUT_LS, MZT_LS",-,-
+15,11963,MUT 311,Gitar Yapımı,Physical (Face to face),"Mehmet Haşim Açanal ,
+Mehmet Ali Sezen",-,-,-/-,-,10,3,-,"MUT_LS, MZT_LS",-,-
+16,11971,MUT 313,Çalgı Süsleme Sanatı,Physical (Face to face),Mehmet Haşim Açanal,TMB,Tuesday,15:30/17:29,--,15,1,-,"MUT_LS, MZT_LS",-,-
+17,15198,MUT 343,Çalgı Akustiği,Physical (Face to face),Mehmet Haşim Açanal,TMB,Thursday,13:30/15:29,--,15,2,-,"MUT_LS, MZT_LS",-,-
+18,11964,MUT 361,Çalgı Bilgisi I,Physical (Face to face),Ahmet Tunç Buyruklar,TMB,Wednesday,13:30/15:29,--,20,9,-,"MUT_LS, MZT_LS",-,-
+19,11956,MUT 363,Serbest Proje Çalışması I,Physical (Face to face),Taylan Özdemir,-,-,-/-,-,5,3,-,"MUT_LS, MZT_LS",-,-
+20,11957,MUT 363,Serbest Proje Çalışması I,Physical (Face to face),Ozan Sarıer,-,-,-/-,-,5,5,-,"MUT_LS, MZT_LS",-,-
+21,11959,MUT 363,Serbest Proje Çalışması I,Physical (Face to face),Gökhan Deneç,-,-,-/-,-,5,4,-,"MUT_LS, MZT_LS",-,-
+22,11960,MUT 363,Serbest Proje Çalışması I,Physical (Face to face),Şafak Köksal,-,-,-/-,-,5,1,-,"MUT_LS, MZT_LS",-,-
+23,11966,MUT 371,Çok Kanallı Miks,Physical (Face to face),Taylan Özdemir,"TMB
+TMB","Tuesday
+Thursday","13:30/15:29
+10:30/12:29","--
+--",15,11,-,"MUT_LS, MZT_LS",-,-
+24,11988,MUT 382,Elektrik-Elektronik,Physical (Face to face),Mehmet Haşim Açanal,TMB,Thursday,08:30/10:29,--,20,20,-,"MUT_LS, MZT_LS",-,-
+25,11970,MUT 384,Elektro Akustik Kompozisyon,Physical (Face to face),Sair Sinan Kestelli,TMB,Tuesday,10:30/12:29,--,15,3,-,"MUT_LS, MZT_LS",-,-
+26,15713,MUT 386,Serbest Proje Çalışması II,Ek Sınav,Oğuz Öz,-,-,-/-,-,0,1,-,-,-,-
+27,15714,MUT 388,Müzik Tek.Tasarım & Geliştirme,Ek Sınav,Sair Sinan Kestelli,-,-,-/-,-,0,1,-,-,-,-
+28,11990,MUT 403,Bendir Yapımı,Physical (Face to face),Mehmet Haşim Açanal,TMB,Thursday,10:30/12:29,--,15,1,-,"MUT_LS, MZT_LS",-,-
+29,11979,MUT 411,Kanun Yapımı I,Physical (Face to face),Şafak Köksal,-,-,-/-,-,10,2,-,"MUT_LS, MZT_LS",-,-
+30,11981,MUT 441,Mastering,Physical (Face to face),Ozan Sarıer,"TMB
+TMB","Tuesday
+Thursday","10:30/12:29
+13:30/15:29","--
+--",15,10,-,"MUT_LS, MZT_LS",-,-
+31,15939,MUT 451,Sahne Kayıt Teknikleri,Ek Sınav,Gökhan Deneç,-,-,-/-,-,0,1,-,-,-,-
+32,11984,MUT 461,Canlı Ses Donatımı,Physical (Face to face),Gökhan Deneç,TMB,Tuesday,15:30/17:29,--,15,12,-,"MUT_LS, MZT_LS",-,-
+33,11973,MUT 463,Serbest Proje Çalışması III,Physical (Face to face),Gökhan Deneç,-,-,-/-,-,5,5,-,"MUT_LS, MZT_LS",-,-
+34,11974,MUT 463,Serbest Proje Çalışması III,Physical (Face to face),Ozan Sarıer,-,-,-/-,-,5,6,-,"MUT_LS, MZT_LS",-,-
+35,11975,MUT 463,Serbest Proje Çalışması III,Physical (Face to face),Sair Sinan Kestelli,-,-,-/-,-,5,3,-,"MUT_LS, MZT_LS",-,-
+36,11976,MUT 463,Serbest Proje Çalışması III,Physical (Face to face),Mehmet Tangör,-,-,-/-,-,5,2,-,"MUT_LS, MZT_LS",-,-
+37,11985,MUT 465,Çalgı Restorasyonu,Physical (Face to face),Ahmet Tunç Buyruklar,TMB,Wednesday,10:30/12:29,--,15,2,-,"MUT_LS, MZT_LS",-,-
+38,15715,MUT 486,Serbest Proje Çalışması IV,Ek Sınav,Sair Sinan Kestelli,-,-,-/-,-,0,1,-,-,-,-
+39,11937,MUT 492,Bitirme Çalışması,Physical (Face to face),Mehmet Cevdet Erek,-,-,-/-,-,100,5,-,"MUT_LS, MZT_LS",-,Detail

@@ -1,0 +1,178 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12138,SES 105,Korrepetisyon I,Physical (Face to face),"Deniz Güneş ,
+Laçin Modiri",-,-,-/-,-,5,2,-,SES_LS,-,-
+1,12140,SES 105,Korrepetisyon I,Physical (Face to face),"Deniz Güneş ,
+Tuğçem Kar",-,-,-/-,-,5,6,-,SES_LS,-,-
+2,12142,SES 105,Korrepetisyon I,Physical (Face to face),"Deniz Güneş ,
+Kemal Akdoğan",-,-,-/-,-,5,5,-,SES_LS,-,-
+3,12143,SES 105,Korrepetisyon I,Physical (Face to face),"Berke Meyman ,
+Laçin Modiri",-,-,-/-,-,5,4,-,SES_LS,-,-
+4,12144,SES 105,Korrepetisyon I,Physical (Face to face),"Berke Meyman ,
+Tuğçem Kar",-,-,-/-,-,5,2,-,SES_LS,-,-
+5,12146,SES 105,Korrepetisyon I,Physical (Face to face),"Berke Meyman ,
+Kemal Akdoğan",-,-,-/-,-,5,5,-,SES_LS,-,-
+6,12134,SES 113,Ses Eğitimi I,Physical (Face to face),Laçin Modiri,-,-,-/-,-,5,5,-,SES_LS,-,-
+7,12136,SES 113,Ses Eğitimi I,Physical (Face to face),Tuğçem Kar,-,-,-/-,-,7,8,-,SES_LS,-,-
+8,12137,SES 113,Ses Eğitimi I,Physical (Face to face),Kemal Akdoğan,-,-,-/-,-,9,9,-,SES_LS,-,-
+9,12093,SES 122,Diksiyon,Physical (Face to face),Kemal Akdoğan,TMB,Monday,08:30/10:29,--,30,19,-,SES_LS,-,-
+10,12083,SES 131,THM Repertuvarı I,Physical (Face to face),Deniz Güneş,"TMB
+TMB","Tuesday
+Thursday","15:30/17:29
+13:30/15:29","--
+--",15,12,-,SES_LS,-,-
+11,12081,SES 133,TSM Repertuvarı I,Physical (Face to face),Berke Meyman,"TMB
+TMB","Tuesday
+Thursday","08:30/10:29
+08:30/10:29","--
+--",15,10,-,SES_LS,-,-
+12,12150,SES 209,Korrepetisyon III,Physical (Face to face),"Seval Eroğlu ,
+Fidan Kurt Kasapbaşı",-,-,-/-,-,5,5,-,SES_LS,Detail,-
+13,12151,SES 209,Korrepetisyon III,Physical (Face to face),"Seval Eroğlu ,
+Kemal Akdoğan",-,-,-/-,-,5,5,-,SES_LS,Detail,-
+14,12152,SES 209,Korrepetisyon III,Physical (Face to face),"Gülşah Sönmez ,
+Fidan Kurt Kasapbaşı",-,-,-/-,-,5,3,-,SES_LS,Detail,-
+15,12153,SES 209,Korrepetisyon III,Physical (Face to face),"Gülşah Sönmez ,
+Kemal Akdoğan",-,-,-/-,-,5,5,-,SES_LS,Detail,-
+16,12147,SES 213,Ses Eğitimi III,Physical (Face to face),Fidan Kurt Kasapbaşı,-,-,-/-,-,9,7,-,SES_LS,Detail,-
+17,12148,SES 213,Ses Eğitimi III,Physical (Face to face),Kemal Akdoğan,-,-,-/-,-,10,10,-,SES_LS,Detail,-
+18,12073,SES 221,Koro I (Kredisiz),Physical (Face to face),Fidan Kurt Kasapbaşı,"TMB
+TMB","Tuesday
+Thursday","08:30/10:29
+08:30/10:29","--
+--",40,15,-,SES_LS,-,-
+19,12088,SES 231,Ağız ve Hançere Teknikleri I,Physical (Face to face),Deniz Güneş,"TMB
+TMB","Tuesday
+Wednesday","10:30/12:29
+13:30/15:29","--
+--",30,3,-,SES_LS,-,-
+20,12089,SES 233,Türk Halk Müziği Repert. III,Physical (Face to face),Seval Eroğlu,"TMB
+TMB","Wednesday
+Friday","10:30/12:29
+14:00/15:59","--
+--",15,12,-,SES_LS,Detail,-
+21,12085,SES 281,15.-17.Yüzyıl Türk Müziği Rep.,Physical (Face to face),Sinem Özdemir Göçeri,"TMB
+TMB","Tuesday
+Wednesday","10:30/12:29
+13:30/15:29","--
+--",30,6,-,SES_LS,-,-
+22,12091,SES 283,Türk Sanat Müziği Repert. III,Physical (Face to face),Gülşah Sönmez,"TMB
+TMB","Monday
+Wednesday","13:30/15:29
+08:30/10:29","--
+--",15,7,-,SES_LS,Detail,-
+23,12096,SES 301,Türk Halk Müziği Repertuarı V,Physical (Face to face),Erhan Uslu,"TMB
+TMB","Tuesday
+Wednesday","13:30/15:29
+10:30/12:29","--
+--",15,10,-,SES_LS,Detail,-
+24,12106,SES 307,Yöre Ağızları I,Physical (Face to face),Deniz Güneş,"TMB
+TMB","Wednesday
+Thursday","08:30/10:29
+10:30/12:29","--
+--",20,13,-,SES_LS,-,-
+25,12157,SES 309,Korrepetisyon V,Physical (Face to face),"Erhan Uslu ,
+Alper Göçeri",-,-,-/-,-,5,5,-,SES_LS,Detail,-
+26,12158,SES 309,Korrepetisyon V,Physical (Face to face),"Erhan Uslu ,
+Laçin Modiri",-,-,-/-,-,5,4,-,SES_LS,Detail,-
+27,12159,SES 309,Korrepetisyon V,Physical (Face to face),"Erhan Uslu ,
+Tuğçem Kar",-,-,-/-,-,5,2,-,SES_LS,Detail,-
+28,12160,SES 309,Korrepetisyon V,Physical (Face to face),"Sinem Özdemir Göçeri ,
+Alper Göçeri",-,-,-/-,-,5,3,-,SES_LS,Detail,-
+29,12161,SES 309,Korrepetisyon V,Physical (Face to face),"Sinem Özdemir Göçeri ,
+Laçin Modiri",-,-,-/-,-,5,4,-,SES_LS,Detail,-
+30,12162,SES 309,Korrepetisyon V,Physical (Face to face),"Sinem Özdemir Göçeri ,
+Tuğçem Kar",-,-,-/-,-,5,4,-,SES_LS,Detail,-
+31,12154,SES 313,Dünya Vokal Teknikleri I,Physical (Face to face),Alper Göçeri,-,-,-/-,-,7,7,-,SES_LS,Detail,-
+32,12155,SES 313,Dünya Vokal Teknikleri I,Physical (Face to face),Laçin Modiri,-,-,-/-,-,6,4,-,SES_LS,Detail,-
+33,12156,SES 313,Dünya Vokal Teknikleri I,Physical (Face to face),Tuğçem Kar,-,-,-/-,-,7,7,-,SES_LS,Detail,-
+34,12075,SES 321,Koro III (Kredisiz),Physical (Face to face),Fidan Kurt Kasapbaşı,"TMB
+TMB","Tuesday
+Thursday","08:30/10:29
+08:30/10:29","--
+--",40,19,-,SES_LS,-,-
+35,12111,SES 359,Deyiş Repertuvarı,Physical (Face to face),Seval Eroğlu,"TMB
+TMB","Monday
+Tuesday","09:30/10:29
+10:30/12:29","--
+--",10,1,-,SES_LS,-,-
+36,12103,SES 365,Ses Fizyolojisine Giriş,Physical (Face to face),Laçin Modiri,TMB,Wednesday,13:30/15:29,--,30,3,-,SES_LS,-,-
+37,12133,SES 371,Repertuar I,Physical (Face to face),Şirin Karadeniz,TMB,Wednesday,10:30/12:29,--,10,4,-,"BST_LS, KMP_LS",-,-
+38,12101,SES 373,Köçekçe Repertuarı,Physical (Face to face),Gülşah Sönmez,TMB,Tuesday,10:30/12:29,--,15,2,-,SES_LS,-,-
+39,15700,SES 374,Lale Devri Repertuarı,Ek Sınav,Gülşah Sönmez,-,-,-/-,-,0,1,-,-,-,-
+40,12079,SES 381,19.YY Türk Müziği Repertuarı,Physical (Face to face),Mustafa Atakan Aktaş,"TMB
+TMB","Tuesday
+Thursday","15:30/17:29
+15:30/17:29","--
+--",20,7,-,SES_LS,-,-
+41,15199,SES 382,20.YY Türk Müziği Repertuarı,Physical (Face to face),Gülşah Sönmez,"TMB
+TMB","Tuesday
+Thursday","08:30/10:29
+08:30/10:29","--
+--",10,4,-,SES_LS,-,-
+42,12094,SES 391,Türk Sanat Müziği Repertuarı V,Physical (Face to face),Sinem Özdemir Göçeri,"TMB
+TMB","Tuesday
+Wednesday","13:30/15:29
+10:30/12:29","--
+--",15,9,-,SES_LS,Detail,-
+43,15202,SES 392,TSM Repertuarı VI,Physical (Face to face),Sinem Özdemir Göçeri,"TMB
+TMB","Tuesday
+Wednesday","08:30/10:29
+08:30/10:29","--
+--",10,3,-,SES_LS,Detail,-
+44,12118,SES 401,THM Repertuarı VII,Physical (Face to face),Deniz Güneş,"TMB
+TMB","Tuesday
+Wednesday","13:30/15:29
+10:30/12:29","--
+--",15,8,-,SES_LS,Detail,-
+45,12113,SES 407,Yöre Ağızları III,Physical (Face to face),Erhan Uslu,"TMB
+TMB","Wednesday
+Thursday","13:30/15:29
+10:30/12:29","--
+--",15,6,-,SES_LS,-,-
+46,12166,SES 409,Korrepetisyon VII,Physical (Face to face),"Deniz Güneş ,
+Fidan Kurt Kasapbaşı",-,-,-/-,-,5,3,-,SES_LS,Detail,-
+47,12167,SES 409,Korrepetisyon VII,Physical (Face to face),"Deniz Güneş ,
+Laçin Modiri",-,-,-/-,-,5,2,-,SES_LS,Detail,-
+48,12168,SES 409,Korrepetisyon VII,Physical (Face to face),"Deniz Güneş ,
+Tuğçem Kar",-,-,-/-,-,5,1,-,SES_LS,Detail,-
+49,12169,SES 409,Korrepetisyon VII,Physical (Face to face),"Gülşah Sönmez ,
+Fidan Kurt Kasapbaşı",-,-,-/-,-,5,4,-,SES_LS,Detail,-
+50,12170,SES 409,Korrepetisyon VII,Physical (Face to face),"Gülşah Sönmez ,
+Tuğçem Kar",-,-,-/-,-,5,2,-,SES_LS,Detail,-
+51,12171,SES 409,Korrepetisyon VII,Physical (Face to face),"Gülşah Sönmez ,
+Laçin Modiri",-,-,-/-,-,5,1,-,SES_LS,Detail,-
+52,15702,SES 410,Korrepetisyon VIII,Ek Sınav,Sinem Özdemir Göçeri,-,-,-/-,-,0,1,-,-,Detail,-
+53,12163,SES 413,Dünya Vokal Teknikleri III,Physical (Face to face),Fidan Kurt Kasapbaşı,-,-,-/-,-,7,7,-,SES_LS,Detail,-
+54,12164,SES 413,Dünya Vokal Teknikleri III,Physical (Face to face),Laçin Modiri,-,-,-/-,-,7,5,-,SES_LS,Detail,-
+55,12165,SES 413,Dünya Vokal Teknikleri III,Physical (Face to face),Tuğçem Kar,-,-,-/-,-,5,3,-,SES_LS,Detail,-
+56,15701,SES 414,Dünya Vokal Teknikleri IV,Ek Sınav,Fidan Kurt Kasapbaşı,-,-,-/-,-,0,1,-,-,Detail,-
+57,12116,SES 417,Fasıl I,Physical (Face to face),Gülşah Sönmez,"TMB
+TMB","Wednesday
+Thursday","13:30/15:29
+10:30/12:29","--
+--",20,6,-,"CAB_LS, SES_LS",-,-
+58,15705,SES 418,Fasıl II,Ek Sınav,Gülşah Sönmez,-,-,-/-,-,0,1,-,-,-,-
+59,12078,SES 421,Koro V (Kredisiz),Physical (Face to face),Fidan Kurt Kasapbaşı,"TMB
+TMB","Tuesday
+Thursday","08:30/10:29
+08:30/10:29","--
+--",40,13,-,SES_LS,-,-
+60,15376,SES 422,Koro VI (Kredisiz),Physical (Face to face),Fidan Kurt Kasapbaşı,"TMB
+TMB","Tuesday
+Thursday","08:30/10:29
+08:30/10:29","--
+--",10,3,-,SES_LS,-,-
+61,12100,SES 423,Yrd. Repertuvar I (TSM),Physical (Face to face),Gülşah Sönmez,TMB,Monday,15:30/17:29,--,25,10,-,SES_LS,-,-
+62,12098,SES 425,Yrd. Repertuvar I (THM),Physical (Face to face),Seval Eroğlu,TMB,Wednesday,08:30/10:29,--,25,11,-,SES_LS,-,-
+63,12131,SES 427,Sahne Bilgisi ve Jest Mimik,Physical (Face to face),Kemal Akdoğan,TMB,Tuesday,10:30/12:29,--,25,19,-,"CAB_LS, CEB_LS, SES_LS",-,-
+64,12127,SES 433,Yrd. Repertuvar III (THM),Physical (Face to face),Seval Eroğlu,TMB,Tuesday,15:30/17:29,--,15,6,-,SES_LS,-,-
+65,15706,SES 434,Yrd. Repertuvar IV (THM),Ek Sınav,Seval Eroğlu,-,-,-/-,-,0,1,-,-,-,-
+66,12129,SES 435,Yrd. Repertuvar III (TSM),Physical (Face to face),Gülşah Sönmez,TMB,Tuesday,15:30/17:29,--,15,6,-,SES_LS,-,-
+67,12125,SES 465,Sahne Psikolojisi,Physical (Face to face),Kemal Akdoğan,TMB,Monday,10:30/12:29,--,25,11,-,SES_LS,-,-
+68,12123,SES 491,TSM Repertuarı VII,Physical (Face to face),Gülşah Sönmez,"TMB
+TMB","Tuesday
+Wednesday","13:30/15:29
+10:30/12:29","--
+--",15,8,-,SES_LS,Detail,-
+69,12071,SES 492,Bitirme Çalışması,Physical (Face to face),Sinem Özdemir Göçeri,-,-,-/-,-,40,6,-,SES_LS,-,Detail
+70,15704,SES 494,TSM Repertuarı VIII,Ek Sınav,Sinem Özdemir Göçeri,-,-,-/-,-,0,1,-,-,Detail,-

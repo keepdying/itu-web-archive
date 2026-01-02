@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14832,CIE 305,Fundamentals of Geomatics,Physical (Face to face),Himmet Karaman,"INB
+INB","Tuesday
+Thursday","08:30/11:29
+10:30/12:29","A2
+A2",30,23,-,SIN_LS,-,-
+1,15213,CIE 307,Structural Analysis,Physical (Face to face),Ahmet Güllü,"INB
+INB","Tuesday
+Wednesday","11:30/14:29
+11:30/13:29","A2
+B306",30,23,-,SIN_LS,-,-
+2,15210,CIE 308,Engineering Statistics,Physical (Face to face),Kemal Selçuk Öğüt,INB,Monday,14:30/17:29,B202,30,22,-,SIN_LS,Detail,-
+3,15211,CIE 329,Civil Engineering Materials,Physical (Face to face),Özgür Ekincioğlu,"INB
+INB","Wednesday
+Thursday","08:30/11:29
+08:30/10:29","B307
+A2",30,23,-,SIN_LS,-,-
+4,15212,CIE 354,Fluid Mechanics,Physical (Face to face),Cihan Bayındır,INB,Friday,09:30/12:29,A2,30,22,-,SIN_LS,-,-

@@ -1,0 +1,8 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11515,MAL 201,Malzeme Bilimi,Physical (Face to face),Demet Aydoğmuş,KMB,Wednesday,12:30/15:29,D103,85,93,-,"GID_LS, KMM_LS",-,-
+1,13361,MAL 201,Malzeme Bilimi,Physical (Face to face),Emin Çiftçi,MDB,Monday,13:30/16:29,B204,50,43,-,"CHZ_LS, JEO_LS",-,-
+2,12997,MAL 201E,Materials Science,Physical (Face to face),Burçak Avcı,MEDC,Wednesday,09:30/12:29,3D20,95,96,-,"DEN_LS, DENE_LS, GID_LS, KMM_LS",-,-
+3,13362,MAL 201E,Materials Science,Physical (Face to face),Emin Çiftçi,MDB,Thursday,14:30/17:29,A301,63,64,-,"CHZE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",-,-
+4,13693,MAL 201E,Materials Science,Physical (Face to face),Levent Önal,MKB,Tuesday,13:30/16:29,D355,80,27,-,"TEK_LS, TEKE_LS",-,-
+5,15132,MAL 201E,Materials Science,Physical (Face to face),Hakan Nuri Atahan,EEB,Monday,13:30/16:29,5207,60,61,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+6,15134,MAL 201E,Materials Science,Physical (Face to face),Hasan Nuri Türkmenoğlu,INB,Tuesday,09:30/12:29,A202,60,39,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-

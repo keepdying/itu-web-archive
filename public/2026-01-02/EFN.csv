@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14833,EFN 201E,Intermediate Microeconomics,Physical (Face to face),Aysun Hızıroğlu Aygün,MSB,Monday,08:30/12:29,B01,50,36,-,EFN_LS,Detail,-
+1,14772,EFN 211E,Statistical Meth. in Economics,Physical (Face to face),Ömer Lütfi Antalyalı,MSB,Tuesday,14:30/18:29,B01,30,30,-,EFN_LS,-,-
+2,14834,EFN 301E,Econometrics I,Physical (Face to face),Zehra Atik,MSB,Wednesday,08:30/12:29,210,40,35,-,EFN_LS,Detail,-
+3,14835,EFN 305E,Industrial Organisation,Physical (Face to face),Shourjo Chakravorty,MSB,Monday,14:30/17:29,113,40,33,-,EFN_LS,Detail,-
+4,14836,EFN 306E,Financial Markets&Institutions,Physical (Face to face),Rofaida Benotsmane,MSB,Friday,14:30/17:29,B04,40,30,-,EFN_LS,Detail,-
+5,14837,EFN 307E,Game Theory,Physical (Face to face),Qian Li,MSB,Thursday,09:30/12:29,109,40,34,-,EFN_LS,Detail,-
+6,14838,EFN 403E,Bank Management,Physical (Face to face),Rofaida Benotsmane,MSB,Thursday,14:30/17:29,B12,35,17,-,"EFN_LS, EFN_YD",Detail,-
+7,14839,EFN 404E,Derivatives & Risk Management,Physical (Face to face),Rofaida Benotsmane,MSB,Wednesday,09:30/12:29,B12,35,12,-,EFN_LS,Detail,-
+8,14840,EFN 412E,Environmental Economics,Physical (Face to face),Rofaida Benotsmane,MSB,Friday,09:30/12:29,B04,40,8,-,EFN_LS,Detail,-
+9,14841,EFN 424E,Financial Management,Physical (Face to face),Tayfun Özkan,MSB,Thursday,14:30/17:29,B04,40,24,-,EFN_LS,Detail,-

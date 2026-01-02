@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11076,DNK 201,Dinamik,Physical (Face to face),Nihal Eratlı,INB,Monday,09:30/12:29,A301,47,29,-,INS_LS,Detail,-
+1,11079,DNK 201,Dinamik,Physical (Face to face),Bahattin Kimençe,INB,Monday,14:00/16:59,D202,50,50,-,INS_LS,Detail,-
+2,12419,DNK 201,Dinamik,Physical (Face to face),Özge Özdemir,MEDC,Monday,14:30/17:29,ZA4,60,59,-,"UCK_LS, UCK_YD",Detail,-
+3,11081,DNK 201E,Dynamics,Physical (Face to face),Abdul Hayır,INB,Wednesday,12:30/15:29,A101,47,45,-,"INS_LS, INSE_LS, NAE_LS",Detail,-
+4,11083,DNK 201E,Dynamics,Physical (Face to face),Semih Küçükarslan,INB,Tuesday,13:30/16:29,A305,47,49,-,"INS_LS, INSE_LS, NAE_LS",Detail,-
+5,11086,DNK 201E,Dynamics,Physical (Face to face),Osman Bulut,INB,Wednesday,12:30/15:29,A102,47,58,-,"INS_LS, INSE_LS, NAE_LS",Detail,-
+6,12431,DNK 201E,Dynamics,Physical (Face to face),Cemil Kurtcebe,MEDC,Monday,14:30/17:29,ZA2,60,45,-,"UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS",Detail,-
+7,12432,DNK 201E,Dynamics,Physical (Face to face),Ali Tatar,MEDC,Monday,14:30/17:29,ZA3,60,61,-,"UCK_LS, UCK_YD, UZB_LS, UZB_YD, UZBE_LS",Detail,-
+8,12995,DNK 201E,Dynamics,Physical (Face to face),Ceren Bilgin Güney,MEDC,Thursday,09:30/12:29,1D10,75,76,-,"DEN_LS, DENE_LS",Detail,-

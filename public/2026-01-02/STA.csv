@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15214,STA 201E,Statics,Physical (Face to face),Murat Yılmaz,INB,Friday,08:30/11:29,A302,80,73,-,"JEO_LS, MAD_LS, MADE_LS",-,-
+1,15117,STA 204,Statik ve Mukavemet,Physical (Face to face),Bahattin Kimençe,INB,Friday,14:30/17:29,A104,70,49,-,"CEV_LS, GID_LS, KMM_LS",-,-
+2,15118,STA 204E,Statics&Strength of Materials,Physical (Face to face),Pınar Teymür,INB,Friday,14:30/17:29,B103,90,80,-,"CEV_LS, CEVE_LS, GID_LS, KMM_LS",-,-
+3,15189,STA 204E,Statics&Strength of Materials,Physical (Face to face),Bahar Ayhan,INB,Monday,09:30/12:29,B104,78,94,-,"CHZ_LS, GID_LS, ISL_LS, ISLE_LS, JEF_LS, KMM_LS, PET_LS, PETE_LS",-,-

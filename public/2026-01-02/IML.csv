@@ -1,0 +1,26 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15036,IML 205,Termodinamik,Physical (Face to face),İsmail Yalçın Uralcan,"MKB
+MKB","Monday
+Wednesday","15:30/16:29
+13:30/15:29","D460
+D460",40,1,-,IML_LS,-,-
+1,15038,IML 305,Isı Geçişi,Physical (Face to face),Yakup Erhan Böke,"MKB
+MKB","Monday
+Thursday","13:30/15:29
+15:30/16:29","D460
+D460",40,2,-,IML_LS,Detail,-
+2,15040,IML 311,İmal Usülleri I,Physical (Face to face),Raşid Ahmed Yıldız,"MKB
+MKB","Tuesday
+Thursday","15:30/17:29
+13:30/15:29","D460
+D460",40,1,-,IML_LS,Detail,-
+3,15042,IML 322,İmalatta Otomasyon,Physical (Face to face),Erdinç Altuğ,MKB,Tuesday,08:30/11:29,D460,20,1,-,"IML_LS, IML_MTM_LS, IML_YD",Detail,-
+4,15043,IML 324E,Comp.Aided Manufacturing Eng.,Physical (Face to face),Raşid Ahmed Yıldız,MKB,Monday,08:30/11:29,D460,20,3,-,"IML_LS, IML_MTM_LS, IMLE_LS",Detail,-
+5,15045,IML 337,İmalat Planlama ve Kontrol,Physical (Face to face),Ramazan Murat Tabanlı,MKB,Friday,08:30/11:29,D460,20,1,-,"IML_LS, IML_MTM_LS",Detail,-
+6,15047,IML 401,İmalat Lab I,Physical (Face to face),Canan Gamze Güleryüz Parasız,-,-,-/-,-,40,3,-,"IML_LS, IML_YD",-,Detail
+7,15048,IML 404E,Comp.Simulations in Manuf.Eng.,Physical (Face to face),Şafak Yılmaz,MKB,Thursday,08:30/10:29,D452,40,1,-,"IML_LS, IMLE_LS",-,Detail
+8,15049,IML 405,Uygulamalı İmalat Projesi,Physical (Face to face),Hacı Abdullah Taşdemir,-,-,-/-,-,40,1,-,IML_LS,Detail,-
+9,15672,IML 438E,Tool Design,Ek Sınav,Ramazan Murat Tabanlı,-,-,-/-,-,20,2,-,"IML_LS, IML_MTM_LS, IML_YD",Detail,-
+10,15054,IML 4901,İmalat Müh. Tasarımı I,Physical (Face to face),Akif Yavuz,-,-,-/-,-,300,1,-,IML_LS,Detail,Detail
+11,15056,IML 4902,İmalat Müh. Tasarımı II,Physical (Face to face),Akif Yavuz,-,-,-/-,-,300,1,-,IML_LS,Detail,-
+12,15059,IML 492,İmalat Tasarım Projesi,Physical (Face to face),Akif Yavuz,-,-,-/-,-,300,1,-,IML_LS,-,Detail

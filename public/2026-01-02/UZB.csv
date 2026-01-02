@@ -1,0 +1,34 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12403,UZB 101E,Int.to Astronaut.Eng. & Ethics,Physical (Face to face),Seher Eken,MEDC,Tuesday,13:30/14:29,2D11,10,2,-,UZBE_LS,-,-
+1,14607,UZB 112,Bilgisayarla Teknik Resim,Physical (Face to face),Hüsnü Barbaros Soyer,INB,Thursday,14:30/17:29,--,65,46,-,"UCK_LS, UZB_LS",-,-
+2,14608,UZB 112E,Computer Aided Drafting,Physical (Face to face),Hüsnü Barbaros Soyer,INB,Thursday,08:30/11:29,D103,65,60,-,"UCK_LS, UZB_LS, UZBE_LS",-,-
+3,14609,UZB 112E,Computer Aided Drafting,Physical (Face to face),Hüsnü Barbaros Soyer,INB,Friday,08:30/11:29,D100,24,12,-,"UCK_LS, UZB_LS, UZBE_LS",-,-
+4,12529,UZB 301,Ölçme Tekniği,Physical (Face to face),Duygu Erdem,MEDC,Monday,14:30/17:29,2D16,53,52,-,UCK_LS,-,-
+5,12532,UZB 301,Ölçme Tekniği,Physical (Face to face),Saliha Banu Yılmaz,MEDC,Thursday,09:30/12:29,3D19,53,54,-,UCK_LS,-,-
+6,12533,UZB 301E,Measurement Techniques,Physical (Face to face),Nuriye Leman Okşan Çetiner Yıldırım,MEDC,Wednesday,09:30/12:29,ZA3,80,77,-,"UZB_LS, UZBE_LS",-,-
+7,15933,UZB 310E,Compressible Aerodynamics,Ek Sınav,Melike Nikbay,-,-,-/-,-,0,2,-,-,Detail,-
+8,15935,UZB 314E,Heat Transfer,Ek Sınav,Cemil Kurtcebe,-,-,-/-,-,0,1,-,-,Detail,-
+9,15932,UZB 317E,Heat Transfer,Ek Sınav,Bülent Tutkun,-,-,-/-,-,0,1,-,-,Detail,-
+10,12589,UZB 318E,Finite Element Method,Physical (Face to face),Vedat Ziya Doğan,MEDC,Thursday,14:30/17:29,2D18,65,67,-,"UCK_LS, UZBE_LS",Detail,-
+11,12539,UZB 337,Hava Uzay Yapıları,Physical (Face to face),"Metin Orhan Kaya ,
+Özge Özdemir",MEDC,Friday,08:30/12:29,1D7,65,67,-,UCK_LS,Detail,-
+12,12537,UZB 337E,Aerospace Structures,Physical (Face to face),İbrahim Özkol,MEDC,Friday,08:30/12:29,ZA4,80,79,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+13,12603,UZB 350E,Manufacturing Processes,Physical (Face to face),Raşid Ahmed Yıldız,MEDC,Wednesday,12:30/15:29,2D14,50,38,-,"UCK_LS, UZBE_LS",-,-
+14,12527,UZB 352E,Orbital Mechanics,Physical (Face to face),Cuma Yarım,MEDC,Monday,14:30/17:29,ZA1,125,123,-,"UZB_LS, UZB_YD, UZBE_LS",Detail,-
+15,12577,UZB 411E,Space Environment,Physical (Face to face),Zerefşan Kaymaz,MEDC,Thursday,08:30/11:29,ZA1,98,101,-,"IBM_LS, MTO_LS, UZB_LS, UZB_YD, UZBE_LS",-,-
+16,15613,UZB 416E,Spacecraft Systems Design II,Ek Sınav,Alim Rüstem Aslan,-,-,-/-,-,0,2,-,-,Detail,-
+17,12594,UZB 419E,Spacecraft Systems Design I,Physical (Face to face),Alim Rüstem Aslan,"MEDC
+MEDC","Monday
+Tuesday","12:30/14:29
+08:30/10:29","ZA4
+ZA3",100,87,-,"UZB_LS, UZB_YD, UZBE_LS",-,Detail
+18,15647,UZB 421E,Attitude Determination & Ctrl.,Ek Sınav,Demet Çilden Güler,-,-,-/-,-,0,1,-,-,Detail,-
+19,12611,UZB 438E,Robotic Control Systems,Physical (Face to face),Murad Abu-khalaf,MEDC,Monday,09:30/12:29,2D17,50,42,-,"UCK_LS, UZBE_LS",Detail,-
+20,12593,UZB 441E,Rocket Propulsion,Physical (Face to face),Fırat Oğuz Edis,MEDC,Thursday,14:30/17:29,ZA3,100,103,-,"UZB_LS, UZB_YD, UZBE_LS",Detail,-
+21,15611,UZB 451E,Spacecraft Communications,Ek Sınav,Ramazan Yeniçeri,-,-,-/-,-,0,1,-,-,-,-
+22,14610,UZB 487E,CAD/CAM,Physical (Face to face),Hüsnü Barbaros Soyer,INB,Friday,14:30/17:29,D100,24,18,-,"UCK_LS, UZB_LS, UZBE_LS",-,-
+23,15207,UZB 489E,Electric Propulsion,Physical (Face to face),Bülent Tutkun,MEDC,Friday,09:30/12:29,1D3,40,12,-,"UCK_LS, UZBE_LS",-,-
+24,12619,UZB 4901E,Astronautical Eng. Design I,Physical (Face to face),Melike Nikbay,-,-,-/-,-,500,79,-,"UZB_LS, UZBE_LS",Detail,Detail
+25,12621,UZB 4902E,Astronautical Eng. Design II,Physical (Face to face),Melike Nikbay,-,-,-/-,-,500,21,-,"UZB_LS, UZBE_LS",Detail,-
+26,12630,UZB 492,Bitirme Çalışması,Physical (Face to face),Melike Nikbay,-,-,-/-,-,500,1,-,UZB_LS,-,Detail
+27,12631,UZB 492E,Graduation Project,Physical (Face to face),Melike Nikbay,-,-,-/-,-,500,1,-,UZBE_LS,-,Detail

@@ -1,0 +1,15 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11579,BEN 102,Microbiology,Physical (Face to face),Hatice Funda Karbancıoğlu Güler,"KMB
+KMB","Monday
+Wednesday","09:30/11:29
+09:30/11:29","D203
+G308",40,11,-,MBI_LS,-,-
+1,11576,BEN 107,Art of Engineering,Physical (Face to face),"Oğuz Haşlakoğlu ,
+Mehmet Güler ,
+Yüksel Demir",MMB,Friday,14:00/16:59,3407,30,4,-,MBI_LS,-,-
+2,11578,BEN 111,Intr. to Bioengineering,Physical (Face to face),Melek Mümine Erol Taygun,KMB,Thursday,13:30/15:29,D106,30,4,-,MBI_LS,-,-
+3,11580,BEN 321,Reac. Kin&Reac. Design in Bio.,Physical (Face to face),Ahmet Sirkecioğlu,KMB,Tuesday,13:30/16:29,D105,40,11,-,MBI_LS,-,-
+4,11582,BEN 323,Material Science,Physical (Face to face),Faiz Muhaffel,KMB,Friday,14:30/17:29,D304,40,13,-,MBI_LS,-,-
+5,11585,BEN 337,Biofuels and Bioenergy,Physical (Face to face),Serdar Yaman,KMB,Tuesday,09:30/12:29,D205,40,11,-,MBI_LS,-,-
+6,11586,BEN 352,Transp. Process in Bioengin.,Physical (Face to face),"Melek Mümine Erol Taygun ,
+Fatma Elif Genceli Güner",KMB,Monday,13:30/16:29,D105,40,11,-,MBI_LS,-,-

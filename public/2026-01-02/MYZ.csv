@@ -1,0 +1,27 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15300,MYZ 301E,Introduction to Artificial Intelligence for Engineering,Physical (Face to face),Mustafa Berker Yurtseven,KMB,Thursday,13:30/16:29,D302,30,28,-,"GID_LS, KMM_LS, MET_LS, METE_LS",Detail,-
+1,15032,MYZ 302E,Artificial Intelligence for Mechanical Engineering,Physical (Face to face),"Emrecan Söylemez ,
+Atakan Altınkaynak ,
+Ersan Üstündağ ,
+Hülya Yalçın","MKB
+MKB","Tuesday
+Thursday","15:30/16:29
+13:30/15:29","A201
+A201",40,40,-,MAK_LS,Detail,-
+2,11402,MYZ 303E,Artificial Intelligence in Civil Engineering,Physical (Face to face),Murat Yılmaz,INB,Friday,14:00/16:59,A204,110,105,-,"AIN_LS, INS_LS, INSE_LS",-,-
+3,11002,MYZ 305,Harita Mühendisliğinde Yapay Zeka,Physical (Face to face),Caner Güney,INB,Tuesday,13:30/15:29,A204,30,11,-,"GEO_LS, HTA_LS",-,-
+4,11005,MYZ 305E,Artificial Intelligence in Geomatics Engineering,Physical (Face to face),Muhammed Enes Atik,INB,Monday,11:30/13:29,B302,40,30,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+5,13872,MYZ 306E,"Artificial Intelligence in Architecture, Planning and Design",Physical (Face to face),Orkan Zeynel Güzelci,MMB,Wednesday,13:30/15:29,CATI1,20,15,-,"IAD_LS, ICM_LS",Detail,-
+6,13873,MYZ 306E,"Artificial Intelligence in Architecture, Planning and Design",Physical (Face to face),Aslı Ulubaş Hamurcu,MMB,Wednesday,13:30/15:29,CATI2,20,22,-,"SBP_LS, SBPE_LS",Detail,-
+7,13874,MYZ 306E,"Artificial Intelligence in Architecture, Planning and Design",Physical (Face to face),Ekrem Cem Alppay,MMB,Wednesday,13:30/15:29,CATI3,20,20,-,"ENTE_LS, EUTE_LS",Detail,-
+8,13875,MYZ 306E,"Artificial Intelligence in Architecture, Planning and Design",Physical (Face to face),Mehmet Onur Senem,MMB,Wednesday,13:30/15:29,--,20,20,-,"PEM_LS, PEME_LS",Detail,-
+9,13877,MYZ 306E,"Artificial Intelligence in Architecture, Planning and Design",Physical (Face to face),Leman Figen Gül,MMB,Wednesday,13:30/15:29,--,20,16,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+10,13878,MYZ 306E,"Artificial Intelligence in Architecture, Planning and Design",Physical (Face to face),İmdat As,MMB,Wednesday,13:30/15:29,--,20,6,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+11,14524,MYZ 307,Elektrik-Elektronik Mühendisleri için Makine Öğrenmesi,Physical (Face to face),Bilge Günsel,EEB,Thursday,12:30/15:29,5207,50,40,-,"EHB_LS, ELK_LS, KOM_LS",Detail,-
+12,14525,MYZ 307E,Machine Learning for Electrical and Electronics Engineering,Physical (Face to face),Tufan Kumbasar,EEB,Friday,14:00/16:59,2104,50,46,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+13,14526,MYZ 307E,Machine Learning for Electrical and Electronics Engineering,Physical (Face to face),Ibraheem Abdullah Mohammed Shayea,EEB,Friday,14:00/16:59,2106,50,47,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+14,14527,MYZ 307E,Machine Learning for Electrical and Electronics Engineering,Physical (Face to face),Duygu Bayram Kara,EEB,Friday,14:00/16:59,5307,50,15,-,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+15,13030,MYZ 308E,Artificial Intelligence in Marine Technology,Physical (Face to face),Serdar Aytekin Köroğlu,MEDC,Thursday,13:30/16:29,ZA2,25,24,-,DEN_LS,-,-
+16,13083,MYZ 309,Matematik Mühendisliğinde Yapay Zeka,Physical (Face to face),Muhammed Kurulay,FEB,Thursday,14:30/17:29,D101,30,18,-,MAT_LS,Detail,-
+17,13237,MYZ 310E,Machine Learning in Physics,Physical (Face to face),Sinem Şaşmaz,FEB,Thursday,14:30/17:29,D104,40,34,-,"FIZ_LS, FIZ_YD, FIZE_LS",Detail,-
+18,12727,MYZ 312,Meteorolojide Makine Öğrenmesi,Physical (Face to face),Ahmet Öztopal,MEDC,Friday,14:30/17:29,ZA1,25,20,-,"IBM_LS, MTO_LS",Detail,-
