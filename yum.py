@@ -1,23 +1,30 @@
+import argparse
 import json
 import os
-import time
 from datetime import datetime
+from io import StringIO
 
 import pandas as pd
-from selenium.webdriver import Firefox, FirefoxOptions
-from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.service import Service as FirefoxService
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
+import requests
 from tqdm.auto import tqdm
-from webdriver_manager.firefox import GeckoDriverManager
 
 DATE = str(datetime.now().date())
 FOLDER_PATH = "public"
-GECKO_VERSION = "v0.35.0"
-URL = "https://obs.itu.edu.tr/public/DersProgram"
-TIMEOUT = 5
+# All available program levels
+PROGRAM_LEVELS = {
+    "OL": "Associate",
+    "LS": "Undergraduate",
+    "LU": "Graduate",
+    "LUI": "Graduate Level Evening Education"
+}
+BASE_URL = "https://obs.itu.edu.tr/public/DersProgram"
+MAX_RETRIES = 3
+RETRY_DELAY = 1  # seconds
 
+# Headers to request English version
+HEADERS = {
+    'Accept-Language': 'en-US,en;q=0.9,tr-TR;q=0.8,tr;q=0.7'
+}
 
 if not os.path.exists(FOLDER_PATH):
     os.makedirs(FOLDER_PATH)
@@ -32,103 +39,158 @@ def exportJson(path: str, list: list):
         json.dump(list, f)
 
 
-options = FirefoxOptions()
-options.add_argument("--start-minimized")
-options.add_argument("--log-level=0")
-options.add_argument("--headless")
+def fetch_branch_codes(program_level: str):
+    """Fetch branch codes and IDs from the API."""
+    url = f"{BASE_URL}/SearchBransKoduByProgramSeviye?programSeviyeTipiAnahtari={program_level}"
+    
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=10)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            if attempt < MAX_RETRIES - 1:
+                print(f"Retrying branch codes fetch (attempt {attempt + 1}/{MAX_RETRIES})...")
+                import time
+                time.sleep(RETRY_DELAY)
+            else:
+                raise Exception(f"Failed to fetch branch codes after {MAX_RETRIES} attempts: {e}")
 
-gecko_service = FirefoxService(executable_path=GeckoDriverManager(version=GECKO_VERSION).install(), log_output=None)
-browser = Firefox(options=options, service=gecko_service)
+
+def fetch_course_data(program_level: str, branch_id: int):
+    """Fetch course data for a specific branch ID."""
+    url = f"{BASE_URL}/DersProgramSearch?ProgramSeviyeTipiAnahtari={program_level}&dersBransKoduId={branch_id}"
+    
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=10)
+            response.raise_for_status()
+            
+            # Check if response contains a table
+            if "dersProgramContainer" not in response.text:
+                return None  # No data available
+            
+            # Parse HTML table using pandas
+            # pandas.read_html automatically extracts text from links by default
+            dfs = pd.read_html(StringIO(response.text))
+            if not dfs or len(dfs) == 0:
+                return None
+            
+            df = dfs[0]
+            
+            # Clean up column names:
+            # - Replace commas with semicolons to match original format
+            # - Normalize newlines and carriage returns (e.g., "Reservation\nMaj./Cap./Enrl.")
+            # - Strip whitespace
+            df.columns = [col.replace(",", ";").replace("\n", " ").replace("\r", "").replace("\x0D", "").replace("\x0A", " ").strip() 
+                         for col in df.columns]
+            
+            # Clean up data: strip whitespace from all string columns
+            for col in df.columns:
+                if df[col].dtype == 'object':
+                    df[col] = df[col].astype(str).str.strip()
+                    # Replace 'nan' strings with empty strings
+                    df[col] = df[col].replace('nan', '')
+            
+            return df
+        except (requests.exceptions.RequestException, ValueError) as e:
+            if attempt < MAX_RETRIES - 1:
+                import time
+                time.sleep(RETRY_DELAY)
+            else:
+                # Return None if we can't parse (likely no data)
+                return None
 
 
 if __name__ == "__main__":
-    browser.get(URL)
-
-    academic_level_dropdown = WebDriverWait(browser, TIMEOUT).until(
-        EC.element_to_be_clickable((By.CSS_SELECTOR, "#select2-programSeviyeTipiId-container"))
-    )
-    academic_level_dropdown.click()
-
-    # Wait for the options to load and locate all options
-    options = WebDriverWait(browser, TIMEOUT).until(
-        EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".select2-results__option"))
-    )
-
-    undergraduate_text = ["Lisans", "Undergraduate"]
-    undergrad_idx = -1
-
-    for option in options:
-        if option.text in undergraduate_text:
-            undergrad_idx = options.index(option)
-            break
-
-    if undergrad_idx == -1:
-        raise Exception("Undergraduate element not found")
-
-    options[undergrad_idx].click()
-
-    dropdown_button = WebDriverWait(browser, TIMEOUT).until(
-        EC.element_to_be_clickable((By.CSS_SELECTOR, "#select2-dersBransKoduId-container"))
-    )
-    dropdown_button.click()
-
-    # Wait for options to load and get all elements
-    course_code_elements = WebDriverWait(browser, TIMEOUT).until(
-        EC.presence_of_all_elements_located((By.CSS_SELECTOR, "ul.select2-results__options > li"))
-    )
-    course_codes = [element.text for element in course_code_elements]
-
-    # Close dropdown
-    dropdown_button.click()
-
-    print(f"Courses to parse: {len(course_codes)}")
-    headers = None
-    for idx, course_code in tqdm(enumerate(course_codes), total=len(course_codes)):
-        # Open dropdown
-        dropdown_button = WebDriverWait(browser, TIMEOUT).until(
-            EC.element_to_be_clickable((By.CSS_SELECTOR, "#select2-dersBransKoduId-container"))
-        )
-        dropdown_button.click()
-
-        # Get course code elements
-        course_code_elements = WebDriverWait(browser, TIMEOUT).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "ul.select2-results__options > li"))
-        )
-
-        course_code_elements[idx].click()
-
-        show_button = WebDriverWait(browser, 1).until(
-            EC.element_to_be_clickable((By.CSS_SELECTOR, "#dersProgramForm > div > div:nth-child(3) > button"))
-        )
-        show_button.click()
-        try:
-            WebDriverWait(browser, 1).until(EC.alert_is_present())
-            browser.switch_to.alert.dismiss()
-            print(f"No record found for {course_code}")
-
+    parser = argparse.ArgumentParser(description='Fetch ITU course schedules from API')
+    parser.add_argument('--courses', '-c', nargs='+', help='Filter by specific course codes (e.g., BBF AKM)')
+    parser.add_argument('--level', '-l', choices=list(PROGRAM_LEVELS.keys()), help='Filter by specific education level')
+    args = parser.parse_args()
+    
+    # Filter course codes if specified
+    filter_courses = set(args.courses) if args.courses else None
+    filter_level = args.level
+    
+    # Track course codes by level
+    course_codes_by_level = {level: set() for level in PROGRAM_LEVELS.keys()}
+    all_course_codes = set()
+    
+    # Process each program level
+    levels_to_process = {filter_level: PROGRAM_LEVELS[filter_level]} if filter_level else PROGRAM_LEVELS
+    
+    for program_level, level_name in levels_to_process.items():
+        print(f"\n{'='*60}")
+        print(f"Processing {level_name} ({program_level})...")
+        print(f"{'='*60}")
+        
+        # Fetch branch codes for this level
+        print(f"Fetching branch codes for {level_name}...")
+        branch_data = fetch_branch_codes(program_level)
+        
+        if not branch_data:
+            print(f"No branch codes found for {level_name}, skipping...")
             continue
-        except Exception as e:
-            pass
-
-        table = browser.find_element(by=By.CSS_SELECTOR, value=".table")
-        rows = table.find_elements(by=By.CSS_SELECTOR, value="tr")
-
-        header = rows.pop(0)
-        if headers is None:
-            columns = header.find_elements(by=By.CSS_SELECTOR, value="td")
-            headers = [col.text.replace(",", ";") for col in columns]
-
-        row_data = []
-        if len(rows) != 0:
-            for row in rows:
-                cols = row.find_elements(by=By.CSS_SELECTOR, value="td")
-                cols = [col.text for col in cols]
-                row_data.append(cols)
-
-        df = pd.DataFrame(data=row_data, columns=headers)
-        df.to_csv(path_or_buf=FOLDER_PATH + "/" + DATE + "/" + course_code + ".csv")
-
-    browser.close()
+        
+        course_codes = [item["dersBransKodu"] for item in branch_data]
+        branch_ids = {item["dersBransKodu"]: item["bransKoduId"] for item in branch_data}
+        
+        # Filter by course codes if specified
+        if filter_courses:
+            course_codes = [code for code in course_codes if code in filter_courses]
+            if not course_codes:
+                print(f"No matching course codes found for {level_name} with filter: {filter_courses}")
+                continue
+            print(f"Filtered to {len(course_codes)} course codes: {', '.join(course_codes)}")
+        
+        # Add to level-specific and all course codes sets
+        course_codes_by_level[program_level].update(course_codes)
+        all_course_codes.update(course_codes)
+        
+        print(f"Found {len(course_codes)} course codes for {level_name}")
+        
+        # Process each course
+        processed_count = 0
+        for course_code in tqdm(course_codes, desc=f"Processing {level_name}"):
+            branch_id = branch_ids[course_code]
+            
+            # Fetch course data
+            df = fetch_course_data(program_level, branch_id)
+            
+            if df is None or len(df) == 0:
+                continue  # Skip courses with no data
+            
+            # Save to CSV with level prefix (except LS for backward compatibility)
+            # LS files keep original format, other levels get prefix
+            if program_level == "LS":
+                csv_path = os.path.join(FOLDER_PATH, DATE, f"{course_code}.csv")
+            else:
+                csv_path = os.path.join(FOLDER_PATH, DATE, f"{program_level}-{course_code}.csv")
+            df.to_csv(csv_path, index=True)
+            processed_count += 1
+        
+        print(f"Processed {processed_count} courses for {level_name}")
+    
+    # Export metadata JSON files
     folders = [f.name for f in os.scandir(FOLDER_PATH) if f.is_dir()]
-    exportJson(FOLDER_PATH + "/dates.json", folders)
-    exportJson(FOLDER_PATH + "/course_codes.json", course_codes)
+    exportJson(os.path.join(FOLDER_PATH, "dates.json"), sorted(folders))
+    
+    # Export course codes (kept for backward compatibility)
+    exportJson(os.path.join(FOLDER_PATH, "course_codes.json"), sorted(all_course_codes))
+    
+    # Export detailed breakdown by level (used by frontend)
+    course_codes_by_level_data = {
+        "all": sorted(all_course_codes),
+        "by_level": {level: sorted(codes) for level, codes in course_codes_by_level.items() if codes}
+    }
+    with open(os.path.join(FOLDER_PATH, "course_codes_by_level.json"), "w") as f:
+        json.dump(course_codes_by_level_data, f, indent=2)
+    
+    print(f"\n{'='*60}")
+    print(f"Completed! Data saved to {FOLDER_PATH}/{DATE}/")
+    print(f"Total unique course codes: {len(all_course_codes)}")
+    if filter_courses:
+        print(f"Filtered courses: {', '.join(sorted(filter_courses))}")
+    if filter_level:
+        print(f"Filtered level: {PROGRAM_LEVELS[filter_level]} ({filter_level})")
+    print(f"{'='*60}")
