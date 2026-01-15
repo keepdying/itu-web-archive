@@ -1,0 +1,28 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23984,YZV 102E,Int.toPrg.forDataSci.(Python),Physical (Face to face),Tuğçe Bilen,"BBB
+BBB","Tuesday
+Tuesday","09:30/12:29
+13:30/15:29","--
+--",5,0,-,YZVE_LS,-,-
+1,23988,YZV 104E,Int.toPrg.forDataSci.(Python),Physical (Face to face),Ahmet Cüneyd Tantuğ,"BBB
+BBB","Tuesday
+Tuesday","09:30/12:29
+13:30/15:29","--
+--",75,0,-,YZVE_LS,-,-
+2,23989,YZV 202E,Optimization for Data Science,Physical (Face to face),Faik Boray Tek,BBB,Tuesday,13:30/16:29,--,70,0,-,YZVE_LS,Detail,-
+3,23990,YZV 212E,Fund.ofArtificial Intelligence,Physical (Face to face),Sanem Sarıel Uzer,BBB,Wednesday,12:30/15:29,--,85,0,-,YZVE_LS,Detail,-
+4,23993,YZV 321E,Fund.ofArtificial Intelligence,Physical (Face to face),Berna Kiraz,BBB,Wednesday,12:30/15:29,--,5,0,-,YZVE_LS,Detail,-
+5,23999,YZV 322E,Applied Data Engineering,Physical (Face to face),Mehmet Tunçel,BBB,Monday,12:30/16:29,--,80,0,-,YZVE_LS,Detail,-
+6,24000,YZV 405E,Natural Language Processing,Physical (Face to face),Gülşen Eryiğit,BBB,Wednesday,08:30/11:29,--,60,0,-,YZVE_LS,Detail,-
+7,24023,YZV 415,Derin Pekiştirmeli Öğrenme,Physical (Face to face),Sanem Sarıel Uzer,BBB,Tuesday,09:30/12:29,--,30,0,-,YZVE_LS,Detail,-
+8,24009,YZV 416E,Computer Vision,Physical (Face to face),Gözde Ünal,BBB,Monday,08:30/11:29,--,60,0,-,YZVE_LS,Detail,-
+9,24017,YZV 445E,Artificial Intelligence Project,Physical (Face to face),Faik Boray Tek,BBB,Thursday,09:30/12:29,--,25,0,-,YZVE_LS,Detail,-
+10,24015,YZV 447E,Cognitive Neuroscience,Physical (Face to face),Didem Gökçay,"BBB
+BBB","Tuesday
+Friday","15:30/17:29
+15:30/17:29","--
+--",20,0,-,YZVE_LS,Detail,-
+11,24010,YZV 475E,Data Visualization,Physical (Face to face),Sefer Baday,BBB,Thursday,13:30/16:29,--,25,0,-,YZVE_LS,Detail,-
+12,24013,YZV 4901E,AI &Data Engineering Design I,Physical (Face to face),Berna Kiraz,-,-,-/-,-,45,0,-,YZVE_LS,Detail,Detail
+13,24014,YZV 4902E,AI& Data Engineering Design II,Physical (Face to face),Tuğçe Bilen,-,-,-/-,-,45,0,-,YZVE_LS,Detail,-
+14,24019,YZV 495E,Speech and Audio Processing,Physical (Face to face),Cenk Demiroğlu,BBB,Friday,09:30/12:29,--,25,0,-,YZVE_LS,Detail,-

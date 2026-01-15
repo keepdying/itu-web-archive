@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24418,ENT 211E,Industrial Design Studio,Physical (Face to face),Özge Çelikoğlu,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",20,0,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",Detail,-
+1,24421,ENT 212E,Society&Sustain. in Ind.Design,Physical (Face to face),Çiğdem Kaya,MMB,Tuesday,08:30/12:29,--,80,0,-,"ENT_YD, ENTE_LS",-,-
+2,24502,ENT 230E,Parametric Solid Model.&Design,Physical (Face to face),Cemal İrfan Çalışkan,MMB,Tuesday,08:30/11:29,--,28,0,-,"ENT_LS, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+3,24786,ENT 237E,Structure in Industrial Design,Physical (Face to face),Demet Günal Ertaş,MMB,Thursday,08:30/11:29,--,28,0,-,"ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+4,24510,ENT 334E,Design and Form,Physical (Face to face),Aysun Ateş Akdeniz,MMB,Thursday,13:30/16:29,--,28,0,-,"ENT_LS, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS, ICM_LS",-,-
+5,24513,ENT 354E,Emotional Design,Physical (Face to face),Pelin Efilti,MMB,Thursday,13:30/16:29,--,28,0,ARC_LS/5/0 | Diğer/23/0,"ARC_LS, ENT_LS, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+6,24514,ENT 356E,Color in Design,Physical (Face to face),Hatice Kübra Yıldız,MMB,Thursday,13:30/16:29,--,28,0,ARC_LS/5/0 | Diğer/23/0,"ARC_LS, ENT_LS, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+7,24516,ENT 433E,Street Furniture,Physical (Face to face),Seçil Şatır,MMB,Friday,09:30/12:29,--,28,0,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+8,24711,ENT 434E,Seeing in Design,Physical (Face to face),Seçil Şatır,MMB,Thursday,13:30/16:29,--,28,0,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+9,24790,ENT 436E,Visualization Techniques,Physical (Face to face),Nazım Erdem Aykam,MMB,Monday,09:30/12:29,--,28,0,-,"ENT_LS, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+10,24519,ENT 446E,Multimedia Design Studio,Physical (Face to face),Ahmet Hamurcu,MMB,Thursday,09:30/12:29,--,28,0,-,"ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-
+11,24712,ENT 453E,Basic Princip. of Yacht Dsgn,Physical (Face to face),Layıka Ney Ece Arıburun Kırca,MMB,Tuesday,09:30/12:29,--,30,0,GEM_LS/10/0 | Diğer/20/0,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS, GEM_LS",-,-
+12,24521,ENT 475E,Intro. to Automotive Design,Physical (Face to face),Ekrem Cem Alppay,MMB,Thursday,13:30/16:29,--,28,0,-,"ENT_LS, ENT_YD, ENTE_LS, EUT_LS, EUT_YD, EUTE_LS",-,-

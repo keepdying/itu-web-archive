@@ -1,0 +1,23 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23635,EEE 110E,Intr. to Prog. Language (C),Physical (Face to face),Sıddık Murat Yeşiloğlu,"EEB
+EEB","Friday
+Friday","08:30/10:29
+10:30/11:29","--
+--",50,0,-,EEE_LS,-,-
+1,23631,EEE 206E,Signal Processing&Linear Syst.,Physical (Face to face),-,"EEB
+EEB","Wednesday
+Thursday","10:30/12:29
+12:30/14:29","2102
+--",0,0,-,EEE_LS,-,-
+2,23630,EEE 212E,Electromagnetic Theory I,Physical (Face to face),Semih Doğu,"EEB
+EEB","Wednesday
+Thursday","08:30/10:29
+14:30/16:29","2102
+4102",50,0,-,EEE_LS,Detail,-
+3,23627,EEE 232E,Circuit and System Analysis,Physical (Face to face),Onur Kurt,EEB,Monday,13:30/16:29,5103,50,0,-,EEE_LS,Detail,-
+4,23633,EEE 262E,Fundamentals of Electronics,Physical (Face to face),Sheıda Farajı,"EEB
+EEB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","2102
+2102",50,0,-,EEE_LS,Detail,-
+5,23624,EEE 281E,Linear Algebra & Applications,Physical (Face to face),Veysel Murat İstemihan Genç,EEB,Thursday,12:30/15:29,5107,50,0,-,EEE_LS,-,-

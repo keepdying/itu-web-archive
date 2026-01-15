@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24837,MTM 211,Onboard Training-I,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,0,-,MTM_LS,-,-
+1,24868,MTM 302,Onboard Training-III,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,0,-,MTM_LS,Detail,-
+2,24865,MTM 341,Onboard Training-II,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,0,-,MTM_LS,-,Detail

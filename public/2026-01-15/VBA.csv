@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23974,VBA 122E,Discrete Mathematics,Physical (Face to face),İzzet Göksel,MSB,Monday,14:30/17:29,--,40,0,-,VBAE_LS,-,-
+1,23976,VBA 124E,Object Oriented Programming,Physical (Face to face),Mahmut Sami Sivri,MSB,Thursday,14:30/17:29,--,40,0,-,VBAE_LS,Detail,-
+2,23978,VBA 222E,Data Structures and Algorithms,Physical (Face to face),Mehmet Ali Ergün,MSB,Tuesday,09:30/12:29,--,40,0,-,VBAE_LS,Detail,-
+3,23979,VBA 224E,Stochastic Models in Data Science,Physical (Face to face),Mehmet Yasin Ulukuş,MSB,Thursday,09:30/12:29,--,40,0,VBAE_LS/20/0 | Diğer/20/0,"END_LS, ENDE_LS, VBAE_LS",Detail,-
+4,23983,VBA 252E,Theory of Probability,Physical (Face to face),Mehmet Güray Güler,MSB,Tuesday,09:30/12:29,--,60,0,VBAE_LS/35/0 | Diğer/25/0,"END_LS, ENDE_LS, VBAE_LS",Detail,-
+5,23985,VBA 312E,Data Analytics,Physical (Face to face),Mehmet Ali Ergün,MSB,Tuesday,14:30/17:29,--,40,0,-,"END_LS, ENDE_LS, VBAE_LS",Detail,-

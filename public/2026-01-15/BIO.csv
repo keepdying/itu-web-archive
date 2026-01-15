@@ -1,0 +1,29 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22877,BIO 101,General Biology,Physical (Face to face),Halil Bayraktar,MOBGAM,Wednesday,08:30/11:29,--,25,0,-,MBI_LS,-,-
+1,23013,BIO 106E,General Biology II,Physical (Face to face),Murat Kaya,FEB,Thursday,08:30/11:29,D102,90,0,-,"BIO_LS, BIO_YD, BIOE_LS",Detail,-
+2,23014,BIO 106EL,General Biology II Lab.,Physical (Face to face),Murat Kaya,FEB,Thursday,14:30/17:29,D102,90,0,-,"BIO_LS, BIO_YD, BIOE_LS",-,-
+3,23018,BIO 212E,Genetics,Physical (Face to face),Burcu Biterge Süt,FEB,Friday,09:30/12:29,D104,85,0,-,"BIO_LS, BIO_YD, BIOE_LS",Detail,-
+4,23211,BIO 214,Mikrobiyoloji,Physical (Face to face),Pervin Başaran Akocak,KMB,Friday,14:00/16:59,D105,25,0,-,KMM_LS,-,-
+5,23020,BIO 216E,Microbiology,Physical (Face to face),"Zeynep Petek Çakar ,
+Ayten Karataş",FEB,Monday,08:30/11:29,D102,90,0,-,"BIO_LS, BIO_YD, BIOE_LS",Detail,-
+6,23023,BIO 216EL,Microbiology Lab.,Physical (Face to face),Zeynep Petek Çakar,FEB,Tuesday,14:30/17:29,--,80,0,-,"BIO_LS, BIO_YD, BIOE_LS",Detail,-
+7,23026,BIO 232E,Organic Chem. for Biologists,Physical (Face to face),Bülent Balta,FEB,Friday,14:30/17:29,D102,100,0,-,"BIO_LS, BIOE_LS",Detail,-
+8,23115,BIO 301E,Fundamentals of Biology,Physical (Face to face),Deniz Şahin,FEB,Wednesday,12:30/15:29,L400,55,0,CHZ_LS/5/0 | EHB_LS/5/0 | EHBE_LS/5/0 | FIZ_LS/5/0 | GID_LS/5/0 | KIM_LS/5/0 | KOM_LS/5/0 | KOME_LS/5/0 | KMM_LS/5/0 | Diğer/10/0,"CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GID_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",-,-
+9,23118,BIO 301E,Fundamentals of Biology,Physical (Face to face),Ece Polat,YDY,Tuesday,11:30/14:29,176,55,0,CHZ_LS/5/0 | EHB_LS/5/0 | EHBE_LS/5/0 | FIZ_LS/5/0 | KIM_LS/5/0 | GID_LS/5/0 | KOM_LS/5/0 | KOME_LS/5/0 | KMM_LS/5/0 | Diğer/10/0,"CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GID_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",-,-
+10,23123,BIO 301E,Fundamentals of Biology,Physical (Face to face),Ece Polat,FEB,Thursday,11:30/14:29,D102,55,0,CHZ_LS/5/0 | EHB_LS/5/0 | EHBE_LS/5/0 | FIZ_LS/5/0 | GID_LS/5/0 | KIM_LS/5/0 | KOM_LS/5/0 | KOME_LS/5/0 | KMM_LS/5/0 | Diğer/10/0,"CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GID_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",-,-
+11,23030,BIO 326E,Mol. Evolution & Biodiversity,Physical (Face to face),"Murat Kaya ,
+Deniz Şahin",FEB,Tuesday,12:30/14:29,D102,85,0,-,"BIO_LS, BIOE_LS",Detail,-
+12,23032,BIO 328E,Biochemistry II,Physical (Face to face),Nevin Gül Karagüler,FEB,Monday,11:30/14:29,D304,85,0,-,"BIO_LS, BIOE_LS",Detail,-
+13,23037,BIO 328EL,Biochemistry II Lab.,Physical (Face to face),Nevin Gül Karagüler,FEB,Friday,09:30/12:29,D304,80,0,-,"BIO_LS, BIOE_LS",Detail,-
+14,23041,BIO 332E,Modern Techniques in Biology,Physical (Face to face),"Pelin Dilsiz Erim ,
+Burcu Biterge Süt",FEB,Thursday,11:30/14:29,D105,40,0,-,"BIO_LS, BIOE_LS",Detail,-
+15,23043,BIO 342E,Enzymology,Physical (Face to face),Nevin Gül Karagüler,FEB,Tuesday,11:30/14:29,L400,40,0,-,"BIO_LS, BIOE_LS",Detail,-
+16,23049,BIO 415EL,Molecular Biology Lab.,Physical (Face to face),Aslı Kumbasar,FEB,Wednesday,09:30/12:29,--,90,0,-,"BIO_LS, BIO_YD, BIOE_LS",Detail,-
+17,23045,BIO 417E,Molecular Biology,Physical (Face to face),"Aslı Kumbasar ,
+Arzu Karabay Korkmaz",FEB,Thursday,14:30/17:29,--,95,0,-,"BIO_LS, BIO_YD, BIOE_LS",Detail,-
+18,23051,BIO 442E,Molecular Immunology,Physical (Face to face),Ceren Çıracı Muğan,FEB,Thursday,11:30/14:29,D201,40,0,-,"BIO_LS, BIOE_LS",Detail,-
+19,23052,BIO 451E,Industrial Microbiology,Physical (Face to face),Çiğdem Yılmaz Çolak,FEB,Monday,08:30/11:29,D101,40,0,-,"BIO_LS, BIOE_LS",Detail,-
+20,23055,BIO 462E,Prot. Struct.-Function Relat.,Physical (Face to face),Gizem Dinler Doğanay,FEB,Monday,14:30/17:29,D106,40,0,-,"BIO_LS, BIOE_LS",Detail,-
+21,23057,BIO 463E,Molecular Neurobiology,Physical (Face to face),Pelin Dilsiz Erim,FEB,Wednesday,12:30/15:29,D101,40,0,-,"BIO_LS, BIOE_LS",Detail,-
+22,23069,BIO 4901E,Mol Bio & Genetics Design I,Physical (Face to face),Bülent Balta,-,-,-/-,-,100,0,-,"BIO_LS, BIOE_LS",Detail,Detail
+23,23070,BIO 4902E,Mol Bio & Genetics Design II,Physical (Face to face),Bülent Balta,-,-,-/-,-,100,0,-,"BIO_LS, BIOE_LS",Detail,-

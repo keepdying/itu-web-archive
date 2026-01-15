@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23652,RES 102,Bilg. Destekli Teknik Resim,Physical (Face to face),Melek Ertogan,DZB,Tuesday,08:30/12:29,--,30,0,-,DUI_LS,-,-
+1,23654,RES 102,Bilg. Destekli Teknik Resim,Physical (Face to face),Melek Ertogan,DZB,Thursday,11:30/15:29,--,30,0,-,DUI_LS,-,-
+2,24800,RES 102E,Com.Aided Technical Drawing,Physical (Face to face),Emre Kahramanoğlu,DZB,Thursday,08:30/12:29,--,60,0,-,"MEN_LS, MTM_LS",-,-
+3,22694,RES 107,Teknik Resim,Physical (Face to face),Selim Ertürk,KMB,Thursday,08:30/11:29,D301,45,0,-,MET_LS,-,-
+4,22696,RES 107E,Technical Drawing,Physical (Face to face),"Erçin Çağan Duran ,
+Yonca Alkan Göksu",KMB,Thursday,13:30/16:29,D301,45,0,-,METE_LS,-,-
+5,22701,RES 107E,Technical Drawing,Physical (Face to face),"Yonca Alkan Göksu ,
+Erçin Çağan Duran",KMB,Friday,14:00/16:59,D301,45,0,-,"MET_LS, METE_LS",-,-

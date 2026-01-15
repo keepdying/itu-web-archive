@@ -1,0 +1,28 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22341,MAD 243,Yeraltı Maden İşletmeciliği,Physical (Face to face),Muhammet Mustafa Kahraman,MDB,Monday,11:30/14:29,--,75,0,-,"MAD_LS, MAD_YD",-,-
+1,22343,MAD 302E,Mining and Environment,Physical (Face to face),Türker Hüdaverdi,MDB,Wednesday,08:30/10:29,--,55,0,-,"MAD_LS, MADE_LS",-,-
+2,22345,MAD 304E,Drilling Techniques,Physical (Face to face),Hasan Ergin,MDB,Tuesday,08:30/11:29,--,60,0,-,"MAD_LS, MADE_LS",-,-
+3,23063,MAD 308,Cevher Hazırlama II,Physical (Face to face),Mustafa Özer,"MDB
+MDB","Wednesday
+Thursday","11:30/12:29
+11:30/13:29","--
+--",60,0,-,MAD_LS,Detail,-
+4,22866,MAD 314,Topoğrafya,Physical (Face to face),Adil Enis Arslan,INB,Thursday,13:30/17:29,--,60,0,-,MAD_LS,-,-
+5,22346,MAD 322E,Dsgn of Sup in Mines & Tunnels,Physical (Face to face),Hakan Tunçdemir,MDB,Monday,11:30/14:29,B207,60,0,-,"MAD_LS, MAD_YD",Detail,-
+6,22349,MAD 342,Madenlerde Hidrolik Güç Sist.,Physical (Face to face),Deniz Tumaç,MDB,Tuesday,11:30/13:29,--,55,0,-,MAD_LS,Detail,-
+7,22350,MAD 406,Madenlerde İş Sağlığı ve Güv.,Physical (Face to face),"Abdullah Fişne ,
+Anıl Soylu",MDB,Tuesday,13:30/15:29,--,50,0,-,MAD_LS,Detail,-
+8,22352,MAD 422E,Mine Planing and Design,Physical (Face to face),Cüneyt Atilla Öztürk,MDB,Friday,14:00/17:59,--,55,0,-,MAD_LS,Detail,Detail
+9,22355,MAD 432,Maden. ve Tünellerde Kazı Mek.,Physical (Face to face),"Hanifi Çopur ,
+Cemal Balcı",MDB,Friday,08:30/11:29,--,65,0,-,MAD_LS,Detail,-
+10,22360,MAD 434,Maden Hukuku,Physical (Face to face),Mahmut Kabakcı,MDB,Wednesday,13:30/15:29,--,60,0,-,MAD_LS,-,-
+11,22371,MAD 436,Maden Ekonomisi,Physical (Face to face),Cüneyt Atilla Öztürk,MDB,Thursday,08:30/10:29,--,80,0,-,MAD_LS,Detail,-
+12,22374,MAD 438E,Tunneling,Physical (Face to face),"Hanifi Çopur ,
+Deniz Tumaç",MDB,Tuesday,08:30/10:29,--,60,0,-,"MAD_LS, MAD_YD",-,-
+13,22379,MAD 446E,Computer Aided Mine Design,Physical (Face to face),Kürşat Hasözdemir,MDB,Wednesday,08:30/11:29,--,14,0,-,"MAD_LS, MAD_YD, MADE_LS",Detail,-
+14,22381,MAD 446E,Computer Aided Mine Design,Physical (Face to face),Kürşat Hasözdemir,MDB,Thursday,13:30/16:29,--,14,0,-,"MAD_LS, MAD_YD, MADE_LS",Detail,-
+15,22377,MAD 467,Jeoloji Haritaları,Physical (Face to face),Ufuk Tarı,MDB,Monday,08:30/11:29,--,30,0,-,MAD_LS,-,-
+16,22385,MAD 4901,Maden Müh.Tasarım Projesi I,Physical (Face to face),Abdullah Fişne,-,-,-/-,-,500,0,-,MAD_LS,Detail,Detail
+17,22388,MAD 4902,Maden Müh.Tasarım Projesi II,Physical (Face to face),Abdullah Fişne,-,-,-/-,-,500,0,-,MAD_LS,Detail,Detail
+18,22390,MAD 492,Bitirme Çalışması,Physical (Face to face),Abdullah Fişne,-,-,-/-,-,500,0,-,MAD_LS,-,Detail
+19,22396,MAD 492E,Graduation Project,Physical (Face to face),Abdullah Fişne,-,-,-/-,-,500,0,-,"MAD_LS, MADE_LS",-,Detail

@@ -1,0 +1,143 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24192,SBP 126,CBS ve Planlama,Physical (Face to face),Hasan Serdar Kaya,MMB,Tuesday,09:30/12:29,--,90,0,-,"SBP_LS, SBP_YD",-,-
+1,24193,SBP 126E,GIS and Planning,Physical (Face to face),Fatih Terzi,MMB,Wednesday,09:30/12:29,--,90,0,-,"SBP_YD, SBPE_LS",-,-
+2,24194,SBP 205E,Statistics,Physical (Face to face),Muhammed Ziya Paköz,MMB,Monday,13:30/16:29,--,150,0,-,"ENTE_LS, EUT_LS, EUTE_LS, PEM_LS, PEME_LS, SBP_LS, SBPE_LS",-,-
+3,24195,SBP 207E,Project III: Site Plan.&Design,Physical (Face to face),Funda Yirmibeşoğlu,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",15,0,-,"SBP_LS, SBPE_LS",Detail,-
+4,24801,SBP 208,Şehir Ekonomisi,Physical (Face to face),Emine Ferhan Gezici Korten,MMB,Tuesday,09:30/12:29,--,45,0,-,"SBP_LS, SBP_YD",-,-
+5,24199,SBP 208E,Urban Economics,Physical (Face to face),Elif Alkay,MMB,Tuesday,09:30/12:29,--,45,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+6,24200,SBP 210,Şehir Sosyolojisi,Physical (Face to face),Aysu Uzsayılır,MMB,Monday,13:30/16:29,--,45,0,-,"SBP_LS, SBP_YD",-,-
+7,24802,SBP 210E,Urban Sociology,Physical (Face to face),Elvan Gülöksüz,MMB,Monday,13:30/16:29,--,70,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+8,24203,SBP 214E,Geography,Physical (Face to face),Eda Yücesoy,MMB,Monday,09:30/12:29,--,35,0,PEME_LS/5/0 | ISLE_LS/8/0 | Diğer/22/0,"ISLE_LS, PEME_LS, SBP_LS, SBP_YD, SBPE_LS",-,-
+9,24205,SBP 218,Proje IV: Stratejik Planlama & Politika Geliştirme,Physical (Face to face),Emine Ferhan Gezici Korten,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+10,24206,SBP 218,Proje IV: Stratejik Planlama & Politika Geliştirme,Physical (Face to face),Seda Kundak,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+11,24207,SBP 218,Proje IV: Stratejik Planlama & Politika Geliştirme,Physical (Face to face),Fatih Eren,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+12,24208,SBP 218,Proje IV: Stratejik Planlama & Politika Geliştirme,Physical (Face to face),Rumeysa Ceylan Çalışkan,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+13,24252,SBP 218E,Project IV: Spatial Strategic Planning & Policy Making,Physical (Face to face),Tüzin Baycan,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBPE_LS,Detail,-
+14,24254,SBP 218E,Project IV: Spatial Strategic Planning & Policy Making,Physical (Face to face),Kerem Yavuz Arslanlı,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBPE_LS,Detail,-
+15,24255,SBP 218E,Project IV: Spatial Strategic Planning & Policy Making,Physical (Face to face),Başak Demireş Özkul,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBPE_LS,Detail,-
+16,22633,SBP 224,Şehir ve Çevre Jeolojisi,Physical (Face to face),Erkan Bozkurtoğlu,MDB,Wednesday,12:30/15:29,--,0,0,-,SBP_LS,-,-
+17,24260,SBP 224,Şehir ve Çevre Jeolojisi,Physical (Face to face),Erkan Bozkurtoğlu,MDB,Wednesday,09:30/12:29,--,45,0,-,"SBP_LS, SBP_YD",-,-
+18,24257,SBP 224E,Urban & Environmental Geology,Physical (Face to face),"Gürsel Sunal ,
+Gökhan Şans",MMB,Wednesday,09:30/12:29,--,35,0,PEME_LS/10/0 | Diğer/25/0,"PEME_LS, SBP_YD, SBPE_LS",-,-
+19,24264,SBP 242E,Planning Theory and Techniques,Virtual (Online),Başak Demireş Özkul,MMB,Thursday,09:30/12:29,--,100,0,-,"SBP_YD, SBPE_LS",-,-
+20,24268,SBP 251,Şehir ve Çevre Mühendisliği,Virtual (Online),Ali Fuat Aydın,MMB,Thursday,09:30/12:29,--,50,0,-,"SBP_LS, SBP_YD",-,-
+21,24270,SBP 251E,Urban and Environmental Eng.,Virtual (Online),-,MMB,Thursday,09:30/12:29,--,0,0,-,"SBP_YD, SBPE_LS",-,-
+22,24274,SBP 311E,Prj.V:Spatial Plan.&Urb.Dev.,Physical (Face to face),Aliye Ahu Gülümser,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",15,0,-,"SBP_LS, SBPE_LS",Detail,-
+23,24276,SBP 312,Prj.VI: Mekan.Geliş.&Eyl.Plan.,Physical (Face to face),Ebru Kerimoğlu,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+24,24277,SBP 312,Prj.VI: Mekan.Geliş.&Eyl.Plan.,Physical (Face to face),Mehmet Ali Yüzer,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+25,24278,SBP 312,Prj.VI: Mekan.Geliş.&Eyl.Plan.,Physical (Face to face),Engin Eyüp Eyuboğlu,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+26,24279,SBP 312,Prj.VI: Mekan.Geliş.&Eyl.Plan.,Physical (Face to face),Muhammed Ziya Paköz,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+27,24280,SBP 312,Prj.VI: Mekan.Geliş.&Eyl.Plan.,Physical (Face to face),Yasin Bektaş,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBP_LS,Detail,-
+28,24281,SBP 312E,Proj.VI:Spatial Plan.in Act.,Physical (Face to face),Şevkiye Şence Türk,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBPE_LS,Detail,-
+29,24283,SBP 312E,Proj.VI:Spatial Plan.in Act.,Physical (Face to face),Fatih Terzi,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBPE_LS,Detail,-
+30,24284,SBP 312E,Proj.VI:Spatial Plan.in Act.,Physical (Face to face),Eda Yücesoy,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBPE_LS,Detail,-
+31,24285,SBP 312E,Proj.VI:Spatial Plan.in Act.,Physical (Face to face),Numan Kılınç,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",10,0,-,SBPE_LS,Detail,-
+32,24287,SBP 318,Koruma ve Planlama,Physical (Face to face),Engin Eyüp Eyuboğlu,MMB,Monday,13:30/16:29,--,45,0,-,"ICM_LS, MIM_LS, PEM_LS, SBP_LS, SBP_YD",-,-
+33,24288,SBP 318E,Heritage Conservation&Planning,Physical (Face to face),Turgay Kerem Koramaz,MMB,Monday,13:30/16:29,--,45,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+34,24291,SBP 323,Şehirsel Tasarım,Physical (Face to face),Gülden Demet Oruç Ertekin,MMB,Thursday,13:30/16:29,--,80,0,-,"SBP_LS, SBP_YD",-,-
+35,24290,SBP 323E,Urban Design,Physical (Face to face),Gülden Demet Oruç Ertekin,MMB,Friday,09:30/12:29,--,60,0,-,"SBP_YD, SBPE_LS",-,-
+36,24293,SBP 338,Planlamada Kantitatif Yönteml,Physical (Face to face),Mehmet Ali Yüzer,MMB,Friday,09:30/12:29,--,80,0,-,"SBP_LS, SBP_YD",-,-
+37,24294,SBP 338E,Quantitative Meth. İn Planning,Physical (Face to face),Hasan Serdar Kaya,MMB,Wednesday,09:30/12:29,--,80,0,-,"SBP_YD, SBPE_LS",-,-
+38,22882,SBP 356E,Remote Sensing,Physical (Face to face),Adalet Dervişoğlu,INB,Wednesday,09:30/12:29,--,50,0,-,"SBP_LS, SBPE_LS",-,-
+39,24297,SBP 365,Yrlşmler Açk Or Kul Al ve Değ,Physical (Face to face),İsmail Eren Kürkçüoğlu,MMB,Monday,09:30/11:29,--,35,0,-,"SBP_LS, SBP_YD",-,-
+40,24298,SBP 366E,Intro to Environmental Probl,Physical (Face to face),"Özlem Karahan Özgün ,
+Serdar Doğruel ,
+Alpaslan Ekdal",INB,Wednesday,09:30/12:29,--,60,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+41,24307,SBP 4015E,Disastr Mitigtion in Urbn Plan,Physical (Face to face),Seda Kundak,MMB,Wednesday,12:30/15:29,--,30,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+42,24309,SBP 4016,Göç ve Kent,Physical (Face to face),"Muhammed Ziya Paköz ,
+Yasin Bektaş",MMB,Wednesday,13:30/15:29,--,35,0,-,"SBP_LS, SBP_YD",-,-
+43,24312,SBP 4018E,Models & Impl.of Urban Regenr.,Physical (Face to face),Yasin Bektaş,MMB,Wednesday,10:30/12:29,--,35,0,-,"ARC_LS, MIM_LS, MIME_LS, SBP_LS, SBP_YD, SBPE_LS",-,-
+44,24313,SBP 4026E,Healthy Cities,Physical (Face to face),"Seda Kundak ,
+Eda Yücesoy",MMB,Wednesday,09:30/12:29,--,30,0,-,"ARC_LS, MIM_LS, MIME_LS, SBP_YD, SBPE_LS",-,-
+45,24314,SBP 4030E,Pluralist Planning Approaches,Physical (Face to face),İmge Akçakaya Waıte Jr,MMB,Monday,13:30/16:29,--,35,0,-,"ICM_LS, MIME_LS, PEME_LS, SBP_LS, SBP_YD, SBPE_LS",-,-
+46,24315,SBP 4031E,Real Estate Economics,Physical (Face to face),Fatih Eren,MMB,Friday,10:00/11:59,--,45,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+47,24316,SBP 4036E,Transformation of Urban Systms,Physical (Face to face),Aysu Uzsayılır,MMB,Wednesday,13:30/15:29,--,35,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+48,24317,SBP 4037E,Urban Ecology,Physical (Face to face),Rumeysa Ceylan Çalışkan,MMB,Thursday,13:30/15:29,--,35,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+49,24300,SBP 411E,Project VII: Urban Design,Physical (Face to face),Aslı Ulubaş Hamurcu,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",15,0,-,"SBP_LS, SBPE_LS",Detail,-
+50,24302,SBP 411E,Project VII: Urban Design,Physical (Face to face),Özhan Ertekin,"MMB
+MMB","Tuesday
+Friday","13:30/17:29
+14:00/17:59","--
+--",15,0,-,"SBP_LS, SBPE_LS",Detail,-
+51,24303,SBP 439E,Metropolitan Planning,Physical (Face to face),İsmail Eren Kürkçüoğlu,MMB,Thursday,13:30/15:29,--,35,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+52,24305,SBP 447E,Urban Structure and Form,Physical (Face to face),Aslı Ulubaş Hamurcu,MMB,Friday,09:30/12:29,--,35,0,-,"SBP_LS, SBP_YD, SBPE_LS",-,-
+53,24322,SBP 4902,Diploma Projesi,Physical (Face to face),İsmail Eren Kürkçüoğlu,-,-,-/-,-,500,0,-,SBP_LS,Detail,Detail
+54,24326,SBP 4902E,Graduation Project,Physical (Face to face),İsmail Eren Kürkçüoğlu,-,-,-/-,-,500,0,-,SBPE_LS,Detail,Detail
+55,24319,SBP 492,Bitirme Çalışması,Physical (Face to face),İsmail Eren Kürkçüoğlu,-,-,-/-,-,500,0,-,SBP_LS,Detail,Detail
+56,24321,SBP 492E,Final Project,Physical (Face to face),İsmail Eren Kürkçüoğlu,-,-,-/-,-,500,0,-,SBPE_LS,Detail,Detail

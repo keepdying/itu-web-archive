@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23719,BBF 103E,Discrete Mathematics,Physical (Face to face),Şule Öğüdücü,BBB,Wednesday,12:30/15:29,--,90,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+1,23721,BBF 103E,Discrete Mathematics,Physical (Face to face),Mehmet Akif Yazıcı,BBB,Wednesday,12:30/15:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+2,23722,BBF 103E,Discrete Mathematics,Physical (Face to face),Tuğçe Bilen,BBB,Wednesday,12:30/15:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+3,23980,BBF 201E,Probability and Statistics,Physical (Face to face),"Behçet Uğur Töreyin ,
+Ahmet Hamdi Kayran","BBB
+BBB","Wednesday
+Friday","08:30/10:29
+14:00/15:59","--
+--",70,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+4,23724,BBF 202E,Numerical Methods in Computer Engineering,Physical (Face to face),Yusuf Yaslan,BBB,Tuesday,09:30/12:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",Detail,-
+5,23725,BBF 202E,Numerical Methods in Computer Engineering,Physical (Face to face),Behçet Uğur Töreyin,BBB,Tuesday,09:30/12:29,--,80,0,-,"BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detail,-
+6,23740,BBF 203E,Object Oriented Programming,Physical (Face to face),Cihan Topal,BBB,Monday,09:30/12:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",Detail,-
+7,23742,BBF 203E,Object Oriented Programming,Physical (Face to face),Feza Buzluca,BBB,Monday,09:30/12:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",Detail,-
+8,23743,BBF 203E,Object Oriented Programming,Physical (Face to face),Sanem Kabadayı,BBB,Monday,09:30/12:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",Detail,-
+9,23744,BBF 204E,Formal Languages and Automata,Physical (Face to face),Tolga Ovatman,BBB,Friday,09:30/12:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",Detail,-
+10,23747,BBF 204E,Formal Languages and Automata,Physical (Face to face),Gökhan Seçinti,BBB,Friday,09:30/12:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",Detail,-
+11,23749,BBF 204E,Formal Languages and Automata,Physical (Face to face),Mehmet Tahir Sandıkkaya,BBB,Friday,09:30/12:29,--,80,0,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",Detail,-
+12,23890,BBF 304E,Learning From Data,Physical (Face to face),Berna Kiraz,BBB,Monday,09:30/12:29,--,70,0,-,YZVE_LS,Detail,-
