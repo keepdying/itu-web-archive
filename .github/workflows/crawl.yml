@@ -23,13 +23,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Setup Python
-        uses: actions/setup-python@v2.2.2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.9
 
       - name: Install Python dependencies
         run: |
-          pip install selenium webdriver_manager pandas tqdm
+          pip install requests pandas tqdm lxml html5lib
 
       - name: Fetch Course programme
         run: python yum.py # This script is expected to make changes in ./public/

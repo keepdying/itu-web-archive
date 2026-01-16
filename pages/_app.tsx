@@ -14,12 +14,20 @@ import { Box } from "@mui/material";
 // Inner component to access both contexts (ThemeContext and MuiTheme)
 function AppContent({ Component, pageProps, ...rest }: AppProps) {
   const { themeSetting } = useThemeContext();
-  const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)");
+  // Only use media query on client side to avoid hydration mismatch
+  const [mounted, setMounted] = React.useState(false);
+  const prefersDarkMode = useMediaQuery("(prefers-color-scheme: dark)", {
+    noSsr: true,
+  });
+
+  React.useEffect(() => {
+    setMounted(true);
+  }, []);
 
   const muiTheme = React.useMemo(() => {
     let mode: "light" | "dark";
     if (themeSetting === "auto") {
-      mode = prefersDarkMode ? "dark" : "light";
+      mode = mounted && prefersDarkMode ? "dark" : "light";
     } else {
       mode = themeSetting;
     }
@@ -28,7 +36,7 @@ function AppContent({ Component, pageProps, ...rest }: AppProps) {
         mode,
       },
     });
-  }, [themeSetting, prefersDarkMode]);
+  }, [themeSetting, prefersDarkMode, mounted]);
 
   return (
     <MuiThemeProvider theme={muiTheme}>

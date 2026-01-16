@@ -477,7 +477,7 @@ export default function CsvTable({ csvUrl }: { csvUrl: string }) {
                   colSpan={Object.keys(tableData[0] || {}).length}
                   align="center"
                 >
-                  No results found for "{searchTerm}".
+                  No results found for &quot;{searchTerm}&quot;.
                 </TableCell>
               </TableRow>
             )}

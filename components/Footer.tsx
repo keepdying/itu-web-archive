@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
       }}
     >
       <Typography variant="body2" color="text.secondary">
-        @keepdying hayratıdır. -{" "}
+        @keepdying ve @hadihassan04 hayratıdır. -{" "}
         <Link
           href="https://github.com/keepdying/itu-web-archive"
           target="_blank"
