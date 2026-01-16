@@ -1,0 +1,61 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24063,DEN 102,Bilgisayar Destek.Teknik Resim,Physical (Face to face),Sevil Deniz Yakan Dündar,KMB,Monday,08:30/10:29,GZ104,24,0,-,DEN_LS,-,-
+1,24066,DEN 102,Bilgisayar Destek.Teknik Resim,Physical (Face to face),Sevil Deniz Yakan Dündar,KMB,Monday,10:30/12:29,GZ104,24,0,-,DEN_LS,-,-
+2,24068,DEN 102,Bilgisayar Destek.Teknik Resim,Physical (Face to face),Ebru Sarıöz,KMB,Friday,10:30/12:29,GZ104,24,0,-,DEN_LS,-,-
+3,24120,DEN 208E,Const.of Ship&Offshore Strc.,Physical (Face to face),Serdar Aytekin Köroğlu,MEDC,Thursday,09:30/11:29,ZA4,100,0,-,"DEN_LS, DENE_LS",-,-
+4,24122,DEN 306E,Marine Vehicle Design,Physical (Face to face),Burcu Erbaş,INB,Wednesday,11:30/13:29,B101,100,0,-,"DEN_LS, DENE_LS",-,-
+5,24126,DEN 308E,Stability of Marine Vehicles,Physical (Face to face),Hakan Akyıldız,MEDC,Tuesday,12:30/14:29,3D20,100,0,-,"DEN_LS, DENE_LS",-,-
+6,24132,DEN 310E,Resistance and Propulsion,Physical (Face to face),"Ömer Kemal Kınacı ,
+Burcu Erbaş",MEDC,Monday,10:30/13:29,2D18,80,0,-,DEN_LS,Detail,-
+7,24140,DEN 328E,Oceanography,Physical (Face to face),Sevil Deniz Yakan Dündar,MEDC,Thursday,14:30/17:29,2D18,100,0,-,"DEN_LS, DENE_LS",Detail,-
+8,24144,DEN 330E,Marine Engines&Aux.,Physical (Face to face),Oğuz Salim Söğüt,MEDC,Wednesday,13:30/15:29,3D20,100,0,-,"DEN_LS, DENE_LS",Detail,-
+9,24159,DEN 332,Deniz ve İş Hukuku,Physical (Face to face),Hasan Murat Demirkıran,MEDC,Monday,13:30/15:29,3D20,100,0,-,"DEN_LS, DENE_LS",-,-
+10,24162,DEN 334,Deniz Suyu Kimyası,Physical (Face to face),Burak Karacık,MEDC,Thursday,12:30/14:29,2D15,20,0,-,DEN_LS,-,-
+11,24128,DEN 341E,Ship Theory,Physical (Face to face),Hakan Akyıldız,MEDC,Tuesday,14:30/17:29,2D18,50,0,-,"DEN_LS, DENE_LS",Detail,-
+12,24136,DEN 343E,Sensor Systems for Marine Applications,Physical (Face to face),Ahmet Güneş,MEDC,Thursday,08:30/11:29,3D19,15,0,-,"DEN_LS, DENE_LS",-,-
+13,24182,DEN 406E,Offshore Structural Analysis,Physical (Face to face),Serdar Aytekin Köroğlu,MEDC,Thursday,14:30/17:29,ZA4,20,0,-,"DEN_LS, DENE_LS",Detail,Detail
+14,24191,DEN 414,Deniz Dibi Boru Döşeme Tekniği,Physical (Face to face),Deniz Bayraktar Bural,MEDC,Thursday,10:30/12:29,1D4,15,0,-,DEN_LS,-,-
+15,24185,DEN 418E,Marine Energy Technology,Physical (Face to face),Şafak Nur Ertürk Bozkurtoğlu,MEDC,Monday,15:30/17:29,2D15,15,0,-,"DEN_LS, DENE_LS",-,-
+16,24189,DEN 424E,Computer Aided Ship Design,Physical (Face to face),"Kadir Sarıöz ,
+Ebru Sarıöz",MEDC,Monday,15:30/17:29,2D16,15,0,-,"DEN_LS, DENE_LS",-,-
+17,24209,DEN 446,Gemi Elektr.& Kontrol Sist.,Physical (Face to face),Ahmet Güneş,MEDC,Thursday,12:30/14:29,3D20,100,0,-,DEN_LS,-,-
+18,24214,DEN 448E,Mechanics of Mooring Lines,Physical (Face to face),Ayhan Menteş,MEDC,Wednesday,13:30/15:29,3D19,15,0,-,"DEN_LS, DENE_LS",-,-
+19,24180,DEN 451E,Ship Mod.Tst.&OceanographyLab.,Physical (Face to face),"Ceren Bilgin Güney ,
+Burcu Erbaş",MEDC,Tuesday,09:30/12:29,3D20,100,0,-,"DEN_LS, DENE_LS",-,-
+20,24210,DEN 454,Gem.Klaslanma. Plan Onay Sür.,Physical (Face to face),Murat Kaplanoğlu,MEDC,Wednesday,12:30/15:29,1D6,20,0,-,"DEN_LS, DENE_LS, SOR_YD",-,-
+21,24211,DEN 456,Klas.Faal.Deniz.Huk.&DenizSig.,Physical (Face to face),Hasan Murat Demirkıran,MEDC,Monday,08:30/11:29,ZD2,20,0,-,"DEN_LS, DENE_LS, SOR_YD",-,-
+22,24212,DEN 458,Sörvey Faal.İş Sağ. ve Güven.,Physical (Face to face),Mehmet Cem Melikoğlu,MEDC,Tuesday,14:00/16:59,2D16,20,0,-,"DEN_LS, DENE_LS, SOR_YD",-,-
+23,24213,DEN 460,Sörv.Faal.Ulus.&Ulusl.Kur.&Dü.,Physical (Face to face),Bekir Sıtkı Türkmen,MEDC,Thursday,08:30/11:29,2D11,20,0,-,"DEN_LS, DENE_LS, SOR_YD",-,-
+24,24215,DEN 462E,Motions&Control of Mar.Vehic.,Physical (Face to face),Ömer Kemal Kınacı,MEDC,Wednesday,13:30/15:29,2D11,15,0,-,"DEN_LS, DENE_LS",-,-
+25,24844,DEN 470E,Stability of Floating Objects,Physical (Face to face),Hakan Akyıldız,MEDC,Monday,09:30/11:29,3D19,15,0,-,DEN_LS,-,-
+26,24219,DEN 482,Bireysel Proje,Physical (Face to face),Ayhan Menteş,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+27,24220,DEN 482,Bireysel Proje,Physical (Face to face),Hakan Akyıldız,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+28,24221,DEN 482,Bireysel Proje,Physical (Face to face),Kadir Sarıöz,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+29,24222,DEN 482,Bireysel Proje,Physical (Face to face),Ömer Kemal Kınacı,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+30,24223,DEN 482,Bireysel Proje,Physical (Face to face),Bilge Tutak,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+31,24224,DEN 482,Bireysel Proje,Physical (Face to face),Ebru Sarıöz,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+32,24225,DEN 482,Bireysel Proje,Physical (Face to face),Ceren Bilgin Güney,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+33,24226,DEN 482,Bireysel Proje,Physical (Face to face),Sevil Deniz Yakan Dündar,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+34,24227,DEN 482,Bireysel Proje,Physical (Face to face),Burak Karacık,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+35,24228,DEN 482,Bireysel Proje,Physical (Face to face),Burcu Erbaş,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+36,24229,DEN 482,Bireysel Proje,Physical (Face to face),Deniz Bayraktar Bural,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+37,24230,DEN 482,Bireysel Proje,Physical (Face to face),Ahmet Güneş,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+38,24231,DEN 482,Bireysel Proje,Physical (Face to face),Serdar Aytekin Köroğlu,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+39,24232,DEN 482,Bireysel Proje,Physical (Face to face),Şafak Nur Ertürk Bozkurtoğlu,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+40,24233,DEN 482,Bireysel Proje,Physical (Face to face),Oktay Eren Türeyen,-,-,-/-,-,1,0,-,DEN_LS,-,Detail
+41,24216,DEN 4901E,Shipbuilding&Ocean Eng.Desig.I,Physical (Face to face),"Kadir Sarıöz ,
+Serdar Aytekin Köroğlu ,
+Deniz Bayraktar Bural","MEDC
+MEDC","Friday
+Friday","09:30/12:29
+14:30/17:29","ZA3
+ZA3",100,0,-,"DEN_LS, DENE_LS",Detail,Detail
+42,24217,DEN 4902E,Shipbuilding&Ocean Eng.Dsg.II,Physical (Face to face),"Hakan Akyıldız ,
+Ömer Kemal Kınacı ,
+Ceren Bilgin Güney ,
+Sevil Deniz Yakan Dündar","MEDC
+MEDC","Friday
+Friday","09:30/12:29
+14:30/17:29","ZA4
+ZA4",100,0,-,"DEN_LS, DENE_LS",Detail,Detail
+43,24218,DEN 492E,Graduation Project,Physical (Face to face),Ayhan Menteş,-,-,-/-,-,1,0,-,DENE_LS,-,Detail

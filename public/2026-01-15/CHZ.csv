@@ -1,0 +1,28 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22892,CHZ 214,Tanecik Teknolojisi,Physical (Face to face),"Gülay Bulut ,
+Şükriye Beste Aydın",MDB,Tuesday,08:30/12:29,--,50,0,-,"CHZ_LS, CHZ_YD",-,-
+1,22896,CHZ 216,Fiziksel Zeng. Yöntemleri,Physical (Face to face),Mustafa Özer,"MDB
+MDB","Monday
+Wednesday","11:30/13:29
+13:30/15:29","--
+--",50,0,-,"CHZ_LS, CHZ_YD",Detail,-
+2,22899,CHZ 242,Proses Mineralojisi,Physical (Face to face),"Esra Baştürkcü ,
+Emin Çiftçi",MDB,Tuesday,13:30/16:29,--,55,0,-,"CHZ_LS, CHZ_YD",-,-
+3,22993,CHZ 306,Cevher Haz.Akışkanlar Mek.,Physical (Face to face),Birgül Benli,MDB,Friday,14:00/15:59,--,55,0,-,CHZ_LS,-,-
+4,22994,CHZ 308,Cevher Hazırlamada İş Güven.,Physical (Face to face),Kudret Tahsin Perek,MDB,Tuesday,13:30/15:29,--,50,0,-,CHZ_LS,-,-
+5,22401,CHZ 318,Endüstriyel Hammaddeler,Physical (Face to face),Murat Olgaç Kangal,MDB,Monday,08:30/11:29,--,85,0,-,"CHZ_LS, CHZ_YD, MAD_LS",-,-
+6,23006,CHZ 320E,Metallurgy II,Physical (Face to face),Fatma Arslan,MDB,Wednesday,12:30/15:29,--,60,0,-,"CHZ_LS, CHZE_LS",Detail,-
+7,22998,CHZ 328E,Comp. Appl. in Mineral Proces.,Physical (Face to face),Ayhan Ali Sirkeci,MDB,Wednesday,09:30/12:29,B207,50,0,-,"CHZ_LS, CHZ_YD, CHZE_LS",-,-
+8,23000,CHZ 332E,Flotation and Flocculation,Physical (Face to face),Gülay Bulut,MDB,Thursday,13:30/17:29,--,60,0,-,"CHZ_LS, CHZ_YD, CHZE_LS",Detail,-
+9,23002,CHZ 352,Kömür Teknolojisi,Physical (Face to face),Fırat Burat,MDB,Thursday,11:30/13:29,--,50,0,-,"CHZ_LS, CHZ_YD",-,-
+10,23003,CHZ 358E,Perform. Eva.in Coal Prp.Plnts,Physical (Face to face),Feridun Boylu,MDB,Friday,10:30/12:29,--,35,0,-,"CHZ_LS, CHZ_YD",-,-
+11,23028,CHZ 412,Susuzlandırma ve Kurutma,Physical (Face to face),Orhan Özdemir,MDB,Thursday,08:30/10:29,--,50,0,-,CHZ_LS,-,-
+12,23015,CHZ 424,Cev.Haz.Tesis Yönetimi ve Ekon,Physical (Face to face),Kudret Tahsin Perek,MDB,Monday,13:30/15:29,--,50,0,-,CHZ_LS,-,-
+13,23019,CHZ 432,Cevher Haz. Tesis Tasarımı,Physical (Face to face),Hüseyin Baştürkcü,MDB,Tuesday,08:30/12:29,--,50,0,-,"CHZ_LS, CHZ_YD",Detail,-
+14,23022,CHZ 446,İleri Teknoloji Hammaddeleri,Physical (Face to face),Şükriye Beste Aydın,MDB,Friday,08:30/10:29,--,35,0,-,CHZ_LS,-,-
+15,23025,CHZ 450,Agrega Haz. ve Teknolojisi,Physical (Face to face),Orhan Özdemir,MDB,Friday,08:30/10:29,--,35,0,-,CHZ_LS,-,-
+16,23031,CHZ 458E,Remdtn of Indus.&Minerl Wastes,Physical (Face to face),Fırat Burat,MDB,Friday,14:00/15:59,--,35,0,-,"CHZ_LS, CHZE_LS",-,-
+17,23040,CHZ 4901,Cevher Hazırl. Müh. Tasarımı I,Physical (Face to face),Murat Olgaç Kangal,-,-,-/-,-,200,0,-,CHZ_LS,Detail,Detail
+18,23042,CHZ 4902,Cevher Hazırl. Müh.Tasarımı II,Physical (Face to face),Murat Olgaç Kangal,-,-,-/-,-,200,0,-,CHZ_LS,Detail,Detail
+19,23035,CHZ 492,Bitirme Çalışması,Physical (Face to face),Murat Olgaç Kangal,-,-,-/-,-,10,0,-,CHZ_LS,-,Detail
+20,23036,CHZ 492E,Graduation Thesis,Physical (Face to face),Murat Olgaç Kangal,-,-,-/-,-,10,0,-,"CHZ_LS, CHZE_LS",-,Detail

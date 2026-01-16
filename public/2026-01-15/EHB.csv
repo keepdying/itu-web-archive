@@ -1,0 +1,47 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21959,EHB 208,Veri Yapıları ve Programlama,Physical (Face to face),Ali Bahadır,EEB,Friday,14:00/16:59,5102,60,0,-,"EHB_LS, ELK_LS, KOM_LS, TEL_LS",Detail,-
+1,21960,EHB 208E,Data Structures & Programming,Physical (Face to face),Bora Döken,EEB,Friday,14:00/16:59,5204,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+2,21962,EHB 208E,Data Structures & Programming,Physical (Face to face),İbrahim Çatalkaya,EEB,Friday,14:00/16:59,--,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+3,21968,EHB 208E,Data Structures & Programming,Physical (Face to face),Kadir Özlem,EEB,Friday,14:00/16:59,5304,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",Detail,-
+4,21971,EHB 222E,Introduction to Electronics,Physical (Face to face),Muhammet Tahir Güneşer,EEB,Monday,08:30/11:29,4102,70,0,-,"EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, MKN_LS, TEL_LS",-,-
+5,21990,EHB 227E,Introduction to Optics,Physical (Face to face),Fatma İnci Çilesiz,EEB,Thursday,08:30/11:29,5203,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,-
+6,21993,EHB 308,Haberleşme-II,Physical (Face to face),İbrahim Altunbaş,EEB,Thursday,12:30/15:29,5201,60,0,-,EHB_LS,Detail,-
+7,21996,EHB 308E,Communication II,Physical (Face to face),Mehmet Can,EEB,Thursday,12:30/15:29,5207,60,0,-,"EEE_LS, EHB_LS, EHBE_LS",Detail,-
+8,21999,EHB 308E,Communication II,Physical (Face to face),Ferkan Yılmaz,EEB,Thursday,12:30/15:29,5103,60,0,-,"EEE_LS, EHB_LS, EHBE_LS",Detail,-
+9,22002,EHB 311E,Intr.to Electronics Laboratory,Physical (Face to face),Ali Bahadır,EEB,Friday,10:30/12:29,--,45,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detail,-
+10,22004,EHB 311E,Intr.to Electronics Laboratory,Physical (Face to face),Hasan Bülent Yağcı,EEB,Friday,10:30/12:29,--,45,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detail,-
+11,22005,EHB 311E,Intr.to Electronics Laboratory,Physical (Face to face),Hasan Bülent Yağcı,EEB,Friday,14:00/15:59,--,45,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detail,-
+12,22006,EHB 311E,Intr.to Electronics Laboratory,Physical (Face to face),Bilgi Görkem Yazgaç,EEB,Friday,14:00/15:59,--,45,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS",Detail,-
+13,22007,EHB 322E,Digital Electronic Circuits,Physical (Face to face),Sheıda Farajı,EEB,Monday,12:30/15:29,6309,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS",Detail,-
+14,22010,EHB 322E,Digital Electronic Circuits,Physical (Face to face),Mustafa Altun,EEB,Monday,12:30/15:29,4102,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS",Detail,-
+15,22014,EHB 322E,Digital Electronic Circuits,Physical (Face to face),Nil Banu Tarım,EEB,Monday,12:30/15:29,5203,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS",Detail,-
+16,23602,EHB 332E,Network Synthesis,Physical (Face to face),Ece Olcay Güneş,EEB,Monday,08:30/11:29,5203,50,0,-,"EHB_LS, EHBE_LS, ELE_LS, ELH_LS",Detail,-
+17,22017,EHB 334E,Random Signals and Noise,Physical (Face to face),Tayfun Akgül,EEB,Tuesday,12:30/15:29,4102,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS, TEL_LS",Detail,-
+18,23603,EHB 354E,Object Oriented Programming,Virtual (Online),Mehmet Çayören,EEB,Tuesday,08:30/11:29,2106,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS, TEL_LS",Detail,-
+19,22020,EHB 362,Mikrodalga Mühendisliği,Physical (Face to face),Mesut Kartal,EEB,Wednesday,12:30/15:29,2102,60,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+20,22021,EHB 362E,Microwave Engineering,Physical (Face to face),Mehmet Çayören,EEB,Wednesday,12:30/15:29,2104,60,0,-,"EEE_LS, EHB_LS, EHBE_LS",Detail,-
+21,22022,EHB 362E,Microwave Engineering,Physical (Face to face),Mehmet Nuri Akıncı,EEB,Wednesday,12:30/15:29,2106,60,0,-,"EEE_LS, EHB_LS, EHBE_LS",Detail,-
+22,22023,EHB 408E,Wireless Com.Networks,Physical (Face to face),Ferkan Yılmaz,EEB,Monday,08:30/11:29,5103,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+23,22026,EHB 420E,Artificial Neural Networks,Physical (Face to face),İsa Yıldırım,EEB,Friday,14:00/16:59,6309,50,0,-,"EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+24,22028,EHB 420E,Artificial Neural Networks,Physical (Face to face),Ömer Melih Gül,EEB,Friday,14:00/16:59,2106,50,0,-,"EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+25,22030,EHB 425E,VLSI Circuit Design II,Physical (Face to face),Sıddıka Berna Örs Yalçın,EEB,Monday,08:30/11:29,5105,20,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS",Detail,-
+26,22032,EHB 427E,Microelectronics Technology,Physical (Face to face),Ahmet Can Erten,EEB,Wednesday,08:30/11:29,5203,50,0,-,"EEE_LS, EHB_LS, EHBE_LS",Detail,-
+27,22033,EHB 429E,Communication Electronic Circuits,Physical (Face to face),Hasan Bülent Yağcı,EEB,Monday,12:30/15:29,5101,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS",Detail,-
+28,22034,EHB 431E,Design & Appl.Digital Com.Sys.,Physical (Face to face),Hakan Ali Çırpan,EEB,Thursday,08:30/12:29,5303,20,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+29,22035,EHB 437,Biyomedikal Düzenler,Physical (Face to face),Zümray Ölmez,EEB,Thursday,13:30/16:29,5105,50,0,-,"EHB_LS, ELE_LS, ELH_LS, KOM_LS",Detail,-
+30,22036,EHB 440E,Comp.Aided Devices in Medicine,Physical (Face to face),Onur Ergen,EEB,Tuesday,12:30/15:29,2102,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS",Detail,-
+31,22037,EHB 445,Tıbbi Enstr. Tasarım ve Uyg.,Physical (Face to face),Tamer Ölmez,EEB,Tuesday,12:30/16:29,5203,20,0,-,"EHB_LS, ELE_LS",Detail,-
+32,22038,EHB 453E,Intr.to Mobile Communications,Physical (Face to face),Mustafa Ergen,EEB,Wednesday,12:30/15:29,5201,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+33,22039,EHB 455,Mikrodenetleyici Tem.Sist.Tas.,Physical (Face to face),Tamer Ölmez,EEB,Thursday,08:30/11:29,2102,50,0,-,"EHB_LS, KOM_LS, KON_LS",Detail,-
+34,22040,EHB 456E,Antennas,Physical (Face to face),Kamil Karaçuha,EEB,Thursday,08:30/11:29,5204,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+35,22041,EHB 456E,Antennas,Physical (Face to face),Semih Doğu,EEB,Friday,08:30/11:29,5302,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+36,22043,EHB 464E,Satellite Communications,Physical (Face to face),Mesut Kartal,EEB,Thursday,12:30/15:29,5303,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+37,23604,EHB 465E,Fiberoptic Com. Systems,Physical (Face to face),Onur Kurt,EEB,Friday,08:30/11:29,5102,50,0,-,"EEE_LS, EHB_LS, EHBE_LS",Detail,-
+38,23606,EHB 466E,Remote Sensing,Physical (Face to face),İbrahim Çatalkaya,EEB,Tuesday,08:30/11:29,5201,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, TEL_LS",Detail,-
+39,23607,EHB 474E,Introduction to Optimization,Physical (Face to face),Mehmet Nuri Akıncı,EEB,Wednesday,08:30/11:29,2104,50,0,-,"EEE_LS, EHB_LS, EHBE_LS, KOM_LS, KOME_LS, KON_LS",Detail,-
+40,23610,EHB 4901,Elektronik & Hab. Müh. Tas .I,Physical (Face to face),Hakan Ali Çırpan,-,-,-/-,-,200,0,-,EHB_LS,Detail,Detail
+41,23611,EHB 4901E,Elect.&Comm. Eng. Design I,Physical (Face to face),Hakan Ali Çırpan,-,-,-/-,-,200,0,-,"EHB_LS, EHBE_LS, EHS_LS",Detail,Detail
+42,23612,EHB 4902,Elektronik & Hab. Müh. Tas .II,Physical (Face to face),Hakan Ali Çırpan,-,-,-/-,-,200,0,-,EHB_LS,Detail,-
+43,23614,EHB 4902E,Elect.&Comm. Eng. Design II,Physical (Face to face),Hakan Ali Çırpan,-,-,-/-,-,200,0,-,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS",Detail,-
+44,23616,EHB 492,Bitirme Projesi,Physical (Face to face),Hakan Ali Çırpan,-,-,-/-,-,50,0,-,EHB_LS,-,Detail
+45,23618,EHB 492E,Graduation Project,Physical (Face to face),Hakan Ali Çırpan,-,-,-/-,-,50,0,-,"EHB_LS, EHBE_LS",-,Detail

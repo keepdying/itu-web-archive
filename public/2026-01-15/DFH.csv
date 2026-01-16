@@ -1,0 +1,47 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23210,DFH 112,Denizde Güvenlik II,Physical (Face to face),"Hakan Çap ,
+İsmail Kandemir",DZB,Monday,08:30/11:29,--,60,0,-,"DUI_LS, GMI_LS",-,-
+1,23257,DFH 112,Denizde Güvenlik II,Physical (Face to face),Sinan Çakır,DZB,Monday,11:30/14:29,--,60,0,-,"DUI_LS, GMI_LS",-,-
+2,23657,DFH 112,Denizde Güvenlik II,Physical (Face to face),"Hakan Çap ,
+İsmail Kandemir",DZB,Monday,14:30/17:29,--,60,0,-,"DUI_LS, GMI_LS",-,-
+3,24804,DFH 112E,Maritime Safety II,Physical (Face to face),Hakan Çap,DZB,Friday,08:30/11:29,--,35,0,-,"MEN_LS, MTM_LS",-,-
+4,24805,DFH 112E,Maritime Safety II,Physical (Face to face),Yusuf Nejat Koçar,DZB,Friday,14:00/16:59,--,35,0,-,"MEN_LS, MTM_LS",-,-
+5,23659,DFH 172E,Maritime English I,Physical (Face to face),Seda Çınar Alabay,DZB,Friday,08:30/10:29,--,25,0,-,DUI_LS,-,-
+6,23661,DFH 172E,Maritime English I,Physical (Face to face),Seda Çınar Alabay,DZB,Friday,10:30/12:29,--,25,0,-,DUI_LS,-,-
+7,23662,DFH 172E,Maritime English I,Physical (Face to face),Seda Çınar Alabay,DZB,Tuesday,13:30/15:29,--,25,0,-,DUI_LS,-,-
+8,24806,DFH 172E,Maritime English I,Physical (Face to face),Seda Çınar Alabay,DZB,Tuesday,08:30/10:29,--,60,0,-,"MMD_LS, MTM_LS",-,-
+9,23666,DFH 184,Denizcilik Gelenekleri,Physical (Face to face),Gizem Çevik,DZB,Monday,11:30/14:29,--,20,0,-,DUI_LS,-,-
+10,23667,DFH 186,Gemicilik Uygulamaları,Physical (Face to face),Orhan Gönel,DZB,Thursday,08:30/11:29,--,20,0,-,DUI_LS,-,-
+11,24807,DFH 186E,Shipping Applications,Physical (Face to face),Orhan Gönel,DZB,Thursday,12:30/15:29,--,60,0,-,MTM_LS,-,-
+12,23726,DFH 202,Gemilerde Acil Durum. Müdahale,Physical (Face to face),Orhan Gönel,DZB,Tuesday,10:30/12:29,--,30,0,-,DUI_LS,-,Detail
+13,23736,DFH 202,Gemilerde Acil Durum. Müdahale,Physical (Face to face),Ahmet Lutfi Tunçel,DZB,Friday,10:30/12:29,--,25,0,-,DUI_LS,-,Detail
+14,24849,DFH 202E,Ship Emergency Response,Physical (Face to face),Orhan Gönel,DZB,Thursday,16:30/18:29,--,60,0,-,"MEN_LS, MTM_LS",-,Detail
+15,23669,DFH 225,Türk Denizcilik Tarihi&Kültürü,Physical (Face to face),Muhsin Kadıoğlu,DZB,Thursday,11:30/13:29,--,20,0,-,DUI_LS,-,-
+16,23834,DFH 226,Ekonomik Coğrafya,Physical (Face to face),Muhsin Kadıoğlu,DZB,Thursday,14:30/17:29,--,25,0,-,DUI_LS,-,-
+17,23838,DFH 228,Denizcilik Psikolojisi,Physical (Face to face),Leyla Tavacıoğlu,DZB,Wednesday,08:30/11:29,--,25,0,-,DUI_LS,-,-
+18,24850,DFH 232E,Business Logistics,Physical (Face to face),Pelin Bolat,DZB,Tuesday,13:30/15:29,--,60,0,-,MTM_LS,-,-
+19,23681,DFH 254E,Maritime Conventions,Physical (Face to face),Gizem Kayişoğlu,DZB,Thursday,09:30/11:29,--,30,0,-,DUI_LS,-,-
+20,23685,DFH 254E,Maritime Conventions,Physical (Face to face),Gizem Kayişoğlu,DZB,Thursday,15:30/17:29,--,30,0,-,DUI_LS,-,-
+21,24845,DFH 254E,Maritime Conventions,Physical (Face to face),Fırat Bolat,DZB,Thursday,14:30/16:29,--,60,0,-,MTM_LS,-,-
+22,23701,DFH 278E,Maritime Economics,Physical (Face to face),Levent Kırval,DZB,Wednesday,09:30/11:29,--,30,0,-,DUI_LS,-,-
+23,23704,DFH 278E,Maritime Economics,Physical (Face to face),Levent Kırval,DZB,Wednesday,11:30/13:29,--,30,0,-,DUI_LS,-,-
+24,24848,DFH 278E,Maritime Economics,Physical (Face to face),Sinan Çakır,DZB,Friday,10:30/12:29,--,60,0,-,"MMD_LS, MTM_LS",-,-
+25,23798,DFH 282,Akışkanlar Mekaniği,Physical (Face to face),Melek Ertogan,DZB,Monday,09:30/11:29,--,30,0,-,DUI_LS,-,-
+26,23801,DFH 282,Akışkanlar Mekaniği,Physical (Face to face),Melek Ertogan,DZB,Monday,11:30/13:29,--,30,0,-,DUI_LS,-,-
+27,23828,DFH 414E,Port Management,Physical (Face to face),Tanzer Satır,DZB,Tuesday,13:30/15:29,--,25,0,-,DUI_LS,-,-
+28,23835,DFH 472E,Commercial Ship Management,Physical (Face to face),Pelin Bolat,DZB,Tuesday,08:30/11:29,--,25,0,-,DUI_LS,-,-
+29,23841,DFH 476,Etkili İletişim,Physical (Face to face),Cenk Ay,DZB,Friday,08:30/11:29,--,25,0,-,DUI_LS,-,-
+30,23839,DFH 478E,Ro-ro / Passenger Ship Operat.,Physical (Face to face),Gizem Elidolu,DZB,Monday,14:30/16:29,--,25,0,-,DUI_LS,-,-
+31,23829,DFH 482E,Cargo Handling Simulator,Physical (Face to face),Yunus Emre Şenol,DZB,Monday,08:30/10:29,--,25,0,-,DUI_LS,-,-
+32,23830,DFH 482E,Cargo Handling Simulator,Physical (Face to face),Yunus Emre Şenol,DZB,Monday,10:30/12:29,--,25,0,-,DUI_LS,-,-
+33,23831,DFH 484,Deniz Sigortaları,Physical (Face to face),Arda Özkan,DZB,Tuesday,11:30/13:29,--,25,0,-,DUI_LS,-,-
+34,23832,DFH 486E,Chartering,Physical (Face to face),Emre Akyüz,DZB,Thursday,11:30/13:29,--,25,0,-,DUI_LS,-,-
+35,23786,DFH 490E,E-Navigation Systems,Physical (Face to face),Serdar Kum,DZB,Wednesday,08:30/10:29,--,30,0,-,DUI_LS,-,-
+36,23789,DFH 490E,E-Navigation Systems,Physical (Face to face),"Serdar Kum ,
+Gizem Elidolu",DZB,Wednesday,13:30/15:29,--,25,0,-,DUI_LS,-,-
+37,23795,DFH 490E,E-Navigation Systems,Physical (Face to face),"Serdar Kum ,
+Gizem Elidolu",DZB,Thursday,13:30/15:29,--,25,0,-,DUI_LS,-,-
+38,24855,DFH 490E,E-Navigation Systems,Physical (Face to face),Serdar Kum,DZB,Thursday,10:30/12:29,--,60,0,-,MTM_LS,-,-
+39,23833,DFH 494E,Intercult.Comm.in Marit.Domain,Physical (Face to face),Seda Çınar Alabay,DZB,Wednesday,13:30/15:29,--,25,0,-,DUI_LS,-,-
+40,23837,DFH 495,Gemiadamı Sağlığı&İş Emniyeti,Physical (Face to face),Esma Uflaz,DZB,Thursday,08:30/11:29,--,25,0,-,DUI_LS,-,-
+41,24883,DFH 495E,Seafarer's Health and Safety,Physical (Face to face),Tuba Keçeci,-,-,-/-,-,60,0,-,MTM_LS,-,-

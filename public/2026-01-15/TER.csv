@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22504,TER 201,Termodinamik,Physical (Face to face),Ramazan Keyikoğlu,INB,Thursday,08:30/11:29,A104,60,0,-,CEV_LS,Detail,-
+1,23190,TER 201,Termodinamik,Physical (Face to face),Hanzade Açma,KMB,Thursday,08:30/11:29,--,75,0,-,"CEV_LS, CHZ_LS, DEN_LS, EHB_LS, GEM_LS, ISL_LS, JEO_LS, KMM_LS, KOM_LS, KON_LS, PET_LS",Detail,-
+2,24088,TER 201,Termodinamik,Physical (Face to face),Halil Saraçoğlu,MEDC,Thursday,13:30/16:29,ZA3,90,0,-,DEN_LS,Detail,-
+3,22508,TER 201E,Thermodynamics,Physical (Face to face),Özlem Karahan Özgün,INB,Thursday,08:30/11:29,B101,60,0,-,"CEV_LS, CEVE_LS",Detail,-

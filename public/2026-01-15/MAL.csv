@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23644,MAL 201,Malzeme Bilimi,Physical (Face to face),Demet Aydoğmuş,EEB,Tuesday,12:30/15:29,2106,50,0,-,"EHB_LS, ELK_LS, KOM_LS, ROS_LS",-,-
+1,22702,MAL 201E,Materials Science,Physical (Face to face),Emin Çiftçi,MDB,Friday,09:30/12:29,--,60,0,-,"CEN_LS, CHZ_LS, CHZE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",-,-
+2,24098,MAL 201E,Materials Science,Physical (Face to face),Burçak Avcı,ISB,Friday,14:30/17:29,--,65,0,-,"ISL_LS, ISLE_LS",-,-

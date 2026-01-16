@@ -1,0 +1,44 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24021,ISL 114E,Engineering Ethics,Physical (Face to face),Zeynep Erden Bayazıt,ISB,Tuesday,14:30/16:29,--,10,0,-,"ISL_LS, ISLE_LS",-,-
+1,24024,ISL 213E,Statistics I,Virtual (Online),Ömer Lütfi Antalyalı,ISB,Thursday,09:30/12:29,--,60,0,-,"ISL_LS, ISLE_LS",-,-
+2,24025,ISL 214E,Statistics II,Physical (Face to face),Raziye Selim,ISB,Tuesday,14:30/17:29,--,80,0,-,"ISL_LS, ISLE_LS",Detail,-
+3,24026,ISL 214E,Statistics II,Physical (Face to face),Raziye Selim,ISB,Wednesday,09:30/12:29,--,80,0,-,"ISL_LS, ISLE_LS",Detail,-
+4,24027,ISL 223E,Fundm.of Production Management,Physical (Face to face),Hür Bersam Sidal,ISB,Thursday,14:30/17:29,--,60,0,-,"ISL_LS, ISLE_LS",-,-
+5,24028,ISL 224E,Cost Accounting,Virtual (Online),Oktay Taş,ISB,Monday,09:30/12:29,--,125,0,EFN_LS/30/0 | END_LS/5/0 | ENDE_LS/5/0 | IND_LS/5/0 | Diğer/80/0,"EFN_LS, END_LS, ENDE_LS, IND_LS, ISL_LS, ISLE_LS",-,-
+6,24029,ISL 233E,Microeconomics,Physical (Face to face),İbrahim Öner Günçavdı,ISB,Wednesday,09:30/12:29,--,60,0,-,"ISL_LS, ISLE_LS, MMD_LS",-,-
+7,24030,ISL 234E,Management and Organization,Physical (Face to face),Zeynep Erden Bayazıt,ISB,Monday,14:30/17:29,--,80,0,ECNE_LS/10/0 | GID_LS/5/0 | GIDE_LS/5/0 | Diğer/60/0,"ECNE_LS, GID_LS, GIDE_LS, ISL_LS, ISLE_LS",-,Detail
+8,24031,ISL 234E,Management and Organization,Physical (Face to face),Zeynep Erden Bayazıt,ISB,Tuesday,09:30/12:29,--,80,0,ECNE_LS/10/0 | GID_LS/8/0 | GIDE_LS/5/0 | Diğer/57/0,"ECNE_LS, GID_LS, GIDE_LS, ISL_LS, ISLE_LS",-,Detail
+9,24032,ISL 244E,Macroeconomics,Physical (Face to face),"İpek İlkkaracan Ajas ,
+Derya Gültekin",ISB,Tuesday,14:30/17:29,--,80,0,-,"ISL_LS, ISLE_LS",Detail,-
+10,24033,ISL 244E,Macroeconomics,Physical (Face to face),"İpek İlkkaracan Ajas ,
+Derya Gültekin",ISB,Wednesday,09:30/12:29,--,80,0,-,"ISL_LS, ISLE_LS",Detail,-
+11,24034,ISL 323E,Operations Research,Physical (Face to face),Aziz Kemal Konyalıoğlu,ISB,Friday,14:30/17:29,--,60,0,-,"ISL_LS, ISLE_LS",Detail,-
+12,24035,ISL 333E,Finance,Physical (Face to face),Kaya Tokmakçıoğlu,ISB,Monday,14:30/17:29,--,80,0,ENDE_LS/5/0 | END_LS/5/0 | Diğer/70/0,"END_LS, ENDE_LS, ISL_LS, ISLE_LS",Detail,-
+13,24036,ISL 333E,Finance,Physical (Face to face),Cumhur Enis Ekinci,ISB,Tuesday,09:30/12:29,--,80,0,ENDE_LS/5/0 | END_LS/5/0 | Diğer/70/0,"END_LS, ENDE_LS, ISL_LS, ISLE_LS",Detail,-
+14,24037,ISL 343E,Management Information Syst.,Virtual (Online),Nihan Yıldırım,ISB,Wednesday,12:30/15:29,--,150,0,ECNE_LS/20/0 | Diğer/130/0,"ECNE_LS, ISL_LS, ISLE_LS",-,Detail
+15,24038,ISL 353E,Marketing,Physical (Face to face),Huriye Şebnem Burnaz,ISB,Monday,09:30/12:29,--,60,0,ECNE_LS/10/0 | Diğer/50/0,"ECNE_LS, ENTE_LS, EUT_LS, ISL_LS, ISLE_LS",Detail,-
+16,24039,ISL 354E,Managerial Decision Making,Physical (Face to face),Aziz Kemal Konyalıoğlu,ISB,Wednesday,09:30/12:29,--,40,0,-,"ISL_LS, ISLE_LS",-,Detail
+17,24040,ISL 360E,Quantitative Rsrch&DataAnlys.,Physical (Face to face),Elif Karaosmanoğlu,ISB,Thursday,08:30/12:29,--,80,0,-,"ISL_LS, ISLE_LS",Detail,-
+18,24041,ISL 360E,Quantitative Rsrch&DataAnlys.,Physical (Face to face),Kemal Burç Ülengin,ISB,Thursday,14:30/18:29,--,80,0,-,"ISL_LS, ISLE_LS",Detail,-
+19,24042,ISL 363E,Human Resources Management,Physical (Face to face),İdil Vedia Evcimen,ISB,Monday,14:30/17:29,--,60,0,-,"ISL_LS, ISLE_LS",Detail,-
+20,24043,ISL 364E,Business Law,Physical (Face to face),"Özgür Öztürk ,
+Arzu Hacıoğlu Çalışkan",ISB,Friday,09:30/12:29,--,120,0,ECNE_LS/40/0 | EFN_LS/10/0 | MMD_LS/30/0 | Diğer/40/0,"ECNE_LS, EFN_LS, ISL_LS, ISLE_LS, MMD_LS",-,-
+21,24044,ISL 374E,Management Eng. Design I,Physical (Face to face),"Mehmet Erçek ,
+Deniz Tunçalp",ISB,Thursday,09:30/12:29,--,80,0,-,"ISL_LS, ISLE_LS",-,Detail
+22,24045,ISL 374E,Management Eng. Design I,Physical (Face to face),"Mehmet Erçek ,
+Deniz Tunçalp",ISB,Thursday,14:30/17:29,--,80,0,-,"ISL_LS, ISLE_LS",-,Detail
+23,24046,ISL 432E,Simulation in Operations Mng.,Virtual (Online),Tuncay Özcan,ISB,Friday,09:30/12:29,--,40,0,-,"ISL_LS, ISLE_LS",-,-
+24,24047,ISL 433,İş Hukuku,Physical (Face to face),Ulaş Baysal,ISB,Wednesday,13:30/15:29,--,80,0,-,"ISL_LS, ISLE_LS",-,-
+25,24049,ISL 435E,The World Economy at a Glance,Physical (Face to face),İpek İlkkaracan Ajas,ISB,Thursday,14:30/17:29,--,40,0,-,"ISL_LS, ISLE_LS",Detail,-
+26,24050,ISL 439E,Int.to Mach.Learn.with Bus.App,Physical (Face to face),Tolga Kaya,ISB,Wednesday,09:30/12:29,--,40,0,-,"ISL_LS, ISLE_LS",Detail,-
+27,24054,ISL 445E,European Leadership for Sustainability Management,Physical (Face to face),Hatice Camgöz Akdağ,ISB,Wednesday,09:30/12:29,--,40,0,-,"ISL_LS, ISLE_LS",-,-
+28,24055,ISL 453E,Management Eng. Design II,Physical (Face to face),"Osman Taylan ,
+Aziz Kemal Konyalıoğlu",ISB,Monday,14:30/17:29,--,60,0,-,"ISL_LS, ISLE_LS",Detail,-
+29,24057,ISL 460E,E-Marketing,Physical (Face to face),Adnan Veysel Ertemel,ISB,Friday,14:30/17:29,--,40,0,IND_LS/5/0 | Diğer/35/0,"IND_LS, ISL_LS, ISLE_LS",Detail,-
+30,24058,ISL 478E,Entrepreneurship,Physical (Face to face),Deniz Tunçalp,ISB,Tuesday,14:30/17:29,--,40,0,-,"AIN_LS, ARC_LS, BIO_LS, BIOE_LS, BLG_LS, BLGE_LS, BST_LS, CAB_LS, CEB_LS, CEN_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, ECNE_LS, EEE_LS, EFN_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, END_LS, ENDE_LS, ENTE_LS, EUT_LS, EUTE_LS, FIZ_LS, FIZE_LS, GEM_LS, GEME_LS, GEMK_LS, GEO_LS, GEOE_LS, GID_LS, GIDE_LS, ICM_LS, IML_LS, IMLE_LS, IND_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KMME_LS, KMP_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MAK_LS, MAKE_LS, MAT_LS, MATE_LS, MET_LS, METE_LS, MIM_LS, MIME_LS, MTO_LS, MTOE_LS, MTR_LS, MUT_LS, MUZ_LS, MUZE_LS, MZT_LS, PEM_LS, PEME_LS, PET_LS, PETE_LS, SBP_LS, SBPE_LS, SES_LS, TEB_LS, TEK_LS, TEKE_LS, TEL_LS, THO_LS, UCK_LS, UZB_LS, UZBE_LS, YZVE_LS",-,Detail
+31,24061,ISL 4901,İşletme Müh. Tasarım Projesi I,Physical (Face to face),Hatice Camgöz Akdağ,-,-,-/-,-,500,0,-,ISL_LS,Detail,Detail
+32,24083,ISL 4901E,Manage. Engin. Design Proj. I,Physical (Face to face),Hatice Camgöz Akdağ,-,-,-/-,-,500,0,-,"ISL_LS, ISLE_LS",Detail,Detail
+33,24084,ISL 4902,İşletme Müh.Tasarım Projesi II,Physical (Face to face),Hatice Camgöz Akdağ,-,-,-/-,-,500,0,-,ISL_LS,Detail,-
+34,24086,ISL 4902E,Manage. Engin. Design Proj.II,Physical (Face to face),Hatice Camgöz Akdağ,-,-,-/-,-,500,0,-,"ISL_LS, ISLE_LS",Detail,-
+35,24059,ISL 492,İşletme Müh. Tasarım Prj.,Physical (Face to face),Hatice Camgöz Akdağ,-,-,-/-,-,500,0,-,"ISL_LS, ISLE_LS",-,Detail
+36,24060,ISL 492E,Management Eng. Design Project,Physical (Face to face),Hatice Camgöz Akdağ,-,-,-/-,-,500,0,-,"ISL_LS, ISLE_LS",-,Detail

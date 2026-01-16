@@ -1,0 +1,39 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,23645,DUI 102E,Introduction to Navigation,Physical (Face to face),Tuba Keçeci,DZB,Monday,08:30/11:29,--,30,0,-,DUI_LS,-,-
+1,23647,DUI 102E,Introduction to Navigation,Physical (Face to face),Elif Bal Beşikçi,DZB,Tuesday,14:30/17:29,--,30,0,-,DUI_LS,-,-
+2,24798,DUI 102E,Introduction to Navigation,Physical (Face to face),Tuba Keçeci,DZB,Thursday,15:30/18:29,--,60,0,-,MTM_LS,-,-
+3,23648,DUI 112E,Watchkeeping I,Physical (Face to face),Oğuzhan Gürel,DZB,Wednesday,09:30/11:29,--,30,0,-,DUI_LS,-,-
+4,23651,DUI 112E,Watchkeeping I,Physical (Face to face),Oğuzhan Gürel,DZB,Wednesday,11:30/13:29,--,30,0,-,DUI_LS,-,-
+5,24799,DUI 112E,Watchkeeping I,Physical (Face to face),Selim Aksoy,DZB,Tuesday,10:30/12:29,--,60,0,-,MTM_LS,-,-
+6,23756,DUI 208E,Cargo&Crew Safety,Physical (Face to face),Tanzer Satır,DZB,Monday,09:30/11:29,--,30,0,-,DUI_LS,-,-
+7,23757,DUI 208E,Cargo&Crew Safety,Physical (Face to face),Tanzer Satır,DZB,Monday,11:30/13:29,--,30,0,-,DUI_LS,-,-
+8,24854,DUI 208E,Cargo&Crew Safety,Physical (Face to face),Tanzer Satır,DZB,Tuesday,11:30/13:29,--,60,0,-,MTM_LS,-,-
+9,23753,DUI 214,Astronomi,Physical (Face to face),Orhan Gönel,DZB,Monday,15:30/17:29,--,30,0,-,DUI_LS,-,-
+10,23755,DUI 214,Astronomi,Physical (Face to face),Orhan Gönel,DZB,Wednesday,13:30/15:29,--,30,0,-,DUI_LS,-,-
+11,24851,DUI 214E,Astronomy,Physical (Face to face),Orhan Gönel,DZB,Friday,08:30/10:29,--,60,0,-,MTM_LS,-,-
+12,23690,DUI 231EL,Marine Communication Lab.,Physical (Face to face),Oğuzhan Gürel,DZB,Tuesday,10:30/12:29,--,25,0,-,DUI_LS,-,-
+13,23693,DUI 231EL,Marine Communication Lab.,Physical (Face to face),Oğuzhan Gürel,DZB,Tuesday,08:30/10:29,--,25,0,-,DUI_LS,-,-
+14,23695,DUI 231EL,Marine Communication Lab.,Physical (Face to face),Oğuzhan Gürel,DZB,Tuesday,13:30/15:29,--,25,0,-,DUI_LS,-,-
+15,23698,DUI 231EL,Marine Communication Lab.,Physical (Face to face),Cenk Ay,DZB,Tuesday,15:30/17:29,--,25,0,-,DUI_LS,-,-
+16,24846,DUI 231EL,Marine Communication Lab.,Physical (Face to face),Yunus Emre Şenol,DZB,Tuesday,15:30/17:29,--,20,0,-,MTM_LS,-,-
+17,24847,DUI 231EL,Marine Communication Lab.,Physical (Face to face),Alaaddin Yıldıray Ertaş,DZB,Tuesday,15:30/17:29,--,20,0,-,MTM_LS,-,-
+18,23745,DUI 232,Gemi Elektroniği,Physical (Face to face),Zuhal Er,DZB,Tuesday,08:30/10:29,--,25,0,-,DUI_LS,-,-
+19,23748,DUI 232,Gemi Elektroniği,Physical (Face to face),Zuhal Er,DZB,Tuesday,10:30/12:29,--,25,0,-,DUI_LS,-,-
+20,23752,DUI 232,Gemi Elektroniği,Physical (Face to face),Melek Ertogan,DZB,Monday,13:30/15:29,--,30,0,-,DUI_LS,-,-
+21,23803,DUI 393E,Long Term SeaTraining(6Months),Physical (Face to face),Gizem Kayişoğlu,-,-,-/-,-,100,0,-,DUI_LS,Detail,-
+22,24870,DUI 393E,Long Term SeaTraining(6Months),Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,0,-,MTM_LS,Detail,-
+23,23823,DUI 402,Deniz Hukuku II,Physical (Face to face),Hakan Muran,DZB,Thursday,08:30/11:29,--,30,0,-,DUI_LS,Detail,-
+24,23825,DUI 402,Deniz Hukuku II,Physical (Face to face),Hakan Muran,DZB,Thursday,11:30/14:29,--,30,0,-,DUI_LS,Detail,-
+25,23827,DUI 402,Deniz Hukuku II,Physical (Face to face),Hakan Muran,DZB,Thursday,14:30/17:29,--,30,0,-,DUI_LS,Detail,-
+26,24882,DUI 402E,Maritime Law II,Physical (Face to face),Arda Özkan,-,-,-/-,-,0,0,-,MTM_LS,Detail,-
+27,23805,DUI 472,Oşinografi,Physical (Face to face),Ayşe Nak,DZB,Wednesday,11:30/13:29,--,35,0,-,-,-,-
+28,23807,DUI 472,Oşinografi,Physical (Face to face),Ayşe Nak,DZB,Wednesday,13:30/15:29,--,35,0,-,DUI_LS,-,-
+29,23809,DUI 472,Oşinografi,Physical (Face to face),Ayşe Nak,DZB,Wednesday,09:30/11:29,--,35,0,-,-,-,-
+30,24872,DUI 472E,Oceanography,Physical (Face to face),Ayşe Nak,DZB,Tuesday,13:30/15:29,--,60,0,-,MTM_LS,-,-
+31,23816,DUI 474,Köprü Üstü Kaynak&Takım Yön.,Physical (Face to face),Ahmet Lutfi Tunçel,DZB,Monday,08:30/11:29,--,25,0,-,DUI_LS,Detail,-
+32,23818,DUI 474,Köprü Üstü Kaynak&Takım Yön.,Physical (Face to face),Cemil Yurtören,DZB,Monday,11:30/14:29,--,25,0,-,DUI_LS,Detail,-
+33,23821,DUI 474,Köprü Üstü Kaynak&Takım Yön.,Physical (Face to face),Cemil Yurtören,DZB,Monday,14:30/17:29,--,25,0,-,DUI_LS,Detail,-
+34,24878,DUI 474E,Bridge Team and Resource Management,Physical (Face to face),Cemil Yurtören,-,-,-/-,-,0,0,-,MTM_LS,Detail,-
+35,23844,DUI 4901,Deniz Ulaş.&İşlet.Müh. Tas. I,Physical (Face to face),Elif Bal Beşikçi,-,-,-/-,-,50,0,-,DUI_LS,Detail,Detail
+36,23814,DUI 4902,Deniz Ulaş.&İşlet.Müh. Tas. II,Physical (Face to face),Elif Bal Beşikçi,-,-,-/-,-,100,0,-,DUI_LS,Detail,-
+37,24874,DUI 4902E,MaritimeTrans.Mng.Eng.DesignII,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,0,-,MTM_LS,Detail,-

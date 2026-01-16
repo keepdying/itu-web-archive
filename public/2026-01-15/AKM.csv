@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22725,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Necati Erdem Ünal,INB,Wednesday,09:30/12:29,--,60,0,-,INS_LS,Detail,-
+1,22726,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Hafzüllah Aksoy,INB,Wednesday,09:30/12:29,--,60,0,-,INS_LS,Detail,-
+2,24269,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Şakir Bal,MEDC,Tuesday,08:30/11:29,1D7,40,0,-,GEM_LS,Detail,-
+3,24271,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Ali Can Takinacı,MEDC,Tuesday,08:30/11:29,2D13,40,0,-,GEM_LS,Detail,-
+4,22731,AKM 204E,Fluid Mechanics,Physical (Face to face),Abdüsselam Altunkaynak,INB,Monday,09:30/12:29,--,60,0,-,"INSE_LS, NAE_LS",Detail,-
+5,22734,AKM 204E,Fluid Mechanics,Physical (Face to face),Mehmet Özger,INB,Thursday,09:30/12:29,--,60,0,-,"INSE_LS, NAE_LS",Detail,-
+6,23241,AKM 204E,Fluid Mechanics,Physical (Face to face),Zerefşan Kaymaz,MEDC,Wednesday,08:30/11:29,ZA4,85,0,-,"IBM_LS, MTO_LS, MTOE_LS",Detail,-
+7,24340,AKM 204E,Fluid Mechanics,Physical (Face to face),Murat Çakan,MKB,Thursday,14:30/17:29,D376,40,0,-,"TEK_LS, TEKE_LS",Detail,-
+8,24857,AKM 204E,Fluid Mechanics,Physical (Face to face),Melek Ertogan,DZB,Wednesday,12:30/15:29,--,60,0,-,"MEN_LS, MTM_LS",Detail,-
+9,24104,AKM 205,Akışkanlar Mekaniği,Physical (Face to face),Şafak Nur Ertürk Bozkurtoğlu,"MEDC
+MEDC","Tuesday
+Wednesday","14:30/17:29
+09:30/11:29","ZA4
+2D18",100,0,-,DEN_LS,Detail,-
+10,22983,AKM 219,Akışkanlar Mekaniği,Physical (Face to face),Nuriye Leman Okşan Çetiner Yıldırım,MEDC,Tuesday,08:30/11:29,ZA2,50,0,-,UCK_LS,Detail,-
+11,22986,AKM 219E,Fluid Mechanics,Physical (Face to face),Fırat Oğuz Edis,MEDC,Tuesday,08:30/11:29,ZA1,50,0,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+12,22987,AKM 219E,Fluid Mechanics,Physical (Face to face),Ayşe Gül Güngör,MEDC,Tuesday,08:30/11:29,ZD1,50,0,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-

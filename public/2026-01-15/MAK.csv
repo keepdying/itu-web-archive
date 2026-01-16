@@ -1,0 +1,418 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,24480,MAK 101,Makina Müh. Giriş ve Etik,Physical (Face to face),İsmail Yalçın Uralcan,MKB,Wednesday,13:30/15:29,A201,200,0,-,"MAK_LS, MAK_YD",-,-
+1,24482,MAK 104E,Intr to Comp in Mech. Eng (C),Physical (Face to face),Bülent Bölat,MKB,Tuesday,08:30/11:29,406,50,0,-,"IML_LS, MAK_LS",-,-
+2,24484,MAK 104E,Intr to Comp in Mech. Eng (C),Physical (Face to face),Bülent Bölat,MKB,Wednesday,08:30/11:29,409,50,0,-,"IML_LS, MAK_LS",-,-
+3,24485,MAK 104E,Intr to Comp in Mech. Eng (C),Physical (Face to face),Bülent Bölat,MKB,Thursday,08:30/11:29,409,50,0,-,"IML_LS, MAK_LS",-,-
+4,24491,MAK 104E,Intr to Comp in Mech. Eng (C),Physical (Face to face),Bülent Bölat,MKB,Friday,08:30/11:29,406,50,0,-,"IML_LS, MAK_LS",-,-
+5,24573,MAK 105,Makine Tasarımına Giriş,Physical (Face to face),Adem Candaş,"MKB
+MKB","Wednesday
+Thursday","08:30/10:29
+08:30/11:29","R358
+R358",50,0,-,"IML_LS, MAK_LS",-,-
+6,24577,MAK 107,Makina Tasarımına Giriş,Physical (Face to face),Cevat Erdem İmrak,MKB,Thursday,08:30/11:29,R362,70,0,-,"IML_LS, MAK_LS",-,-
+7,24578,MAK 107,Makina Tasarımına Giriş,Physical (Face to face),"Cevat Erdem İmrak ,
+Adem Candaş",MKB,Friday,08:30/11:29,R362,70,0,-,"IML_LS, MAK_LS",-,-
+8,24581,MAK 110E,Comput.Aided Technical Drawing,Physical (Face to face),Ali İmre Aydeniz,MKB,Wednesday,08:30/12:29,406,70,0,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS",Detail,-
+9,24584,MAK 110E,Comput.Aided Technical Drawing,Physical (Face to face),Ali İmre Aydeniz,MKB,Thursday,08:30/12:29,406,70,0,-,"IML_LS, IMLE_LS, MAK_LS, MAKE_LS",Detail,-
+10,24585,MAK 114,Lineer Cebir ve Uygulamaları,Physical (Face to face),Sinem Öztürk,"MKB
+MKB","Monday
+Tuesday","10:30/11:29
+10:30/12:29","A101
+A101",100,0,-,"IML_LS, MAK_LS",-,-
+11,24587,MAK 114,Lineer Cebir ve Uygulamaları,Physical (Face to face),Umut Şahin,"MKB
+MKB","Monday
+Tuesday","10:30/11:29
+10:30/12:29","A201
+A201",100,0,-,"IML_LS, MAK_LS",-,-
+12,24590,MAK 118,Statik,Physical (Face to face),Mehmet Salih Dokuz,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/09:29","A201
+A201",100,0,-,"MAK_LS, MKN_YD_MK",-,-
+13,24592,MAK 118,Statik,Physical (Face to face),Sevinç Ayşe Zaloğlu,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/09:29","A101
+A101",100,0,-,"MAK_LS, MKN_YD_MK",-,-
+14,24594,MAK 198,Atölye: İşSağ.&Güv. Mak.Elema.,Physical (Face to face),"Serpil Kurt Habiboğlu ,
+Adem Candaş",MKB,Thursday,12:30/14:29,D359,200,0,-,MAK_LS,-,-
+15,24595,MAK 199,Atölye:CAD Mod.Tersine Müh.,Physical (Face to face),Hacı Abdullah Taşdemir,"MKB
+MKB","Tuesday
+Wednesday","12:30/13:29
+12:30/13:29","--
+--",200,0,-,MAK_LS,Detail,-
+16,24596,MAK 200,Atölye,Physical (Face to face),Adem Candaş,-,-,-/-,-,100,0,-,"IML_LS, MAK_LS",Detail,-
+17,24598,MAK 201E,Engineering Mathematics,Physical (Face to face),Hakan Öksüzoğlu,"MKB
+MKB","Wednesday
+Friday","10:30/12:29
+10:30/12:29","A501
+A501",100,0,-,"IML_LS, MAK_LS",Detail,-
+18,24601,MAK 201E,Engineering Mathematics,Physical (Face to face),Umut Şahin,"MKB
+MKB","Wednesday
+Friday","10:30/12:29
+10:30/12:29","A201
+A201",100,0,-,"IML_LS, MAK_LS",Detail,-
+19,24604,MAK 202E,Numerical Meth.for Mech. Eng.,Physical (Face to face),Hakan Öksüzoğlu,"MKB
+MKB","Monday
+Tuesday","13:30/15:29
+16:30/17:29","D317
+D317",60,0,-,"IML_LS, MAK_LS",Detail,-
+20,24607,MAK 202E,Numerical Meth.for Mech. Eng.,Physical (Face to face),Hakan Öksüzoğlu,"MKB
+MKB","Tuesday
+Friday","10:30/12:29
+09:30/10:29","D357
+D357",60,0,-,"IML_LS, MAK_LS",Detail,-
+21,24609,MAK 203,Dinamik,Physical (Face to face),Uğurcan Eroğlu,"MKB
+MKB","Tuesday
+Thursday","10:30/12:29
+08:30/10:29","A501
+A501",50,0,-,"MAK_LS, MKN_YD_MK",Detail,-
+22,24611,MAK 205,Mukavemet I,Physical (Face to face),Uğurcan Eroğlu,"MKB
+MKB","Tuesday
+Thursday","13:30/15:29
+15:30/16:29","A501
+A501",100,0,-,"MAK_LS, MKN_YD_MK",Detail,-
+23,24613,MAK 206,Mukavemet II,Physical (Face to face),Emin Sünbüloğlu,"MKB
+MKB","Tuesday
+Thursday","13:30/15:29
+15:30/16:29","D317
+D317",60,0,-,"MAK_LS, MKN_YD_MK",Detail,-
+24,24615,MAK 206,Mukavemet II,Physical (Face to face),Süreyya Ergün Bozdağ,"MKB
+MKB","Tuesday
+Thursday","13:30/15:29
+15:30/16:29","D368A
+D368A",60,0,-,"MAK_LS, MKN_YD_MK",Detail,-
+25,24618,MAK 209E,Probability and Statistics,Physical (Face to face),Metin Kayıtmazbatır,"MKB
+MKB","Monday
+Friday","08:30/10:29
+08:30/09:29","A501
+A501",60,0,-,"IML_LS, MAK_LS",-,-
+26,24620,MAK 210E,Engineering Mathematics,Physical (Face to face),Sinem Öztürk,"MKB
+MKB","Wednesday
+Friday","10:30/12:29
+10:30/12:29","D357
+D357",100,0,-,"IML_LS, MAK_LS",Detail,-
+27,24621,MAK 211E,Probability and Statistics,Physical (Face to face),Abdussamet Subaşı,"MKB
+MKB","Wednesday
+Friday","09:30/11:29
+09:30/10:29","D331
+D331",20,0,-,"IML_LS, MAK_LS",-,-
+28,24622,MAK 213,Malzeme Bilimi,Physical (Face to face),Ramazan Murat Tabanlı,"MKB
+MKB","Tuesday
+Thursday","08:30/10:29
+10:30/12:29","D351
+D351",70,0,-,"IML_LS, MAK_LS",-,-
+29,24623,MAK 215,Termodinamik I,Physical (Face to face),Turgut Yılmaz,"MKB
+MKB","Monday
+Thursday","10:30/12:29
+13:30/14:29","D317
+D317",60,0,-,MAK_LS,Detail,-
+30,24624,MAK 217,Dinamik,Physical (Face to face),Uğurcan Eroğlu,"MKB
+MKB","Tuesday
+Thursday","10:30/12:29
+08:30/10:29","A501
+A501",40,0,-,"MAK_LS, MKN_YD_MK",Detail,-
+31,24625,MAK 219,Mukavemet I,Physical (Face to face),Adil Yücel,"MKB
+MKB","Tuesday
+Thursday","13:30/15:29
+15:30/17:29","D318
+D318",100,0,-,MAK_LS,Detail,-
+32,24626,MAK 220,Mukavemet II,Physical (Face to face),Ekrem Tüfekci,"MKB
+MKB","Tuesday
+Thursday","13:30/15:29
+15:30/17:29","D351
+D351",60,0,-,MAK_LS,Detail,-
+33,24627,MAK 223,Malzeme Bilimi,Physical (Face to face),Raşid Ahmed Yıldız,"MKB
+MKB","Tuesday
+Thursday","08:30/10:29
+10:30/12:29","D353
+D353",70,0,-,"IML_LS, MAK_LS",Detail,-
+34,24628,MAK 224E,Engineering Materials,Physical (Face to face),Ali Gökşenli,MKB,Friday,15:30/17:29,A363,100,0,-,"IML_LS, MAK_LS",Detail,-
+35,24629,MAK 224E,Engineering Materials,Physical (Face to face),Ersan Üstündağ,MKB,Friday,15:30/17:29,D318,100,0,-,"IML_LS, MAK_LS",Detail,-
+36,24630,MAK 226,Termodinamik II,Physical (Face to face),Ersin Sayar,"MKB
+MKB","Monday
+Thursday","10:30/12:29
+13:30/14:29","D351
+D351",60,0,-,MAK_LS,Detail,-
+37,24631,MAK 228,Akışkanlar Mekaniği I,Physical (Face to face),Levent Ali Kavurmacıoğlu,"MKB
+MKB","Monday
+Wednesday","15:30/17:29
+13:30/14:29","D351
+D351",60,0,-,"MAK_LS, MAK_YD",Detail,-
+38,24632,MAK 229,Akışkanlar Mekaniği II,Physical (Face to face),Sertaç Çadırcı,"MKB
+MKB","Monday
+Wednesday","15:30/17:29
+13:30/14:29","A501
+A501",60,0,-,MAK_LS,Detail,-
+39,24633,MAK 230E,Alg.Dev.& Comp.App.with Python,Physical (Face to face),Barış Doğru,"MKB
+MKB","Monday
+Wednesday","12:30/13:29
+08:30/10:29","404
+404",30,0,-,"IML_LS, MAK_LS",Detail,-
+40,24634,MAK 231,Termodinamik I,Physical (Face to face),Yakup Erhan Böke,"MKB
+MKB","Monday
+Thursday","10:30/12:29
+13:30/14:29","D318
+D318",60,0,-,MAK_LS,Detail,-
+41,24635,MAK 232,Termodinamik II,Physical (Face to face),Adnan Midilli,"MKB
+MKB","Monday
+Thursday","10:30/12:29
+13:30/14:29","D376
+D376",60,0,-,MAK_LS,Detail,-
+42,24636,MAK 232,Termodinamik II,Physical (Face to face),Mustafa Özdemir,"MKB
+MKB","Monday
+Thursday","10:30/12:29
+13:30/14:29","D331
+D331",60,0,-,MAK_LS,Detail,-
+43,24637,MAK 234,Akışkanlar Mekaniği I,Physical (Face to face),Murat Çakan,"MKB
+MKB","Monday
+Wednesday","15:30/17:29
+13:30/14:29","A363
+A363",60,0,-,"MAK_LS, MAK_YD",Detail,-
+44,24638,MAK 298,Atölye: Malzemeler ve İmalat Yöntemleri,Physical (Face to face),"İsmail Yalçın Uralcan ,
+Canan Gamze Güleryüz Parasız",-,-,-/-,-,200,0,-,MAK_LS,Detail,-
+45,24639,MAK 299,Atölye: Elektromekanik Sistemler,Physical (Face to face),İsmail Yalçın Uralcan,-,-,-/-,-,200,0,-,MAK_LS,Detail,-
+46,24640,MAK 301,Makina Elemanları I,Physical (Face to face),Cemal Baykara,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/09:29","D357
+D357",60,0,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detail,-
+47,24641,MAK 301,Makina Elemanları I,Physical (Face to face),Hikmet Kocabaş,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/09:29","D317
+D317",60,0,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detail,-
+48,24642,MAK 302,Makina Elemanları II,Physical (Face to face),İbrahim Mehmet Palabıyık,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/09:29","R354
+R354",60,0,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detail,-
+49,24643,MAK 302,Makina Elemanları II,Physical (Face to face),Vedat Temiz,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/09:29","R362
+R362",60,0,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detail,-
+50,24644,MAK 303,Isı Geçişi,Physical (Face to face),Bayram Şahin,"MKB
+MKB","Monday
+Tuesday","10:30/12:29
+15:30/17:29","A501
+A501",60,0,-,"MAK_LS, MAK_YD",Detail,-
+51,24645,MAK 304E,Meaurement Laboratory,Physical (Face to face),İsmail Yalçın Uralcan,MKB,Monday,10:30/12:29,D359,120,0,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detail,-
+52,24646,MAK 305,Sistem Dinamiği ve Kontrol,Physical (Face to face),Merve Acer Kalafat,"MKB
+MKB","Monday
+Thursday","13:30/15:29
+11:30/13:29","A363
+A363",60,0,-,"MAK_LS, MAK_YD",Detail,-
+53,24647,MAK 307,İmal Usulleri,Physical (Face to face),"Murat Vural ,
+Şafak Yılmaz","MKB
+MKB","Tuesday
+Thursday","13:30/15:29
+15:30/17:29","A363
+A363",90,0,-,"MAK_LS, MAK_YD",Detail,-
+54,24648,MAK 309,Mekanik Titreşimler,Physical (Face to face),Vahit Mermertaş,"MKB
+MKB","Wednesday
+Thursday","11:30/12:29
+13:30/15:29","A363
+A363",60,0,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detail,-
+55,24649,MAK 310,Makina Teorisi,Physical (Face to face),Haluk Erol,"MKB
+MKB","Wednesday
+Friday","08:30/10:29
+11:30/12:29","D318
+D318",60,0,-,"MAK_LS, MKN_YD_MK",Detail,-
+56,24655,MAK 310,Makina Teorisi,Physical (Face to face),Erdinç Altuğ,"MKB
+MKB","Wednesday
+Friday","08:30/10:29
+11:30/12:29","A101
+A101",60,0,-,"MAK_LS, MKN_YD_MK",Detail,-
+57,24651,MAK 312,Ölçme Değerlendirme,Physical (Face to face),Ayhan Kural,"MKB
+MKB","Wednesday
+Thursday","11:30/13:29
+11:30/13:29","D374
+D374",30,0,-,"IML_LS, MAK_LS, MAK_YD",Detail,-
+58,24652,MAK 313,Isı Geçişi,Physical (Face to face),Ali İhsan Koca,"MKB
+MKB","Monday
+Tuesday","10:30/12:29
+15:30/17:29","A363
+A363",60,0,-,"MAK_LS, MAK_YD",Detail,-
+59,24653,MAK 314,Biyomalzemeler ve Biyomekanik,Physical (Face to face),Süreyya Ergün Bozdağ,"MKB
+MKB","Thursday
+Friday","10:30/11:29
+08:30/10:29","A101
+A101",50,0,-,MAK_LS,Detail,-
+60,24654,MAK 315,Mekanik Titreşimler,Physical (Face to face),Akif Yavuz,"MKB
+MKB","Wednesday
+Thursday","11:30/12:29
+13:30/15:29","A101
+A101",60,0,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detail,-
+61,24650,MAK 324,Makina Teorisi,Physical (Face to face),Vahit Mermertaş,"MKB
+MKB","Tuesday
+Wednesday","11:30/12:29
+08:30/10:29","A363
+A363",60,0,-,"MAK_LS, MKN_YD_MK",Detail,-
+62,24656,MAK 333,Sistem Dinamiği ve Kontrol,Physical (Face to face),Senem Kurşun,"MKB
+MKB","Monday
+Monday","13:30/15:29
+10:30/12:29","D353
+D353",60,0,-,"IML_LS, MAK_LS, MAK_YD",Detail,-
+63,24657,MAK 333E,System Dynamics and Control,Physical (Face to face),Hülya Yalçın,"MKB
+MKB","Monday
+Thursday","13:30/15:29
+11:30/13:29","D357
+D357",60,0,-,"IML_LS, MAK_LS, MAK_YD, MSS_LS",Detail,-
+64,24659,MAK 335,Akışkanlar Mekaniği II,Physical (Face to face),Tahsin Engin,"MKB
+MKB","Monday
+Wednesday","15:30/17:29
+13:30/14:29","D318
+D318",60,0,-,MAK_LS,Detail,-
+65,24660,MAK 335,Akışkanlar Mekaniği II,Physical (Face to face),Tahsin Engin,"MKB
+MKB","Monday
+Wednesday","15:30/17:29
+13:30/14:29","D318
+D318",60,0,-,MAK_LS,Detail,-
+66,24661,MAK 339,Makina Elemanları I,Physical (Face to face),Özgen Ümit Çolak Çakır,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/11:29","R358
+R358",60,0,-,"MAK_LS, MAK_YD, MKN_YD_MK",Detail,-
+67,24662,MAK 342,Makina Elemanları II,Physical (Face to face),Zeynep Parlar,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","D318
+D318",60,0,-,MAK_LS,Detail,-
+68,24663,MAK 342,Makina Elemanları II,Physical (Face to face),Atakan Altınkaynak,"MKB
+MKB","Monday
+Tuesday","08:30/10:29
+08:30/10:29","A363
+A363",60,0,-,MAK_LS,Detail,-
+69,24664,MAK 352E,Introduction to Nanomechanics,Physical (Face to face),Mesut Kırca,"MKB
+MKB","Tuesday
+Friday","14:30/16:29
+10:30/11:29","D361A
+D361A",50,0,-,MSS_LS,-,-
+70,24665,MAK 353,İmal Usulleri,Physical (Face to face),"Mustafa Bakkal ,
+Turgut Gülmez","MKB
+MKB","Tuesday
+Thursday","13:30/15:29
+15:30/17:29","A201
+A201",90,0,-,"MAK_LS, MAK_YD",Detail,-
+71,24666,MAK 372E,Intr.to Finite Element Methods,Physical (Face to face),Ata Muğan,"MKB
+MKB","Monday
+Thursday","12:30/13:29
+13:30/15:29","A201
+A201",60,0,-,"IML_LS, MAK_LS",Detail,-
+72,24667,MAK 372E,Intr.to Finite Element Methods,Physical (Face to face),Emin Sünbüloğlu,"MKB
+MKB","Monday
+Thursday","12:30/13:29
+13:30/15:29","D357
+D357",60,0,-,"IML_LS, MAK_LS",Detail,-
+73,24668,MAK 372E,Intr.to Finite Element Methods,Physical (Face to face),Mesut Kırca,"MKB
+MKB","Monday
+Thursday","12:30/13:29
+13:30/15:29","A501
+A501",60,0,-,"IML_LS, MAK_LS",Detail,-
+74,24669,MAK 376E,Computational Fluid Dynamics,Physical (Face to face),Sertaç Çadırcı,"MKB
+MKB","Monday
+Thursday","12:30/13:29
+13:30/15:29","D353
+D353",60,0,-,"IML_LS, MAK_LS",Detail,-
+75,24670,MAK 378E,Intr.to Nanotech.& Nanosyst.,Physical (Face to face),Levent Trabzon,"MKB
+MKB","Thursday
+Friday","10:30/11:29
+08:30/10:29","D318
+D318",60,0,-,"IML_LS, MAK_LS, MSS_LS",Detail,-
+76,24671,MAK 380,Isı ve Kütle Değiştiriciler,Physical (Face to face),Ersin Sayar,"MKB
+MKB","Thursday
+Friday","08:30/10:29
+14:30/15:29","A363
+A363",60,0,-,MAK_LS,Detail,-
+77,24672,MAK 382,İmalat Planlama ve Kontrol,Physical (Face to face),Ramazan Murat Tabanlı,"MKB
+MKB","Tuesday
+Friday","15:30/17:29
+10:30/11:29","D355
+D355",60,0,-,"IML_LS, MAK_LS",-,-
+78,24673,MAK 384,Mekanik Güç İletimi,Physical (Face to face),Ali İmre Aydeniz,"MKB
+MKB","Tuesday
+Friday","15:30/17:29
+10:30/11:29","D359
+D359",60,0,-,"IML_LS, MAK_LS",-,-
+79,24674,MAK 386,HVAC &R Temelleri,Physical (Face to face),İsmail Yalçın Uralcan,"MKB
+MKB","Tuesday
+Friday","15:30/17:29
+10:30/11:29","D376
+D376",60,0,-,"IML_LS, MAK_LS",-,-
+80,24675,MAK 388,Mekatronik Sistem Tasarımı,Physical (Face to face),Onur Keskin,"MKB
+MKB","Tuesday
+Friday","15:30/17:29
+10:30/11:29","R354
+R354",60,0,-,"IML_LS, MAK_LS",-,-
+81,24676,MAK 390,Uygulamalı Isı Geçişi,Physical (Face to face),Mustafa Özdemir,"MKB
+MKB","Thursday
+Friday","08:30/10:29
+14:30/15:29","D317
+D317",60,0,-,MAK_LS,Detail,-
+82,24677,MAK 399,Atölye: Prototipleme,Physical (Face to face),Atakan Altınkaynak,MKB,Tuesday,10:30/12:29,R354,200,0,-,MAK_LS,Detail,-
+83,24678,MAK 4004,Komp. Malz. Mekaniğine Giriş,Physical (Face to face),Süreyya Ergün Bozdağ,MKB,Friday,14:30/17:29,D368B,50,0,-,"MAK_LS, MKN_YD_MK",Detail,Detail
+84,24679,MAK 4009E,Elect.& Hybrid Elect. Vehicles,Physical (Face to face),Osman Taha Şen,"MKB
+MKB","Wednesday
+Friday","13:30/15:29
+10:30/11:29","D360
+D360",60,0,-,MAK_LS,Detail,-
+85,24680,MAK 4015E,Materials Sel.in Dsgn and Mnfc,Physical (Face to face),Alaeddin Burak İrez,MKB,Friday,14:30/17:29,D378,50,0,-,MAK_LS,Detail,-
+86,24681,MAK 4016,Hidrolik Makinalar,Physical (Face to face),Sertaç Çadırcı,MKB,Thursday,08:30/11:29,D368A,0,0,-,MAK_LS,Detail,-
+87,24682,MAK 4018E,Quality Control in Manufacturi,Physical (Face to face),Ali Gökşenli,MKB,Friday,08:30/11:29,D361B,50,0,-,"IML_LS, IML_MTM_LS, IMLE_LS, MAK_LS, MAKE_LS",Detail,-
+88,24683,MAK 4019,Plastik Mlz Konstr. ve İmalat,Physical (Face to face),İbrahim Mehmet Palabıyık,MKB,Monday,10:30/13:29,D458,50,0,-,"IML_LS, IML_MTM_LS, MAK_LS",Detail,Detail
+89,24684,MAK 4029E,Advanced Fluid Mechanics,Physical (Face to face),İlyas Bedii Özdemir,MKB,Monday,13:30/16:29,D361A,50,0,-,MAK_LS,Detail,Detail
+90,24685,MAK 4030E,Advanced Topics in Mechanical Design,Physical (Face to face),Vedat Temiz,"MKB
+MKB","Thursday
+Friday","10:30/11:29
+08:30/10:29","D376
+D376",60,0,-,MAK_LS,Detail,Detail
+91,24686,MAK 4032E,Metal Forming,Physical (Face to face),Canan Gamze Güleryüz Parasız,MKB,Wednesday,12:30/15:29,D361B,50,0,-,"IML_LS, IML_MTM_LS, IMLE_LS, MAK_LS, MAKE_LS",Detail,Detail
+92,24687,MAK 4036E,Manufacturing Engineering and CAM,Physical (Face to face),Mustafa Bakkal,"MKB
+MKB","Thursday
+Friday","10:30/11:29
+08:30/10:29","A201
+A201",60,0,-,"IML_LS, IML_MTM_LS, IMLE_LS, MAK_LS, MAKE_LS",Detail,Detail
+93,24688,MAK 4038E,Power Plants,Physical (Face to face),Ayşegül Abuşoğlu,"MKB
+MKB","Thursday
+Friday","10:30/11:29
+08:30/10:29","D374
+D374",60,0,-,"MAK_LS, MAKE_LS, MSS_LS",Detail,Detail
+94,24689,MAK 4040,Buhar Kazanları,Physical (Face to face),Yakup Erhan Böke,"MKB
+MKB","Tuesday
+Friday","13:30/14:29
+14:30/16:29","D355
+D355",60,0,-,MAK_LS,Detail,-
+95,24690,MAK 4042,Gaz Türbinleri,Physical (Face to face),Erkan Ayder,MKB,Monday,09:30/12:29,D361B,50,0,-,MAK_LS,Detail,Detail
+96,24691,MAK 4047E,Dynamic Systms Modelling & Sim,Physical (Face to face),Zeki Yağız Bayraktaroğlu,"MKB
+MKB","Thursday
+Friday","10:30/11:29
+08:30/10:29","D317
+D317",60,0,-,MAK_LS,Detail,Detail
+97,24710,MAK 404E,Mechanical Engineering Lab.,Physical (Face to face),İsmail Yalçın Uralcan,-,-,-/-,-,50,0,-,"MAK_LS, MSS_LS",-,Detail
+98,24694,MAK 405,Mak. Müh. Yenilikçi Tas. Yönt.,Physical (Face to face),"Vedat Temiz ,
+Zeynep Parlar ,
+İbrahim Mehmet Palabıyık","MKB
+MKB","Monday
+Tuesday","13:30/15:29
+12:30/13:29","A501
+A501",200,0,-,MAK_LS,Detail,Detail
+99,24696,MAK 4054E,Digital Control System Design,Physical (Face to face),Zeki Yağız Bayraktaroğlu,MKB,Thursday,13:30/16:29,D360,50,0,-,"IML_LS, MAK_LS, MAKE_LS, MSS_LS",Detail,Detail
+100,24697,MAK 4055E,Fuel Economy in Road Vehicles,Physical (Face to face),"Osman Akın Kutlar ,
+Hikmet Arslan","MKB
+MKB","Thursday
+Friday","10:30/11:29
+08:30/10:29","D331
+D359",60,0,-,MAK_LS,Detail,Detail
+101,24698,MAK 4056,Kontrol Sistemleri Tasarımı,Physical (Face to face),Hülya Yalçın,MKB,Wednesday,08:30/11:29,D361A,50,0,-,"IML_LS, MAK_LS",Detail,Detail
+102,24699,MAK 4057E,Vehicle Systems Design,Physical (Face to face),Özgen Akalın,MKB,Thursday,08:30/11:29,D360,50,0,-,"MAK_LS, MAKE_LS, MSS_LS",Detail,Detail
+103,24700,MAK 4061,Egzos Gazları Emisyonu,Physical (Face to face),Barış Doğru,MKB,Tuesday,08:30/11:29,D374,50,0,-,MAK_LS,Detail,Detail
+104,24701,MAK 4066,Şasi ve Karoseri Tasarımı,Physical (Face to face),Kubilay Yay,MKB,Wednesday,08:30/11:29,D355,50,0,-,MAK_LS,Detail,Detail
+105,24702,MAK 4067E,Renewable Energy Systems,Physical (Face to face),Seyhan Onbaşıoğlu,MKB,Friday,14:30/17:29,D360,50,0,-,MAK_LS,Detail,Detail
+106,24703,MAK 4070E,Internal Combustion Engines,Physical (Face to face),Osman Akın Kutlar,MKB,Tuesday,13:30/16:29,D331,50,0,-,"MAK_LS, MAK_YD, MAKE_LS, MSS_LS, UZBE_LS",Detail,Detail
+107,24704,MAK 4901,Makina Müh. Tasarımı I,Physical (Face to face),Akif Yavuz,-,-,-/-,-,200,0,-,MAK_LS,Detail,Detail
+108,24705,MAK 4901E,Mechanical Eng. Design I,Physical (Face to face),Akif Yavuz,-,-,-/-,-,200,0,-,MAK_LS,Detail,Detail
+109,24706,MAK 4902,Makina Müh. Tasarımı II,Physical (Face to face),Akif Yavuz,-,-,-/-,-,200,0,-,MAK_LS,Detail,-
+110,24707,MAK 4902E,Mechanical Eng. Design II,Physical (Face to face),Akif Yavuz,-,-,-/-,-,200,0,-,MAK_LS,Detail,-
+111,24708,MAK 492,Bitirme Tasarım Projesi,Physical (Face to face),Akif Yavuz,-,-,-/-,-,200,0,-,MAK_LS,-,Detail
+112,24709,MAK 492E,Senior Design Project,Physical (Face to face),Akif Yavuz,-,-,-/-,-,200,0,-,MAK_LS,-,Detail

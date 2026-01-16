@@ -1,0 +1,43 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,21184,MUZ 102,Müzik Tarihi II,Physical (Face to face),Ozan Baysal,TMB,Monday,13:30/15:29,--,30,0,-,MUZ_LS,-,-
+1,21180,MUZ 112,Müzikolojiye Giriş,Physical (Face to face),Serkan Şener,TMB,Monday,09:30/12:29,--,30,0,-,MUZ_LS,-,-
+2,21179,MUZ 122,Müzik Tarihi II,Physical (Face to face),Celal Volkan Kaya,TMB,Friday,16:00/17:59,--,30,0,-,"CAB_LS, CEB_LS, MTR_LS, SES_LS",-,-
+3,21182,MUZ 122,Müzik Tarihi II,Physical (Face to face),Yalçın Çetinkaya,TMB,Monday,15:30/17:29,--,30,0,-,"CAB_LS, CEB_LS, MTR_LS, SES_LS",-,-
+4,21187,MUZ 202,Müzik Tarihi IV,Physical (Face to face),Günay Koçhan,TMB,Friday,14:00/16:59,--,30,0,-,MUZ_LS,-,-
+5,21137,MUZ 212,Osmanlıca II,Physical (Face to face),Celal Volkan Kaya,"TMB
+TMB","Tuesday
+Thursday","16:30/17:29
+08:30/10:29","--
+--",30,0,-,MUZ_LS,Detail,-
+6,21136,MUZ 222,Müzik Paleografyası,Physical (Face to face),Serhan Dilhan Yavuz,"TMB
+TMB","Wednesday
+Wednesday","08:30/09:29
+13:30/15:29","--
+--",30,0,-,MUZ_LS,-,-
+7,21191,MUZ 302,Müzik Tarihi VI,Physical (Face to face),Serhan Dilhan Yavuz,TMB,Wednesday,09:30/12:29,--,30,0,-,MUZ_LS,-,-
+8,21172,MUZ 312,Dünya Müzik Kültürlerine Giriş,Physical (Face to face),Burcu Yıldız Ataş,TMB,Friday,14:00/15:59,--,20,0,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+9,21244,MUZ 316,Halk Müziği Literatürü II,Physical (Face to face),Süleyman Şenel,TMB,Monday,15:30/17:29,--,10,0,-,"BST_LS, KMP_LS",-,-
+10,21133,MUZ 322,Alan Araştırma Metodları,Physical (Face to face),Eray Cömert,TMB,Tuesday,13:30/16:29,--,20,0,-,"CAB_LS, CEB_LS, MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+11,21135,MUZ 322,Alan Araştırma Metodları,Physical (Face to face),Eray Cömert,TMB,Thursday,13:30/16:29,--,20,0,-,"CAB_LS, CEB_LS, MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+12,21192,MUZ 332,Transkripsiyon,Physical (Face to face),Serkan Şener,TMB,Monday,13:30/15:29,--,30,0,-,MUZ_LS,-,-
+13,21195,MUZ 342,Seminer II,Physical (Face to face),Süleyman Şenel,TMB,Thursday,13:30/15:29,--,30,0,-,MUZ_LS,-,-
+14,21197,MUZ 358,İleri Osmanlıca II,Physical (Face to face),Celal Volkan Kaya,TMB,Friday,10:30/12:29,--,30,0,-,MUZ_LS,Detail,-
+15,21199,MUZ 378,18. Yüzyıl Osmanlı Müziği,Physical (Face to face),Celal Volkan Kaya,TMB,Friday,08:30/10:29,--,30,0,-,MUZ_LS,-,-
+16,21156,MUZ 380,Dini Müzik II,Physical (Face to face),İdris Melih Berse,TMB,Tuesday,10:30/12:29,--,30,0,-,"BST_LS, KMP_LS, MTR_LS, MUZ_LS, SES_LS",-,-
+17,21163,MUZ 380,Dini Müzik II,Physical (Face to face),İdris Melih Berse,TMB,Monday,16:00/17:59,--,30,0,-,"BST_LS, KMP_LS, MTR_LS, MUZ_LS, SES_LS",-,-
+18,21203,MUZ 390,Etnografi Yazımı,Physical (Face to face),Zeynep Gonca İncedere,TMB,Wednesday,13:30/15:29,--,30,0,-,MUZ_LS,-,-
+19,21208,MUZ 402,Müzik Tarihi VIII,Physical (Face to face),Şeyma Ersoy Çak,TMB,Wednesday,13:30/15:29,--,30,0,-,MUZ_LS,-,-
+20,21205,MUZ 442,Seminer IV,Physical (Face to face),Zeynep Gonca İncedere,TMB,Wednesday,10:30/12:29,--,30,0,-,MUZ_LS,-,-
+21,21218,MUZ 446,Dünya Vokal Kültürleri,Physical (Face to face),Burcu Yıldız Ataş,TMB,Monday,10:30/12:29,--,30,0,-,"SES_LS, SES_TH_LS, SES_TS_LS",-,-
+22,22376,MUZ 457,İleri Osmanlıca III,Physical (Face to face),Celal Volkan Kaya,TMB,Thursday,15:30/17:29,--,10,0,-,MUZ_LS,Detail,-
+23,21239,MUZ 458,İleri Osmanlıca IV,Physical (Face to face),Celal Volkan Kaya,TMB,Thursday,13:30/15:29,--,30,0,-,MUZ_LS,Detail,-
+24,21134,MUZ 476,Türk Halk Müziği Bilgileri II,Physical (Face to face),Süleyman Şenel,TMB,Monday,13:30/15:29,--,40,0,-,"CAB_LS, CEB_LS, MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+25,21147,MUZ 476,Türk Halk Müziği Bilgileri II,Physical (Face to face),Süleyman Şenel,TMB,Monday,10:30/12:29,--,40,0,-,"CAB_LS, CEB_LS, MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+26,21232,MUZ 478,Etnomüzikljde Gncl Konlra Grş,Physical (Face to face),Serkan Şener,TMB,Tuesday,08:30/10:29,--,30,0,-,MUZ_LS,-,-
+27,21160,MUZ 480,Türkiye'de Popüler Müzige Gir.,Physical (Face to face),Burcu Yıldız Ataş,TMB,Thursday,08:30/10:29,--,20,0,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS, MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+28,21213,MUZ 488,Müzik Estetiğine Giriş,Physical (Face to face),Yalçın Çetinkaya,TMB,Tuesday,13:30/16:29,--,30,0,-,MUZ_LS,-,-
+29,21223,MUZ 490,Müzik Sosyolojisine Giriş,Physical (Face to face),Fatma Belma Oğul,TMB,Monday,09:30/12:29,--,30,0,-,MUZ_LS,-,-
+30,21132,MUZ 492,Bitirme Çalışması,Physical (Face to face),Gözde Çolakoğlu Sarı,-,-,-/-,-,100,0,-,MUZ_LS,-,Detail
+31,21176,MUZ 494,Müzik Sosyolojisine Giriş,Physical (Face to face),Yalçın Çetinkaya,TMB,Tuesday,08:30/10:29,--,20,0,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS, MTR_LS",-,-
+32,21228,MUZ 496,Müzik Hakkında Yazmak,Physical (Face to face),Günay Koçhan,TMB,Monday,13:30/16:29,--,30,0,-,MUZ_LS,-,-
+33,21168,MUZ 498,Müzik Estetiğine Giriş,Physical (Face to face),Yalçın Çetinkaya,TMB,Thursday,15:30/17:29,--,20,0,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS, MTR_LS, MUT_LS, MZT_LS, SES_LS",-,-

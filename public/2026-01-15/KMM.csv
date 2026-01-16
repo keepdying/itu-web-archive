@@ -1,0 +1,117 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,22879,KMM 210E,Engineering Mathematics,Physical (Face to face),Elif Öztürk Er,"KMB
+KMB","Monday
+Friday","14:00/15:59
+14:00/15:59","D103
+D103",50,0,-,KMM_LS,Detail,-
+1,22422,KMM 220,Akışkanlar Mekaniği,Physical (Face to face),Ayşe Banu Kocaağa,"KMB
+KMB","Monday
+Thursday","09:30/11:29
+11:30/12:29","D103
+D303",50,0,-,KMM_LS,Detail,-
+2,22884,KMM 220,Akışkanlar Mekaniği,Physical (Face to face),Nalan Erdöl Aydın,"KMB
+KMB","Monday
+Thursday","09:30/11:29
+11:30/12:29","D202
+D202",50,0,-,KMM_LS,Detail,-
+3,22432,KMM 222E,Computati. Meth. in Chem. Eng.,Physical (Face to face),Hüseyin Enis Karahan,"KMB
+KMB
+KMB","Thursday
+Friday
+Friday","13:30/15:29
+11:00/11:59
+12:00/12:59","D304
+D204
+BIL.LAB.1",50,0,-,KMM_LS,Detail,-
+4,22435,KMM 222E,Computati. Meth. in Chem. Eng.,Physical (Face to face),Ahmet Sirkecioğlu,"KMB
+KMB","Thursday
+Friday","13:30/15:29
+11:00/12:59","D303
+D303",50,0,-,KMM_LS,Detail,-
+5,22489,KMM 224,Kimya Müh.Termodinamiği,Physical (Face to face),Reha Yavuz,"KMB
+KMB","Tuesday
+Wednesday","09:00/10:59
+09:00/11:59","D304
+D103",50,0,-,"KMM_LS, KMM_YD",Detail,-
+6,22509,KMM 224,Kimya Müh.Termodinamiği,Physical (Face to face),"Ayşegül Meriçboyu ,
+Melek Mümine Erol Taygun","KMB
+KMB","Tuesday
+Wednesday","09:00/10:59
+09:00/11:59","D204
+D201",50,0,-,"KIM_YD, KMM_LS",Detail,-
+7,22511,KMM 305E,Heat and Mass Transfer,Physical (Face to face),Fatma Elif Genceli Güner,"KMB
+KMB","Monday
+Tuesday","13:30/16:29
+13:30/14:29","D302
+D202",30,0,-,"KMM_LS, KMM_YD",Detail,-
+8,22783,KMM 308E,Chem Reac Eng,Physical (Face to face),Ahmet Sirkecioğlu,"KMB
+KMB","Thursday
+Friday","09:30/12:29
+09:00/10:59","D302
+D204",50,0,-,"KMM_LS, KMM_YD",-,-
+9,22794,KMM 308E,Chem Reac Eng,Physical (Face to face),Hüseyin Enis Karahan,"KMB
+KMB","Thursday
+Friday","09:30/12:29
+09:00/10:59","D204
+D203",50,0,-,"KMM_LS, KMM_YD",-,-
+10,22935,KMM 312E,Chemical Reaction Eng I,Physical (Face to face),Alper Sarıoğlan,KMB,Thursday,09:30/12:29,--,1,0,-,"KMM_LS, KMM_YD",Detail,-
+11,22769,KMM 332,Ayırma İşlemleri,Physical (Face to face),Gülhayat Saygılı,"KMB
+KMB","Monday
+Wednesday","10:30/12:29
+10:30/12:29","D301
+D301",50,0,-,"KMM_LS, KMM_YD",Detail,-
+12,22776,KMM 332,Ayırma İşlemleri,Physical (Face to face),Ömer Şahin,"KMB
+KMB","Monday
+Wednesday","10:30/12:29
+10:30/12:29","D303
+D302",50,0,-,"KMM_LS, KMM_YD",Detail,-
+13,22802,KMM 342E,Math Modelling in Chemical Eng,Physical (Face to face),"Ayşe Özge Kürkçüoğlu Levitas ,
+Cemile Yerlikaya","KMB
+KMB","Wednesday
+Friday","13:30/15:29
+15:00/15:59","D204
+D204",50,0,-,"KMM_LS, KMM_YD",Detail,-
+14,22816,KMM 342E,Math Modelling in Chemical Eng,Physical (Face to face),Ramazan Kızıl,"KMB
+KMB","Wednesday
+Friday","13:30/15:29
+15:00/15:59","D203
+D202",50,0,-,"KMM_LS, KMM_YD",Detail,-
+15,23073,KMM 418E,Paper Technology,Physical (Face to face),Ayşe Banu Kocaağa,KMB,Thursday,14:00/16:59,GZ102,15,0,-,KMM_LS,-,-
+16,23107,KMM 424,Biyoteknolojik Uygulamalar,Physical (Face to face),Fatoş Yüksel Güvenilir,KMB,Thursday,12:30/15:29,D204,15,0,-,"BIO_LS, KMM_LS",-,-
+17,22939,KMM 424E,Biotechnological Applications,Physical (Face to face),Ramazan Kızıl,KMB,Monday,10:30/13:29,D101,15,0,-,KMM_LS,-,-
+18,23077,KMM 428,Özel Ayırma Yöntemleri,Physical (Face to face),Nalan Erdöl Aydın,KMB,Thursday,08:30/11:29,D303,15,0,-,KMM_LS,-,-
+19,22890,KMM 434,"Kalite,Çevre ve Güvenlik",Physical (Face to face),Ahmet Alper Aydın,KMB,Monday,13:30/16:29,D301,35,0,-,"KMM_LS, KMM_YD",Detail,-
+20,22894,KMM 434,"Kalite,Çevre ve Güvenlik",Physical (Face to face),Nalan Erdöl Aydın,KMB,Monday,13:30/16:29,D204,35,0,-,"KMM_LS, KMM_YD",Detail,-
+21,23152,KMM 446,Atık Yönetimi,Physical (Face to face),Ömer Şahin,KMB,Tuesday,09:30/12:29,D101,15,0,-,KMM_LS,-,-
+22,23111,KMM 448,Yakıt Kimyası ve Teknolojisi,Physical (Face to face),Filiz Karaosmanoğlu,KMB,Tuesday,13:30/16:29,D305,15,0,-,KMM_LS,-,-
+23,23150,KMM 453,Kimya Müh.Bilg.Dest.Tasarım,Physical (Face to face),İlayda Nur Oksal,KMB,Tuesday,09:30/12:29,GZ104,15,0,-,KMM_LS,-,-
+24,23160,KMM 455E,Optimization in Chemical Eng.,Physical (Face to face),Devrim Barış Kaymak,KMB,Thursday,12:30/15:29,D101,15,0,-,KMM_LS,-,-
+25,23218,KMM 461E,Introduction to Electrochemical Engineering,Physical (Face to face),Mehmet Suha Yazıcı,KMB,Tuesday,09:30/12:29,GZ103,15,0,-,KMM_LS,-,-
+26,22900,KMM 462,Kimya Mühendisliği Lab II,Physical (Face to face),"Nalan Erdöl Aydın ,
+Ayşe Arifoğlu ,
+Cemile Yerlikaya",KMB,Tuesday,08:30/12:29,K407,40,0,-,KMM_LS,Detail,-
+27,22913,KMM 462,Kimya Mühendisliği Lab II,Physical (Face to face),"Nalan Erdöl Aydın ,
+Ayşe Arifoğlu ,
+Cemile Yerlikaya",KMB,Tuesday,13:00/16:59,K407,40,0,-,KMM_LS,Detail,-
+28,22914,KMM 462,Kimya Mühendisliği Lab II,Physical (Face to face),"Nalan Erdöl Aydın ,
+Ayşe Arifoğlu ,
+Cemile Yerlikaya",KMB,Friday,08:30/12:29,K407,40,0,-,KMM_LS,Detail,-
+29,23116,KMM 466,Bor Teknolojisi,Physical (Face to face),Hüseyin Enis Karahan,KMB,Tuesday,13:30/16:29,D101,15,0,-,KMM_LS,-,-
+30,23103,KMM 467,Kristalizasyon,Physical (Face to face),Ayşen Aktürk Sertbaş,KMB,Thursday,12:30/15:29,D205,15,0,-,KMM_LS,-,-
+31,23122,KMM 468,Endüstride Enerji Tasarrufu,Physical (Face to face),Serdar Yaman,KMB,Tuesday,13:30/16:29,D302,15,0,-,KMM_LS,-,-
+32,22942,KMM 468E,Energy Conservation in Indstry,Physical (Face to face),Serdar Yaman,KMB,Tuesday,09:30/12:29,D302,15,0,-,KMM_LS,-,-
+33,23126,KMM 474,Yağ Teknolojisi,Physical (Face to face),Melek Tüter,KMB,Tuesday,09:30/12:29,D205,15,0,-,KMM_LS,-,-
+34,23132,KMM 477,Endüstriyel Su Hazırlama Yöntm,Physical (Face to face),Hanzade Açma,KMB,Tuesday,09:30/12:29,D305,15,0,-,KMM_LS,-,-
+35,22915,KMM 484,Araştırma Projesi II,Physical (Face to face),Alper Sarıoğlan,KMB,Friday,14:00/16:59,--,78,0,-,KMM_LS,Detail,-
+36,22867,KMM 4901,Kimya Mühendisliği Tasarımı I,Physical (Face to face),Alper Sarıoğlan,"KMB
+KMB","Monday
+Wednesday","08:30/10:29
+09:30/12:29","--
+--",100,0,-,"KMM_LS, KMM_YD",Detail,Detail
+37,22849,KMM 4902E,Chem. Eng. Design II,Physical (Face to face),"Devrim Barış Kaymak ,
+Hüseyin Enis Karahan ,
+Sinan Kutluay","KMB
+KMB","Monday
+Wednesday","08:30/10:29
+09:30/12:29","D301
+D303",100,0,-,"KMM_LS, KMM_YD",Detail,-
