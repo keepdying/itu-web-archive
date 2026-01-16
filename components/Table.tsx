@@ -1,40 +1,71 @@
 import React, { useState, useEffect, useMemo } from "react";
-import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, styled, tableCellClasses, useTheme, Input, Box, SelectChangeEvent } from "@mui/material";
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableContainer,
+  TableHead,
+  TableRow,
+  Paper,
+  styled,
+  tableCellClasses,
+  useTheme,
+  Input,
+  Box,
+  SelectChangeEvent,
+} from "@mui/material";
 import Papa from "papaparse";
-import styles from '@/styles/Home.module.css'
+import styles from "@/styles/Home.module.css";
 import DropdownSelect from "./Select";
 
 // Helper function to get unique, sorted values for a single-select column
-const getUniqueSortedColumnValues = (data: any[], columnName: string): Array<{ label: string; value: string }> => {
+const getUniqueSortedColumnValues = (
+  data: any[],
+  columnName: string,
+): Array<{ label: string; value: string }> => {
   if (!data || data.length === 0) return [];
   const values = new Set<string>();
-  data.forEach(row => {
-    if (row && typeof row === 'object' && row[columnName] && String(row[columnName]).trim() !== '-' && String(row[columnName]).trim() !== '') {
+  data.forEach((row) => {
+    if (
+      row &&
+      typeof row === "object" &&
+      row[columnName] &&
+      String(row[columnName]).trim() !== "-" &&
+      String(row[columnName]).trim() !== ""
+    ) {
       values.add(String(row[columnName]));
     }
   });
-  return Array.from(values).sort().map(value => ({ label: value, value }));
+  return Array.from(values)
+    .sort()
+    .map((value) => ({ label: value, value }));
 };
 
 // Helper function to get unique, parsed, and sorted values for a multi-select column
-const getUniqueParsedAndSortedColumnValues = (data: any[], columnName: string, delimiter: string): Array<{ label: string; value: string }> => {
+const getUniqueParsedAndSortedColumnValues = (
+  data: any[],
+  columnName: string,
+  delimiter: string,
+): Array<{ label: string; value: string }> => {
   if (!data || data.length === 0) return [];
   const values = new Set<string>();
-  data.forEach(row => {
-    if (row && typeof row === 'object' && row[columnName]) {
+  data.forEach((row) => {
+    if (row && typeof row === "object" && row[columnName]) {
       const parsed = String(row[columnName]).split(delimiter);
-      parsed.forEach(part => {
+      parsed.forEach((part) => {
         const trimmedPart = part.trim();
-        if (trimmedPart !== '' && trimmedPart !== '-') {
+        if (trimmedPart !== "" && trimmedPart !== "-") {
           values.add(trimmedPart);
         }
       });
     }
   });
-  return Array.from(values).sort().map(value => ({ label: value, value }));
+  return Array.from(values)
+    .sort()
+    .map((value) => ({ label: value, value }));
 };
 
-export default function CsvTable({csvUrl} : {csvUrl:string}){
+export default function CsvTable({ csvUrl }: { csvUrl: string }) {
   const [tableData, setTableData] = useState<any[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<Error | null>(null);
@@ -45,41 +76,50 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
   // State for advanced filters
   const [selectedDay, setSelectedDay] = useState<string[]>([]);
   const [selectedBuilding, setSelectedBuilding] = useState<string>("");
-  const [selectedMajorRestriction, setSelectedMajorRestriction] = useState<string[]>([]);
+  const [selectedMajorRestriction, setSelectedMajorRestriction] = useState<
+    string[]
+  >([]);
   const [selectedInstructor, setSelectedInstructor] = useState<string[]>([]);
 
   const StyledTableCell = styled(TableCell, {
-    shouldForwardProp: (prop) => prop !== 'isPlaceholder',
-  })< { isPlaceholder?: boolean } >(({ theme, isPlaceholder }) => ({
+    shouldForwardProp: (prop) => prop !== "isPlaceholder",
+  })<{ isPlaceholder?: boolean }>(({ theme, isPlaceholder }) => ({
     [`&.${tableCellClasses.head}`]: {
-      backgroundColor: theme.palette.mode === 'dark' ? theme.palette.grey[800] : theme.palette.grey[300],
-      color: theme.palette.getContrastText(theme.palette.mode === 'dark' ? theme.palette.grey[800] : theme.palette.grey[300]),
-      position: 'sticky',
+      backgroundColor:
+        theme.palette.mode === "dark"
+          ? theme.palette.grey[800]
+          : theme.palette.grey[300],
+      color: theme.palette.getContrastText(
+        theme.palette.mode === "dark"
+          ? theme.palette.grey[800]
+          : theme.palette.grey[300],
+      ),
+      position: "sticky",
       top: 0,
       zIndex: 1,
     },
     [`&.${tableCellClasses.body}`]: {
       fontSize: 14,
-      whiteSpace: 'nowrap',
-      overflow: 'hidden',
-      textOverflow: 'ellipsis',
+      whiteSpace: "nowrap",
+      overflow: "hidden",
+      textOverflow: "ellipsis",
       maxWidth: 250,
       ...(isPlaceholder && {
-        fontStyle: 'italic',
+        fontStyle: "italic",
         color: theme.palette.text.disabled,
       }),
     },
   }));
 
   const StyledTableRow = styled(TableRow)(({ theme }) => ({
-    '&:nth-of-type(odd)': {
+    "&:nth-of-type(odd)": {
       backgroundColor: theme.palette.action.hover,
     },
-    '&:last-child td, &:last-child th': {
+    "&:last-child td, &:last-child th": {
       border: 0,
     },
   }));
-  
+
   useEffect(() => {
     setLoading(true);
     setError(null);
@@ -90,78 +130,118 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
     setSelectedMajorRestriction([]);
     setSelectedInstructor([]);
     setNoDataAvailable(false);
-    if (csvUrl === '') {
+    if (csvUrl === "") {
       setLoading(false);
       return;
     }
     fetch(csvUrl)
-    .then((response) => response.text())
-    .then((csv) => {
-      const results = Papa.parse(csv, { header: true, skipEmptyLines: true });
-      if (!results.data || results.data.length === 0) { 
-        setNoDataAvailable(true);
+      .then((response) => response.text())
+      .then((csv) => {
+        const results = Papa.parse(csv, { header: true, skipEmptyLines: true });
+        if (!results.data || results.data.length === 0) {
+          setNoDataAvailable(true);
+          setTableData([]);
+        } else {
+          setTableData(results.data);
+          setNoDataAvailable(false);
+        }
+        setLoading(false);
+      })
+      .catch((error) => {
+        setError(error);
+        setLoading(false);
         setTableData([]);
-      } else {
-        setTableData(results.data);
+        setSearchTerm("");
+        setSelectedDay([]);
+        setSelectedBuilding("");
+        setSelectedMajorRestriction([]);
+        setSelectedInstructor([]);
         setNoDataAvailable(false);
-      }
-      setLoading(false);
-    })
-    .catch((error) => {
-      setError(error);
-      setLoading(false);
-      setTableData([]);
-      setSearchTerm("");
-      setSelectedDay([]);
-      setSelectedBuilding("");
-      setSelectedMajorRestriction([]);
-      setSelectedInstructor([]);
-      setNoDataAvailable(false);
-    });
+      });
   }, [csvUrl]);
-  
+
   const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(event.target.value);
   };
 
   // Memoize unique values for filter dropdowns
-  const dayOptions = useMemo(() => getUniqueSortedColumnValues(tableData, 'Day'), [tableData]);
-  const buildingOptions = useMemo(() => getUniqueSortedColumnValues(tableData, 'Building'), [tableData]);
-  const majorRestrictionOptions = useMemo(() => getUniqueParsedAndSortedColumnValues(tableData, 'Major Restriction', ', '), [tableData]);
-  const instructorOptions = useMemo(() => getUniqueSortedColumnValues(tableData, 'Instructor'), [tableData]);
+  const dayOptions = useMemo(
+    () => getUniqueSortedColumnValues(tableData, "Day"),
+    [tableData],
+  );
+  const buildingOptions = useMemo(
+    () => getUniqueSortedColumnValues(tableData, "Building"),
+    [tableData],
+  );
+  const majorRestrictionOptions = useMemo(
+    () =>
+      getUniqueParsedAndSortedColumnValues(
+        tableData,
+        "Major Restriction",
+        ", ",
+      ),
+    [tableData],
+  );
+  const instructorOptions = useMemo(
+    () => getUniqueSortedColumnValues(tableData, "Instructor"),
+    [tableData],
+  );
 
   const filteredData = tableData.filter((row) => {
     // Text search filter
-    const searchMatch = searchTerm === "" || Object.values(row).some(value => 
-      String(value).toLowerCase().includes(searchTerm.toLowerCase())
-    );
+    const searchMatch =
+      searchTerm === "" ||
+      Object.values(row).some((value) =>
+        String(value).toLowerCase().includes(searchTerm.toLowerCase()),
+      );
 
     // Day filter
-    const dayMatch = selectedDay.length === 0 || (row && selectedDay.includes(String(row['Day'])));
+    const dayMatch =
+      selectedDay.length === 0 ||
+      (row && selectedDay.includes(String(row["Day"])));
 
     // Building filter
-    const buildingMatch = selectedBuilding === "" || (row && row['Building'] === selectedBuilding);
+    const buildingMatch =
+      selectedBuilding === "" || (row && row["Building"] === selectedBuilding);
 
     // Major Restriction filter
     let majorRestrictionMatch = true;
     if (selectedMajorRestriction.length > 0) {
-      const rowMajorsString = row && row['Major Restriction'] ? String(row['Major Restriction']) : "";
+      const rowMajorsString =
+        row && row["Major Restriction"] ? String(row["Major Restriction"]) : "";
       if (!rowMajorsString) {
         majorRestrictionMatch = false;
       } else {
-        const rowMajorCodes = rowMajorsString.split(', ').map(code => code.trim()).filter(code => code !== '' && code !== '-');
-        majorRestrictionMatch = selectedMajorRestriction.some(selectedCode => rowMajorCodes.includes(selectedCode));
+        const rowMajorCodes = rowMajorsString
+          .split(", ")
+          .map((code) => code.trim())
+          .filter((code) => code !== "" && code !== "-");
+        majorRestrictionMatch = selectedMajorRestriction.some((selectedCode) =>
+          rowMajorCodes.includes(selectedCode),
+        );
       }
     }
 
     // Instructor filter logic for multi-select
-    const instructorMatch = selectedInstructor.length === 0 || (row && selectedInstructor.includes(String(row['Instructor'])));
+    const instructorMatch =
+      selectedInstructor.length === 0 ||
+      (row && selectedInstructor.includes(String(row["Instructor"])));
 
-    return searchMatch && dayMatch && buildingMatch && majorRestrictionMatch && instructorMatch;
+    return (
+      searchMatch &&
+      dayMatch &&
+      buildingMatch &&
+      majorRestrictionMatch &&
+      instructorMatch
+    );
   });
 
-  if (csvUrl == '') {
-    return <h2 className={styles.message}>Please select a date and course code to view the timetable.</h2>;
+  if (csvUrl == "") {
+    return (
+      <h2 className={styles.message}>
+        Please select a date and course code to view the timetable.
+      </h2>
+    );
   }
 
   if (loading) {
@@ -173,30 +253,46 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
   }
 
   if (noDataAvailable) {
-    return <h2 className={styles.message}>No timetable data available for this selection.</h2>;
+    return (
+      <h2 className={styles.message}>
+        No timetable data available for this selection.
+      </h2>
+    );
   }
 
   return (
-    <Box sx={{ width: '100%' }}>
+    <Box sx={{ width: "100%" }}>
       {/* Container for all filters and search input */}
-      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2, marginBottom: 2 }}>
+      <Box
+        sx={{
+          display: "flex",
+          flexDirection: "column",
+          gap: 2,
+          marginBottom: 2,
+        }}
+      >
         {/* Box for dropdown filters - allows wrapping and centers items */}
-        <Box sx={{
-          display: 'flex', 
-          flexWrap: 'wrap', 
-          gap: 2, 
-          alignItems: 'center', 
-          justifyContent: 'center' // Center items on each line
-        }}>
+        <Box
+          sx={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: 2,
+            alignItems: "center",
+            justifyContent: "center", // Center items on each line
+          }}
+        >
           {dayOptions.length > 0 && (
-            <Box sx={{
-              minWidth: 150, 
-              flexGrow: 1, // Allow to grow
-              [theme.breakpoints.down('sm')]: { // On small screens (mobile)
-                minWidth: 'calc(50% - 8px)', // 50% width minus half the gap (gap is theme.spacing(2) = 16px)
-                flexBasis: 'calc(50% - 8px)',
-              }
-            }}>
+            <Box
+              sx={{
+                minWidth: 150,
+                flexGrow: 1, // Allow to grow
+                [theme.breakpoints.down("sm")]: {
+                  // On small screens (mobile)
+                  minWidth: "calc(50% - 8px)", // 50% width minus half the gap (gap is theme.spacing(2) = 16px)
+                  flexBasis: "calc(50% - 8px)",
+                },
+              }}
+            >
               <DropdownSelect
                 isMulti={true}
                 options={[{ label: "All Days", value: "" }, ...dayOptions]}
@@ -207,16 +303,21 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
             </Box>
           )}
           {buildingOptions.length > 0 && (
-            <Box sx={{
-              minWidth: 150, 
-              flexGrow: 1,
-              [theme.breakpoints.down('sm')]: {
-                minWidth: 'calc(50% - 8px)',
-                flexBasis: 'calc(50% - 8px)',
-              }
-            }}>
+            <Box
+              sx={{
+                minWidth: 150,
+                flexGrow: 1,
+                [theme.breakpoints.down("sm")]: {
+                  minWidth: "calc(50% - 8px)",
+                  flexBasis: "calc(50% - 8px)",
+                },
+              }}
+            >
               <DropdownSelect
-                options={[{ label: "All Buildings", value: "" }, ...buildingOptions]}
+                options={[
+                  { label: "All Buildings", value: "" },
+                  ...buildingOptions,
+                ]}
                 label="Building"
                 selectedValue={selectedBuilding}
                 setSelectedValue={setSelectedBuilding}
@@ -225,19 +326,24 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
           )}
           {/* Instructor filter - moved before Major Restriction */}
           {instructorOptions.length > 0 && (
-            <Box sx={{
-              minWidth: 200, 
-              maxWidth: 300, 
-              flexGrow: 1,
-              [theme.breakpoints.down('sm')]: {
-                minWidth: 'calc(50% - 8px)',
-                maxWidth: 'calc(50% - 8px)', 
-                flexBasis: 'calc(50% - 8px)',
-              }
-            }}>
+            <Box
+              sx={{
+                minWidth: 200,
+                maxWidth: 300,
+                flexGrow: 1,
+                [theme.breakpoints.down("sm")]: {
+                  minWidth: "calc(50% - 8px)",
+                  maxWidth: "calc(50% - 8px)",
+                  flexBasis: "calc(50% - 8px)",
+                },
+              }}
+            >
               <DropdownSelect
                 isMulti={true}
-                options={[{ label: "All Instructors", value: "" }, ...instructorOptions]}
+                options={[
+                  { label: "All Instructors", value: "" },
+                  ...instructorOptions,
+                ]}
                 label="Instructor"
                 selectedValue={selectedInstructor}
                 setSelectedValue={setSelectedInstructor}
@@ -246,19 +352,24 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
           )}
           {/* Major Restriction filter - now after Instructor */}
           {majorRestrictionOptions.length > 0 && (
-            <Box sx={{
-              minWidth: 250, 
-              maxWidth: 400, 
-              flexGrow: 1,
-              [theme.breakpoints.down('sm')]: {
-                minWidth: 'calc(50% - 8px)',
-                maxWidth: 'calc(50% - 8px)', 
-                flexBasis: 'calc(50% - 8px)',
-              }
-            }}>
+            <Box
+              sx={{
+                minWidth: 250,
+                maxWidth: 400,
+                flexGrow: 1,
+                [theme.breakpoints.down("sm")]: {
+                  minWidth: "calc(50% - 8px)",
+                  maxWidth: "calc(50% - 8px)",
+                  flexBasis: "calc(50% - 8px)",
+                },
+              }}
+            >
               <DropdownSelect
                 isMulti={true}
-                options={[{ label: "All Major Restrictions", value: "" }, ...majorRestrictionOptions]}
+                options={[
+                  { label: "All Major Restrictions", value: "" },
+                  ...majorRestrictionOptions,
+                ]}
                 label="Major Restriction"
                 selectedValue={selectedMajorRestriction}
                 setSelectedValue={setSelectedMajorRestriction}
@@ -267,30 +378,43 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
           )}
         </Box>
         {/* Search input - now separate and will take full width of its line */}
-        <Input 
-          placeholder="Search table..." 
-          value={searchTerm} 
-          onChange={handleSearchChange} 
+        <Input
+          placeholder="Search table..."
+          value={searchTerm}
+          onChange={handleSearchChange}
           fullWidth // Make search input take full width
-          sx={{ padding: '4px 8px', border: '1px solid lightgray', borderRadius: '4px' }} 
+          sx={{
+            padding: "4px 8px",
+            border: "1px solid lightgray",
+            borderRadius: "4px",
+          }}
         />
       </Box>
-      <TableContainer component={Paper} sx={{ maxHeight: '70vh' }}>
-        <Table sx={{minWidth: 650}} size="small" stickyHeader>
+      <TableContainer component={Paper} sx={{ maxHeight: "70vh" }}>
+        <Table sx={{ minWidth: 650 }} size="small" stickyHeader>
           <TableHead>
-            <TableRow sx={{ '&:last-child td, &:last-child th': { border: 0 } }}>
+            <TableRow
+              sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
+            >
               {Object.keys(tableData[0] || {}).map((header) => {
                 let columnStyle: React.CSSProperties = {};
-                if (header === 'Course Title') {
-                  columnStyle = { minWidth: '200px', maxWidth: '350px' };
-                } else if (header === 'Major Restriction') {
-                  columnStyle = { minWidth: '250px', maxWidth: '400px' };
-                } else if (header === 'Instructor') {
-                  columnStyle = { minWidth: '150px', maxWidth: '250px' };
-                } else if (['CRN', 'Capacity', 'Enrolled', 'Credit/Class Resc.'].includes(header)) {
-                  columnStyle = { width: '80px', whiteSpace: 'normal' };
-                } else if (header === 'Time' || header === 'Day') {
-                  columnStyle = { minWidth: '120px' };
+                if (header === "Course Title") {
+                  columnStyle = { minWidth: "200px", maxWidth: "350px" };
+                } else if (header === "Major Restriction") {
+                  columnStyle = { minWidth: "250px", maxWidth: "400px" };
+                } else if (header === "Instructor") {
+                  columnStyle = { minWidth: "150px", maxWidth: "250px" };
+                } else if (
+                  [
+                    "CRN",
+                    "Capacity",
+                    "Enrolled",
+                    "Credit/Class Resc.",
+                  ].includes(header)
+                ) {
+                  columnStyle = { width: "80px", whiteSpace: "normal" };
+                } else if (header === "Time" || header === "Day") {
+                  columnStyle = { minWidth: "120px" };
                 }
                 return (
                   <StyledTableCell key={header} style={columnStyle}>
@@ -306,22 +430,38 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
                 {Object.entries(row).map(([key, cellValue], cellIndex) => {
                   const cellContent = cellValue as string;
                   let cellSpecificStyle: React.CSSProperties = {};
-                  if (key === 'Course Title') {
-                    cellSpecificStyle = { minWidth: '200px', maxWidth: '350px' };
-                  } else if (key === 'Major Restriction') {
-                    cellSpecificStyle = { minWidth: '250px', maxWidth: '400px' };
-                  } else if (key === 'Instructor') {
-                    cellSpecificStyle = { minWidth: '150px', maxWidth: '250px' };
-                  } else if (['CRN', 'Capacity', 'Enrolled', 'Credit/Class Resc.'].includes(key)) {
-                    cellSpecificStyle = { width: '80px' };
-                  } else if (key === 'Time' || key === 'Day') {
-                    cellSpecificStyle = { minWidth: '120px' };
+                  if (key === "Course Title") {
+                    cellSpecificStyle = {
+                      minWidth: "200px",
+                      maxWidth: "350px",
+                    };
+                  } else if (key === "Major Restriction") {
+                    cellSpecificStyle = {
+                      minWidth: "250px",
+                      maxWidth: "400px",
+                    };
+                  } else if (key === "Instructor") {
+                    cellSpecificStyle = {
+                      minWidth: "150px",
+                      maxWidth: "250px",
+                    };
+                  } else if (
+                    [
+                      "CRN",
+                      "Capacity",
+                      "Enrolled",
+                      "Credit/Class Resc.",
+                    ].includes(key)
+                  ) {
+                    cellSpecificStyle = { width: "80px" };
+                  } else if (key === "Time" || key === "Day") {
+                    cellSpecificStyle = { minWidth: "120px" };
                   }
 
                   return (
-                    <StyledTableCell 
-                      key={cellIndex} 
-                      isPlaceholder={cellContent === '-'} 
+                    <StyledTableCell
+                      key={cellIndex}
+                      isPlaceholder={cellContent === "-"}
                       title={cellContent}
                       style={cellSpecificStyle}
                     >
@@ -333,7 +473,10 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
             ))}
             {filteredData.length === 0 && searchTerm !== "" && (
               <TableRow>
-                <TableCell colSpan={Object.keys(tableData[0] || {}).length} align="center">
+                <TableCell
+                  colSpan={Object.keys(tableData[0] || {}).length}
+                  align="center"
+                >
                   No results found for "{searchTerm}".
                 </TableCell>
               </TableRow>
@@ -343,4 +486,4 @@ export default function CsvTable({csvUrl} : {csvUrl:string}){
       </TableContainer>
     </Box>
   );
-};
+}
