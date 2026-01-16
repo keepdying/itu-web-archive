@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   schedule:
     # “At 00:00 on day-of-month 15 in every 3rd month.”
-    - cron: '0 0 15 */3 *'
+    - cron: "0 0 15 */3 *"
 
 permissions:
   contents: write
