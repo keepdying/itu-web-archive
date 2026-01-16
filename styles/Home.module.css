@@ -5,11 +5,12 @@
   align-items: center;
 }
 
-.header { /* Restore old .header styles */
+.header {
+  /* Restore old .header styles */
   font-family: var(--font-mono);
-  font-size: 2.5rem; 
+  font-size: 2.5rem;
   font-weight: 600;
-  text-align: center; 
+  text-align: center;
   /* margin-bottom: 1rem; */ /* Original margin might not be needed if parent Box handles spacing */
   flex-grow: 1; /* Allow header to take space for centering */
   overflow-wrap: break-word; /* Add this to allow text to wrap */
@@ -46,8 +47,9 @@
 
 /* Add media query for smaller screens */
 @media (max-width: 768px) {
-  .header { /* Restore responsive .header styles */
-    font-size: 2rem; 
+  .header {
+    /* Restore responsive .header styles */
+    font-size: 2rem;
   }
   /* .headerTitle {
     font-size: 1.5rem; 
