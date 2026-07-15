@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30277,UCK 207E,Thermodynamics,Physical (Face to face),Cemil Kurtcebe,MEDC MEDC,Monday Monday,09:30/12:29 13:30/17:29,ZA3 ZA3,70,64,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+1,30343,UCK 322E,Flight Mechanics,Physical (Face to face),"Halit Süleyman Türkmen , Emre Koyuncu",MEDC MEDC,Monday Monday,08:30/12:29 13:30/16:29,1D10 1D10,40,25,-,"UCK_LS, UCK_YD",-,-
+2,30333,UCK 421E,Jet Propulsion Principles,Physical (Face to face),Cemil Kurtcebe,MEDC MEDC,Thursday Thursday,08:30/12:29 13:30/16:29,ZA3 ZA3,80,68,-,"UCK_LS, UCK_YD, UZB_LS, UZBE_LS",-,Detail

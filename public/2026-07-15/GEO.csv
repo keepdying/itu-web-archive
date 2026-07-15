@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30364,GEO 103E,Fundamentals of Surveying,Physical (Face to face),Volkan Özbey,INB INB,Thursday Friday,08:30/13:29 14:00/18:29,B308 B308,40,31,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+1,30395,GEO 203E,Coordinate Sys. and Geodesy I,Physical (Face to face),Bihter Erol,INB INB,Monday Tuesday,13:30/18:29 13:30/17:59,D201 D201,40,29,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+2,30365,GEO 204E,Th.of Err. And Ad. C.,Physical (Face to face),Serdar Erol,INB INB,Monday Tuesday,13:30/18:29 13:30/17:59,B308 B308,40,27,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+3,30366,GEO 212E,Engineering Surveying,Physical (Face to face),Volkan Özbey,INB INB,Thursday Friday,13:30/16:29 08:30/12:29,B103 B103,60,59,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+4,30367,GEO 216E,Computer Aided Map Design,Physical (Face to face),Mehmet Ufuk Özerman,INB INB,Tuesday Thursday,08:30/13:29 08:30/12:59,D103 D103,35,21,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+5,30368,GEO 220E,Mathematics for Geomatics Eng.,Physical (Face to face),Mehmet Ufuk Özerman,INB INB INB,Monday Wednesday Wednesday,08:30/10:59 13:30/15:29 08:30/10:59,A102 A102 A102,50,49,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+6,30396,GEO 225E,Prob.and Stat. for Geom. Eng.,Physical (Face to face),Muhammed Enes Atik,INB INB,Thursday Friday,08:30/13:29 14:00/15:59,D201 D201,50,22,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",-,-
+7,30483,GEO 303E,Cadastre,Physical (Face to face),Büşra Kartal,INB INB,Thursday Friday,16:30/18:29 14:00/16:59,B101 B101,35,33,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+8,30369,GEO 314E,Geodesy II and Projections,Physical (Face to face),Serdar Erol,INB INB,Monday Tuesday,11:00/12:59 08:30/13:29,B308 B308,50,17,-,"GEO_LS, GEOE_LS, HTA_LS, HTAE_LS",Detail,-
+9,30260,GEO 476,Geo. Müh. Proje Planlama Yön.,Physical (Face to face),Reha Metin Alkan,INB,Thursday,08:30/13:29,B302,40,29,-,"GEO_LS, HTA_LS",-,-

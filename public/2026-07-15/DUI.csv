@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30437,DUI 103E,Seamanship,Physical (Face to face),Orhan Gönel,DZB DZB DZB DZB,Tuesday Tuesday Wednesday Wednesday,08:30/12:29 13:30/14:29 09:00/12:29 13:30/14:29,-- -- -- --,45,4,-,"DUI_LS, MTM_LS",-,-
+1,30465,DUI 213E,Ship Constrct.and Stability,Physical (Face to face),Cenk Kaya,DZB DZB,Friday Friday,08:30/12:29 14:00/16:59,-- --,60,33,-,"DUI_LS, MTM_LS",-,-
+2,30251,DUI 251,Meteoroloji,Physical (Face to face),Ayşe Nak,DZB DZB,Wednesday Wednesday,13:30/16:29 08:30/12:29,-- --,45,9,-,DUI_LS,-,-
+3,30252,DUI 311E,Celestial Navigation,Physical (Face to face),Orhan Gönel,DZB DZB,Thursday Thursday,08:30/12:29 13:30/16:29,-- --,45,33,-,"DUI_LS, MTM_LS",-,-
+4,30438,DUI 361E,Technical Ship Management,Physical (Face to face),Gizem Çevik,DZB DZB,Thursday Thursday,09:30/12:29 13:30/15:29,-- --,50,22,-,"DUI_LS, MTM_LS",-,-
+5,30250,DUI 402,Deniz Hukuku II,Physical (Face to face),Nuri Koray Kurun,DZB DZB,Friday Friday,08:30/12:29 14:00/16:59,-- --,20,6,-,DUI_LS,Detail,-
+6,30439,DUI 407E,Cargo Handl and Stowage,Physical (Face to face),Cenk Ay,DZB DZB,Monday Monday,08:30/12:29 13:30/16:29,-- --,45,32,-,"DUI_LS, MTM_LS",Detail,-
+7,30440,DUI 472,Oşinografi,Physical (Face to face),Ayşe Nak,DZB DZB,Tuesday Tuesday,09:30/12:29 13:30/15:29,-- --,30,6,-,DUI_LS,-,-
+8,30441,DUI 474E,Bridge Team and Resource Management,Physical (Face to face),Cemil Yurtören,DZB DZB,Tuesday Tuesday,08:30/12:29 13:30/16:29,-- --,30,2,-,"DUI_LS, MTM_LS",Detail,-

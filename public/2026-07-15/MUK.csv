@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30324,MUK 203,Mukavemet I,Physical (Face to face),Oktay Eren Türeyen,MEDC MEDC,Wednesday Wednesday,09:30/12:29 13:30/17:29,2D18 2D18,100,17,-,"DEN_LS, GEM_LS, INS_LS",Detail,-
+1,30325,MUK 204,Mukavemet II,Physical (Face to face),Oktay Eren Türeyen,MEDC MEDC,Thursday Thursday,09:30/12:29 13:30/17:29,2D18 2D18,110,104,-,"DEN_LS, GEM_LS, INS_LS",Detail,-
+2,30279,MUK 211,Mukavemet,Physical (Face to face),Tahir Soyugüzel,MEDC MEDC,Monday Tuesday,08:30/16:59 08:30/09:29,ZA2 ZA2,30,10,-,UCK_LS,Detail,-
+3,30280,MUK 211E,Strength of Materials,Physical (Face to face),Tahir Soyugüzel,MEDC MEDC,Tuesday Thursday,12:30/13:29 08:30/16:59,ZA2 ZA2,55,62,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-

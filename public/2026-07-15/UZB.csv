@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30278,UZB 314E,Heat Transfer,Physical (Face to face),Cemil Kurtcebe,MEDC MEDC,Friday Friday,09:30/12:29 14:30/16:29,ZA3 ZA3,85,81,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-
+1,30344,UZB 337E,Aerospace Structures,Physical (Face to face),"Seher Eken , Aytaç Arıkoğlu",MEDC MEDC MEDC,Tuesday Tuesday Wednesday,09:30/12:29 13:30/16:29 10:00/13:29,1D10 1D10 1D10,50,28,-,"UCK_LS, UCK_YD, UZB_LS, UZBE_LS",Detail,-
+2,30282,UZB 352E,Orbital Mechanics,Physical (Face to face),Erdem Onur Özyurt,MEDC MEDC,Tuesday Tuesday,08:30/12:29 13:30/16:29,ZA4 ZA4,50,26,-,"UZB_LS, UZB_YD, UZBE_LS",Detail,-
+3,30283,UZB 421E,Attitude Determination & Ctrl.,Physical (Face to face),Erdem Onur Özyurt,MEDC MEDC,Monday Monday,08:30/12:29 13:30/16:29,ZA4 ZA4,50,9,-,"UZB_LS, UZBE_LS",Detail,-

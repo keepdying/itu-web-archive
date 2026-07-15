@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30433,BBF 204E,Formal Languages and Automata,Physical (Face to face),Gökhan Seçinti,BBB BBB,Friday Friday,09:00/12:29 14:00/17:29,104 104,60,66,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",Detail,-
+1,30487,BBF 204E,Formal Languages and Automata,Physical (Face to face),Tuğçe Bilen,BBB BBB,Friday Friday,09:00/12:29 14:00/17:29,Z-19 Z-19,60,10,-,CEN_LS,Detail,-
+2,30335,BBF 301E,Analysis of Algorithms I,Physical (Face to face),Hazım Kemal Ekenel,BBB BBB BBB,Monday Monday Tuesday,10:00/11:59 13:30/15:29 09:30/12:29,Z-16 Z-16 Z-16,90,87,-,"BLG_LS, BLGE_LS, CEN_LS, SECE_LS, YZVE_LS",Detail,-

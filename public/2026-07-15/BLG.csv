@@ -1,0 +1,3 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30334,BLG 223E,Data Structures,Physical (Face to face),Muhammet Alkan,BBB BBB BBB BBB,Wednesday Wednesday Thursday Thursday,09:30/12:29 13:30/15:29 09:30/11:59 13:30/15:29,Z-19 Z-19 Z-19 Z-19,60,60,-,"BLG_LS, BLGE_LS, CEN_LS, SECE_LS",Detail,-
+1,30473,BLG 470E,Functional Programming,Physical (Face to face),Yusuf Hüseyin Şahin,BBB BBB,Friday Friday,14:00/16:59 08:30/12:29,Z-16 Z-16,90,104,-,"BLG_LS, BLGE_LS, CEN_LS",-,-

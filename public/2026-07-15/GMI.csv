@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30245,GMI 132E,Numerical Analy. of Eng.Syst.,Physical (Face to face),Ata Bilgili,DZB DZB,Tuesday Tuesday,08:30/11:29 12:30/14:29,-- --,55,38,-,"GMI_LS, MEN_LS",Detail,-
+1,30463,GMI 213E,Thermodynamics,Physical (Face to face),Yalçın Durmuşoğlu,DZB DZB,Wednesday Wednesday,08:30/11:29 12:30/16:29,-- --,40,30,-,"GMI_LS, MEN_LS",Detail,-
+2,30442,GMI 261E,Fluid Mechanics,Physical (Face to face),Ata Bilgili,DZB DZB,Monday Monday,08:30/11:29 12:30/16:29,-- --,40,26,-,"DUI_LS, GMI_LS",Detail,-
+3,30464,GMI 352E,Heat Transfer,Physical (Face to face),Yalçın Durmuşoğlu,DZB DZB,Monday Monday,08:30/11:29 12:30/16:29,-- --,40,20,-,"GMI_LS, MEN_LS",Detail,-
+4,30247,GMI 481E,Marine Insurance,Physical (Face to face),Sinan Çakır,DZB DZB,Wednesday Wednesday,08:30/11:29 12:30/14:29,-- --,40,30,-,"DUI_LS, GMI_LS, MEN_LS, MTM_LS",-,-
+5,30246,GMI 486E,Shipping Finance,Physical (Face to face),Sinan Çakır,DZB DZB,Friday Friday,08:30/11:29 14:30/16:29,-- --,100,95,-,"DUI_LS, GMI_LS, MEN_LS, MTM_LS",-,-

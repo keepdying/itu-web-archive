@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30328,GEM 201E,Dynamics,Physical (Face to face),Mustafa Erden Yıldızdağ,MEDC MEDC,Monday Tuesday,08:30/13:29 08:30/12:59,ZA1 ZA1,30,21,-,GEM_LS,Detail,-
+1,30329,GEM 203,Mukavemet I,Physical (Face to face),Mustafa Erden Yıldızdağ,MEDC MEDC,Thursday Friday,08:30/14:29 08:30/11:59,ZA1 ZA1,30,23,-,GEM_LS,-,-
+2,30403,GEM 325,Gemi Yapı Elemanları,Physical (Face to face),"Gökhan Tansel Tayyar , Erdem Üçer",MEDC MEDC MEDC MEDC,Monday Monday Tuesday Tuesday,08:30/11:59 13:30/14:29 08:30/12:29 13:30/14:29,ZD1 ZD1 ZD1 ZD1,100,31,-,GEM_LS,Detail,-
+3,30472,GEM 328E,Ship Hydrodynamics(Propulsion),Physical (Face to face),Cihad Delen,MEDC MEDC,Wednesday Wednesday,09:00/11:59 13:00/16:59,1D3 1D3,30,9,-,"GEM_LS, GEME_LS",Detail,-
+4,30443,GEM 424E,Reliability Of Ship Structures,Physical (Face to face),Ahmet Ergin,MEDC MEDC,Monday Thursday,09:00/11:59 10:00/11:59,2D16 2D16,30,5,-,"GEM_LS, GEME_LS",Detail,-
+5,30469,GEM 482,Bireysel Bitirme Projesi,Physical (Face to face),Fuzuli Ağrı Akçay,-,-,-/-,-,1,1,-,"GEM_LS, GEME_LS",-,-

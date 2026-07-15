@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30474,ISE 102,Programming I,Physical (Face to face),Deniz Turgay Altılar,BBB BBB BBB BBB,Tuesday Wednesday Wednesday Thursday,08:30/11:29 08:30/11:29 13:30/15:29 13:30/17:29,122 122 122 122,20,8,-,SBL_LS,-,-
+1,30475,ISE 111,Linear Algebra,Physical (Face to face),Deniz Turgay Altılar,BBB BBB,Tuesday Thursday,13:30/17:29 08:30/11:29,122 122,20,2,-,SBL_LS,-,-
+2,30477,ISE 112,Discrete Mathematics,Physical (Face to face),Mehmet Akif Yazıcı,BBB BBB BBB,Monday Monday Friday,10:00/11:59 14:00/15:59 09:00/11:59,122 122 122,20,1,-,SBL_LS,-,-

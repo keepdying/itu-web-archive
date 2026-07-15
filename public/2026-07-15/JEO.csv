@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30300,JEO 112,Genel Jeoloji,Physical (Face to face),Kürşad Kadir Eriş,MDB,Wednesday,08:30/15:29,B204,35,9,-,"JEO_LS, MAD_LS",-,-
+1,30301,JEO 348,Sedimenter Kayaç Petrografisi,Physical (Face to face),Kürşad Kadir Eriş,MDB MDB,Thursday Thursday,08:30/11:29 13:30/17:29,B204 B204,25,7,-,JEO_LS,Detail,-
+2,30468,JEO 355E,Sedimentology,Physical (Face to face),Emin Çiftçi,MDB,Monday,08:30/13:29,A202,30,26,-,"JEO_LS, JEO_YD, JEOE_LS",-,-
+3,30467,JEO 409,Türkiye Jeolojisi,Physical (Face to face),Kürşad Kadir Eriş,MDB MDB,Tuesday Tuesday,09:30/12:29 13:30/15:29,A201 A201,35,33,-,"JEO_LS, JEO_YD",-,-

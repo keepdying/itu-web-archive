@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30304,TER 201,Termodinamik,Physical (Face to face),Birgül Benli,MDB MDB,Wednesday Wednesday,08:30/11:59 14:00/17:29,A101 A101,50,31,-,"CHZ_LS, DEN_LS, EHB_LS, ISL_LS, JEO_LS, KOM_LS, KON_LS",Detail,-
+1,30322,TER 201,Termodinamik,Physical (Face to face),Halil Saraçoğlu,MEDC,Monday,09:30/16:29,2D15,35,33,-,"CEV_LS, CHZ_LS, DEN_LS, END_LS, GMI_LS, ISL_LS, JEF_LS, JEO_LS, KIM_LS, KOM_LS, PET_LS, TEK_LS, UCK_LS, UZB_LS",Detail,-
+2,30323,TER 201E,Thermodynamics,Physical (Face to face),Halil Saraçoğlu,MEDC,Tuesday,09:30/16:29,3D20,45,47,-,"CEVE_LS, CHZE_LS, DENE_LS, ENDE_LS, ISLE_LS, JEFE_LS, JEOE_LS, KIME_LS, KOME_LS, PETE_LS, TEKE_LS, UZBE_LS",Detail,-

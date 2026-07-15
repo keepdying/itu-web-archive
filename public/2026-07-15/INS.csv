@@ -1,0 +1,22 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30374,INS 102,Statik,Physical (Face to face),Erol Demirkan,INB INB INB,Tuesday Tuesday Wednesday,10:00/12:29 13:30/16:59 13:30/16:59,B206 B206 B206,50,41,-,INS_LS,Detail,-
+1,30370,INS 217,Mukavemet I,Physical (Face to face),Teoman Özer,INB INB INB,Monday Monday Wednesday,08:30/12:29 13:30/17:29 08:30/09:59,B302 B302 B303,30,33,-,INS_LS,Detail,-
+2,30371,INS 218,Mukavemet II,Physical (Face to face),Teoman Özer,INB INB INB,Tuesday Tuesday Wednesday,08:30/12:29 13:30/17:29 10:30/11:59,B303 B303 B303,30,36,-,INS_LS,Detail,-
+3,30372,INS 218E,Strength of Materials II,Physical (Face to face),Ünal Aldemir,INB INB INB,Monday Monday Tuesday,08:30/12:29 13:30/15:29 08:30/11:59,A105 A105 A105,40,44,-,"INS_LS, INSE_LS",Detail,-
+4,30380,INS 226,Mühendis Matematik Model Esas,Physical (Face to face),Yavuz Selim Güçlü,INB INB,Tuesday Wednesday,09:00/12:29 09:00/12:29,B305 B305,25,22,-,INS_LS,-,-
+5,30397,INS 232E,Surveying,Physical (Face to face),Muhammed Enes Atik,INB INB,Wednesday Thursday,13:30/17:29 13:30/16:29,D201 A1,40,9,-,"INS_LS, INSE_LS",-,-
+6,30404,INS 302,Karayolu Mühendisliği,Physical (Face to face),Kemal Selçuk Öğüt,INB INB INB,Wednesday Thursday Friday,12:30/15:29 14:30/17:29 14:00/17:29,B302 B302 B302,40,32,-,INS_LS,Detail,-
+7,30405,INS 325,Demiryolu Müh.,Physical (Face to face),Kemal Selçuk Öğüt,INB INB,Wednesday Thursday,15:30/17:29 11:30/14:29,B302 B305,40,28,-,INS_LS,Detail,-
+8,30392,INS 336,Yapı Statiği II,Physical (Face to face),"Yavuz Durgun , Emre Gönülcü , Mehmet Günhan Aksoylu",INB INB INB,Tuesday Tuesday Wednesday,09:30/12:29 13:30/16:29 09:00/12:29,A103 A103 A103,60,54,-,INS_LS,Detail,-
+9,30393,INS 336E,Theory of Structures II,Physical (Face to face),"Burcu Güneş , Ülkü Hülya Çalık Karaköse , Ahmet Güllü",INB INB INB,Tuesday Tuesday Wednesday,09:30/12:29 13:30/16:29 09:00/12:29,B302 B302 B302,60,46,-,"AIN_LS, INS_LS, INSE_LS",Detail,-
+10,30381,INS 354,Hidroloji,Physical (Face to face),Yavuz Selim Güçlü,INB INB,Tuesday Wednesday,13:00/16:29 13:00/16:29,B307 B307,25,29,-,INS_LS,-,-
+11,30379,INS 354E,Hydrology,Physical (Face to face),Mehmet Cüneyd Demirel,INB INB,Wednesday Thursday,09:30/13:29 10:30/13:29,B306 B306,25,16,-,"AIN_LS, INS_LS, INSE_LS",-,-
+12,30382,INS 354E,Hydrology,Physical (Face to face),"Mehmet Özger , Cihan Bayındır",INB INB,Monday Thursday,08:30/12:29 13:30/16:29,A101 A101,50,11,-,"AIN_LS, INS_LS, INSE_LS",-,-
+13,30384,INS 360,Hidrolik,Physical (Face to face),Necati Erdem Ünal,INB INB INB,Monday Tuesday Wednesday,08:30/12:29 08:30/12:29 08:30/09:59,A3 A3 A3,30,25,-,"CEV_LS, INS_LS",Detail,-
+14,30385,INS 360,Hidrolik,Physical (Face to face),Necati Erdem Ünal,INB INB INB,Monday Tuesday Thursday,13:30/17:29 13:30/17:29 08:30/09:59,A3 A3 A3,30,24,-,"CEV_LS, INS_LS",Detail,-
+15,30377,INS 360E,Hydraulics,Physical (Face to face),Erdal Kesgin,INB INB INB,Wednesday Wednesday Friday,08:30/12:29 13:30/16:29 09:30/11:59,B104 B104 B104,25,26,-,"AIN_LS, CEV_LS, CEVE_LS, INS_LS, INSE_LS",Detail,-
+16,30488,INS 401,Su Kaynakları,Physical (Face to face),Mehmet Melih Koşucu,INB INB,Monday Monday,08:30/12:29 13:30/14:29,B103 B103,30,30,-,"INS_LS, INSE_LS",Detail,-
+17,30391,INS 4042E,Dams,Physical (Face to face),"Şevket Çokgör , Mehmet Melih Koşucu",INB INB,Tuesday Tuesday,08:30/12:29 13:30/16:29,B306 B306,25,13,-,"AIN_LS, INS_LS, INSE_LS",Detail,-
+18,30388,INS 4075E,Hydrologic Modeling,Physical (Face to face),Mehmet Cüneyd Demirel,INB INB INB,Monday Tuesday Friday,13:30/15:29 13:30/15:29 09:30/12:29,A1 A1 A1,25,8,-,"AIN_LS, INS_LS, INSE_LS",Detail,-
+19,30378,INS 4077,Su Getirme&Kanaliz. Sist.Tas.,Physical (Face to face),Mehmet Cüneyd Demirel,INB INB,Monday Tuesday,10:30/13:29 09:30/13:29,A2 A2,25,10,-,INS_LS,Detail,-
+20,30491,INS 433E,Reinforced Concrete II,Sınırsız Sınav,Alper İlki,-,-,-/-,-,0,15,-,-,Detail,-

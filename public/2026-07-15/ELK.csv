@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30494,ELK 322E,Power Transmission Systems,Physical (Face to face),Veysel Murat İstemihan Genç,EEB EEB,Thursday Thursday,08:30/12:29 13:30/16:29,-- --,30,19,EEE_LS/10/2 | Diğer/20/17,"EEE_LS, ELK_LS, ELKE_LS",Detail,-
+1,30460,ELK 356,Elektrik Makinaları,Physical (Face to face),Murat İmeryüz,EEB EEB,Wednesday Thursday,09:30/13:29 10:30/13:29,5302 5302,30,13,-,"ELK_LS, KOM_LS",Detail,-
+2,30406,ELK 431E,Electrical Machines Lab.,Physical (Face to face),"Derya Ahmet Kocabaş , Ali Saffet Altay",EEB EEB,Monday Wednesday,12:30/14:59 12:30/14:59,-- --,45,28,-,"ELK_LS, ELKE_LS",Detail,-

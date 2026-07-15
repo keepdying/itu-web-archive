@@ -1,0 +1,6 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30303,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Birgül Benli,MDB MDB,Tuesday Tuesday,08:30/11:59 14:00/17:29,A101 A101,50,45,-,"DEN_LS, GEM_LS, IBM_LS, INS_LS, MTO_LS, TEK_LS, UCK_LS",Detail,-
+1,30386,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Necati Erdem Ünal,INB INB,Thursday Thursday,10:00/12:59 13:30/17:29,B303 B303,30,32,-,"CEV_LS, INS_LS",Detail,-
+2,30387,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Necati Erdem Ünal,INB INB,Wednesday Wednesday,10:00/12:59 13:30/17:29,B304 B304,30,23,-,"CEV_LS, INS_LS",Detail,-
+3,30376,AKM 204E,Fluid Mechanics,Physical (Face to face),Erdal Kesgin,INB INB,Tuesday Tuesday,08:30/12:29 13:30/16:29,B103 B103,25,48,-,"INS_LS, INSE_LS, MEN_LS, NAE_LS, PET_LS, PETE_LS, TEK_LS, TEKE_LS",Detail,-
+4,30466,AKM 204E,Fluid Mechanics,Physical (Face to face),Cenk Kaya,DZB DZB,Thursday Thursday,08:30/12:29 13:30/16:29,-- --,45,33,-,"DUI_LS, MEN_LS, MTM_LS",Detail,-

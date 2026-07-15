@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,30345,MTO 102,Bilgisayarlı Teknik Resim,Physical (Face to face),Hüsnü Barbaros Soyer,INB INB,Friday Friday,08:30/12:29 14:30/17:29,D104 D104,40,12,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",-,-
+1,30270,MTO 214,Atmosfer Termodinamiği,Physical (Face to face),Kasım Koçak,MEDC MEDC,Monday Tuesday,12:30/17:29 12:30/16:59,2D12 2D12,30,15,-,"IBM_LS, MTO_LS",-,-
+2,30276,MTO 301,Meteo.Uzaktan Algılamanın Tem.,Physical (Face to face),Ahmet Öztopal,INB INB,Tuesday Tuesday,13:30/16:29 09:30/11:29,D101 D101,20,4,-,"IBM_LS, MTO_LS",-,-
+3,30480,MTO 303E,Comput.Fluid Dyn.in Meteo.Eng.,Physical (Face to face),Hüseyin Toros,MEDC,Monday,12:30/17:29,2D13,40,22,-,"IBM_LS, MTO_LS",Detail,-
+4,30271,MTO 311E,Data Analysis,Physical (Face to face),Kasım Koçak,MEDC MEDC MEDC MEDC,Monday Wednesday Thursday Thursday,08:30/11:29 08:30/11:29 08:30/12:29 13:30/15:29,2D12 2D12 2D12 2D12,30,22,-,"IBM_LS, MTO_LS",-,-
+5,30272,MTO 340,Atmosfer Dinamiği II,Physical (Face to face),Elçin Tan,MEDC MEDC,Tuesday Wednesday,13:00/17:29 12:30/17:29,2D11 2D11,35,30,-,"IBM_LS, IBM_YD, MTO_LS, MTO_YD",Detail,-
