@@ -1,0 +1,14 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15426,CEN 101E,Intr. to Information Systems,Physical (Face to face),Ömer Özyıldırım,EEB,Thursday,13:30/16:29,Z4,80,26,-,CEN_LS,-,-
+1,15552,CEN 101E,Intr. to Information Systems,Physical (Face to face),-,Gazimagusa-TAS_2,Monday,13:30/16:29,902,0,12,-,CEN_LS,-,-
+2,15586,CEN 104E,Linear Algebra and Applications,Physical (Face to face),Deniz Turgay Altılar,Gazimagusa-TAS_2,Monday,09:30/12:29,902,30,12,-,CEN_LS,-,-
+3,15427,CEN 113E,Intr.toComp.Eng.and Ethics,Physical (Face to face),Eşref Adalı,BBB,Wednesday,13:30/15:29,Z-17,150,25,-,CEN_LS,-,-
+4,15578,CEN 115E,Intr.toComp.Eng.and Ethics,Physical (Face to face),"Nizamettin Aydın , Murat Çakan",Gazimagusa-TAS_2,Wednesday,13:30/15:29,902,30,12,-,CEN_LS,-,-
+5,15433,CEN 212E,Microprocessor Systems,Physical (Face to face),Mehmet Ali Sarıkaya,BBB,Friday,14:30/17:29,Z-21,90,36,-,CEN_LS,Detail,-
+6,15429,CEN 223E,Data Structures,Physical (Face to face),Meriç Yücel,EEB EEB,Tuesday Thursday,09:30/11:29 14:30/16:29,4104 5103,80,17,-,CEN_LS,Detail,-
+7,15430,CEN 231E,Digital Circuits,Physical (Face to face),Mustafa Ersel Kamaşak,BBB,Monday,11:30/14:29,Z-20,70,44,-,"BLG_LS, BLGE_LS, CEN_LS",-,-
+8,15434,CEN 317E,Database Systems,Physical (Face to face),Mehmet Ali Ertürk,EEB,Wednesday,08:30/11:29,5307,80,31,-,CEN_LS,Detail,-
+9,15570,CEN 322E,Computer Architecture,Physical (Face to face),Nizamettin Aydın,EEB,Tuesday,08:30/11:29,6309,40,41,-,CEN_LS,Detail,-
+10,15435,CEN 335E,Analysis of Algorithms I,Physical (Face to face),Mehmet Ali Sarıkaya,MED,Thursday,08:30/11:29,A34,75,28,-,CEN_LS,Detail,-
+11,15437,CEN 336E,Analysis of Algorithms II,Physical (Face to face),Mehmet Ali Sarıkaya,EEB,Thursday,13:30/16:29,5301,40,41,-,CEN_LS,Detail,-
+12,15436,CEN 411E,Software Engineering,Physical (Face to face),Sajjad Nematzadeh Mıondoab,MED,Monday,09:30/12:29,A11,80,49,-,CEN_LS,Detail,-

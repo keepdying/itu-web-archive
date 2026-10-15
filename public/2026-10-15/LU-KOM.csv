@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14780,KOM 501E,Cont.Sist.With Paramet. Uncert,Physical (Face to face),Mehmet Turan Söylemez,EEB,Monday,09:30/12:29,5105,50,50,-,-,-,-
+1,14781,KOM 505,Olasılık Kuramı&Rastlan.Süreçl,Physical (Face to face),Müjde Güzelkaya,EEB,Tuesday,12:30/15:29,2102,80,81,-,-,-,-
+2,14782,KOM 505E,Probability Theory&Stochast.Pr,Physical (Face to face),Mehmet Akif Yazıcı,EEB,Tuesday,12:30/15:29,5107,45,30,-,-,-,-
+3,14783,KOM 505E,Probability Theory&Stochast.Pr,Physical (Face to face),Mustafa Doğan,EEB,Friday,14:00/16:59,5202,90,91,-,-,-,-
+4,15712,KOM 505E,Probability Theory&Stochast.Pr,Physical (Face to face),Mehmet Akif Yazıcı,undeclared,Friday,14:00/16:59,--,0,0,-,-,-,-
+5,14785,KOM 507E,Numerical Methods in Optimiz.,Physical (Face to face),Tufan Kumbasar,EEB,Thursday,08:30/11:29,5206,20,14,KOM_KO_YL/10/10 | Diğer/10/4,KOM_KO_YL,-,-
+6,14786,KOM 508,Endüstriyel Otomasyon Sist.,Physical (Face to face),Yaprak Yalçın,EEB,Tuesday,12:30/15:29,5206,50,9,-,-,-,-
+7,14784,KOM 509E,Design of Discrete Cont.Sys.,Physical (Face to face),Farzad Hashemzadeh,EEB,Wednesday,09:30/12:29,5103,50,26,-,-,-,-
+8,15713,KOM 509E,Design of Discrete Cont.Sys.,Physical (Face to face),Tufan Kumbasar,undeclared,Wednesday,09:00/11:59,--,0,0,-,-,-,-
+9,15714,KOM 510,Optimal Kontrol Kuramı,Physical (Face to face),İlker Üstoğlu,undeclared,Tuesday,13:00/15:59,--,0,0,-,-,-,-
+10,14787,KOM 518E,Model Predictive Control,Physical (Face to face),Yaprak Yalçın,EEB,Wednesday,12:30/15:29,1301,50,36,-,-,-,-
+11,14788,KOM 521E,Learning Based Control Systems,Physical (Face to face),Kemal Uçak,EEB,Monday,13:30/16:29,5201,60,59,-,-,-,-
+12,14789,KOM 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Işık İlber Sırmatel,EEB,Thursday,12:30/14:29,5105,40,16,-,-,-,-
+13,14777,KOM 610E,Nonlinear Control Systems,Physical (Face to face),Mustafa Doğan,EEB,Friday,08:30/11:29,1303,30,19,-,-,-,-
+14,14778,KOM 613E,Probabilistics Methods in Robo,Physical (Face to face),Hakan Temeltaş,EEB,Monday,12:30/15:29,5206,30,7,-,-,-,-
+15,14790,KOM DRT,Tez Çalışması,Physical (Face to face),Ahmet Onat,-,-,-/-,-,100,14,-,-,-,-
+16,14791,KOM YET,Yeterlik Aşaması,Physical (Face to face),Ahmet Onat,-,-,-/-,-,50,2,-,-,-,-
+17,14792,KOM YLT,Tez Çalışması,Physical (Face to face),Ahmet Onat,-,-,-/-,-,100,45,-,-,-,-

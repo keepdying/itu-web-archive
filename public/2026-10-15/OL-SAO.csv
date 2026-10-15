@@ -1,0 +1,20 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11023,SAO 101E,Fundamentals of Programming I,Physical (Face to face),Anıl Suat Terliksiz,undeclared,Tuesday,13:30/18:29,--,35,30,-,SAO_OL,-,-
+1,11024,SAO 102E,Fundamentals of Programming II,Physical (Face to face),Gonca Özmen,undeclared,Tuesday,13:30/18:29,--,30,10,-,SAO_OL,Detail,-
+2,11027,SAO 103,Bilişim ve Ağ Teknolojisinin Temelleri,Physical (Face to face),Engin Baysal,undeclared,Wednesday,08:30/13:29,--,30,26,-,SAO_OL,-,-
+3,11033,SAO 104E,Database Applications and Security,Physical (Face to face),Ayhan Barış,undeclared,Thursday,08:30/13:29,--,30,6,-,SAO_OL,Detail,-
+4,11028,SAO 105,İşletim Sistemleri & Güvenliği,Physical (Face to face),Emre Parlak,undeclared,Wednesday,13:30/18:29,--,30,28,-,SAO_OL,-,-
+5,11016,SAO 106,Güvenli Ağ Tasarımı ve Cihaz Yönetimi,Physical (Face to face),Engin Baysal,undeclared,Monday,08:30/13:29,--,30,6,-,SAO_OL,Detail,-
+6,11021,SAO 107E,Mathematics and Logic,Physical (Face to face),Emre Parlak,undeclared,Tuesday,08:30/11:29,--,30,3,-,SAO_OL,-,-
+7,11034,SAO 108,Sanallaştırma ve Bulut Teknolojileri,Physical (Face to face),Umur Kuriş,undeclared,Thursday,13:30/18:29,--,30,5,-,SAO_OL,Detail,-
+8,11022,SAO 109E,Introduction to Cybersecurity,Physical (Face to face),Umur Kuriş,undeclared,Tuesday,11:30/13:29,--,35,29,-,SAO_OL,-,-
+9,11019,SAO 201,Sızma Testi,Physical (Face to face),Umur Kuriş,undeclared undeclared,Monday Friday,11:30/13:29 08:30/11:29,-- --,30,15,-,SAO_OL,Detail,-
+10,11025,SAO 203E,Mobile Technologies and Security,Physical (Face to face),Murat Sekmen,undeclared,Thursday,08:30/13:29,--,30,15,-,SAO_OL,Detail,-
+11,11020,SAO 204,Girişimcilik ve Kariyer Planlama,Physical (Face to face),Umur Kuriş,undeclared,Monday,08:30/10:29,--,30,10,-,SAO_OL,-,-
+12,11031,SAO 205E,Cyber Security Governance,Physical (Face to face),Engin Baysal,undeclared,Wednesday,13:30/16:29,--,30,19,-,SAO_OL,Detail,-
+13,11017,SAO 207E,Secure Software Development,Physical (Face to face),Hanife Kübra KAYA,undeclared,Monday,13:30/18:29,--,30,20,-,SAO_OL,Detail,-
+14,11026,SAO 209,Etkili İletişim ve Sunum Teknikleri,Physical (Face to face),Murat Sekmen,undeclared,Thursday,14:30/15:29,--,30,9,-,SAO_OL,-,-
+15,11030,SAO 211,Proje Yönetimi Metodolojisi ve Uygulamaları,Physical (Face to face),Emre Parlak,undeclared,Wednesday,11:30/13:29,--,30,21,-,SAO_OL,-,-
+16,15620,SAO 251,Kriptolojinin Temelleri,Physical (Face to face),Hanife Kübra KAYA,BEB,Wednesday,08:30/11:29,317,10,9,-,SAO_OL,Detail,-
+17,15621,SAO 258,İnternet Programlama,Physical (Face to face),Furkan Emre Işık,BEB,Wednesday,08:30/11:29,--,10,5,-,SAO_OL,Detail,-
+18,11029,SAO 259,Yapay Zekâ ve Siber Güvenlik,Physical (Face to face),Emre Parlak,undeclared,Monday,08:30/11:29,--,11,11,-,SAO_OL,Detail,-

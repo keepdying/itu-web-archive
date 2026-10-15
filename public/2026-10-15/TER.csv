@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11312,TER 201,Termodinamik,Physical (Face to face),Hanzade Açma,KMB,Friday,09:30/12:29,D204,70,65,-,"CEV_LS, CHZ_LS, DEN_LS, EHB_LS, ISL_LS, JEO_LS, KOM_LS",Detail,-
+1,14327,TER 201,Termodinamik,Physical (Face to face),Halil Saraçoğlu,MEDC,Monday,10:30/13:29,2D15,30,9,-,"CEV_LS, CHZ_LS, DEN_LS, EHB_LS, ISL_LS, JEO_LS, KOM_LS",Detail,-
+2,15080,TER 201,Termodinamik,Physical (Face to face),Birgül Benli,MDB,Monday,10:30/13:29,A103,50,26,-,CHZ_LS,Detail,-
+3,14321,TER 201E,Thermodynamics,Physical (Face to face),Turgut Yılmaz,MKB,Wednesday,09:30/12:29,A101,40,41,-,"JEF_LS, TEK_LS, TEK_YD, TEKE_LS",Detail,-
+4,14328,TER 201E,Thermodynamics,Physical (Face to face),Halil Saraçoğlu,INB,Thursday,09:30/12:29,A305,48,64,-,"CEV_LS, CEVE_LS, DEN_LS, DENE_LS, PET_LS, PETE_LS, TEK_LS, TEKE_LS",Detail,-
+5,14446,TER 201E,Thermodynamics,Physical (Face to face),Hanife Tuba Okutucu Özyurt,MDB,Friday,08:30/11:29,A101,61,65,-,"PET_LS, PETE_LS",Detail,-

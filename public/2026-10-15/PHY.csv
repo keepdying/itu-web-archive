@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15053,PHY 123,Physics I,Physical (Face to face),Mehmet Kerim Ramazanoğlu,FEB,Tuesday,14:30/17:29,D204,30,29,-,EHN_LS,-,-
+1,15055,PHY 123L,Physics I Lab,Physical (Face to face),Mehmet Kerim Ramazanoğlu,FEB,Wednesday,13:30/15:29,--,30,28,-,EHN_LS,-,-
+2,12985,PHY 125,Physics I,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Monday,08:30/11:29,--,10,5,-,"SDU_LS, SGM_LS",-,-
+3,15056,PHY 125,Physics I,Physical (Face to face),Mehmet Özkan,FEB,Tuesday,14:30/17:29,D103,41,42,-,"MBI_LS, SDU_LS, SED_LS, SGI_LS, SGM_LS, SIN_LS",-,-
+4,15059,PHY 125,Physics I,Physical (Face to face),Sevda Şahinbay,FEB,Tuesday,14:30/17:29,D201,40,42,-,"MBI_LS, SDU_LS, SED_LS, SGI_LS, SGM_LS, SIN_LS",-,-
+5,12987,PHY 125L,Physics I Laboratory,Physical (Face to face),Banu Tansel Büyükçelebi,DZB,Wednesday,08:30/10:29,--,10,5,-,"SDU_LS, SGM_LS",-,-
+6,15058,PHY 125L,Physics I Laboratory,Physical (Face to face),Mehmet Özkan,FEB,Wednesday,08:30/10:29,--,38,36,-,"MBI_LS, SDU_LS, SED_LS, SGI_LS, SGM_LS, SIN_LS",-,-
+7,15060,PHY 125L,Physics I Laboratory,Physical (Face to face),Sevda Şahinbay,FEB,Wednesday,13:30/15:29,--,37,41,-,"MBI_LS, SDU_LS, SED_LS, SGI_LS, SGM_LS, SIN_LS",-,-
+8,15061,PHY 127,Physics,Physical (Face to face),Berna Morova,FEB,Tuesday,14:30/17:29,L400,30,16,-,SBL_LS,-,-
+9,15062,PHY 127L,Physics Lab,Physical (Face to face),Berna Morova,FEB,Wednesday,08:30/10:29,--,30,13,-,SBL_LS,-,-

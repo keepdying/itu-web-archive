@@ -1,0 +1,81 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11178,GMI 114,Malz.Bilgisi ve Üretim Yöntem.,Physical (Face to face),Hakan Demirel,DZB,Tuesday,11:30/13:29,--,60,55,-,GMI_LS,-,-
+1,15186,GMI 114E,Materials Scie.&Manufact.Mth.,Physical (Face to face),Yasin Arslanoğlu,DZB,Wednesday,13:30/15:29,--,40,19,-,MEN_LS,-,-
+2,15593,GMI 114E,Materials Scie.&Manufact.Mth.,Physical (Face to face),Faiz Muhaffel,KMB,Tuesday,11:30/13:29,D302,50,27,-,NAE_LS,-,-
+3,11099,GMI 118,Gemi Mak. İşl.Müh.Gir.veEtik,Physical (Face to face),Kadir Çiçek,DZB,Monday,08:30/11:29,--,60,56,-,GMI_LS,-,-
+4,15187,GMI 118E,Introduction to Marine Engineering and Ethics,Physical (Face to face),Merve Gül Çıvgın,DZB,Monday,12:30/15:29,--,40,21,-,MEN_LS,-,-
+5,15944,GMI 132E,Numerical Analy. of Eng.Syst.,Physical (Face to face),Ata Bilgili,DZB,Tuesday,17:30/19:29,--,5,3,-,MEN_LS,Detail,-
+6,11136,GMI 206,Atölye,Physical (Face to face),Çağlar Karatuğ,DZB,Monday,11:30/14:29,--,45,39,-,GMI_LS,-,-
+7,11144,GMI 206,Atölye,Physical (Face to face),Çağlar Karatuğ,DZB,Monday,14:30/17:29,--,30,22,-,GMI_LS,-,-
+8,15204,GMI 206E,Mechanical Workshop,Physical (Face to face),Çağlar Karatuğ,DZB,Monday,08:30/11:29,--,40,30,-,MEN_LS,-,-
+9,15940,GMI 213E,Thermodynamics,Physical (Face to face),Yalçın Durmuşoğlu,DZB,Monday,17:30/20:29,--,20,22,-,MEN_LS,Detail,-
+10,15504,GMI 214,Hidrolik ve Pnömatik,Ek Sınav,Ömer Berkehan İnal,-,-,-/-,-,0,0,-,-,-,-
+11,15367,GMI 223,Makine Elemanları,Ek Sınav,Hakan Demirel,-,-,-/-,-,0,0,-,-,-,-
+12,15565,GMI 243,Denizel Çevre Kimyası,Physical (Face to face),Yasin Arslanoğlu,DZB DZB,Wednesday Thursday,11:30/13:29 16:30/17:29,-- --,30,7,-,GMI_LS,-,-
+13,11294,GMI 254,Gemi Yardımcı Makineleri I,Physical (Face to face),Ömer Berkehan İnal,DZB,Tuesday,08:30/11:29,--,60,60,-,GMI_LS,-,-
+14,15207,GMI 254E,Marine Auxiliary Machinery I,Physical (Face to face),Kemal Demirel,DZB,Monday,13:30/16:29,--,40,22,-,MEN_LS,-,-
+15,15369,GMI 255,Gemi Elektrotekniği I,Ek Sınav,Tayfun Uyanık,-,-,-/-,-,0,0,-,-,Detail,-
+16,15942,GMI 256E,Electrotechnics,Physical (Face to face),Gazi Koçak,DZB,Tuesday,10:30/13:29,--,10,6,-,MEN_LS,Detail,-
+17,15368,GMI 261E,Fluid Mechanics,Ek Sınav,Ata Bilgili,-,-,-/-,-,0,0,-,-,Detail,-
+18,11171,GMI 270E,Maritime English II,Physical (Face to face),Müjgan Özenir,DZB,Tuesday,10:30/12:29,--,40,14,-,GMI_LS,-,-
+19,11203,GMI 270E,Maritime English II,Physical (Face to face),Müjgan Özenir,DZB,Wednesday,10:30/12:29,--,40,38,-,GMI_LS,-,-
+20,15246,GMI 270E,Maritime English II,Physical (Face to face),Müjgan Özenir,DZB,Tuesday,15:30/17:29,--,40,17,-,MEN_LS,-,-
+21,11275,GMI 301,Deniz Hukuku,Physical (Face to face),Hakan Muran,DZB,Thursday,11:30/13:29,--,40,32,-,GMI_LS,-,-
+22,11288,GMI 301,Deniz Hukuku,Physical (Face to face),Hakan Muran,DZB,Thursday,13:30/15:29,--,40,24,-,GMI_LS,-,-
+23,15220,GMI 301E,Maritime Law,Physical (Face to face),Arda Özkan,DZB,Wednesday,08:30/10:29,--,50,44,-,MEN_LS,-,-
+24,11169,GMI 313,Gemi Buhar Kazanları & Operas.,Physical (Face to face),Merve Gül Çıvgın,DZB,Tuesday,09:30/11:29,--,45,36,-,GMI_LS,-,-
+25,11274,GMI 313,Gemi Buhar Kazanları & Operas.,Physical (Face to face),Merve Gül Çıvgın,DZB,Thursday,09:30/11:29,--,40,21,-,GMI_LS,-,-
+26,15221,GMI 313E,Marine Boilers and Operation,Physical (Face to face),Cumali Seçkin Mengeçin,DZB,Tuesday,13:30/15:29,--,40,35,-,MEN_LS,-,-
+27,11166,GMI 320,Gemi İnşaatı ve Stabilite,Physical (Face to face),Cenk Kaya,DZB,Thursday,10:30/12:29,--,80,85,-,GMI_LS,-,-
+28,15206,GMI 320E,Naval Architecture&Stability,Physical (Face to face),Ahmet Bilici,DZB,Thursday,15:30/17:29,--,40,30,-,MEN_LS,-,-
+29,11292,GMI 324,Gemi Mak. Operasyon&Bakımı,Physical (Face to face),Samet Biçen,DZB,Monday,08:30/10:29,--,40,17,-,GMI_LS,-,-
+30,11297,GMI 324,Gemi Mak. Operasyon&Bakımı,Physical (Face to face),Samet Biçen,DZB,Monday,12:30/14:29,--,50,45,-,GMI_LS,-,-
+31,15223,GMI 324E,Ship Machinery Operation and Maintenance,Physical (Face to face),Samet Biçen,DZB,Tuesday,15:30/17:29,--,40,35,-,MEN_LS,-,-
+32,11184,GMI 333,Gemi Dizel Makineleri II,Physical (Face to face),Cengiz Deniz,DZB,Wednesday,13:30/15:29,--,40,27,-,GMI_LS,-,-
+33,11253,GMI 333,Gemi Dizel Makineleri II,Physical (Face to face),Cengiz Deniz,DZB,Wednesday,11:30/13:29,--,40,38,-,GMI_LS,-,-
+34,15222,GMI 333E,Marine Diesel Engines II,Physical (Face to face),Cumali Seçkin Mengeçin,DZB,Friday,10:30/12:29,--,40,39,-,MEN_LS,-,-
+35,11146,GMI 341E,Automatic Control Systems,Physical (Face to face),İsmail Çiçek,DZB,Monday,14:30/17:29,--,40,24,-,GMI_LS,Detail,-
+36,11196,GMI 341E,Automatic Control Systems,Physical (Face to face),Tayfun Uyanık,DZB,Wednesday,08:30/11:29,--,40,31,-,GMI_LS,Detail,-
+37,15219,GMI 341E,Automatic Control Systems,Physical (Face to face),Tayfun Uyanık,DZB,Friday,14:00/16:59,--,40,36,-,MEN_LS,Detail,-
+38,11842,GMI 342E,Maritime Rules & Regulations,Physical (Face to face),Fırat Bolat,DZB,Monday,10:30/12:29,--,60,51,-,GMI_LS,-,-
+39,15224,GMI 342E,Maritime Rules & Regulations,Physical (Face to face),Fırat Bolat,DZB,Tuesday,11:30/13:29,--,70,61,-,MEN_LS,-,-
+40,11176,GMI 352,Isı Geçişi,Physical (Face to face),Cenk Kaya,DZB,Tuesday,14:30/17:29,--,75,43,-,GMI_LS,Detail,-
+41,15225,GMI 352E,Heat Transfer,Physical (Face to face),Yalçın Durmuşoğlu,DZB,Thursday,08:30/11:29,--,40,16,-,MEN_LS,Detail,-
+42,11150,GMI 384E,Engine Room Simulator (ERS) I,Physical (Face to face),Samet Biçen,DZB,Tuesday,08:30/11:29,--,16,10,-,GMI_LS,Detail,-
+43,11198,GMI 384E,Engine Room Simulator (ERS) I,Physical (Face to face),Samet Biçen,DZB,Monday,14:30/17:29,--,16,11,-,GMI_LS,Detail,-
+44,11267,GMI 384E,Engine Room Simulator (ERS) I,Physical (Face to face),İsmail Çiçek,DZB,Thursday,08:30/11:29,--,16,10,-,GMI_LS,Detail,-
+45,11302,GMI 384E,Engine Room Simulator (ERS) I,Physical (Face to face),Merve Gül Çıvgın,DZB,Wednesday,08:30/11:29,--,16,5,-,GMI_LS,Detail,-
+46,11303,GMI 384E,Engine Room Simulator (ERS) I,Physical (Face to face),Merve Gül Çıvgın,DZB,Tuesday,11:30/14:29,--,16,17,-,GMI_LS,Detail,-
+47,15226,GMI 384E,Engine Room Simulator (ERS) I,Physical (Face to face),Kemal Demirel,DZB,Thursday,14:30/17:29,--,20,21,-,MEN_LS,Detail,-
+48,15227,GMI 384E,Engine Room Simulator (ERS) I,Physical (Face to face),Kemal Demirel,DZB,Thursday,11:30/14:29,--,20,21,-,MEN_LS,Detail,-
+49,14952,GMI 393E,Long Term Sea Training (6 ay),Physical (Face to face),İsmail Çiçek,-,-,-/-,-,100,2,-,"GMI_LS, GMIE_LS",Detail,-
+50,15233,GMI 393E,Long Term Sea Training (6 ay),Physical (Face to face),Cumali Seçkin Mengeçin,-,-,-/-,-,60,2,-,MEN_LS,Detail,-
+51,11271,GMI 454,Gemi Yardımcı Makineleri II,Physical (Face to face),Ömer Berkehan İnal,DZB,Tuesday,12:30/15:29,--,40,50,-,GMI_LS,Detail,-
+52,11308,GMI 454,Gemi Yardımcı Makineleri II,Physical (Face to face),Ömer Berkehan İnal,DZB,Thursday,08:30/11:29,--,40,9,-,GMI_LS,Detail,-
+53,15242,GMI 454E,Marine Auxiliary Machinery II,Physical (Face to face),Kemal Demirel,DZB,Monday,10:30/13:29,--,40,29,-,MEN_LS,Detail,-
+54,11158,GMI 457,Gemi Elektrotekniği,Physical (Face to face),Gazi Koçak,DZB,Tuesday,08:30/10:29,--,50,35,-,GMI_LS,-,-
+55,11309,GMI 457,Gemi Elektrotekniği,Physical (Face to face),Gazi Koçak,DZB,Thursday,11:30/13:29,--,40,17,-,GMI_LS,-,-
+56,15243,GMI 457E,Marine Electrotechnics,Physical (Face to face),Tayfun Uyanık,DZB,Monday,14:30/16:29,--,40,35,-,MEN_LS,-,-
+57,15370,GMI 461,Buhar & Gaz Türbinleri Operas.,Ek Sınav,Yalçın Durmuşoğlu,-,-,-/-,-,0,0,-,-,Detail,-
+58,15534,GMI 462,Buhar & Gaz Türbinleri Operas.,Physical (Face to face),Merve Gül Çıvgın,FEB,Monday,10:30/12:29,--,30,33,-,GMI_LS,Detail,-
+59,15945,GMI 462E,Oper.of Steam&Gas Turbines,Physical (Face to face),Cumali Seçkin Mengeçin,DZB,Tuesday,08:30/10:29,--,10,7,-,MEN_LS,Detail,-
+60,11182,GMI 471E,Refrigeration and HVAC Systems,Physical (Face to face),Gazi Koçak,DZB,Tuesday,15:30/17:29,--,40,24,-,GMI_LS,-,-
+61,11167,GMI 473,Gemi Dizel Makineleri III,Physical (Face to face),Burak Zincir,DZB,Tuesday,10:30/12:29,--,30,43,-,GMI_LS,Detail,-
+62,11311,GMI 473,Gemi Dizel Makineleri III,Physical (Face to face),Yalçın Durmuşoğlu,DZB,Wednesday,10:30/12:29,--,40,23,-,GMI_LS,Detail,-
+63,15244,GMI 473E,Marine Diesel Engines III,Physical (Face to face),Yalçın Durmuşoğlu,DZB,Tuesday,08:30/10:29,--,40,29,-,MEN_LS,Detail,-
+64,11840,GMI 474E,Quality&Safety Management Sys.,Physical (Face to face),Metin Çelik,DZB,Wednesday,08:30/10:29,--,30,21,-,GMI_LS,-,-
+65,15247,GMI 474E,Quality&Safety Management Sys.,Physical (Face to face),İsmail Kandemir,DZB,Wednesday,10:30/12:29,--,60,47,-,"MEN_LS, MTM_LS",-,-
+66,15248,GMI 476E,Deck Machinery,Physical (Face to face),Cumali Seçkin Mengeçin,DZB,Wednesday,12:30/14:29,--,50,39,-,MEN_LS,-,-
+67,11149,GMI 477E,Alternative Fuel Technologies,Physical (Face to face),Burak Zincir,DZB,Monday,15:30/17:29,--,35,32,-,GMI_LS,-,-
+68,11286,GMI 481E,Marine Insurance,Physical (Face to face),Sinan Çakır,DZB,Thursday,13:30/15:29,--,30,20,-,GMI_LS,-,-
+69,15371,GMI 481E,Marine Insurance,Ek Sınav,-,-,-,-/-,-,0,0,-,-,-,-
+70,15946,GMI 481E,Marine Insurance,Physical (Face to face),Sinan Çakır,DZB,Wednesday,17:30/19:29,--,20,35,-,"MEN_LS, MTM_LS",-,-
+71,15372,GMI 484E,Engine Room Simulator (ERS) II,Ek Sınav,Samet Biçen,-,-,-/-,-,0,0,-,-,Detail,-
+72,15535,GMI 484E,Engine Room Simulator (ERS) II,Physical (Face to face),İsmail Çiçek,DZB,Wednesday,12:30/15:29,--,14,20,-,GMI_LS,Detail,-
+73,11128,GMI 486E,Shipping Finance,Physical (Face to face),Sinan Çakır,DZB,Monday,08:30/10:29,--,40,25,-,GMI_LS,-,-
+74,15947,GMI 486E,Shipping Finance,Physical (Face to face),Sinan Çakır,DZB,Tuesday,11:30/13:29,--,20,11,-,"MEN_LS, MTM_LS",-,-
+75,11138,GMI 487E,Occupational Health & Safety,Physical (Face to face),Kadir Çiçek,DZB,Monday,13:30/15:29,--,35,25,-,GMI_LS,-,-
+76,11318,GMI 4901,Gemi Mak. İşl. Müh. Tasarımı I,Physical (Face to face),Çağlar Karatuğ,-,-,-/-,-,100,36,-,GMI_LS,Detail,Detail
+77,15245,GMI 4901E,Marine Engineering Design I,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,23,-,MEN_LS,Detail,Detail
+78,11320,GMI 4902,Gemi Mak. İşl. Müh.Tasarımı II,Physical (Face to face),Çağlar Karatuğ,-,-,-/-,-,100,32,-,GMI_LS,Detail,-
+79,15251,GMI 4902E,Marine Engineering Design II,Physical (Face to face),Selim Aksoy,-,-,-/-,-,60,3,-,MEN_LS,Detail,-

@@ -1,0 +1,71 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,13942,CEV 103,Çevre Müh. Giriş ve Etik,Physical (Face to face),"Fatma Gülen İskender , Börte Köse Mutlu",INB,Wednesday,13:30/15:29,B201,40,39,-,CEV_LS,-,-
+1,13943,CEV 103,Çevre Müh. Giriş ve Etik,Physical (Face to face),"Vedat Uyak , Naciye Esra Ateş Genceli",INB,Wednesday,13:30/15:29,B302,40,16,-,CEV_LS,-,-
+2,13944,CEV 103E,Intr.to Environm. Eng.&Ethics,Physical (Face to face),"Elif Pehlivanoğlu , Gülsüm Emel Zengin Balcı",INB,Wednesday,13:30/15:29,D203,30,32,-,"CEV_LS, CEVE_LS",-,-
+3,13945,CEV 103E,Intr.to Environm. Eng.&Ethics,Physical (Face to face),"Onur Işık , Mehmet Sadık Akca",INB,Wednesday,13:30/15:29,B307,30,21,-,"CEV_LS, CEVE_LS",-,-
+4,13966,CEV 203,Çevre Mikrobiyolojisi,Physical (Face to face),Gülsüm Emel Zengin Balcı,INB INB,Tuesday Thursday,13:30/16:29 12:30/14:29,A103 B205,33,31,-,CEV_LS,-,-
+5,13967,CEV 203,Çevre Mikrobiyolojisi,Physical (Face to face),Bahar Yavuztürk Gül,INB INB,Tuesday Thursday,13:30/16:29 08:30/10:29,B308 B305,33,31,-,CEV_LS,-,-
+6,13968,CEV 203E,Environmental Microbiology,Physical (Face to face),Bahar Yavuztürk Gül,INB INB,Monday Tuesday,08:30/11:29 10:30/12:29,B206 B306,33,34,-,"CEV_LS, CEVE_LS",-,-
+7,13969,CEV 203E,Environmental Microbiology,Physical (Face to face),Ebru Dülekgürgen,INB INB,Monday Tuesday,08:30/11:29 15:30/17:29,A304 B303,33,18,-,"CEV_LS, CEVE_LS",-,-
+8,13970,CEV 205,Çevre Ekolojisi,Physical (Face to face),"Naciye Esra Ateş Genceli , Fatma Gülen İskender",INB,Monday,11:30/13:29,A204,65,63,-,CEV_LS,-,-
+9,13971,CEV 205E,Environmental Ecology,Physical (Face to face),"Ebru Dülekgürgen , Özlem Karahan Özgün",INB,Tuesday,12:30/14:29,A304,60,39,-,"CEV_LS, CEVE_LS",-,-
+10,13972,CEV 210,Mühendislik Matematiği,Physical (Face to face),"Recep Kaya , Büşra Çiçekalan",INB,Wednesday,08:30/11:29,A305,60,49,-,CEV_LS,Detail,-
+11,13973,CEV 210E,Engineering Mathematics,Physical (Face to face),"Onur Yılmaz Özcan , Mehmet Sadık Akca",INB,Wednesday,08:30/11:29,D203,70,73,-,"CEV_LS, CEVE_LS",Detail,-
+12,14048,CEV 211,Çevre Kimyası I,Physical (Face to face),"Ayşe Yüksekdağ , Derya Yüksel İmer",INB INB,Tuesday Friday,10:30/12:29 10:30/12:29,B308 B308,30,36,-,CEV_LS,Detail,-
+13,14049,CEV 211,Çevre Kimyası I,Physical (Face to face),"Nuray Işık Kabdaşlı , Serdar Doğruel",INB INB,Monday Thursday,13:30/15:29 10:30/12:29,B307 B303,30,30,-,CEV_LS,Detail,-
+14,14052,CEV 211E,Enviromental Chemistry I,Physical (Face to face),"İdil Arslan Alaton , Elif Pehlivanoğlu",INB INB,Tuesday Thursday,08:30/10:29 08:30/10:29,B307 B307,30,18,-,"CEV_LS, CEVE_LS",Detail,-
+15,14054,CEV 211E,Enviromental Chemistry I,Physical (Face to face),Serdar Doğruel,INB undeclared,Tuesday Friday,08:30/10:29 08:30/10:29,B308 --,30,32,-,"CEV_LS, CEVE_LS",Detail,-
+16,14055,CEV 242,Çevre Müh. İçin Hidroloji,Physical (Face to face),Alpaslan Ekdal,INB,Friday,08:30/11:29,B104,80,64,-,CEV_LS,Detail,-
+17,14057,CEV 242E,Hydrlgy.for Environmental Eng.,Physical (Face to face),Çiğdem Gömeç,INB,Friday,08:30/11:29,B103,80,80,-,"CEV_LS, CEVE_LS",Detail,-
+18,14059,CEV 301,Kimyasal Prosesler,Physical (Face to face),"Nuray Işık Kabdaşlı , Serdar Doğruel",INB,Thursday,12:30/15:29,A204,60,34,-,CEV_LS,Detail,-
+19,14062,CEV 301E,Chemical Processes,Physical (Face to face),"İdil Arslan Alaton , Vahıd Vatanpour Sargheın",INB,Thursday,12:30/15:29,B101,50,52,-,"CEV_LS, CEVE_LS",Detail,-
+20,14065,CEV 301E,Chemical Processes,Physical (Face to face),"Öykü Mutlu Salmanlı , Ramazan Keyikoğlu",INB,Thursday,12:30/15:29,B203,50,51,-,"CEV_LS, CEVE_LS",Detail,-
+21,15905,CEV 302,Biyolojik Prosesler,Ek Sınav,Emine Çokgör,-,-,-/-,-,0,0,-,CEV_LS,Detail,-
+22,15885,CEV 302E,Biological Processes,Ek Sınav,Rüya Taşlı,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",Detail,-
+23,14068,CEV 303,Teknik Resim (CAD),Physical (Face to face),Recep Kaya,INB,Friday,14:00/16:59,D103,67,45,-,CEV_LS,-,-
+24,14074,CEV 303E,Technical Drawing (CAD),Physical (Face to face),Özlem Karahan Özgün,INB,Friday,14:00/16:59,D101,39,39,-,"CEV_LS, CEVE_LS",-,-
+25,14075,CEV 303E,Technical Drawing (CAD),Physical (Face to face),Enise Pekgenç,INB,Friday,14:00/16:59,D104,21,21,-,"CEV_LS, CEVE_LS",-,-
+26,14079,CEV 306,Su Temini &Atıksuların Uzakl.,Physical (Face to face),"Ali Fuat Aydın , Hüseyin Güven",INB INB,Wednesday Thursday,13:30/15:29 08:30/10:29,A303 B201,70,67,-,CEV_LS,Detail,-
+27,14080,CEV 306E,Water Supply&Wastewater Dispo.,Physical (Face to face),"Mahmut Ekrem Karpuzcu , Mehmet Emin Paşaoğlu",INB INB,Monday Wednesday,11:30/13:29 13:30/15:29,B103 B103,85,97,-,"CEV_LS, CEVE_LS",Detail,-
+28,15903,CEV 308,Hava Kirlenmesi,Ek Sınav,Sadullah Levent Kuzu,-,-,-/-,-,0,0,-,CEV_LS,Detail,-
+29,15886,CEV 308E,Air Pollution,Ek Sınav,Burçak Kaynak Tezel,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",Detail,-
+30,14081,CEV 314E,Treatment Plant Hydraulics,Physical (Face to face),"Mustafa Evren Erşahin , Hale Özgün Erşahin",INB,Monday,09:30/11:29,B306,30,4,-,"CEV_LS, CEVE_LS",-,-
+31,15321,CEV 315E,Urban Planning,Physical (Face to face),Aysu Uzsayılır,INB,Thursday,13:30/15:29,A101,30,9,-,"CEV_LS, CEVE_LS",-,-
+32,14116,CEV 317E,Urban Drainage,Physical (Face to face),Mahmut Ekrem Karpuzcu,INB,Friday,10:30/12:29,B306,30,13,-,"CEV_LS, CEVE_LS",-,-
+33,15904,CEV 330,Su Arıtma Tesisi Tasarımı,Ek Sınav,Mustafa Evren Erşahin,-,-,-/-,-,0,0,-,CEV_LS,Detail,-
+34,15887,CEV 330E,Water Treatment Plant Design,Ek Sınav,Onur Işık,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",Detail,-
+35,15884,CEV 334E,Solid Waste Management,Ek Sınav,Osman Atilla Arıkan,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,-
+36,14117,CEV 343,Su Kalitesi Yönetimi,Physical (Face to face),"Melike Gürel , Elif Pehlivanoğlu",INB,Monday,08:30/11:29,A104,75,74,-,CEV_LS,Detail,-
+37,14118,CEV 343E,Water Quality Management,Physical (Face to face),"Melike Gürel , Elif Pehlivanoğlu",INB,Tuesday,14:30/17:29,B104,80,75,-,"CEV_LS, CEVE_LS, OSN_YD",Detail,-
+38,14119,CEV 347,Temel İşlemler,Physical (Face to face),"Ramazan Keyikoğlu , Hüseyin Erdem Görgün",INB,Monday,14:30/17:29,A204,80,74,-,CEV_LS,-,-
+39,14120,CEV 347E,Unit Operations,Physical (Face to face),"Seval Sözen , Rüya Taşlı",INB,Monday,14:30/17:29,A104,80,74,-,"CEV_LS, CEVE_LS",-,-
+40,14121,CEV 401,Atıksu Arıtma Tesisi Tas.,Physical (Face to face),"İsmail Koyuncu , Hale Özgün Erşahin , Ayşe Yüksekdağ , Onur Işık",INB INB,Monday Thursday,13:30/16:29 10:30/12:29,D203 D203,76,76,-,CEV_LS,Detail,-
+41,14122,CEV 401E,Wastewater Treat. Plant Design,Physical (Face to face),"Mustafa Evren Erşahin , Hayrettin Güçlü İnsel , Türker Türken",INB INB,Monday Thursday,13:30/16:29 08:30/10:29,A302 A105,62,58,-,"CEV_LS, CEVE_LS",Detail,-
+42,15910,CEV 402,Toprak&Yeraltı Suyu Kirl.Kont.,Ek Sınav,Mahmut Ekrem Karpuzcu,-,-,-/-,-,0,0,-,CEV_LS,-,Detail
+43,15899,CEV 424E,Wastewtr Mngmnt in Smll Cmmnts,Ek Sınav,Mahmut Altınbaş,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,-
+44,14123,CEV 427,Çevre Modellemesi Esasları,Physical (Face to face),"Burçak Kaynak Tezel , Alpaslan Ekdal , Gökşin Özyıldız",INB,Tuesday,14:30/17:29,A104,80,82,-,CEV_LS,Detail,-
+45,14124,CEV 427E,Environmental Model.Principles,Physical (Face to face),"Burçak Kaynak Tezel , Alpaslan Ekdal , Gökşin Özyıldız",INB,Wednesday,09:30/12:29,B104,83,82,-,"CEV_LS, CEVE_LS",Detail,-
+46,15900,CEV 428E,Envirn.Plan.of Catchment Areas,Ek Sınav,Melike Gürel,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,-
+47,14125,CEV 429,Endüstriyel Kirlenme Kontrolü,Physical (Face to face),"Fatma Fatoş Babuna , Meltem Ağtaş",INB,Friday,14:30/17:29,A105,70,71,-,CEV_LS,-,-
+48,14126,CEV 429E,Industrial Pollution Control,Physical (Face to face),Emine Çokgör,INB,Friday,14:30/17:29,B203,77,76,-,"CEV_LS, CEVE_LS",-,-
+49,15908,CEV 432,Çevre Ekonomisi,Ek Sınav,Öykü Mutlu Salmanlı,-,-,-/-,-,0,0,-,CEV_LS,-,Detail
+50,15889,CEV 432E,Environmental Economics,Ek Sınav,Onur Işık,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,Detail
+51,14128,CEV 433E,Hazardous Waste Management,Physical (Face to face),"Fatma Fatoş Babuna , Özlem Karahan Özgün",INB,Wednesday,13:30/15:29,A103,30,17,-,"CEV_LS, CEVE_LS",-,-
+52,14129,CEV 438,Çevre Etkilerinin Değerlendiri,Physical (Face to face),Mustafa Sait Yazgan,INB,Tuesday,08:30/10:29,B306,40,44,-,CEV_LS,-,-
+53,14130,CEV 439E,Landfill Design and Operation,Physical (Face to face),"Osman Atilla Arıkan , Bülent İnanç",INB,Friday,10:30/12:29,A101,35,32,-,"CEV_LS, CEVE_LS",-,-
+54,15907,CEV 442,Çevre Hukuku,Ek Sınav,Fatma Gülen İskender,-,-,-/-,-,0,0,-,CEV_LS,-,Detail
+55,15897,CEV 442E,Environmental Law,Ek Sınav,Derya Yüksel İmer,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,Detail
+56,14131,CEV 443E,Dsgn.of Air Polluti.Cont.Syst.,Physical (Face to face),Burçak Kaynak Tezel,INB,Tuesday,10:30/12:29,B303,30,7,-,"CEV_LS, CEVE_LS",-,-
+57,16009,CEV 447E,Land Treatment Systems,Ek Sınav,Mahmut Ekrem Karpuzcu,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,-
+58,15906,CEV 449E,Control&Autom. in Env. Facil.,Ek Sınav,Hayrettin Güçlü İnsel,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,-
+59,14133,CEV 453E,Mng. & Disp. of Treat. Sludges,Physical (Face to face),Çiğdem Gömeç,INB,Thursday,13:30/15:29,B306,30,8,-,"CEV_LS, CEVE_LS",-,-
+60,15909,CEV 456,İş Sağlığı ve Güvenliği,Ek Sınav,Fatma Gülen İskender,-,-,-/-,-,0,0,-,CEV_LS,-,-
+61,15898,CEV 456E,Occupational Health and Safety,Ek Sınav,Bülent İnanç,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,-
+62,15901,CEV 458E,Design of Marine Disposal Sys.,Ek Sınav,Hüseyin Güven,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,-
+63,14134,CEV 471,Çevre Mühendisliğinde Etik,Virtual (Online),Fatma Gülen İskender,undeclared,Tuesday,12:30/13:29,--,75,72,-,CEV_LS,-,-
+64,14135,CEV 471E,Ethics in Environmental Eng.,Virtual (Online),İdil Arslan Alaton,undeclared,Wednesday,12:30/13:29,--,82,81,-,"CEV_LS, CEVE_LS",-,-
+65,15902,CEV 472E,Opr.of Wastewater Treat.Plants,Ek Sınav,Gülsüm Emel Zengin Balcı,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,-
+66,14136,CEV 4901,Çevre Müh. Tasarımı I,Physical (Face to face),Mustafa Evren Erşahin,-,-,-/-,-,500,53,-,CEV_LS,Detail,Detail
+67,14392,CEV 4901E,Environmental Eng. Design I,Physical (Face to face),Mustafa Evren Erşahin,-,-,-/-,-,500,49,-,"CEV_LS, CEVE_LS",Detail,Detail
+68,14393,CEV 4902E,Environmental Eng. Design II,Physical (Face to face),Mustafa Evren Erşahin,-,-,-/-,-,500,18,-,"CEV_LS, CEVE_LS",Detail,-
+69,15888,CEV 492E,Graduation Design Project,Ek Sınav,Mustafa Evren Erşahin,-,-,-/-,-,0,0,-,"CEV_LS, CEVE_LS",-,Detail

@@ -1,0 +1,31 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12679,PEM 119E,Int.Landscape Architec.&Ethics,Physical (Face to face),Arzu Türk,MMB,Tuesday,10:30/12:29,212,100,44,-,"PEM_LS, PEME_LS",-,-
+1,12708,PEM 205E,Comp. Aided Landscape Arch.,Virtual (Online),Safiye Elif Serdar Yakut,MMB,Friday,14:00/16:59,--,80,57,-,"PEM_LS, PEME_LS",-,-
+2,12685,PEM 209E,Landform & Built Envir.Studio,Physical (Face to face),Meltem Erdem Kaya,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,217E 217E,15,15,-,"PEM_LS, PEME_LS",Detail,-
+3,12687,PEM 209E,Landform & Built Envir.Studio,Physical (Face to face),Nilay Özlü Karaca,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,217D 217D,16,16,-,"PEM_LS, PEME_LS",Detail,-
+4,12689,PEM 209E,Landform & Built Envir.Studio,Physical (Face to face),Arzu Türk,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,9,9,-,"PEM_LS, PEME_LS",Detail,-
+5,12691,PEM 212E,Landscape Design I,Physical (Face to face),Melih Bozkurt,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,212 212,10,5,-,"PEM_LS, PEME_LS",Detail,-
+6,15800,PEM 214E,Resilient Urban Design,Physical (Face to face),Melih Bozkurt,-,-,-/-,-,0,1,-,-,-,-
+7,12707,PEM 225E,Hist.Theo.&Crtc.inLndsc.Arc.II,Physical (Face to face),"Ebru Erbaş Gürler , Çisem Demirel Koyun",MMB,Thursday,09:30/12:29,106,80,44,-,"PEM_LS, PEME_LS",-,-
+8,12705,PEM 231E,Plant Material II,Physical (Face to face),Didem Dizdaroğlu,MMB,Tuesday,13:30/17:29,333,35,27,-,"PEM_LS, PEME_LS",-,-
+9,12706,PEM 231E,Plant Material II,Physical (Face to face),Didem Dizdaroğlu,MMB,Monday,08:30/12:29,217C,35,26,-,"PEM_LS, PEME_LS",-,-
+10,12709,PEM 242E,Landscape Eco.&Its Ref.onDsg.,Physical (Face to face),"Meltem Erdem Kaya , Safiye Elif Serdar Yakut",MMB,Tuesday,09:00/10:59,107,85,46,-,"PEM_LS, PEME_LS",-,-
+11,13100,PEM 303E,Int.to Geographical Inf.Sys.,Virtual (Online),"Elif Kısar Koramaz , Arzu Türk",MMB,Tuesday,13:30/16:29,--,80,50,-,"PEM_LS, PEME_LS",-,-
+12,13102,PEM 305E,Landscape Construction II,Physical (Face to face),Uluç Algan,MMB,Friday,08:30/12:29,203A,75,50,-,"PEM_LS, PEME_LS",-,-
+13,13101,PEM 307E,Urbanism & Planning Law,Physical (Face to face),"Sezen Tarakçı , Mehmet Ronael",MMB,Tuesday,08:30/12:29,106,70,67,-,"PEM_LS, PEME_LS",-,-
+14,12692,PEM 311E,Landscape Design II,Physical (Face to face),Melih Bozkurt,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,10,-,"PEM_LS, PEME_LS",Detail,-
+15,12693,PEM 311E,Landscape Design II,Physical (Face to face),Ebru Erbaş Gürler,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,15,-,"PEM_LS, PEME_LS",Detail,-
+16,12694,PEM 311E,Landscape Design II,Physical (Face to face),Çisem Demirel Koyun,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,10,10,-,"PEM_LS, PEME_LS",Detail,-
+17,12699,PEM 312E,Landscape Design III,Physical (Face to face),Ikhwan Kım,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,217C 217C,9,6,-,"PEM_LS, PEME_LS",Detail,-
+18,12700,PEM 312E,Landscape Design III,Physical (Face to face),Didem Dizdaroğlu,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,10,11,-,"PEM_LS, PEME_LS",Detail,-
+19,13108,PEM 4012E,Adv.Rendering Tech.inLands.,Physical (Face to face),Ikhwan Kım,MMB,Friday,14:30/17:29,302,30,14,-,"PEM_LS, PEME_LS",-,-
+20,13109,PEM 4013E,Computer.App.in Plan.&Design,Physical (Face to face),"Çağla Kaplan , EMRE DÖRTER",undeclared,Thursday,10:30/12:29,--,18,18,-,"PEM_LS, PEME_LS",-,-
+21,15793,PEM 4015E,Experim.Studies on Place&Desg,Physical (Face to face),Gülşen Aytaç,MMB,Wednesday,13:30/15:29,BIM2,25,18,PEME_LS/15/15 | Diğer/10/3,"ENTE_LS, ICM_LS, MIME_LS, PEME_LS, SBPE_LS",-,-
+22,13115,PEM 4022E,Urban Furniture and Space,Physical (Face to face),Gülşen Aytaç,MMB,Thursday,10:30/12:29,309,32,28,-,"EUT_LS, EUTE_LS, ICM_LS, MIM_LS, MIME_LS, PEM_LS, PEME_LS, SBP_LS, SBPE_LS",-,-
+23,13118,PEM 4023E,Urban Visual Analysis,Physical (Face to face),Elif Lutfiye Kutay Karaçor,MMB,Monday,10:30/12:29,3503,33,34,-,"PEM_LS, PEME_LS",-,-
+24,13119,PEM 4024E,Readings About National Landscape Architecture,Physical (Face to face),Çisem Demirel Koyun,MMB,Wednesday,13:30/15:29,CATI4,27,24,-,"PEM_LS, PEME_LS",-,-
+25,13106,PEM 407E,Const.Drawi.Tch.in Landsc.Dsgn,Physical (Face to face),Hayriye Eşbah Tunçay,MMB,Wednesday,08:30/12:29,214,90,60,-,"PEM_LS, PEME_LS",Detail,-
+26,12695,PEM 411E,Landscape Design IV,Physical (Face to face),Gülşen Aytaç,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,214 214,13,14,-,"PEM_LS, PEME_LS",Detail,-
+27,12697,PEM 411E,Landscape Design IV,Physical (Face to face),Fatma Ayçim Türer Başkaya,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,13,12,-,"PEM_LS, PEME_LS",Detail,-
+28,12698,PEM 411E,Landscape Design IV,Physical (Face to face),Elif Lutfiye Kutay Karaçor,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,13,13,-,"PEM_LS, PEME_LS",Detail,-
+29,12701,PEM 4902E,Graduation Project,Physical (Face to face),Melih Bozkurt,MMB MMB,Friday Friday,14:00/17:59 08:00/12:59,3504 3504,50,15,-,"PEM_LS, PEME_LS",Detail,Detail

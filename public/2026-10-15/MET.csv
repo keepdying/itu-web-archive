@@ -1,0 +1,67 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,10975,MET 101E,Int.toMet.&Mat.Engn.&Eng.Ethic,Physical (Face to face),"Faiz Muhaffel , Murat Baydoğan",KMB,Wednesday,13:30/15:29,D201,200,121,-,"MET_LS, METE_LS",-,-
+1,10976,MET 213,Malzeme Biliminin Temelleri,Physical (Face to face),"Gültekin Göller , İpek Akın Karadayı",KMB,Monday,13:30/16:29,D301,90,79,-,MET_LS,-,-
+2,10977,MET 213E,Fund.of Materials Science,Physical (Face to face),"Gültekin Göller , İpek Akın Karadayı",KMB,Wednesday,09:30/12:29,D301,90,68,-,METE_LS,-,-
+3,10978,MET 215,Metalurji Termodinamiğ. Tem.,Physical (Face to face),Nuri Solak,KMB,Wednesday,09:30/12:29,D103,95,83,-,MET_LS,-,-
+4,10979,MET 215E,Fund.of Metall.Thermodynamics,Physical (Face to face),Nuri Solak,KMB,Thursday,10:30/13:29,D103,100,73,-,METE_LS,-,-
+5,10980,MET 220,Mühendislik Matematiği,Physical (Face to face),Kübra Onbaşlı,KMB KMB,Monday Wednesday,11:30/13:29 13:30/15:29,D102 D102,70,64,-,MET_LS,Detail,-
+6,10981,MET 220E,Engineering Mathematics,Physical (Face to face),Kübra Onbaşlı,KMB KMB,Friday Friday,11:00/12:59 14:00/15:59,D104 D202,80,78,-,METE_LS,Detail,-
+7,15956,MET 228,Malzeme Kimyası,Ek Sınav,Aytekin Uzunoğlu,-,-,-/-,-,0,0,-,-,-,-
+8,10982,MET 313,Kimyasal Metalurji I,Physical (Face to face),"Servet İbrahim Timur , Güldem Kartal Şireli",KMB,Monday,15:30/17:29,D202,100,83,-,MET_LS,Detail,-
+9,10983,MET 313E,Chemical Metallugry I,Physical (Face to face),"Onuralp Yücel , Cevat Bora Derin , Mehmet Şeref Sönmez",KMB,Monday,15:30/17:29,D203,75,60,-,METE_LS,Detail,-
+10,10984,MET 315E,Fund. of Physical Metallurgy,Physical (Face to face),Duygu Ağaoğulları,KMB,Monday,08:30/11:29,D201,180,145,-,"MET_LS, METE_LS",Detail,-
+11,10985,MET 317E,Fund. of Transport Phenomena,Physical (Face to face),Güldem Kartal Şireli,KMB,Tuesday,10:30/13:29,D201,180,147,-,"MET_LS, METE_LS",-,-
+12,15979,MET 326,Kimyasal Metalurji II,Ek Sınav,Servet İbrahim Timur,-,-,-/-,-,0,1,-,-,Detail,-
+13,15964,MET 326E,Chemical Metallurgy II,Ek Sınav,Cevat Bora Derin,-,-,-/-,-,0,1,-,-,Detail,-
+14,15969,MET 328E,Introduction to Biomaterials,Ek Sınav,Gültekin Göller,-,-,-/-,-,0,1,-,-,-,-
+15,10986,MET 335,Mlz.Elekt. Many.&Optk Özellik.,Physical (Face to face),Hüseyin Kızıl,KMB,Thursday,08:30/11:29,D203,95,76,-,MET_LS,Detail,-
+16,10987,MET 335E,"Elect.,Magn.,Optic.Prop.ofMat.",Physical (Face to face),Muhammet Kürşat Kazmanlı,KMB,Friday,14:00/16:59,D104,100,83,-,"ALG_YD, METE_LS",Detail,-
+17,10988,MET 337,Malzeme Karakterizasyon Met.,Physical (Face to face),"Özgül Keleş , Billur Deniz Karahan",KMB,Thursday,13:30/16:29,D301,100,86,-,MET_LS,Detail,-
+18,10989,MET 337E,Materials Characteriz. Meth.,Physical (Face to face),"Faiz Muhaffel , Erçin Çağan Duran",KMB,Wednesday,08:30/11:29,D104,100,69,-,METE_LS,Detail,-
+19,10990,MET 339,Malzeme Karakterizasyon Lab.,Physical (Face to face),"Erçin Çağan Duran , Aytekin Uzunoğlu , Cevat Fahir Arısoy , Filiz Şahin , Güldem Kartal Şireli , Gültekin Göller , İpek Akın Karadayı , Kübra Onbaşlı , Muhammet Kürşat Kazmanlı , Murat Baydoğan , Özgül Keleş , Sebahattin Gürmen , Servet İbrahim Timur",KMB,Tuesday,08:30/10:29,ML2,90,75,-,MET_LS,Detail,-
+20,10991,MET 339E,Materials Characterization Lab,Physical (Face to face),"Nuri Solak , Onuralp Yücel , Cevat Fahir Arısoy , Duygu Ağaoğulları , Özgül Keleş , Billur Deniz Karahan , Cevat Bora Derin , Hüseyin Kızıl",KMB,Tuesday,13:30/15:29,ML2,80,59,-,METE_LS,Detail,-
+21,15975,MET 344E,Mech. Properties of Materials,Ek Sınav,Faiz Muhaffel,-,-,-/-,-,0,0,-,-,-,-
+22,15957,MET 346,Met.&Malz.Pros.Mod.&Sim.,Ek Sınav,Sebahattin Gürmen,-,-,-/-,-,0,0,-,-,-,-
+23,15958,MET 348,Kalite Mühendisliği,Ek Sınav,Billur Deniz Karahan,-,-,-/-,-,0,0,-,-,Detail,-
+24,15965,MET 348E,Quality Engineering,Ek Sınav,Billur Deniz Karahan,-,-,-/-,-,0,0,-,-,Detail,-
+25,10992,MET 353,Müh.Uyg.Tasar.Pren&Malz.Seç.,Physical (Face to face),Bihter Zeytuncu Gökoğlu,KMB,Friday,10:30/12:29,D203,95,79,-,MET_LS,-,-
+26,10993,MET 353E,Dsn.Prnc.&Mat.Sel for Eng.App.,Physical (Face to face),"Özgül Keleş , Billur Deniz Karahan",KMB,Wednesday,12:30/14:29,D104,90,66,-,METE_LS,-,-
+27,15959,MET 364,Ekstraktif Metalurji Lab.,Ek Sınav,Faiz Muhaffel,-,-,-/-,-,0,0,-,-,Detail,-
+28,15966,MET 364E,Extractive Metallurgy Lab.,Ek Sınav,Erçin Çağan Duran,-,-,-/-,-,0,0,-,-,Detail,-
+29,15970,MET 364E,Extractive Metallurgy Lab.,Ek Sınav,Erçin Çağan Duran,-,-,-/-,-,0,1,-,-,Detail,-
+30,10994,MET 435E,PST Desg.&Prj.Mng. and Innov.,Physical (Face to face),"Özgül Keleş , Billur Deniz Karahan",KMB,Thursday,11:30/13:29,D201,170,166,-,"MET_LS, METE_LS",Detail,-
+31,10995,MET 437E,Princip.of Corros.&Corros.Prot,Physical (Face to face),Muhammet Kürşat Kazmanlı,KMB,Monday,11:30/13:29,D301,90,95,-,"MET_LS, METE_LS",Detail,-
+32,10996,MET 437E,Princip.of Corros.&Corros.Prot,Physical (Face to face),Cem Örnek,KMB,Monday,11:30/13:29,D104,90,86,-,"MET_LS, METE_LS",Detail,-
+33,10997,MET 439E,Engineering Polymers,Physical (Face to face),Mohammadreza Nofar,KMB,Friday,08:30/10:29,D201,180,180,-,"MET_LS, METE_LS",Detail,-
+34,15962,MET 442,Kompozit Malzemelerin Tem.,Ek Sınav,Duygu Ağaoğulları,-,-,-/-,-,0,0,-,-,Detail,-
+35,15976,MET 442,Kompozit Malzemelerin Tem.,Ek Sınav,Duygu Ağaoğulları,-,-,-/-,-,0,0,-,-,Detail,-
+36,15971,MET 442E,Fund. of Composite Materials,Ek Sınav,Mohammadreza Nofar,-,-,-/-,-,0,1,-,-,Detail,-
+37,15977,MET 444,Müh.Uyg.Demir ve Çelik E.Mlz.,Ek Sınav,Cevat Fahir Arısoy,-,-,-/-,-,0,1,-,-,Detail,-
+38,15972,MET 444E,Iron&Steel Mat.in Eng. App,Ek Sınav,Cevat Fahir Arısoy,-,-,-/-,-,0,1,-,-,Detail,-
+39,15319,MET 445E,Introduction to Density Functional Theory (DFT) and Application,Physical (Face to face),Cem Örnek,KMB,Wednesday,09:00/11:59,BIL.LAB.1,25,7,-,"MET_LS, METE_LS",Detail,-
+40,15978,MET 446,Met.ve Malz.Pros.Çevre ve Etik,Ek Sınav,Servet İbrahim Timur,-,-,-/-,-,0,0,-,-,-,-
+41,15967,MET 446E,Envir.&Ethc.inMet.&Mat.Proces,Ek Sınav,Mehmet Şeref Sönmez,-,-,-/-,-,0,0,-,-,-,-
+42,15973,MET 446E,Envir.&Ethc.inMet.&Mat.Proces,Ek Sınav,Mehmet Şeref Sönmez,-,-,-/-,-,0,1,-,-,-,-
+43,10998,MET 453E,Fund. of Ceramics Materials,Physical (Face to face),Filiz Şahin,KMB,Thursday,09:30/11:29,D201,140,141,-,"MET_LS, METE_LS",Detail,-
+44,10999,MET 455,Malzeme Proses Lab.,Physical (Face to face),"Faiz Muhaffel , Aytekin Uzunoğlu , Bihter Zeytuncu Gökoğlu , Cem Örnek , Filiz Şahin , Gültekin Göller , İpek Akın Karadayı , Kübra Onbaşlı , Mehmet Şeref Sönmez , Muhammet Kürşat Kazmanlı , Necip Ünlü , Sebahattin Gürmen , Servet İbrahim Timur , Yonca Alkan Göksu",KMB,Tuesday,13:30/15:29,ML1,90,80,-,MET_LS,Detail,-
+45,11000,MET 455E,Materials Processing Lab.,Physical (Face to face),"Faiz Muhaffel , Bihter Zeytuncu Gökoğlu , Cem Örnek , Mehmet Şeref Sönmez , Necip Ünlü , Yonca Alkan Göksu , Billur Deniz Karahan , Cevat Bora Derin , Hüseyin Kızıl , Nuri Solak , Onuralp Yücel",KMB,Tuesday,08:30/10:29,ML1,80,65,-,METE_LS,Detail,-
+46,11001,MET 457E,Semiconductor Materials,Physical (Face to face),Hüseyin Kızıl,KMB,Thursday,13:30/15:29,D203,45,7,-,"ALG_YD, MET_LS, METE_LS",-,-
+47,11002,MET 459E,Metal Casting and Technologies,Physical (Face to face),Necip Ünlü,KMB,Monday,15:30/17:29,D204,95,83,-,"MET_LS, METE_LS",-,-
+48,15981,MET 464E,Princip. of Surfaca Treatment,Ek Sınav,Muhammet Kürşat Kazmanlı,-,-,-/-,-,0,1,-,-,-,-
+49,15961,MET 472E,Casting Processes,Ek Sınav,Necip Ünlü,-,-,-/-,-,0,0,-,-,-,-
+50,15974,MET 472E,Casting Processes,Ek Sınav,Necip Ünlü,-,-,-/-,-,0,1,-,-,-,-
+51,11003,MET 474,Demir Dışı Metal.Ekstrk.Mtlrj.,Physical (Face to face),Onuralp Yücel,KMB,Friday,14:30/16:29,D203,35,4,-,MET_LS,-,-
+52,11004,MET 475E,Powder Metallurgy,Physical (Face to face),Duygu Ağaoğulları,KMB,Thursday,13:30/15:29,D102,60,52,-,"MET_LS, METE_LS",-,-
+53,15955,MET 476E,Intro. to Technical Ceramics,Ek Sınav,Filiz Şahin,-,-,-/-,-,0,3,-,-,-,-
+54,15960,MET 476E,Intro. to Technical Ceramics,Ek Sınav,Filiz Şahin,-,-,-/-,-,0,0,-,-,-,-
+55,15980,MET 479,Demir ve Çelik Üretimi,Ek Sınav,Cevat Fahir Arısoy,-,-,-/-,-,0,1,-,-,-,-
+56,11005,MET 479E,Iron and Steel Making,Physical (Face to face),Cevat Fahir Arısoy,KMB,Wednesday,13:30/15:29,D302,45,6,-,"MET_LS, METE_LS",-,-
+57,15968,MET 483,Hasarsız Malz. Muayenesi. Gir.,Ek Sınav,Aytekin Uzunoğlu,-,-,-/-,-,0,0,-,-,-,-
+58,11007,MET 483E,Intr.to Non Destr.Test.of Mat.,Physical (Face to face),Necip Ünlü,KMB,Wednesday,08:30/10:29,D204,80,46,MET_LS/32/4 | METE_LS/18/0 | Diğer/30/42,"MET_LS, METE_LS, UCK_LS, UZB_LS, UZBE_LS",-,-
+59,11008,MET 485E,Ceramic Manufacturing,Physical (Face to face),"Filiz Şahin , İpek Akın Karadayı",KMB,Tuesday,11:30/13:29,D102,45,31,-,"MET_LS, METE_LS",-,-
+60,11009,MET 487E,Deform. Proces.of Materials,Physical (Face to face),"Murat Baydoğan , Faiz Muhaffel",KMB,Monday,13:30/15:29,D303,85,40,MET_LS/33/1 | METE_LS/37/0 | Diğer/15/39,"MET_LS, METE_LS, UCK_LS, UZB_LS, UZBE_LS",-,-
+61,11010,MET 4901,Met. Malz. Müh. Tasarımı I,Physical (Face to face),Murat Baydoğan,-,-,-/-,-,500,64,-,MET_LS,Detail,Detail
+62,11011,MET 4901E,Met. & Mat. Engn. Design I,Physical (Face to face),Murat Baydoğan,-,-,-/-,-,500,83,-,"MET_LS, METE_LS",Detail,Detail
+63,11012,MET 4902,Met. Malz. Müh. Tasarımı II,Physical (Face to face),Murat Baydoğan,-,-,-/-,-,500,1,-,MET_LS,Detail,-
+64,11013,MET 4902E,Met. & Mat. Engn. Design II,Physical (Face to face),Murat Baydoğan,-,-,-/-,-,500,2,-,"MET_LS, METE_LS",Detail,-
+65,11014,MET 492,Tasarım Projesi,Ek Sınav,Murat Baydoğan,-,-,-/-,-,50,1,-,MET_LS,-,Detail

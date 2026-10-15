@@ -1,0 +1,3 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12702,ROS 301E,Programming Techniques for Robotics,Physical (Face to face),Abdurrahman Yılmaz,EEB,Wednesday,08:30/10:29,4104,50,7,-,"KOM_LS, KOME_LS, ROS_LS, ROSE_LS",-,-
+1,12704,ROS 303E,Robot Kinematics and Dynamics,Physical (Face to face),Hakan Temeltaş,EEB,Tuesday,12:30/15:29,2106,50,4,-,"KOM_LS, KOME_LS, ROS_LS, ROSE_LS",Detail,-

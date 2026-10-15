@@ -1,0 +1,7 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14765,EEE 101E,Intr.Elect.&Elec.Eng.&Eng.Eth.,Physical (Face to face),Tayfun Akgül,EEB,Wednesday,09:30/11:29,5301,60,45,-,EEE_LS,-,-
+1,14766,EEE 205E,Introduction to Logic Design,Physical (Face to face),Ali Sinan Çabuk,EEB,Friday,08:30/11:29,5104,60,40,-,EEE_LS,-,-
+2,14767,EEE 210E,Differential Equations,Physical (Face to face),"Cemanur Aydınalp , Emre İşcan",EEB,Thursday,12:30/15:29,5205,60,25,-,EEE_LS,Detail,-
+3,14768,EEE 211E,Basics of Electrical Circuits,Physical (Face to face),Bilgi Görkem Yazgaç,EEB,Monday,08:30/11:29,5202,60,55,-,"CEN_LS, EEE_LS",Detail,-
+4,15470,EEE 271E,Probability and Statistics,Physical (Face to face),Zehra Elif Batman,EEB,Tuesday,08:30/11:29,5102,60,26,-,EEE_LS,-,-
+5,15016,EEE 311E,Numerical Analysis with Python,Physical (Face to face),Vasil Tabatadze,EEB,Friday,14:00/16:59,5201,80,16,-,EEE_LS,Detail,-

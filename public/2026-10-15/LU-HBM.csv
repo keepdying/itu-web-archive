@@ -1,0 +1,16 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12898,HBM 511,Bilimsel Hesaplama I,Physical (Face to face),Süha Tuna,BEB,Monday,09:30/12:29,--,25,16,-,-,-,-
+1,12873,HBM 513E,Parallel&Distributed Comput.,Physical (Face to face),Mustafa Serdar Çelebi,BEB,Monday,13:30/16:29,--,25,19,-,-,-,-
+2,12919,HBM 516E,Scientific Visualization,Physical (Face to face),Sefer Baday,BEB,Tuesday,13:30/16:29,--,26,8,-,-,-,-
+3,12899,HBM 538E,Mat.Met.in Data Ana.&Mac.Lear.,Physical (Face to face),Süha Tuna,BEB,Wednesday,09:30/12:29,--,30,29,-,-,-,-
+4,12884,HBM 539,Uygulamalı Biyoinformatik,Physical (Face to face),Vildan Enisoğlu Atalay,BEB,Thursday,09:30/12:29,--,30,0,-,-,-,-
+5,12871,HBM 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Fethiye Aylin Sungur,BEB,Wednesday,15:30/17:29,--,15,0,-,-,-,-
+6,12877,HBM 597E,Specialization Field Course,Physical (Face to face),Mustafa Serdar Çelebi,BEB,Wednesday,13:30/16:29,--,5,0,-,-,-,-
+7,12880,HBM 615E,Advanced Topics in Computational Science and Engineering,Physical (Face to face),Mustafa Serdar Çelebi,BEB,Friday,14:00/16:59,--,5,0,-,-,-,-
+8,12896,HBM 621E,Chemoinformatics,Virtual (Online),Adem Tekin,Online/Çevrimiçi,Tuesday,09:30/12:29,--,25,12,-,-,-,-
+9,12865,HBM 631E,Comp.Ass.Drug Des.:Funda.&App.,Physical (Face to face),Fethiye Aylin Sungur,BEB,Wednesday,09:30/12:29,--,25,0,-,-,-,-
+10,12888,HBM 801,Temel Bilişim Yazılımları,Physical (Face to face),Adem Tekin,BEB,Thursday,09:30/12:29,--,25,20,-,-,-,-
+11,12893,HBM 803E,Object Orient.Prog.Techn.,Physical (Face to face),Adem Tekin,BEB,Thursday,13:30/16:29,--,25,19,-,-,-,-
+12,12912,HBM DRT,Tez Çalışması,Physical (Face to face),Adem Tekin,-,-,-/-,-,200,10,-,-,-,-
+13,12908,HBM YET,Yeterlik Aşaması,Physical (Face to face),Adem Tekin,-,-,-/-,-,200,3,-,-,-,-
+14,12915,HBM YLT,Tez Çalışması,Physical (Face to face),Adem Tekin,-,-,-/-,-,200,8,-,-,-,-

@@ -1,0 +1,141 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,13557,MIM 106E,Structural Mechanics,Physical (Face to face),Cenk Üstündağ,MMB,Tuesday,08:30/12:29,305,45,20,-,"ARC_LS, IAD_LS, ICM_LS, MIM_LS, MIME_LS",-,-
+1,13562,MIM 106E,Structural Mechanics,Physical (Face to face),Gülseren Erol Soyöz,MMB,Tuesday,08:30/12:29,217C,45,43,-,"ARC_LS, IAD_LS, ICM_LS, MIM_LS, MIME_LS",-,-
+2,13563,MIM 106E,Structural Mechanics,Physical (Face to face),Ferhat Pakdamar,MMB,Tuesday,08:30/12:29,217B,45,20,-,"ARC_LS, ENT_LS, ENTE_LS, EUT_LS, EUTE_LS, IAD_LS, ICM_LS, MIM_LS, MIME_LS",-,-
+3,13567,MIM 114E,Accessibility,Physical (Face to face),Göksenin İnalhan,-,-,-/-,-,20,1,-,"MIM_LS, MIME_LS",-,-
+4,15816,MIM 120E,Int.toCmp.Ds.Tools&Mth.inArch.,Virtual (Online),Mıchael Stefan Bıttermann,-,-,-/-,-,0,2,-,-,-,-
+5,15806,MIM 126,Mukavemet,Physical (Face to face),Haluk Sesigür,-,-,-/-,-,0,1,-,-,Detail,-
+6,13636,MIM 203,Mimarlıkta Yapı ve Yapım,Physical (Face to face),"Hülya Kuş , Caner Göçer",MMB MMB,Wednesday Wednesday,10:30/12:29 13:30/15:29,229 229,121,123,-,MIM_LS,-,-
+7,13637,MIM 203E,Building and Const inArch.,Physical (Face to face),"Ayşe Nil Türkeri , Fatih Yazıcıoğlu",MMB MMB,Wednesday Wednesday,10:30/12:29 13:30/15:29,231 231,91,94,-,"ARC_LS, MIME_LS",-,-
+8,13638,MIM 203E,Building and Const inArch.,Physical (Face to face),Enes Yaşa,MMB MMB,Wednesday Wednesday,10:30/12:29 13:30/15:29,107 107,78,74,-,"IAD_LS, ICM_LS",-,-
+9,13639,MIM 204E,Arch.Building Element Design,Physical (Face to face),Fethiye Ecem Edis,MMB MMB,Wednesday Wednesday,09:30/12:29 13:30/15:29,333 333,33,36,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+10,13643,MIM 208,Yapısal Analiz ve Tasarım I,Physical (Face to face),"Necdet Torunbalcı , Haluk Sesigür",MMB MMB,Monday Friday,10:30/12:29 10:30/12:29,215 215,45,25,-,MIM_LS,Detail,-
+11,13646,MIM 208,Yapısal Analiz ve Tasarım I,Physical (Face to face),"Ferhat Pakdamar , Gülseren Erol Soyöz",MMB MMB,Monday Friday,10:30/12:29 10:30/12:29,106 106,45,34,-,MIM_LS,Detail,-
+12,13648,MIM 208E,Structural Analysis& Design I,Physical (Face to face),"Oğuz Cem Çelik , Halet Almıla Büyüktaşkın",MMB MMB,Tuesday Friday,12:30/14:29 10:30/12:29,230 230,65,67,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+13,13650,MIM 208E,Structural Analysis& Design I,Physical (Face to face),"Cenk Üstündağ , Haluk Sesigür",MMB MMB,Tuesday Friday,12:30/14:29 10:30/12:29,229 229,65,52,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+14,13654,MIM 209,Mimarlık Tarihi I,Physical (Face to face),Bilge Ar,MMB,Tuesday,14:30/17:29,229,100,90,-,MIM_LS,-,-
+15,13655,MIM 209E,History of Architecture I,Physical (Face to face),Zeynep Kuban Tokgöz,MMB,Tuesday,14:30/17:29,230,130,94,-,"ARC_LS, MIM_LS, MIME_LS",-,-
+16,13659,MIM 210E,History of Architecture II,Physical (Face to face),Mehmet Murat Gül,MMB,Thursday,09:30/12:29,107,100,61,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+17,13660,MIM 211,Mimari Proje III,Physical (Face to face),Hakan Tong,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,17,19,-,MIM_LS,Detail,-
+18,13662,MIM 211,Mimari Proje III,Physical (Face to face),Ayşe Meltem Baslo,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,16,-,MIM_LS,Detail,-
+19,13664,MIM 211E,Architectural Design III,Physical (Face to face),Pelin Dursun Çebi,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,21,23,MIM_LS/9/3 | MIME_LS/10/2 | ARC_LS/2/0 | Diğer/0/18,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+20,13665,MIM 211E,Architectural Design III,Physical (Face to face),Fatma Erkök,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,21,22,MIM_LS/7/2 | MIME_LS/12/1 | ARC_LS/2/1 | Diğer/0/18,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+21,13714,MIM 211E,Architectural Design III,Physical (Face to face),Hakan Tüzün Şengün,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,18,20,MIM_LS/11/1 | MIME_LS/5/2 | ARC_LS/2/0 | Diğer/0/17,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+22,13715,MIM 211E,Architectural Design III,Physical (Face to face),Arzu İrem Mollaahmetoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,18,19,MIM_LS/11/0 | MIME_LS/5/1 | ARC_LS/2/2 | Diğer/0/16,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+23,13916,MIM 211E,Architectural Design III,Physical (Face to face),Sema Alaçam,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,19,21,MIM_LS/6/2 | MIME_LS/9/3 | ARC_LS/4/0 | Diğer/0/16,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+24,13927,MIM 211E,Architectural Design III,Physical (Face to face),Elif Sezen Yağmur Kilimci,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,19,20,MIM_LS/10/1 | MIME_LS/7/3 | ARC_LS/2/1 | Diğer/0/15,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+25,13928,MIM 211E,Architectural Design III,Physical (Face to face),Begüm Hamzaoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,18,19,MIM_LS/6/1 | MIME_LS/9/3 | ARC_LS/3/1 | Diğer/0/14,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+26,13929,MIM 211E,Architectural Design III,Physical (Face to face),Asiye Nisa Kartal,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,18,18,MIM_LS/6/1 | MIME_LS/7/3 | ARC_LS/5/1 | Diğer/0/13,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+27,13931,MIM 212,Mimari Proje IV,Physical (Face to face),Ayşe Meltem Baslo,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,2,1,-,MIM_LS,Detail,-
+28,13933,MIM 212E,Architectural Design IV,Physical (Face to face),Fatma Erkök,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,2,MIME_LS/3/2 | Diğer/0/0,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+29,13934,MIM 212E,Architectural Design IV,Physical (Face to face),Hakan Tüzün Şengün,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,4,4,MIME_LS/4/0 | Diğer/0/4,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+30,13935,MIM 212E,Architectural Design IV,Physical (Face to face),Arzu İrem Mollaahmetoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,4,4,MIM_LS/3/0 | MIME_LS/1/1 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+31,13979,MIM 212E,Architectural Design IV,Physical (Face to face),Asiye Nisa Kartal,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,2,2,MIME_LS/2/0 | Diğer/0/2,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+32,13980,MIM 213E,Structural Analysis& Design II,Physical (Face to face),"Haluk Sesigür , Cenk Üstündağ",MMB,Wednesday,08:30/12:29,215,65,52,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+33,15180,MIM 231,Yapı Malzemesi,Physical (Face to face),"Seden Acun Özgünler , Seda Erdem",MMB MMB,Tuesday Thursday,10:00/11:59 10:30/12:29,126 126,100,80,-,MIM_LS,-,-
+34,13982,MIM 231E,Building Materials,Physical (Face to face),Mehmet Serkan Yatağan,MMB MMB,Tuesday Thursday,10:00/11:59 10:30/12:29,214 229,150,103,-,"ARC_LS, MIM_LS, MIME_LS",-,-
+35,13983,MIM 246E,Environmental Control Studio,Physical (Face to face),Tarık Serhat Bozkurt,MMB MMB,Tuesday Thursday,08:30/12:29 08:30/12:29,3402 3401,25,22,-,"ARC_LS, MIM_LS, MIME_LS, SBP_LS, SBPE_LS",-,-
+36,13984,MIM 253,Çelik Yapılar,Physical (Face to face),Necdet Torunbalcı,MMB,Monday,10:30/12:29,--,30,1,-,MIM_LS,Detail,-
+37,13985,MIM 253E,Steel Structures,Physical (Face to face),Oğuz Cem Çelik,MMB,Friday,10:30/12:29,--,30,3,-,"MIM_LS, MIME_LS",Detail,-
+38,13987,MIM 271E,Theory of Structures,Physical (Face to face),Halet Almıla Büyüktaşkın,MMB,Tuesday,12:30/14:29,--,30,5,-,"MIM_LS, MIME_LS",Detail,-
+39,13988,MIM 304,Mimarlık Tarihi III,Physical (Face to face),Vesile Gül Cephanecigil,MMB,Friday,09:30/12:29,107,100,59,-,MIM_LS,Detail,-
+40,13989,MIM 304E,History of Architecture III,Physical (Face to face),Ebru Şevkin,MMB,Friday,09:30/12:29,231,55,65,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+41,13990,MIM 304E,History of Architecture III,Physical (Face to face),Mıyukı Aokı Gırardellı,MMB,Friday,09:30/12:29,213,55,23,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+42,13991,MIM 305E,Statistics,Physical (Face to face),Mıchael Stefan Bıttermann,MMB,Tuesday,13:30/16:29,307,60,4,-,"MIM_LS, MIME_LS, SAS_LS",-,-
+43,13992,MIM 306,Şehircilik ve İmar Hukuku,Physical (Face to face),"Şevkiye Şence Türk , Gamze Kazancı",MMB,Monday,08:30/12:29,231,125,92,-,MIM_LS,-,-
+44,13993,MIM 306E,Urbanism and Planning Law,Physical (Face to face),"Aliye Ahu Gülümser , Numan Kılınç",MMB,Monday,08:30/12:29,229,125,129,-,"ARC_LS, MIM_LS, MIME_LS",-,-
+45,13994,MIM 312,Mimari Proje VI,Physical (Face to face),Elmira Ayşe Gür,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,5,6,-,MIM_LS,Detail,-
+46,13995,MIM 312,Mimari Proje VI,Physical (Face to face),Nurbin Paker Kahvecioğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,2,2,-,MIM_LS,Detail,-
+47,13997,MIM 312,Mimari Proje VI,Physical (Face to face),Tan Kamil Gürer,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,-,MIM_LS,Detail,-
+48,14953,MIM 312,Mimari Proje VI,Physical (Face to face),Suat Apak,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,-,MIM_LS,Detail,-
+49,13998,MIM 312E,Architectural Design VI,Physical (Face to face),Leman Figen Gül,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,5,5,MIM_LS/2/0 | MIME_LS/2/1 | ARC_LS/1/0 | Diğer/0/4,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+50,13999,MIM 312E,Architectural Design VI,Physical (Face to face),Meryem Birgül Çolakoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,5,10,MIME_LS/4/4 | Diğer/1/6,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+51,14000,MIM 312E,Architectural Design VI,Physical (Face to face),Mine Özkar Kabakçıoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,5,5,MIM_LS/1/1 | MIME_LS/2/0 | ARC_LS/1/0 | Diğer/1/4,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+52,14001,MIM 312E,Architectural Design VI,Physical (Face to face),Derya Güleç Özer,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,5,5,MIM_LS/3/1 | MIME_LS/1/0 | Diğer/1/4,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+53,14002,MIM 312E,Architectural Design VI,Physical (Face to face),Meltem Aksoy,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,MIM_LS/1/0 | MIME_LS/2/0 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+54,14003,MIM 312E,Architectural Design VI,Physical (Face to face),Funda Uz,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,4,4,MIM_LS/1/1 | MIME_LS/2/0 | ARC_LS/1/0 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+55,14004,MIM 312E,Architectural Design VI,Physical (Face to face),Nesip Ömer Erem,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,4,4,MIME_LS/3/0 | ARC_LS/1/0 | Diğer/0/4,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+56,14005,MIM 312E,Architectural Design VI,Physical (Face to face),Dilek Yıldız Özkan,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,4,4,MIM_LS/1/0 | MIME_LS/2/0 | ARC_LS/1/0 | Diğer/0/4,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+57,14007,MIM 312E,Architectural Design VI,Physical (Face to face),Göksenin İnalhan,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,MIM_LS/1/0 | MIME_LS/1/0 | ARC_LS/1/0 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+58,14010,MIM 312E,Architectural Design VI,Physical (Face to face),Sıdıka Aslıhan Şenel,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,MIM_LS/1/0 | MIME_LS/1/0 | ARC_LS/1/0 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+59,14013,MIM 312E,Architectural Design VI,Physical (Face to face),Mehmet Emin Şalgamcıoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,4,MIME_LS/1/0 | ARC_LS/2/0 | Diğer/0/4,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+60,14095,MIM 312E,Architectural Design VI,Physical (Face to face),Sevil Yazıcı,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,4,MIM_LS/1/0 | MIME_LS/1/1 | ARC_LS/1/0 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+61,14096,MIM 312E,Architectural Design VI,Physical (Face to face),Bihter Almaç,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,MIME_LS/3/0 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+62,14097,MIM 312E,Architectural Design VI,Physical (Face to face),Sevgi Türkkan Sroka,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,MIM_LS/1/0 | MIME_LS/2/0 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+63,14099,MIM 312E,Architectural Design VI,Physical (Face to face),İmdat As,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,MIM_LS/2/0 | ARC_LS/1/0 | Diğer/0/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+64,14101,MIM 312E,Architectural Design VI,Physical (Face to face),Tülay Karakaş,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,4,5,MIM_LS/1/1 | MIME_LS/1/1 | Diğer/2/3,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+65,14103,MIM 312E,Architectural Design VI,Physical (Face to face),Ahmet Gün,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,4,6,MIM_LS/2/1 | ARC_LS/1/0 | Diğer/1/5,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+66,14106,MIM 321E,Contemporary Architecture,Physical (Face to face),Mıyukı Aokı Gırardellı,MMB,Tuesday,08:30/10:29,302,60,2,-,"MIM_LS, MIME_LS, SAS_LS",Detail,-
+67,14108,MIM 322,Tarihi Çevre Koruma & Restr,Physical (Face to face),"Ömer Dabanlı , Sakine Yıldız Salman , Mustafa Tahir Ocak",MMB,Tuesday,10:30/12:29,231,95,53,-,MIM_LS,Detail,-
+68,14111,MIM 322E,Conserv.of Hist. Build.&Sites,Physical (Face to face),"Zeynep Eres Özdoğan , Umut Almaç , Işıl Polat Pekmezci",MMB,Tuesday,10:30/12:29,229,95,94,-,"ARC_LS, MIM_LS, MIME_LS, SAS_LS",Detail,-
+69,14114,MIM 333,Yapım Sistemleri,Physical (Face to face),Ecem Tezel,MMB,Friday,14:00/15:59,229,110,86,-,MIM_LS,-,-
+70,14115,MIM 333E,Building Production Systems,Physical (Face to face),Yelda Özge Doğan,MMB,Friday,14:00/15:59,230,110,75,-,"ARC_LS, MIM_LS, MIME_LS, SAS_LS",-,-
+71,14140,MIM 335E,Energy Efficient Housing,Physical (Face to face),"Gül Koçlar Oral , Feride Şener Yılmaz",MMB,Tuesday,09:30/12:29,317,30,14,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+72,14141,MIM 351E,Architectural Design V,Physical (Face to face),Leman Figen Gül,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,15,MIM_LS/10/1 | MIME_LS/4/1 | ARC_LS/1/1 | Diğer/0/12,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+73,14142,MIM 351E,Architectural Design V,Physical (Face to face),Derya Güleç Özer,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,20,MIM_LS/9/0 | MIME_LS/5/2 | ARC_LS/1/0 | Diğer/0/18,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+74,14143,MIM 351E,Architectural Design V,Physical (Face to face),Meltem Aksoy,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,15,MIM_LS/8/0 | MIME_LS/7/1 | Diğer/0/14,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+75,14145,MIM 351E,Architectural Design V,Physical (Face to face),Funda Uz,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,17,17,MIM_LS/9/2 | MIME_LS/7/0 | ARC_LS/1/0 | Diğer/0/15,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+76,14146,MIM 351E,Architectural Design V,Physical (Face to face),Dilek Yıldız Özkan,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,14,MIM_LS/6/0 | MIME_LS/7/0 | ARC_LS/2/1 | Diğer/0/13,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+77,14147,MIM 351E,Architectural Design V,Physical (Face to face),Göksenin İnalhan,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,14,14,MIM_LS/7/5 | MIME_LS/6/3 | ARC_LS/1/0 | Diğer/0/6,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+78,14148,MIM 351E,Architectural Design V,Physical (Face to face),Sevil Yazıcı,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,14,17,MIM_LS/11/3 | MIME_LS/2/1 | ARC_LS/1/0 | Diğer/0/13,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+79,14149,MIM 351E,Architectural Design V,Physical (Face to face),Bihter Almaç,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,14,19,MIM_LS/11/0 | MIME_LS/3/5 | Diğer/0/14,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+80,14150,MIM 351E,Architectural Design V,Physical (Face to face),Sevgi Türkkan Sroka,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,16,MIM_LS/4/0 | MIME_LS/10/2 | ARC_LS/1/1 | Diğer/0/13,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+81,14151,MIM 351E,Architectural Design V,Physical (Face to face),Tülay Karakaş,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,14,16,MIM_LS/6/2 | MIME_LS/6/8 | ARC_LS/2/0 | Diğer/0/6,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+82,14152,MIM 351E,Architectural Design V,Physical (Face to face),İmdat As,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,14,18,MIM_LS/8/3 | MIME_LS/2/3 | ARC_LS/3/0 | Diğer/1/12,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+83,14154,MIM 359E,Construction Mngmnt & Economy,Physical (Face to face),"Fatma Pınar Çakmak , Ecem Tezel",MMB MMB,Wednesday Wednesday,09:30/12:29 13:30/15:29,106 106,67,69,-,"ARC_LS, MIM_LS, MIME_LS, SAS_LS",-,-
+84,14164,MIM 361,Rölöve ve Restorasyon Stüdyosu,Physical (Face to face),Yeşim Erdal,MMB,Friday,14:00/17:59,3402,18,21,-,MIM_LS,Detail,-
+85,14167,MIM 361E,Archtctrl Survey & Restrtn Std,Physical (Face to face),Mustafa Tahir Ocak,MMB,Friday,14:00/17:59,3403,18,21,-,"MIM_LS, MIME_LS, SAS_LS",Detail,-
+86,15922,MIM 361E,Archtctrl Survey & Restrtn Std,Physical (Face to face),Lana Kudumoviç,undeclared,Friday,14:00/17:59,--,18,21,-,"MIM_LS, MIME_LS, SAS_LS",Detail,-
+87,15318,MIM 4011,Fotoğraf,Physical (Face to face),Aras Neftçi,MMB,Tuesday,13:30/16:29,FOTOATOLYE,25,11,-,MIM_LS,-,-
+88,14169,MIM 4012,Özürlüler ve Yaş.İçin Çev.Tas,Physical (Face to face),Göksenin İnalhan,MMB,Tuesday,10:30/12:29,3403,25,15,-,MIM_LS,-,-
+89,14171,MIM 4023,Yapıda Malzeme Seçimi,Physical (Face to face),Seda Erdem,MMB,Wednesday,09:30/12:29,311,28,22,-,"ICM_LS, MIM_LS",Detail,-
+90,14181,MIM 4028,Mimari Tasarım & Yapımda Ahşap,Physical (Face to face),"Hülya Kuş , Gülfer Oraz",MMB,Friday,14:00/16:59,315,15,8,-,MIM_LS,Detail,-
+91,15602,MIM 4031,Mimar Sinan,Physical (Face to face),Aras Neftçi,MMB,Monday,13:30/15:29,309,25,11,-,MIM_LS,Detail,-
+92,14183,MIM 4034,Koruma Bilimine Giriş,Physical (Face to face),Işıl Polat Pekmezci,MMB,Wednesday,10:30/12:29,302,20,3,-,MIM_LS,-,-
+93,14184,MIM 4036,Mimarlıkta Temsil ve Sunum,Physical (Face to face),Hakan Tong,MMB,Wednesday,12:30/15:29,217D,23,20,-,"ICM_LS, MIM_LS",-,-
+94,14185,MIM 4037,Bina Yapımında IK Yönetimi,Physical (Face to face),Gülfer Oraz,MMB,Tuesday,08:30/10:29,311,23,20,-,MIM_LS,-,-
+95,14193,MIM 4038,Konut Planlaması & Tasrm Sorn,Physical (Face to face),Suat Apak,MMB,Monday,10:30/12:29,311,33,34,-,"ICM_LS, MIM_LS, PEM_LS, SBP_LS",-,-
+96,14196,MIM 4040,Programlama Mantığına Giriş,Physical (Face to face),Atilla Aydoğdu,MMB,Friday,14:00/15:59,BIM1,30,14,-,MIM_LS,Detail,-
+97,14199,MIM 4042,Geç Osmanlı Mimarlığı,Physical (Face to face),Vesile Gül Cephanecigil,-,-,-/-,-,20,2,-,MIM_LS,-,-
+98,14204,MIM 4044,Mimarlıkta Morfoloji,Physical (Face to face),Pelin Dursun Çebi,MMB,Thursday,09:30/12:29,302,18,12,-,MIM_LS,-,-
+99,14205,MIM 4051E,Utl.ofConcrete Tech.in Arch,Physical (Face to face),Mehmet Serkan Yatağan,MMB,Monday,10:00/11:59,309,28,29,-,"ARC_LS, ENTE_LS, EUTE_LS, ICM_LS, MIM_LS, MIME_LS, PEME_LS, SBP_LS, SBPE_LS",Detail,-
+100,14206,MIM 4052E,Cities and Architecture,Physical (Face to face),Fatma Erkök,MMB,Tuesday,09:30/12:29,319,23,26,-,"ARC_LS, ICM_LS, MIM_LS, MIME_LS, PEME_LS, SBP_LS, SBPE_LS",-,-
+101,14207,MIM 4053E,Tall Building Structures,Physical (Face to face),Halet Almıla Büyüktaşkın,MMB,Tuesday,15:30/17:29,309,32,32,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+102,14208,MIM 4056E,Design & Fabric.Tech. in Arch.,Physical (Face to face),"Sema Alaçam , Salih Özdemir",MMB,Tuesday,13:30/16:29,CATI5,35,32,-,"ARC_LS, ENTE_LS, EUTE_LS, ICM_LS, MIM_LS, MIME_LS",-,-
+103,14209,MIM 4069E,Earthquake Resist.Building Dsg,Physical (Face to face),Oğuz Cem Çelik,MMB,Wednesday,10:30/12:29,307,25,21,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+104,14210,MIM 4072E,"Architecture,Cities and Cinema",Physical (Face to face),Arzu İrem Mollaahmetoğlu,MMB,Tuesday,10:30/12:29,302,32,42,-,"ARC_LS, ICM_LS, MIM_LS, MIME_LS, PEME_LS, SBP_LS, SBPE_LS",-,-
+105,14211,MIM 4074E,Stru.Sys.Pro.of Mon.&Hist.Cons,Physical (Face to face),"Haluk Sesigür , Gülseren Erol Soyöz",MMB,Thursday,10:30/12:29,303,33,44,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+106,14398,MIM 4081,Kagir İnşaat ve Onarım,Physical (Face to face),Ömer Dabanlı,MMB,Wednesday,12:30/15:29,307,20,5,-,MIM_LS,Detail,-
+107,14212,MIM 4083,19. Yüzyıl'dan Günümüze İstanbul'un Gelişimi,Physical (Face to face),Mehmet Murat Gül,MMB,Wednesday,10:30/12:29,319,20,7,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+108,14395,MIM 4085E,Byzantine Heritage in İstanbul,Physical (Face to face),Bilge Ar,MMB,Wednesday,13:30/15:29,320,24,51,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+109,14396,MIM 4087E,Learning from Vernacular,Physical (Face to face),Lana Kudumoviç,MMB,Wednesday,09:30/12:29,CATI4,20,20,-,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+110,14404,MIM 4089E,Traditional and Contemporary Turkish House,Physical (Face to face),Saniye Feyza Ergün,MMB,Monday,10:30/12:29,317,24,43,-,"ARC_LS, MIM_LS, MIME_LS",-,-
+111,14399,MIM 411,Mimari Proje VII,Physical (Face to face),Elmira Ayşe Gür,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,13,-,MIM_LS,Detail,-
+112,14400,MIM 411,Mimari Proje VII,Physical (Face to face),Nurbin Paker Kahvecioğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,13,14,-,MIM_LS,Detail,-
+113,14401,MIM 411,Mimari Proje VII,Physical (Face to face),Suat Apak,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,14,14,-,MIM_LS,Detail,-
+114,14402,MIM 411,Mimari Proje VII,Physical (Face to face),Tan Kamil Gürer,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,14,14,-,MIM_LS,Detail,-
+115,14405,MIM 411E,Architectural Design VII,Physical (Face to face),Mine Özkar Kabakçıoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,17,20,MIM_LS/4/0 | MIME_LS/9/4 | ARC_LS/4/1 | Diğer/0/15,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+116,14406,MIM 411E,Architectural Design VII,Physical (Face to face),Nesip Ömer Erem,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,16,21,MIM_LS/3/0 | MIME_LS/8/8 | ARC_LS/5/0 | Diğer/0/13,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+117,14407,MIM 411E,Architectural Design VII,Physical (Face to face),Sıdıka Aslıhan Şenel,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,16,15,MIM_LS/7/3 | MIME_LS/6/0 | ARC_LS/3/0 | Diğer/0/12,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+118,14408,MIM 411E,Architectural Design VII,Physical (Face to face),Mehmet Emin Şalgamcıoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,17,MIM_LS/4/0 | MIME_LS/8/1 | ARC_LS/3/0 | Diğer/0/16,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+119,14409,MIM 411E,Architectural Design VII,Physical (Face to face),Ahmet Gün,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,22,MIM_LS/5/1 | MIME_LS/6/4 | ARC_LS/4/1 | Diğer/0/16,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+120,15451,MIM 411E,Architectural Design VII,Physical (Face to face),Meryem Birgül Çolakoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,16,16,MIM_LS/3/1 | MIME_LS/10/1 | ARC_LS/3/4 | Diğer/0/10,"ARC_LS, MIM_LS, MIME_LS",Detail,-
+121,14447,MIM 461E,Accessibility&Inclusive Design,Physical (Face to face),Göksenin İnalhan,MMB,Wednesday,09:30/12:29,305,25,24,-,"ARC_LS, ENTE_LS, EUT_LS, EUTE_LS, IAD_LS, ICM_LS, MIM_LS, MIME_LS, PEM_LS, PEME_LS, SBP_LS, SBPE_LS",-,-
+122,14449,MIM 484,Uygulama Projesi,Physical (Face to face),Gülfer Oraz,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,119B 119B,10,10,-,MIM_LS,Detail,-
+123,14450,MIM 484,Uygulama Projesi,Physical (Face to face),Ayşe Nil Türkeri,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3404 3404,10,10,-,MIM_LS,Detail,-
+124,14452,MIM 484,Uygulama Projesi,Physical (Face to face),Gül Koçlar Oral,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3401 3401,10,10,-,MIM_LS,Detail,-
+125,14454,MIM 484,Uygulama Projesi,Physical (Face to face),Leyla Tanaçan,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3402 3402,10,10,-,MIM_LS,Detail,-
+126,14455,MIM 484,Uygulama Projesi,Physical (Face to face),Gülten Manioğlu,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3403 3403,10,8,-,MIM_LS,Detail,-
+127,14457,MIM 484,Uygulama Projesi,Physical (Face to face),Nuri Serteser,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3405 3405,10,10,-,MIM_LS,Detail,-
+128,14458,MIM 484,Uygulama Projesi,Physical (Face to face),Şule Filiz Akşit,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3503 3503,10,10,-,MIM_LS,Detail,-
+129,14459,MIM 484,Uygulama Projesi,Physical (Face to face),Elçin Filiz Taş,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3406 3406,10,10,-,MIM_LS,Detail,-
+130,14460,MIM 484,Uygulama Projesi,Physical (Face to face),Hakan Yaman,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3407 3407,10,10,-,MIM_LS,Detail,-
+131,14461,MIM 484,Uygulama Projesi,Physical (Face to face),Caner Göçer,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,217G 217G,10,10,-,MIM_LS,Detail,-
+132,14463,MIM 484E,Construction Project,Physical (Face to face),Fatih Yazıcıoğlu,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3501 3501,15,15,-,"ARC_LS, MIME_LS, SAS_LS",Detail,-
+133,14464,MIM 484E,Construction Project,Physical (Face to face),Tarık Serhat Bozkurt,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,3505 3505,15,18,-,"ARC_LS, MIME_LS, SAS_LS",Detail,-
+134,14465,MIM 484E,Construction Project,Physical (Face to face),Feride Şener Yılmaz,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,217F 217F,15,16,-,"ARC_LS, MIME_LS, SAS_LS",Detail,-
+135,14466,MIM 484E,Construction Project,Physical (Face to face),Fethiye Ecem Edis,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,D380 D380,15,15,-,"ARC_LS, MIME_LS, SAS_LS",Detail,-
+136,14467,MIM 484E,Construction Project,Physical (Face to face),Yelda Özge Doğan,MMB MMB,Tuesday Friday,13:30/17:29 08:30/12:29,119A 119A,15,17,-,"ARC_LS, MIME_LS, SAS_LS",Detail,-
+137,14468,MIM 4902,Diploma Projesi,Physical (Face to face),Mine Özkar Kabakçıoğlu,-,-,-/-,-,500,44,-,MIM_LS,Detail,Detail
+138,14469,MIM 4902E,Diploma Project,Physical (Face to face),Mine Özkar Kabakçıoğlu,-,-,-/-,-,500,101,-,"ARC_LS, MIM_LS, MIME_LS, SAS_LS",Detail,Detail
+139,14471,MIM 492E,Graduation Project,Physical (Face to face),Mine Özkar Kabakçıoğlu,-,-,-/-,-,500,3,-,"MIM_LS, MIME_LS",Detail,Detail

@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,13806,MTT 102E,Advanced Linear Algebra,Physical (Face to face),Nurettin Cenk Turgay,FEB,Wednesday,17:30/21:29,D104,40,17,-,"MAT_LS, MTT_LS",Detail,-
+1,13808,MTT 305E,Number Theory,Physical (Face to face),Ergün Yaraneri,FEB,Monday,17:30/20:29,D102,40,8,-,"MAT_LS, MTT_LS",-,-
+2,13815,MTT 403,Fonksiyonel Analiz,Physical (Face to face),Fuat Ergezen,FEB,Tuesday,17:30/20:29,D102,40,3,-,"MAT_LS, MTT_LS",Detail,-

@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15052,CHE 123,General Chemistry I,Physical (Face to face),Muhammet Übeydullah Kahveci,MED,Thursday,13:30/16:29,B34,40,27,-,EHN_LS,-,-
+1,15054,CHE 123,General Chemistry I,Physical (Face to face),Şennur Özçelik,YDY,Monday,08:30/11:29,174,80,42,-,"MBI_LS, SGI_LS, SIN_LS",-,-
+2,15057,CHE 123EL,General Chemistry I Laboratory,Physical (Face to face),Şennur Özçelik,FEB,Thursday,08:30/10:29,LAB-A,70,41,-,"MBI_LS, SGI_LS, SIN_LS",-,-

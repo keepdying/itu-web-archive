@@ -1,0 +1,4 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12084,BHB 201E,Fundamental Software of Informatics,Virtual (Online),Doğu Sırt,MSB,Wednesday,17:30/20:29,--,40,37,BHB_YD/30/27 | Diğer/10/10,"BHB_YD, ECNE_LS, END_LS, ENDE_LS",-,-
+1,12085,BHB 203E,Object Oriented Programming for Computational Science,Physical (Face to face),Abdulkerim Çapar,ISB,Tuesday,14:30/17:29,110,40,9,BHB_YD/30/5 | Diğer/10/4,"BHB_YD, ECNE_LS, END_LS, ENDE_LS",Detail,-
+2,12087,BHB 403,Bilim ve Mühendislik Uygulamaları İçin Bulanık Mantık İlkeleri,Physical (Face to face),Gülcihan Özdemir,ISB,Monday,14:30/17:29,101,40,7,-,BHB_YD,Detail,-

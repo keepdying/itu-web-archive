@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15261,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Necati Erdem Ünal,INB,Wednesday,12:30/15:29,A305,60,64,-,"CEV_LS, INS_LS",Detail,-
+1,15402,AKM 204,Akışkanlar Mekaniği,Physical (Face to face),Hafzüllah Aksoy,INB,Wednesday,12:30/15:29,A201,60,59,-,"CEV_LS, INS_LS",Detail,-
+2,16056,AKM 204,Akışkanlar Mekaniği,Ek Sınav,Murat Çakan,-,-,-/-,-,0,1,-,-,Detail,-
+3,15404,AKM 204E,Fluid Mechanics,Physical (Face to face),Mehmet Melih Koşucu,INB,Wednesday,12:30/15:29,B203,60,60,JEF_LS/9/3 | JEFE_LS/1/0 | Diğer/50/57,"CEV_LS, CEVE_LS, INS_LS, INSE_LS, JEF_LS, JEFE_LS",Detail,-
+4,15619,AKM 204E,Fluid Mechanics,Physical (Face to face),Şehriban Şen,INB,Wednesday,12:30/15:29,A302,60,35,-,"CEV_LS, CEVE_LS, INS_LS, INSE_LS",Detail,-
+5,15925,AKM 204E,Fluid Mechanics,Ek Sınav,Mehmet Melih Koşucu,-,-,-/-,-,0,0,-,-,Detail,-
+6,15872,AKM 205,Akışkanlar Mekaniği,Ek Sınav,Şafak Nur Ertürk Bozkurtoğlu,-,-,-/-,-,0,1,-,-,Detail,-
+7,11701,AKM 219E,Fluid Mechanics,Physical (Face to face),Ayşe Gül Güngör,MEDC,Wednesday,09:30/12:29,2D11,40,46,-,"UCK_LS, UZB_LS, UZBE_LS",Detail,-

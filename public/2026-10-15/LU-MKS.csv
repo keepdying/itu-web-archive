@@ -1,0 +1,10 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15006,MKS 501E,Engineering Mathematics,Physical (Face to face),Umut Şahin,MKB,Friday,09:30/12:29,D380A,80,80,-,-,-,-
+1,15007,MKS 530E,Viscoelasticity,Physical (Face to face),Özgen Ümit Çolak Çakır,MKB,Tuesday,09:30/12:29,R362,30,0,-,-,-,-
+2,15008,MKS 533,Transport Tekn. İleri Konular,Physical (Face to face),Eren Kalay,MKB,Monday,13:30/16:29,D355,30,0,-,-,-,-
+3,15009,MKS 535,Konstrüksiyon Sistematiği,Physical (Face to face),Vedat Temiz,MKB,Friday,14:30/17:29,D355,30,26,-,-,-,-
+4,15010,MKS 537E,Intro.to Compt.Aided Engineer,Physical (Face to face),Adem Candaş,MKB,Tuesday,13:30/16:29,D359,30,6,-,-,-,-
+5,15011,MKS 541,Güç İletimi,Physical (Face to face),Cemal Baykara,MKB,Wednesday,09:30/12:29,D351,30,11,-,-,-,-
+6,15154,MKS 593,Konstrüksiyon.Tolerans Analizi,Physical (Face to face),"Serpil Kurt Habiboğlu , Umut Şahin",MKB,Monday,13:30/16:29,D353,30,3,-,-,-,-
+7,15012,MKS 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Hacı Abdullah Taşdemir,MKB,Wednesday,13:30/15:29,D381A,35,34,-,-,-,-
+8,15013,MKS YLT,Tez Çalışması,Physical (Face to face),Atakan Altınkaynak,-,-,-/-,-,100,13,-,-,-,-

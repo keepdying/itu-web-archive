@@ -1,0 +1,145 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,10909,CAB 105,Tar I,Physical (Face to face),Ahmet Serhat Turunç,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+1,10825,CAB 107,Bağlama I,Physical (Face to face),Erdem Şimşek,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+2,10826,CAB 107,Bağlama I,Physical (Face to face),Cihangir Terzi,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+3,10828,CAB 107,Bağlama I,Physical (Face to face),Ali Kazım Akdağ,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+4,10911,CAB 109,Ud I,Physical (Face to face),Sarper Eroğlu,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+5,11041,CAB 1101,Keman I,Physical (Face to face),Ali Cihat Aşkın,TMB,Monday,13:30/15:29,--,5,6,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+6,11042,CAB 1101,Keman I,Physical (Face to face),Ibragım Orazov,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+7,10899,CAB 113,Ney I,Physical (Face to face),Burak Malçok,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+8,10868,CAB 117,Kaval I,Physical (Face to face),Cihan Yurtcu,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+9,10835,CAB 123,Flüt I,Physical (Face to face),Cem Önertürk,-,-,-/-,-,5,3,-,"CAB_LS, CEB_LS",-,-
+10,10817,CAB 127,3 Telli Kemençe I,Physical (Face to face),Neva Özgen Kösoğlu,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+11,10818,CAB 127,3 Telli Kemençe I,Physical (Face to face),Hatice Doğan Sevinç,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+12,10880,CAB 131,Keman I,Physical (Face to face),Ibragım Orazov,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+13,15317,CAB 131,Keman I,Physical (Face to face),Ahmet Hakan Şensoy,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+14,10915,CAB 133,Viyolonsel I,Physical (Face to face),Cenk Öztürk,-,-,-/-,-,5,2,-,"CAB_LS, CEB_LS",-,-
+15,10888,CAB 139,Kemane I,Physical (Face to face),Kadir Verim,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",-,-
+16,11122,CAB 143,Yrd.Çalgı Piyano I,Physical (Face to face),Senka Simonovic,TMB,Tuesday,10:30/12:29,--,30,29,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS",-,-
+17,10842,CAB 145,Kanun I,Physical (Face to face),Hidayet Timur Sarıca,-,-,-/-,-,5,2,-,"CAB_LS, CEB_LS",-,-
+18,11046,CAB 151,Kanun I,Physical (Face to face),Hidayet Timur Sarıca,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+19,11050,CAB 151,Kanun I,Physical (Face to face),Serkan Mesut Halili,TMB,Monday,13:30/15:29,--,5,6,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+20,11051,CAB 153,Tanbur I,Physical (Face to face),Göknil Bişak Özdemir,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+21,11053,CAB 155,Tar I,Physical (Face to face),Ahmet Serhat Turunç,TMB,Monday,13:30/15:29,--,5,1,-,"MTR_LS, MUZ_LS, SES_LS, THO_LS",-,-
+22,10923,CAB 157,Bağlama I,Physical (Face to face),Engin Şafak Gürler,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+23,10924,CAB 157,Bağlama I,Physical (Face to face),Metin Eke,TMB,Monday,13:30/15:29,--,5,3,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+24,10925,CAB 157,Bağlama I,Physical (Face to face),Adnan Koç,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+25,10927,CAB 157,Bağlama I,Physical (Face to face),Cihangir Terzi,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+26,10928,CAB 157,Bağlama I,Physical (Face to face),Erdem Şimşek,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",-,-
+27,11055,CAB 159,Ud I,Physical (Face to face),Hasan Hekimoğlu,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+28,11056,CAB 159,Ud I,Physical (Face to face),Buse Sever,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+29,11058,CAB 161,Ney I,Physical (Face to face),İdris Melih Berse,TMB,Monday,13:30/15:29,--,5,3,-,"MTR_LS, MUZ_LS",-,-
+30,11059,CAB 161,Ney I,Physical (Face to face),Burak Malçok,TMB,Monday,13:30/15:29,--,5,1,-,"MTR_LS, MUZ_LS",-,-
+31,11061,CAB 163,Mey I,Physical (Face to face),Cem Ekmen,TMB,Monday,13:30/15:29,--,5,1,-,"MTR_LS, MUZ_LS, THO_LS",-,-
+32,11064,CAB 167,Klarnet I,Physical (Face to face),Ünsal Çeliksu,TMB,Monday,13:30/15:29,--,5,2,-,"MTR_LS, MUZ_LS, THO_LS",-,-
+33,10919,CAB 171,4 Telli Kemençe I,Physical (Face to face),Lale Akay,TMB,Monday,13:30/15:29,--,5,1,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+34,11101,CAB 173,Karadeniz Kemençesi I,Physical (Face to face),Aydın Balcı,TMB,Monday,13:30/15:29,--,5,4,-,"MUZ_LS, THO_LS",-,-
+35,11074,CAB 175,Kemane I,Physical (Face to face),Mehmet Şimşek,TMB,Monday,13:30/15:29,--,5,1,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, THO_LS",-,-
+36,10807,CAB 177,Piyano I,Physical (Face to face),Alper Rumelioğlu,TMB,Friday,10:30/12:29,--,25,24,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+37,10809,CAB 177,Piyano I,Physical (Face to face),Devlet Devrim Öztaş,TMB,Friday,08:30/10:29,--,25,25,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+38,10810,CAB 177,Piyano I,Physical (Face to face),Sıtkı Kandemir Basmacıoğlu,TMB,Tuesday,15:30/17:29,--,20,16,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+39,15595,CAB 177,Piyano I,Physical (Face to face),Senka Simonovic,TMB,Friday,10:30/12:29,--,22,22,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",-,-
+40,15390,CAB 178,Piyano II,Physical (Face to face),Devlet Devrim Öztaş,-,-,-/-,-,0,1,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+41,10922,CAB 179,Asmalı Davul I,Physical (Face to face),Eyüp Uzunkaya,TMB,Monday,13:30/15:29,--,10,10,-,THO_LS,-,-
+42,11076,CAB 187,Gitar I,Physical (Face to face),Tolgahan Çoğulu,TMB,Monday,13:30/15:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+43,15635,CAB 187,Gitar I,Physical (Face to face),Tufan Kurdoğlu,undeclared,Monday,13:30/15:29,--,5,4,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+44,11118,CAB 189,Çalgılama I,Physical (Face to face),Mehmet Özkan,TMB,Wednesday,08:30/10:29,--,10,2,-,"BST_LS, KMP_LS",-,-
+45,11077,CAB 195,Viyolonsel I,Physical (Face to face),Yelda Özgen Öztürk,TMB,Monday,13:30/15:29,--,5,2,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+46,11078,CAB 195,Viyolonsel I,Physical (Face to face),Cenk Öztürk,TMB,Monday,13:30/15:29,--,5,1,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",-,-
+47,16059,CAB 2013,Viyola III,Physical (Face to face),Barış Kerem Bahar,TMB,Monday,13:30/15:29,--,5,1,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",Detail,-
+48,10910,CAB 205,Tar III,Physical (Face to face),Ahmet Serhat Turunç,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+49,10830,CAB 207,Bağlama III,Physical (Face to face),Ali Kazım Akdağ,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+50,15633,CAB 209,Ud III,Physical (Face to face),Buse Sever,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+51,11079,CAB 2101,Keman III,Physical (Face to face),Ahmet Hakan Şensoy,TMB,Monday,15:30/17:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",Detail,-
+52,10902,CAB 213,Ney III,Physical (Face to face),Ali Tüfekçi,-,-,-/-,-,5,2,-,"CAB_LS, CEB_LS",Detail,-
+53,10823,CAB 225,Asmalı Davul I,Physical (Face to face),Erkan Kanat,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+54,10819,CAB 227,3 Telli Kemençe III,Physical (Face to face),Hatice Doğan Sevinç,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+55,10822,CAB 229,4 Telli Kemençe III,Physical (Face to face),Lale Akay,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+56,10882,CAB 231,Keman III,Physical (Face to face),Ibragım Orazov,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+57,10916,CAB 233,Viyolonsel III,Physical (Face to face),Yelda Özgen Öztürk,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+58,10917,CAB 233,Viyolonsel III,Physical (Face to face),Cenk Öztürk,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+59,10906,CAB 241,Piyano III,Physical (Face to face),Devlet Devrim Öztaş,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+60,11123,CAB 243,Yrd.Çalgı Piyano III,Physical (Face to face),"Sıtkı Kandemir Basmacıoğlu , Sedef Durmak",TMB,Tuesday,13:30/15:29,--,20,19,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS",-,-
+61,10863,CAB 245,Kanun III,Physical (Face to face),Safinaz Rizeli,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+62,11080,CAB 251,Kanun III,Physical (Face to face),Serkan Mesut Halili,TMB,Monday,15:30/17:29,--,5,4,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+63,11081,CAB 251,Kanun III,Physical (Face to face),Safinaz Rizeli,TMB,Monday,15:30/17:29,--,5,2,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+64,15322,CAB 252,Kanun IV,Physical (Face to face),Serkan Mesut Halili,-,-,-/-,-,0,1,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+65,11082,CAB 253,Tanbur III,Physical (Face to face),Göknil Bişak Özdemir,TMB,Monday,15:30/17:29,--,5,4,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+66,15771,CAB 254,Tanbur IV,Physical (Face to face),Göknil Bişak Özdemir,-,-,-/-,-,0,1,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+67,10930,CAB 257,Bağlama III,Physical (Face to face),Engin Şafak Gürler,TMB,Monday,15:30/17:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",Detail,-
+68,10931,CAB 257,Bağlama III,Physical (Face to face),Metin Eke,TMB,Monday,15:30/17:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",Detail,-
+69,10932,CAB 257,Bağlama III,Physical (Face to face),Adnan Koç,TMB,Monday,15:30/17:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",Detail,-
+70,10933,CAB 257,Bağlama III,Physical (Face to face),Cihangir Terzi,TMB,Monday,15:30/17:29,--,6,6,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS, THO_LS",Detail,-
+71,11084,CAB 259,Ud III,Physical (Face to face),Buse Sever,TMB,Monday,15:30/17:29,--,5,3,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+72,11085,CAB 259,Ud III,Physical (Face to face),Sarper Eroğlu,TMB,Monday,15:30/17:29,--,5,3,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+73,11087,CAB 261,Ney III,Physical (Face to face),İdris Melih Berse,TMB,Monday,15:30/17:29,--,5,1,-,"MTR_LS, MUZ_LS",Detail,-
+74,11088,CAB 265,Kaval III,Physical (Face to face),Cihan Yurtcu,TMB,Monday,15:30/17:29,--,5,1,-,"MTR_LS, MUZ_LS, THO_LS",Detail,-
+75,11089,CAB 267,Klarnet III,Physical (Face to face),Ünsal Çeliksu,TMB,Monday,15:30/17:29,--,5,3,-,"MTR_LS, MUZ_LS, THO_LS",-,-
+76,15894,CAB 268,Klarnet IV,Physical (Face to face),Ünsal Çeliksu,undeclared,Tuesday,13:30/15:29,--,5,2,-,"MTR_LS, MUZ_LS, THO_LS",Detail,-
+77,10920,CAB 269,3 Telli Kemençe III,Physical (Face to face),Neva Özgen Kösoğlu,TMB,Monday,15:30/17:29,--,5,2,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",Detail,-
+78,10812,CAB 277,Piyano III,Physical (Face to face),Devlet Devrim Öztaş,TMB,Friday,10:30/12:29,--,25,21,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+79,10815,CAB 277,Piyano III,Physical (Face to face),Sıtkı Kandemir Basmacıoğlu,undeclared,Thursday,13:30/15:29,--,15,9,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+80,10816,CAB 277,Piyano III,Physical (Face to face),Alper Rumelioğlu,TMB,Wednesday,13:30/15:29,--,21,20,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+81,15120,CAB 278,Piyano IV,Physical (Face to face),Alper Rumelioğlu,undeclared,Wednesday,10:30/12:29,--,10,6,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+82,15637,CAB 278,Piyano IV,Physical (Face to face),Devlet Devrim Öztaş,undeclared,Friday,14:00/15:59,--,15,2,-,"MTR_LS, MUT_LS, MZT_LS, SES_LS",Detail,-
+83,15315,CAB 279,Koltuk Davul I,Physical (Face to face),Salim Sınar,undeclared,Monday,15:30/17:29,--,10,2,-,THO_LS,-,-
+84,11091,CAB 281,Def,Physical (Face to face),Erkan Kanat,TMB,Monday,15:30/17:29,--,5,1,-,"MTR_LS, MUZ_LS",Detail,-
+85,11093,CAB 287,Gitar III,Physical (Face to face),Tolgahan Çoğulu,TMB,Monday,15:30/17:29,--,5,5,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",Detail,-
+86,11095,CAB 287,Gitar III,Physical (Face to face),Tufan Kurdoğlu,TMB,Monday,15:30/17:29,--,5,4,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",Detail,-
+87,11119,CAB 289,Çalgılama III,Physical (Face to face),"Mehmet Şimşek , Lale Akay , Buse Sever , Neva Özgen Kösoğlu , Burak Malçok",TMB,Wednesday,08:30/10:29,--,10,3,-,"BST_LS, KMP_LS",-,-
+88,16012,CAB 293,Zurna III,Physical (Face to face),Cem Ekmen,undeclared,Monday,15:30/17:29,--,5,1,-,"MUZ_LS, THO_LS",Detail,-
+89,11096,CAB 295,Viyolonsel III,Physical (Face to face),Cenk Öztürk,TMB,Monday,15:30/17:29,--,5,4,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS",Detail,-
+90,15136,CAB 296,Viyolonsel IV,Physical (Face to face),Cenk Öztürk,TMB,Monday,10:30/12:29,--,5,1,-,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",Detail,-
+91,11102,CAB 3101,Keman V,Physical (Face to face),Ahmet Hakan Şensoy,TMB,Tuesday,15:30/17:29,--,5,1,-,MTR_LS,Detail,-
+92,10903,CAB 313,Ney V,Physical (Face to face),Burak Malçok,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+93,10820,CAB 327,3 Telli Kemençe V,Physical (Face to face),Neva Özgen Kösoğlu,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+94,10883,CAB 331,Keman V,Physical (Face to face),Ahmet Hakan Şensoy,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+95,11824,CAB 333,Viyolonsel V,Physical (Face to face),Yelda Özgen Öztürk,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+96,10889,CAB 339,Kemane V,Physical (Face to face),Kadir Verim,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+97,11124,CAB 343,Yrd.Çalgı Piyano V,Physical (Face to face),Senka Simonovic,TMB,Thursday,10:30/12:29,--,18,14,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS, SES_LS",-,-
+98,10865,CAB 345,Kanun V,Physical (Face to face),Ayşegül Kostak Toksoy,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+99,10908,CAB 347,Tanbur V,Physical (Face to face),Bedriye Gamze Ege Yıldız,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+100,10936,CAB 357,Bağlama V,Physical (Face to face),Engin Şafak Gürler,TMB,Tuesday,15:30/17:29,--,5,4,-,"MTR_LS, SES_LS",Detail,-
+101,11105,CAB 359,Ud V,Physical (Face to face),Buse Sever,TMB,Tuesday,15:30/17:29,--,5,3,-,"MTR_LS, SES_LS",Detail,-
+102,15892,CAB 359,Ud V,Physical (Face to face),Hasan Hekimoğlu,undeclared,Monday,15:30/17:29,--,5,2,-,"MTR_LS, SES_LS",Detail,-
+103,11107,CAB 367,Klarnet V,Physical (Face to face),Özlem Kolat Çakmaksoy,TMB,Tuesday,15:30/17:29,--,5,4,-,MTR_LS,Detail,-
+104,11109,CAB 375,Kemane V,Physical (Face to face),Mehmet Şimşek,TMB,Tuesday,15:30/17:29,--,5,1,-,MTR_LS,Detail,-
+105,11111,CAB 395,Viyolonsel V,Physical (Face to face),Cenk Öztürk,TMB,Tuesday,15:30/17:29,--,5,1,-,MTR_LS,Detail,-
+106,10831,CAB 407,Bağlama VII,Physical (Face to face),Erdem Şimşek,-,-,-/-,-,5,2,-,"CAB_LS, CEB_LS",Detail,-
+107,10834,CAB 407,Bağlama VII,Physical (Face to face),Cihangir Terzi,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+108,15638,CAB 409,Ud VII,Physical (Face to face),Sarper Eroğlu,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+109,11112,CAB 4101,Keman VII,Physical (Face to face),Ali Cihat Aşkın,TMB,Wednesday,13:30/15:29,--,5,3,-,MTR_LS,Detail,-
+110,10838,CAB 423,Flüt VII,Physical (Face to face),Cem Önertürk,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+111,16008,CAB 433,Viyolonsel VII,Physical (Face to face),Cenk Öztürk,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+112,10891,CAB 439,Kemane VII,Physical (Face to face),Kadir Verim,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+113,11127,CAB 443,Yrd.Çalgı Piyano VII,Physical (Face to face),Alper Rumelioğlu,TMB,Friday,14:00/15:59,--,15,9,-,"BST_LS, CAB_LS, CEB_LS, KMP_LS, SES_LS",-,-
+114,10866,CAB 445,Kanun VII,Physical (Face to face),Ayşegül Kostak Toksoy,-,-,-/-,-,5,1,-,"CAB_LS, CEB_LS",Detail,-
+115,15627,CAB 452,Kanun VIII,Physical (Face to face),Serkan Mesut Halili,undeclared,Wednesday,13:30/15:29,--,5,2,-,"MTR_LS, SES_LS",Detail,-
+116,10940,CAB 457,Bağlama VII,Physical (Face to face),Adnan Koç,TMB,Wednesday,13:30/15:29,--,5,3,-,"MTR_LS, SES_LS",Detail,-
+117,16016,CAB 461,Ney VII,Physical (Face to face),Burak Malçok,TMB,Monday,10:30/12:29,--,5,1,-,MTR_LS,Detail,-
+118,11115,CAB 467,Klarnet VII,Physical (Face to face),Özlem Kolat Çakmaksoy,TMB,Wednesday,13:30/15:29,--,5,2,-,MTR_LS,Detail,-
+119,11117,CAB 485,Gitar VII,Physical (Face to face),Tolgahan Çoğulu,TMB,Wednesday,13:30/15:29,--,5,4,-,MTR_LS,Detail,-
+120,15121,CAB 486,Gitar VIII,Physical (Face to face),Tolgahan Çoğulu,undeclared,Tuesday,13:30/15:29,--,5,1,-,MTR_LS,Detail,-
+121,10761,CAB 492,Bitirme Çalışması,Physical (Face to face),Hatice Doğan Sevinç,-,-,-/-,-,100,2,-,"CAB_LS, CEB_LS",-,Detail
+122,11131,CAB 729,Uslup Tavır ve Yorum III,Physical (Face to face),Ayşegül Kostak Toksoy,TMB TMB,Monday Tuesday,08:30/10:29 15:30/17:29,-- --,15,1,-,"CAB_LS, CEB_LS",-,-
+123,11133,CAB 729,Uslup Tavır ve Yorum III,Physical (Face to face),Erhan Özdemir,TMB TMB,Wednesday Friday,13:30/15:29 10:30/12:29,-- --,15,2,-,"CAB_LS, CEB_LS",-,-
+124,10942,CAB 731,Toplu Uygulama I (Orkestra),Physical (Face to face),"Barış Kerem Bahar , Senka Simonovic",TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,7,-,"CAB_LS, CEB_LS",-,-
+125,11334,CAB 733,Toplu Uygulama I (THM),Physical (Face to face),Haydar Tanrıverdi,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,7,-,"CAB_LS, CEB_LS",-,-
+126,11340,CAB 735,Toplu Uygulama I (TSM),Physical (Face to face),Hidayet Timur Sarıca,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,10,-,"CAB_LS, CEB_LS",-,-
+127,10943,CAB 741,Toplu Uygulama III (Orkestra),Physical (Face to face),"Barış Kerem Bahar , Senka Simonovic",TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,3,-,"CAB_LS, CEB_LS",-,-
+128,11336,CAB 743,Toplu Uygulama III (THM),Physical (Face to face),Haydar Tanrıverdi,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,4,-,"CAB_LS, CEB_LS",-,-
+129,11342,CAB 745,Toplu Uygulama III (TSM),Physical (Face to face),Hidayet Timur Sarıca,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,6,-,"CAB_LS, CEB_LS",-,-
+130,11266,CAB 751,Toplu Uygulama V (Orkestra),Physical (Face to face),"Barış Kerem Bahar , Senka Simonovic",TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,2,-,"CAB_LS, CEB_LS",-,-
+131,11337,CAB 753,Toplu Uygulama V (THM),Physical (Face to face),Haydar Tanrıverdi,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,4,-,"CAB_LS, CEB_LS",-,-
+132,11343,CAB 755,Toplu Uygulama V (TSM),Physical (Face to face),Hidayet Timur Sarıca,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,4,-,"CAB_LS, CEB_LS",-,-
+133,11339,CAB 763,Toplu Uygulama VII (THM),Physical (Face to face),Haydar Tanrıverdi,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,2,-,"CAB_LS, CEB_LS",-,-
+134,11344,CAB 765,Toplu Uygulama VII (TSM),Physical (Face to face),Hidayet Timur Sarıca,TMB TMB,Monday Wednesday,10:30/12:29 10:30/12:29,-- --,20,3,-,"CAB_LS, CEB_LS",-,-
+135,15890,CAB 773,Dini Müzik Repertuarı I,Physical (Face to face),Lale Akay,undeclared,Friday,14:00/16:59,--,10,1,-,"CAB_LS, CEB_LS",-,-
+136,11349,CAB 775,17.yy Saz Eserleri Repertuarı,Physical (Face to face),Neva Özgen Kösoğlu,TMB,Friday,09:30/12:29,--,15,2,-,"CAB_LS, CEB_LS",-,-
+137,11350,CAB 777,Oyun Havaları Repertuarı I,Physical (Face to face),Metin Eke,TMB,Friday,09:30/12:29,--,15,3,-,"CAB_LS, CEB_LS",-,-
+138,11135,CAB 781,Uslup Tavır ve Yorum I,Physical (Face to face),Neva Özgen Kösoğlu,TMB TMB,Tuesday Wednesday,15:30/17:29 13:30/15:29,-- --,15,2,-,"CAB_LS, CEB_LS",-,-
+139,11248,CAB 781,Uslup Tavır ve Yorum I,Physical (Face to face),Erhan Özdemir,TMB TMB,Monday Wednesday,08:30/10:29 08:30/10:29,-- --,15,5,-,"CAB_LS, CEB_LS",-,-
+140,11353,CAB 783,Alto Kemençe I,Physical (Face to face),Lale Akay,TMB TMB,Monday Tuesday,08:30/10:29 15:30/17:29,-- --,5,1,-,"CAB_LS, CEB_LS",-,-
+141,11351,CAB 785,Oda Müziği I,Physical (Face to face),Yelda Özgen Öztürk,TMB TMB,Monday Wednesday,08:30/10:29 08:30/10:29,-- --,15,2,-,"CAB_LS, CEB_LS",-,-
+142,15313,CAB 790,20-21yy Çkssli TrkMzği ÇlgıRep,Physical (Face to face),Ali Cihat Aşkın,undeclared,Wednesday,10:30/12:29,--,15,1,-,"CAB_LS, CEB_LS",-,-
+143,11346,CAB 791,Bağlmda Çalp Söylme Gelneği I,Physical (Face to face),Metin Eke,TMB,Friday,16:00/17:59,--,15,1,-,"CAB_LS, CEB_LS",-,-

@@ -1,0 +1,40 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12241,ICM 119E,Int.to Interior Archit.&Ethics,Physical (Face to face),Emine Görgül,MMB,Wednesday,13:30/15:29,213,55,60,-,"IAD_LS, ICM_LS",-,-
+1,12083,ICM 204,İç Mimarlıkta Tarih & Kuram II,Physical (Face to face),Ahmet Erdem Tozoğlu,MMB,Tuesday,13:30/16:29,107,60,47,-,ICM_LS,Detail,-
+2,15803,ICM 206E,Surv andRepr.Tch.in Intr.Arch.,Ek Sınav,Uğur Efe Uçar,-,-,-/-,-,0,1,-,-,-,-
+3,12422,ICM 209E,Inter.Arch.Design Fund.Studio,Physical (Face to face),Ervin Garip,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,203A 203A,15,15,ICM_LS/11/12 | IAD_LS/4/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+4,12425,ICM 209E,Inter.Arch.Design Fund.Studio,Physical (Face to face),Seniye Banu Garip,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,16,ICM_LS/12/13 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+5,12428,ICM 209E,Inter.Arch.Design Fund.Studio,Physical (Face to face),Gözde Gökdemir,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,16,ICM_LS/12/13 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+6,14715,ICM 209E,Inter.Arch.Design Fund.Studio,Physical (Face to face),Fırat Küçükersen,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,15,ICM_LS/12/12 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+7,12228,ICM 219,Tasarım Araştırmalarına Giriş,Physical (Face to face),Uğur Efe Uçar,MMB,Wednesday,09:30/12:29,213,55,28,-,ICM_LS,-,-
+8,12180,ICM 233,Yapı Malzemesi,Physical (Face to face),Fırat Küçükersen,MMB,Tuesday,08:30/12:29,MZLB,60,47,-,ICM_LS,-,-
+9,12431,ICM 246E,Interior Arch. Design Studio I,Physical (Face to face),Demet Arslan Dinçay,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,203B 203B,2,1,-,"IAD_LS, ICM_LS",Detail,-
+10,12435,ICM 246E,Interior Arch. Design Studio I,Physical (Face to face),Ahmet Erdem Tozoğlu,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,2,2,ICM_LS/1/1 | IAD_LS/1/1 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+11,12440,ICM 246E,Interior Arch. Design Studio I,Physical (Face to face),Yasemin Başuslu,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,2,2,ICM_LS/2/2 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+12,12171,ICM 325,"Iç Mim.Tarih,Kuram &Elştri IV",Virtual (Online),Deniz Çalışır Pençe,MMB,Friday,08:30/10:29,--,10,1,-,ICM_LS,-,-
+13,12448,ICM 349E,Interior Arch.Design Studio II,Physical (Face to face),Demet Arslan Dinçay,undeclared undeclared,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,15,ICM_LS/12/12 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+14,12450,ICM 349E,Interior Arch.Design Studio II,Physical (Face to face),Ahmet Erdem Tozoğlu,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,12,ICM_LS/13/10 | IAD_LS/2/2 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+15,12454,ICM 349E,Interior Arch.Design Studio II,Physical (Face to face),Yasemin Başuslu,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,3501 --,15,15,ICM_LS/12/12 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+16,12209,ICM 351E,Space And Furniture,Physical (Face to face),Çiğdem Eren,MMB,Tuesday,13:30/17:29,212,27,19,-,"IAD_LS, ICM_LS",-,-
+17,12212,ICM 351E,Space And Furniture,Physical (Face to face),Kemal Can Atalayer,MMB,Tuesday,13:30/17:29,--,27,26,-,"IAD_LS, ICM_LS",-,-
+18,12218,ICM 355E,Invstg.Colr&Light in Int.Arch,Physical (Face to face),Ethem Gürer,MMB,Tuesday,09:30/12:29,3404,27,27,-,"IAD_LS, ICM_LS",Detail,-
+19,12219,ICM 355E,Invstg.Colr&Light in Int.Arch,Physical (Face to face),Demet Arslan Dinçay,MMB,Tuesday,09:30/12:29,3405,27,15,-,"IAD_LS, ICM_LS",Detail,-
+20,12471,ICM 366E,Interior Arch.Desgn Studio III,Physical (Face to face),Hatice Ece Gülağaç,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,1,1,ICM_LS/1/1 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+21,14717,ICM 366E,Interior Arch.Desgn Studio III,Physical (Face to face),Shahryar Habıbı,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,3,3,-,"IAD_LS, ICM_LS",Detail,-
+22,15804,ICM 368E,Dsgn Prins of Intr. Fins. Sys,Ek Sınav,Enes Yaşa,-,-,-/-,-,0,1,-,-,-,-
+23,12292,ICM 4012E,Building Biology and Ecology,Physical (Face to face),Enes Yaşa,MMB,Thursday,10:30/12:29,3504,15,5,-,"IAD_LS, ICM_LS",-,-
+24,12295,ICM 4013,Cevresel Psikoloji,Physical (Face to face),Ervin Garip,MMB,Monday,10:30/12:29,319,15,16,-,ICM_LS,-,-
+25,12412,ICM 4015,Mağaza Tasarımında Kimlik,Physical (Face to face),Demet Arslan Dinçay,MMB,Thursday,10:30/12:29,307,15,13,-,ICM_LS,-,-
+26,12409,ICM 4023E,Exhibition Design,Physical (Face to face),Seniye Banu Garip,MMB,Monday,10:30/12:29,302,17,18,-,"IAD_LS, ICM_LS",-,-
+27,12278,ICM 4025E,Health and Design,Physical (Face to face),Emine Görgül,MMB,Monday,10:30/12:29,303,20,24,-,"IAD_LS, ICM_LS",-,-
+28,12417,ICM 4026,Sanat ve Kültür Tarihi,Physical (Face to face),Deniz Çalışır Pençe,MMB,Friday,14:00/16:59,311,15,13,-,ICM_LS,-,-
+29,12415,ICM 4032,Mimari Üsluplar,Physical (Face to face),Deniz Çalışır Pençe,MMB,Friday,10:30/12:29,315,15,12,-,ICM_LS,-,-
+30,14714,ICM 4039E,Sustainability in Inter.Arch.,Physical (Face to face),Shahryar Habıbı,MMB,Monday,10:30/12:29,315,15,18,-,"IAD_LS, ICM_LS",-,-
+31,15805,ICM 408E,Comm Design In Interior Arch.,Ek Sınav,Seniye Banu Garip,-,-,-/-,-,0,1,-,-,-,-
+32,12230,ICM 447E,Prdgms&Cse Std in Adpt.Re-Use,Physical (Face to face),Özge Cordan,MMB,Thursday,09:30/12:29,213,70,69,-,"IAD_LS, ICM_LS",Detail,-
+33,12473,ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Yasin Altıpat,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,15,ICM_LS/12/12 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+34,12474,ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Emine Görgül,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,13,ICM_LS/12/10 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+35,12483,ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Hatice Ece Gülağaç,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,15,ICM_LS/12/12 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+36,14718,ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Shahryar Habıbı,MMB MMB,Monday Thursday,13:30/17:29 13:30/17:29,-- --,15,14,ICM_LS/12/11 | IAD_LS/3/3 | Diğer/0/0,"IAD_LS, ICM_LS",Detail,-
+37,12487,ICM 4902,Diploma Projesi,Physical (Face to face),"Seniye Banu Garip , Demet Arslan Dinçay , Shahryar Habıbı",-,-,-/-,-,500,12,-,ICM_LS,Detail,-
+38,12496,ICM 4902E,Graduation Project,Physical (Face to face),"Demet Arslan Dinçay , Seniye Banu Garip , Shahryar Habıbı",-,-,-/-,-,500,12,-,"IAD_LS, ICM_LS",Detail,-

@@ -1,0 +1,11 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12149,DNK 201,Dinamik,Physical (Face to face),Cemil Kurtcebe,MEDC,Monday,14:30/17:29,ZA4,80,78,-,"UCK_LS, UCK_YD",Detail,-
+1,14759,DNK 201,Dinamik,Physical (Face to face),Fethi Kadıoğlu,INB,Tuesday,09:30/12:29,B103,45,58,-,INS_LS,Detail,-
+2,14760,DNK 201,Dinamik,Physical (Face to face),Abdullah Gedikli,INB,Monday,14:00/16:59,D202,45,30,-,INS_LS,Detail,-
+3,12152,DNK 201E,Dynamics,Physical (Face to face),Ali Tatar,MEDC,Monday,14:30/17:29,ZA2,70,74,-,"UZB_LS, UZB_YD, UZBE_LS",Detail,-
+4,12255,DNK 201E,Dynamics,Physical (Face to face),Ceren Bilgin Güney,MEDC,Thursday,09:30/12:29,1D10,90,95,-,"DEN_LS, DENE_LS",Detail,-
+5,14761,DNK 201E,Dynamics,Physical (Face to face),Abdul Hayır,INB,Wednesday,12:30/15:29,A304,45,26,-,"INS_LS, INSE_LS",Detail,-
+6,14762,DNK 201E,Dynamics,Physical (Face to face),Hale Ergün,INB,Tuesday,13:30/16:29,A305,45,50,-,"INS_LS, INSE_LS",Detail,-
+7,14763,DNK 201E,Dynamics,Physical (Face to face),Ünal Aldemir,INB,Wednesday,12:30/15:29,B101,45,44,-,"INS_LS, INSE_LS",Detail,-
+8,15280,DNK 201E,Dynamics,Physical (Face to face),Arcan Yanık,EEB,Tuesday,12:30/15:29,5105,50,59,-,"EEE_LS, EHB_LS, EHBE_LS, ELE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS, TEL_LS",Detail,-
+9,15298,DNK 201E,Dynamics,Physical (Face to face),Oktay Eren Türeyen,MEDC,Monday,10:30/13:29,3BİL1,50,31,-,NAE_LS,Detail,-

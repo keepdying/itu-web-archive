@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14990,RES 102,Bilg. Destekli Teknik Resim,Physical (Face to face),Melek Ertogan,DZB,Tuesday,11:30/15:29,--,30,4,-,DUI_LS,-,-
+1,15941,RES 102E,Com.Aided Technical Drawing,Physical (Face to face),Yalçın Durmuşoğlu,DZB,Monday,08:30/12:29,--,10,4,-,MEN_LS,-,-
+2,11315,RES 107,Teknik Resim,Physical (Face to face),Selim Ertürk,KMB,Thursday,08:30/11:29,D301,50,52,-,"GID_LS, KMM_LS",-,-
+3,11316,RES 107,Teknik Resim,Physical (Face to face),Selim Ertürk,KMB,Friday,08:30/11:29,D301,50,42,-,"GID_LS, KMM_LS",-,-
+4,11473,RES 107,Teknik Resim,Physical (Face to face),Selim Ertürk,KMB,Friday,14:00/16:59,D301,50,47,-,"GID_LS, KMM_LS, MET_LS",-,-
+5,14319,RES 107E,Technical Drawing,Physical (Face to face),Sena Duru,MKB,Tuesday,13:30/16:29,409,40,20,-,"TEK_LS, TEKE_LS",-,-
+6,14320,RES 107E,Technical Drawing,Physical (Face to face),Sena Duru,MKB,Thursday,09:30/12:29,406,40,27,-,"TEK_LS, TEKE_LS",-,-
+7,15310,RES 107E,Technical Drawing,Physical (Face to face),Enise Pekgenç,INB,Thursday,13:30/16:29,D103,60,57,-,"PET_LS, PETE_LS",-,-

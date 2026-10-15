@@ -1,0 +1,17 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12321,YZV 103E,Intr. to AI & Data Eng& Ethics,Physical (Face to face),Ergi Şener,BBB,Wednesday,13:30/15:29,Z-18,60,37,-,YZVE_LS,-,-
+1,12322,YZV 201E,Data Structures,Physical (Face to face),Gülşen Eryiğit,BBB,Tuesday,08:30/12:29,Z-20,70,51,-,"YZVE_LS, YZVE_LS",Detail,-
+2,12323,YZV 211E,Intro to Data Science and Eng.,Physical (Face to face),Ahmet Cüneyd Tantuğ,BBB,Monday,09:30/12:29,Z-19,75,70,-,"YZVE_LS, YZVE_LS",-,-
+3,12324,YZV 302E,Deep Learning,Physical (Face to face),Tuğçe Bilen,BBB,Monday,14:30/17:29,--,5,1,-,"YZVE_LS, YZVE_LS",Detail,-
+4,12325,YZV 303E,Deep Learning,Physical (Face to face),Faik Boray Tek,BBB,Monday,14:30/17:29,Z-18,80,78,-,YZVE_LS,Detail,-
+5,12326,YZV 311E,Data Mining,Physical (Face to face),Şule Öğüdücü,BBB,Wednesday,12:30/15:29,104,65,60,-,YZVE_LS,Detail,-
+6,12328,YZV 401E,Legal Aspects of AI&Data Eng.,Physical (Face to face),Çiçek Ersoy Kekevi,BBB,Friday,14:30/16:29,Z-17,75,68,-,"YZVE_LS, YZVE_LS",-,-
+7,12329,YZV 406E,Robotics,Physical (Face to face),Sanem Sarıel Uzer,BBB,Tuesday,09:30/12:29,Z-18,85,85,YZVE_LS/70/68 | Diğer/15/17,"BLGE_LS, YZVE_LS",Detail,-
+8,12330,YZV 411E,Big Data Analytics,Physical (Face to face),Cihan Topal,BBB,Tuesday,14:30/17:29,104,65,62,-,"YZVE_LS, YZVE_LS",Detail,-
+9,12361,YZV 413E,Graph Theory and Algorithms,Physical (Face to face),Tuğçe Bilen,BBB,Tuesday,09:30/12:29,Z-22,30,20,-,"YZVE_LS, YZVE_LS",Detail,-
+10,12336,YZV 445E,Artificial Intelligence Project,Physical (Face to face),Ömer Faruk Tuna,BBB,Friday,14:30/17:29,Z-23,25,17,-,"YZVE_LS, YZVE_LS",Detail,-
+11,12340,YZV 448E,Machine Learning System Development and Operations (MLOps),Physical (Face to face),Mehmet Tunçel,BBB,Friday,09:30/12:29,Z-23,25,26,-,YZVE_LS,Detail,-
+12,12352,YZV 449E,Deep Generative AI,Physical (Face to face),Gözde Ünal,BBB,Monday,08:30/11:29,101,30,14,-,YZVE_LS,Detail,-
+13,12365,YZV 475E,Data Visualization,Physical (Face to face),Tuğba Pamay Arslan,BBB,Monday,09:30/12:29,Z-21,40,37,-,"YZVE_LS, YZVE_LS",Detail,-
+14,12331,YZV 4901E,AI &Data Engineering Design I,Physical (Face to face),Berna Kiraz,-,-,-/-,-,100,54,-,"YZVE_LS, YZVE_LS",Detail,Detail
+15,12334,YZV 4902E,AI& Data Engineering Design II,Physical (Face to face),Tuğçe Bilen,-,-,-/-,-,100,21,-,"YZVE_LS, YZVE_LS",Detail,-

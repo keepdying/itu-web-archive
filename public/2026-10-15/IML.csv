@@ -1,0 +1,21 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,16050,IML 205,Termodinamik,Ek Sınav,Ersin Sayar,-,-,-/-,-,5,0,-,IML_LS,-,-
+1,16036,IML 305,Isı Geçişi,Ek Sınav,Ersin Sayar,-,-,-/-,-,5,0,-,IML_LS,Detail,-
+2,16051,IML 305,Isı Geçişi,Ek Sınav,Ersin Sayar,-,-,-/-,-,5,0,-,IML_LS,Detail,-
+3,16028,IML 318,Makina Elemanları,Ek Sınav,Ali İmre Aydeniz,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+4,16037,IML 320,Makina Elemanları,Ek Sınav,Ali İmre Aydeniz,-,-,-/-,-,5,0,-,IML_LS,Detail,-
+5,16029,IML 322,İmalatta Otomasyon,Ek Sınav,Erdinç Altuğ,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+6,16060,IML 322,İmalatta Otomasyon,Ek Sınav,Erdinç Altuğ,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+7,16061,IML 326E,Manuf. of Nonmetalic Prod.,Ek Sınav,Ramazan Murat Tabanlı,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+8,16038,IML 332E,CAD/CAM,Ek Sınav,Mustafa Bakkal,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+9,16048,IML 335,İmalat Planlama ve Kontrol,Ek Sınav,Ramazan Murat Tabanlı,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+10,16049,IML 338,İmalat Sistemleri,Ek Sınav,Ramazan Murat Tabanlı,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+11,15464,IML 401,İmalat Lab I,Physical (Face to face),Canan Gamze Güleryüz Parasız,-,-,-/-,-,5,1,-,IML_LS,-,Detail
+12,16030,IML 401,İmalat Lab I,Ek Sınav,Canan Gamze Güleryüz Parasız,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",-,Detail
+13,15662,IML 402,İmalat Lab II,Physical (Face to face),Canan Gamze Güleryüz Parasız,-,-,-/-,-,10,1,-,"IML_LS, IMLE_LS",-,Detail
+14,16032,IML 402,İmalat Lab II,Ek Sınav,Canan Gamze Güleryüz Parasız,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",-,Detail
+15,16039,IML 404E,Comp.Simulations in Manuf.Eng.,Ek Sınav,Canan Gamze Güleryüz Parasız,-,-,-/-,-,5,0,-,-,-,Detail
+16,16031,IML 425E,Comp.Integra.Manufact. (CIM),Ek Sınav,Erkan Günpınar,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+17,16034,IML 438E,Tool Design,Ek Sınav,Mustafa Bakkal,-,-,-/-,-,5,0,-,"IML_LS, IMLE_LS",Detail,-
+18,15465,IML 4901,İmalat Müh. Tasarımı I,Physical (Face to face),Akif Yavuz,-,-,-/-,-,5,1,-,IML_LS,Detail,Detail
+19,16033,IML 492,İmalat Tasarım Projesi,Ek Sınav,Akif Yavuz,-,-,-/-,-,5,0,-,"IML_LS, IML_LS, IMLE_LS",-,Detail

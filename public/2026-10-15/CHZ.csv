@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11040,CHZ 103,Cevher Haz. Müh. Giriş ve Etik,Physical (Face to face),"Kudret Tahsin Perek , Esra Baştürkcü",MDB,Wednesday,13:30/15:29,A101,70,37,-,CHZ_LS,-,-
+1,11043,CHZ 213,Zenginlstirme Önc.Haz. İşlml.,Physical (Face to face),"Murat Olgaç Kangal , Zeynep Üçerler Çamur",MDB MDB,Tuesday Friday,10:30/12:29 14:00/15:59,A103 A205,60,52,-,"CHZ_LS, CHZ_YD",-,-
+2,11044,CHZ 224E,Surface and Colloid Chemistry,Physical (Face to face),Orhan Özdemir,MDB,Friday,08:30/11:29,A202,60,47,-,"CHZ_LS, CHZ_YD, CHZE_LS",-,-
+3,11045,CHZ 314,Cevher Haz. Tesis Otomasyonu,Physical (Face to face),Kudret Tahsin Perek,MDB,Wednesday,08:30/10:29,A202,55,50,-,"CHZ_LS, CHZ_YD",-,-
+4,11047,CHZ 316E,Metallurgy I,Physical (Face to face),Fatma Arslan,MDB,Wednesday,13:30/15:29,A203,55,52,-,"CHZ_LS, CHZE_LS",-,-
+5,11048,CHZ 321,Kömür Hazırlama,Physical (Face to face),Mustafa Özer,MDB,Thursday,08:30/11:29,B204,80,73,-,"CHZ_LS, CHZ_YD, MAD_LS",-,-
+6,11459,CHZ 323,Maden Yatakları,Physical (Face to face),"Mustafa Kumral , Naşide Merve Sütçü",MDB,Monday,08:30/11:29,A204,40,36,-,CHZ_LS,-,-
+7,11049,CHZ 323E,Ore Deposits,Physical (Face to face),"Emin Çiftçi , Amr Abdelnasser Alı Khalıl",MDB,Tuesday,13:30/16:29,A301,60,32,-,"CHZ_LS, CHZE_LS",-,-
+8,11052,CHZ 348E,Bulk Materials Handling,Physical (Face to face),Ayhan Ali Sirkeci,MDB,Tuesday,13:30/15:29,B206,80,76,-,"CHZ_LS, CHZE_LS",-,-
+9,11054,CHZ 421,Cevher Haz. Proses Tasarımı,Physical (Face to face),Hüseyin Baştürkcü,MDB,Friday,08:30/11:29,A203,80,79,-,"CHZ_LS, CHZ_YD",Detail,-
+10,15949,CHZ 432,Cevher Haz. Tesis Tasarımı,Ek Sınav,Hüseyin Baştürkcü,-,-,-/-,-,0,1,-,CHZ_LS,Detail,-
+11,11057,CHZ 437,Kömür Hazırlamada Model.&Sim.,Physical (Face to face),"Feridun Boylu , Yusuf Enes Pural",MDB,Wednesday,10:30/12:29,B204,30,33,-,CHZ_LS,-,-
+12,11060,CHZ 439,Çimento Hammad. ve Tekn.,Physical (Face to face),Şükriye Beste Aydın,MDB,Wednesday,10:30/12:29,B208,27,28,-,CHZ_LS,-,-
+13,11062,CHZ 443E,Boron Processing and Applic.,Physical (Face to face),"Gülay Bulut , Şükriye Beste Aydın",MDB,Tuesday,10:30/12:29,A205,60,59,-,"CHZ_LS, CHZE_LS",-,-
+14,11072,CHZ 447,Flotasyon,Physical (Face to face),Gülay Bulut,MDB,Friday,10:30/12:29,B204,35,31,-,MAD_LS,-,-
+15,11065,CHZ 452E,Mineral Process. & Environment,Physical (Face to face),Fırat Burat,MDB,Monday,11:30/13:29,B204,75,74,-,"CHZ_LS, CHZE_LS",-,-
+16,11067,CHZ 4901,Cevher Hazırl. Müh. Tasarımı I,Physical (Face to face),Murat Olgaç Kangal,-,-,-/-,-,300,51,-,"CHZ_LS, CHZ_LS",Detail,Detail
+17,11069,CHZ 4902,Cevher Hazırl. Müh.Tasarımı II,Physical (Face to face),Murat Olgaç Kangal,-,-,-/-,-,300,5,-,"CHZ_LS, CHZ_LS",Detail,Detail

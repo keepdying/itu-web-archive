@@ -1,0 +1,35 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11648,THO 109,Oyun Ritim Bilgisi I,Physical (Face to face),Eyüp Uzunkaya,TMB,Monday,08:30/10:29,--,30,26,-,THO_LS,-,-
+1,11646,THO 111,Hareket Anatomisi I,Physical (Face to face),Şener Günay,undeclared,Friday,14:00/15:59,--,35,35,-,THO_LS,-,-
+2,11647,THO 113,Oyun Tekniği I,Physical (Face to face),Salim Sınar,TMB TMB,Monday Tuesday,10:30/12:29 15:30/17:29,-- --,25,25,-,THO_LS,-,-
+3,11643,THO 115,Bale I,Physical (Face to face),Yıldız Çankaya,TMB TMB,Wednesday Thursday,10:30/12:29 10:30/12:29,-- --,12,13,-,THO_LS,-,-
+4,11644,THO 115,Bale I,Physical (Face to face),Funda Bozkurt Saygı,TMB TMB,Wednesday Thursday,10:30/12:29 10:30/12:29,-- --,12,12,-,THO_LS,-,-
+5,11642,THO 117,Kondisyon Ve Esneme I (Krdsz),Physical (Face to face),Funda Bozkurt Saygı,undeclared TMB,Wednesday Thursday,08:30/10:29 08:30/10:29,-- --,15,13,-,THO_LS,-,-
+6,15145,THO 117,Kondisyon Ve Esneme I (Krdsz),Physical (Face to face),Funda Bozkurt Saygı,undeclared undeclared,Wednesday Thursday,13:30/15:29 13:30/15:29,-- --,15,15,-,THO_LS,-,-
+7,11651,THO 201,Oyun Ritim Bilgisi III,Physical (Face to face),Salim Sınar,TMB,Wednesday,10:30/12:29,--,20,19,-,THO_LS,Detail,-
+8,11649,THO 203,Türk Halk Oyunları I,Physical (Face to face),Salim Sınar,undeclared TMB,Monday Tuesday,08:30/10:29 13:30/15:29,-- --,20,9,-,THO_LS,-,-
+9,15365,THO 204,Türk Halk Oyunları II,Physical (Face to face),Salim Sınar,-,-,-/-,-,0,1,-,THO_LS,-,-
+10,11650,THO 205,Oyunda Yöresel Tavırlar I,Physical (Face to face),Eyüp Uzunkaya,TMB TMB,Monday Friday,10:30/12:29 08:30/10:29,-- --,20,5,-,THO_LS,-,-
+11,11652,THO 207,Oyun Repertuvarı I,Physical (Face to face),Levent Ketenci,TMB TMB,Tuesday Thursday,08:30/10:29 08:30/10:29,-- --,20,18,-,THO_LS,-,-
+12,11664,THO 303,Türk Halk Oyunları III,Physical (Face to face),Cenap Güngör,TMB TMB,Tuesday Thursday,10:30/12:29 10:30/12:29,-- --,20,7,-,THO_LS,-,-
+13,11657,THO 305,Oyunda Yöresel Tavırlar III,Physical (Face to face),Aydın Balcı,TMB TMB,Tuesday Thursday,08:30/10:29 08:30/10:29,-- --,20,6,-,THO_LS,-,-
+14,11661,THO 307,Oyun Repertuvarı III,Physical (Face to face),Serdar Bombacı,TMB TMB,Monday Friday,10:30/12:29 08:30/10:29,-- --,20,7,-,THO_LS,-,-
+15,11660,THO 309,Halk Oyunları Sahne Bilgisi,Physical (Face to face),İlknur Bektaş,TMB,Tuesday,13:30/16:29,--,20,4,-,THO_LS,-,-
+16,11659,THO 311,Oyun Analizi I,Physical (Face to face),Eyüp Uzunkaya,undeclared,Wednesday,09:30/12:29,--,20,5,-,THO_LS,-,-
+17,11663,THO 313,Koreoloji I,Physical (Face to face),Eyüp Uzunkaya,TMB TMB,Friday Friday,10:30/12:29 14:00/15:59,-- --,20,11,-,THO_LS,-,-
+18,11639,THO 371,Sahne ve Beden Dili I,Physical (Face to face),Kemal Akdoğan,TMB,Wednesday,13:30/15:29,--,20,3,-,SES_LS,-,-
+19,11674,THO 409,20.yy'da Dans,Physical (Face to face),Serpil Murtezaoğlu,TMB,Monday,09:30/12:29,--,20,5,-,THO_LS,-,-
+20,16013,THO 411,Geleneksel Giyim Kuşam I,Physical (Face to face),İlknur Bektaş,TMB,Friday,08:30/10:29,--,10,1,-,THO_LS,-,-
+21,11665,THO 417,Sahne Projesi III (Kredisiz),Physical (Face to face),İlknur Bektaş,TMB TMB,Thursday Thursday,13:30/15:29 15:30/17:29,-- --,10,2,-,THO_LS,-,-
+22,11666,THO 417,Sahne Projesi III (Kredisiz),Physical (Face to face),Serpil Murtezaoğlu,TMB TMB,Thursday Thursday,13:30/15:29 15:30/17:29,-- --,10,3,-,THO_LS,-,-
+23,16025,THO 418,Sahne Projesi IV (Kredisiz),Physical (Face to face),Levent Ketenci,TMB TMB,Thursday Thursday,13:30/15:29 15:30/17:29,-- --,5,1,-,THO_LS,-,-
+24,11669,THO 425,Halay Oyun Repertuvarı I,Physical (Face to face),Cenap Güngör,TMB TMB,Monday Tuesday,15:30/17:29 08:30/10:29,-- --,10,2,-,THO_LS,-,-
+25,11662,THO 429,Karşılama- Hora Oyun Rep. I,Physical (Face to face),Serdar Bombacı,TMB TMB,Thursday Friday,10:30/12:29 10:30/12:29,-- --,10,3,-,THO_LS,-,-
+26,11670,THO 435,Zeybek Oyun Repertuvarı I,Physical (Face to face),Levent Ketenci,TMB TMB,Tuesday Wednesday,10:30/12:29 10:30/12:29,-- --,10,1,-,THO_LS,-,-
+27,11677,THO 445,Köy Seyirlik Oyunları I,Physical (Face to face),Eyüp Uzunkaya,TMB TMB,Tuesday Friday,15:30/17:29 16:00/17:59,-- --,10,2,-,THO_LS,-,-
+28,11667,THO 447,Modern Dans I,Physical (Face to face),Yıldız Çankaya,TMB TMB,Wednesday Thursday,08:30/10:29 08:30/10:29,-- --,10,2,-,THO_LS,-,-
+29,11679,THO 453,Dans Antropolojisine Giriş,Physical (Face to face),Serpil Murtezaoğlu,TMB,Monday,13:30/15:29,--,10,4,-,THO_LS,-,-
+30,15896,THO 456,Dans Sosyolojisine Giriş,Physical (Face to face),Serpil Murtezaoğlu,undeclared,Thursday,08:30/10:29,--,10,2,-,THO_LS,-,-
+31,11671,THO 461,Koreografi I,Physical (Face to face),Yıldız Çankaya,TMB,Wednesday,13:30/15:29,--,15,14,-,THO_LS,-,-
+32,11640,THO 471,Türk Halk Oyunları I,Physical (Face to face),Cenap Güngör,TMB,Friday,10:30/12:29,--,20,10,-,SES_LS,-,-
+33,11638,THO 492,Bitirme Çalışması,Physical (Face to face),İlknur Bektaş,-,-,-/-,-,100,5,-,THO_LS,-,Detail

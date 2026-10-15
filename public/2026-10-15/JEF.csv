@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11090,JEF 111,Jeofizik Mühendisliğine Giriş,Physical (Face to face),Turgay İşseven,MDB,Wednesday,13:30/15:29,A204,80,39,-,"JEF_LS, JEF_YD",-,-
+1,11094,JEF 207E,Physics of the Earth,Physical (Face to face),Seda Yolsal Çevikbilen,MDB,Monday,08:30/10:29,A201,80,40,-,"JEF_LS, JEF_YD, JEFE_LS",-,-
+2,11151,JEF 311E,Seismology,Physical (Face to face),Gonca Örgülü,MDB MDB,Tuesday Thursday,13:30/16:29 15:30/17:29,B204 B204,80,43,-,"JEF_LS, JEF_YD, JEFE_LS",Detail,-
+3,11097,JEF 321,Elektrik Prospeksiyon,Physical (Face to face),Ümit Avşar,MDB,Thursday,08:30/12:29,A203,80,47,-,"JEF_LS, JEF_YD",Detail,-
+4,11098,JEF 325,Jeofizikte Modelleme,Physical (Face to face),Hüseyin Argun Kocaoğlu,MDB,Monday,13:30/17:29,A105,80,39,-,"JEF_LS, JEF_YD",Detail,-
+5,15882,JEF 331,Elektromanyetik Prospeksiyon,Physical (Face to face),Ümit Avşar,undeclared,Wednesday,08:30/12:29,--,0,1,-,JEF_LS,Detail,-
+6,15883,JEF 334E,Seismic Prospecting,Ek Sınav,Hülya Kurt,-,-,-/-,-,0,1,-,JEF_LS,Detail,-
+7,11207,JEF 335E,Readings in Geophysics,Physical (Face to face),Yasir Bashir,MDB,Wednesday,13:30/15:29,A103,80,23,-,"JEF_LS, JEF_YD, JEFE_LS",-,-
+8,11205,JEF 368,Jeotermal Aramalar,Physical (Face to face),Doğa Doğan,MDB,Friday,08:30/10:29,B205,22,22,-,"JEF_LS, JEF_YD",Detail,-
+9,11213,JEF 371,Paleomanyetizma,Physical (Face to face),Turgay İşseven,MDB,Monday,14:30/16:29,A205,20,4,-,"JEF_LS, JEF_YD",Detail,-
+10,11215,JEF 372,Arkeo-Jeofizik,Physical (Face to face),Caner İmren,MDB,Monday,14:30/16:29,B206,20,18,-,"JEF_LS, JEF_YD",Detail,-
+11,11204,JEF 425,Mühendislik Jeofiziği,Physical (Face to face),Abdullah Karaman,MDB MDB,Wednesday Friday,10:30/12:29 14:00/15:59,B205 B205,80,44,-,"JEF_LS, JEF_YD",Detail,-
+12,14991,JEF 448,Yer Radarı,Physical (Face to face),İsmail Kaplanvural,MDB,Tuesday,10:30/12:29,B206,22,22,-,"JEF_LS, JEF_YD",Detail,-
+13,11152,JEF 451,Gravite&Manyetik Prospeksiyon,Physical (Face to face),Turgay İşseven,MDB MDB,Wednesday Thursday,08:30/10:29 13:30/15:29,B204 B204,80,40,-,"JEF_LS, JEF_YD",Detail,-
+14,11220,JEF 4901,Jeofizik Müh.Tasarım Projesi I,Physical (Face to face),Hülya Kurt,-,-,-/-,-,100,34,-,JEF_LS,Detail,Detail
+15,11223,JEF 4901E,Geophysical Eng. Design Prj. I,Physical (Face to face),Hülya Kurt,-,-,-/-,-,100,1,-,"JEF_LS, JEFE_LS",Detail,Detail
+16,11221,JEF 4902,Jeofizik Müh.Tasarım Proje. II,Physical (Face to face),Hülya Kurt,-,-,-/-,-,100,8,-,JEF_LS,Detail,Detail
+17,11224,JEF 4902E,Geophysical Eng. Design Prj.II,Physical (Face to face),Hülya Kurt,-,-,-/-,-,100,1,-,"JEF_LS, JEFE_LS",Detail,Detail

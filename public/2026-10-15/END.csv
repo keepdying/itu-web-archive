@@ -1,0 +1,54 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12140,END 113,Endüstri Müh. Giriş ve Etik,Physical (Face to face),Seçkin Polat,ISB,Wednesday,13:30/15:29,108,80,77,-,END_LS,-,-
+1,12141,END 113E,Int.to Industrial Eng.& Ethics,Physical (Face to face),Murat Durucu,MSB,Wednesday,13:30/15:29,101,80,62,-,ENDE_LS,-,-
+2,12142,END 201E,Industrial Engineering Applications in Python,Physical (Face to face),Tuğberk Tunçinan,ISB,Friday,14:30/17:29,102,60,63,-,"END_LS, ENDE_LS, IND_LS",Detail,-
+3,12143,END 210,End. Müh.için Doğrusal Cebir,Physical (Face to face),Cafer Erhan Bozdağ,MSB,Friday,09:30/12:29,204,80,59,-,END_LS,-,-
+4,12144,END 210E,Linear Algebra for Indust.Eng.,Physical (Face to face),Kenan Mengüç,MSB,Monday,14:30/17:29,203,80,56,-,"ECNE_LS, ENDE_LS",-,-
+5,12145,END 213E,Data Manag.in Industrial Syst.,Physical (Face to face),Başar Öztayşi,MSB,Tuesday,09:30/12:29,104,80,107,IND_LS/15/27 | ISL_LS/5/2 | ISLE_LS/5/8 | Diğer/55/70,"END_LS, ENDE_LS, IND_LS, ISL_LS, ISLE_LS",-,-
+6,12146,END 213E,Data Manag.in Industrial Syst.,Physical (Face to face),Başar Öztayşi,MSB,Wednesday,09:30/12:29,104,80,71,-,"END_LS, ENDE_LS, IND_LS, ISL_LS, ISLE_LS",-,-
+7,12147,END 215,Sistem Düşüncesi ve Analizi,Physical (Face to face),Çiğdem Kadaifçi Yanmaz,MSB,Tuesday,14:30/16:29,B13,80,102,-,END_LS,-,-
+8,12148,END 215E,System Thinking and Analysis,Physical (Face to face),Çiğdem Kadaifçi Yanmaz,MSB,Monday,10:30/12:29,101,80,114,IND_LS/25/34 | Diğer/55/80,"ENDE_LS, IND_LS",-,-
+9,12150,END 232E,Ergonomics,Physical (Face to face),Fethi Çalışır,ISB,Wednesday,09:30/12:29,203,60,60,-,"END_LS, ENDE_LS",-,-
+10,12151,END 252E,Theory of Probability,Physical (Face to face),Erkan Işıklı,MSB,Thursday,09:30/12:29,216,80,90,IND_LS/15/18 | Diğer/65/72,"END_LS, ENDE_LS, IND_LS, VBAE_LS",Detail,-
+11,12153,END 252E,Theory of Probability,Physical (Face to face),Hatice Tekiner Moğulkoç,MSB,Thursday,14:30/17:29,216,80,87,ECNE_LS/5/0 | Diğer/75/87,"ECNE_LS, END_LS, ENDE_LS, IND_LS, VBAE_LS",Detail,-
+12,12154,END 305E,Data Analytics for Business,Physical (Face to face),Mehmet Yasin Ulukuş,MSB,Thursday,14:30/17:29,104,80,102,IND_LS/15/19 | ECNE_LS/5/3 | Diğer/60/80,"ECNE_LS, END_LS, ENDE_LS, IND_LS, VBAE_LS",Detail,-
+13,12156,END 305E,Data Analytics for Business,Physical (Face to face),Mehmet Ali Ergün,MSB,Thursday,09:30/12:29,101,80,89,IND_LS/15/17 | ECNE_LS/5/2 | Diğer/60/70,"ECNE_LS, END_LS, ENDE_LS, IND_LS, VBAE_LS",Detail,-
+14,12157,END 308,Kalite Mühendisliği,Physical (Face to face),Hüsnü Bülent Cerit,MSB,Monday,10:30/12:29,212,60,39,-,END_LS,Detail,-
+15,12159,END 312E,Engineering Economics,Physical (Face to face),Kenan Mengüç,MSB,Monday,09:30/12:29,203,60,74,-,"END_LS, ENDE_LS, IND_LS",-,-
+16,12161,END 317E,Database Management and Big Data,Physical (Face to face),Mahmut Sami Sivri,ISB,Monday,09:30/12:29,104,50,50,MAT_LS/5/5 | IND_LS/5/5 | ISL_LS/1/1 | ISLE_LS/4/4 | Diğer/35/35,"END_LS, ENDE_LS, IND_LS, ISL_LS, ISLE_LS, MAT_LS",Detail,-
+17,12163,END 322E,System Simulation,Physical (Face to face),Gülşah Hançerlioğulları Köksalmış,ISB,Thursday,09:30/12:29,102,60,68,-,"END_LS, ENDE_LS",Detail,-
+18,12164,END 327E,Decision Theory,Physical (Face to face),Burhaneddin Sandıkçı,ISB,Monday,09:30/12:29,102,50,39,-,"ECNE_LS, END_LS, ENDE_LS, IND_LS, VBAE_LS",Detail,-
+19,12165,END 329E,Quality Management Tools&Tech.,Physical (Face to face),Şeyda Serdar Asan,ISB,Thursday,14:30/17:29,207,50,38,-,"END_LS, ENDE_LS, IND_LS",-,-
+20,12166,END 331E,Operations Research I,Physical (Face to face),Tuğberk Tunçinan,ISB,Friday,09:30/12:29,108,60,61,IND_LS/5/5 | MAT_LS/5/6 | Diğer/50/50,"END_LS, ENDE_LS, IND_LS, MAT_LS",Detail,-
+21,15963,END 331E,Operations Research I,Physical (Face to face),Seda Yanık Özbay,MSB,Friday,09:30/12:29,212,0,44,-,"ECNE_LS, END_LS, ENDE_LS, IND_LS, MAT_LS",Detail,-
+22,12167,END 332E,Operations Research II,Physical (Face to face),"Özgür Kabak , Yusuf İlker Topcu",MSB,Monday,14:30/17:29,101,80,84,-,"END_LS, ENDE_LS",Detail,-
+23,12168,END 332E,Operations Research II,Physical (Face to face),"Yusuf İlker Topcu , Özgür Kabak",ISB,Monday,09:30/12:29,108,80,71,-,"END_LS, ENDE_LS",Detail,-
+24,12169,END 339,Proje Yönetimi,Physical (Face to face),Ayberk Soyer,ISB,Thursday,14:30/17:29,103,50,45,-,END_LS,-,-
+25,12170,END 341,İş Etüdü ve Dizaynı,Physical (Face to face),Ayşe Elvan Bayraktaroğlu,MSB,Tuesday,09:30/12:29,203,80,66,-,END_LS,Detail,-
+26,12173,END 341E,Work Analysis and Design,Physical (Face to face),Fethi Çalışır,ISB,Tuesday,09:30/12:29,102,80,58,-,ENDE_LS,Detail,-
+27,12187,END 344,Davranış Bilimleri,Physical (Face to face),Cahit Ali Bayraktar,ISB,Tuesday,09:30/12:29,206,50,14,-,END_LS,-,-
+28,12174,END 345,Yönetim Düşüncesinin Evrimi,Physical (Face to face),Cahit Ali Bayraktar,MSB,Monday,14:30/17:29,212,50,32,-,END_LS,-,-
+29,12175,END 357E,Management Information Systems,Physical (Face to face),Başar Öztayşi,ISB,Friday,09:30/12:29,103,50,46,-,"END_LS, ENDE_LS, IND_LS",Detail,-
+30,12176,END 382,Üretim Yöntemleri,Physical (Face to face),Hüsnü Bülent Cerit,MSB,Tuesday,14:30/17:29,B01,50,3,-,END_LS,Detail,-
+31,12177,END 411,Bütünleşik Üretim Sistemleri,Physical (Face to face),Şule Itır Satoğlu,ISB,Thursday,10:30/12:29,109,80,74,-,"ECNE_LS, END_LS, KOM_LS",Detail,-
+32,12178,END 411E,Integrated Manufacturing Syst,Physical (Face to face),Emre Çevikcan,ISB,Monday,14:30/16:29,109,80,72,-,ENDE_LS,Detail,-
+33,16068,END 412,İnsan Kaynakları Yönetiminin Temelleri,Ek Sınav,Cemil Ceylan,-,-,-/-,-,0,0,-,-,Detail,-
+34,12179,END 421,Üretim Planlama ve Kontrol,Physical (Face to face),Murat Baskak,MSB,Tuesday,14:30/17:29,101,80,76,-,END_LS,Detail,-
+35,12181,END 421E,Production Planning&Control,Physical (Face to face),Şule Itır Satoğlu,ISB,Friday,09:30/12:29,203,80,80,-,"ENDE_LS, KOM_LS, KOME_LS",Detail,-
+36,12183,END 429,Süreç Yönetimi,Physical (Face to face),Cemil Ceylan,MSB,Tuesday,14:30/17:29,B03,50,12,-,END_LS,Detail,-
+37,12184,END 431,Yönetim ve Organizasyon,Physical (Face to face),"Cahit Ali Bayraktar , Seçkin Polat",ISB,Tuesday,14:30/17:29,109,80,46,-,END_LS,-,-
+38,12185,END 431,Yönetim ve Organizasyon,Physical (Face to face),"Seçkin Polat , Cahit Ali Bayraktar",ISB,Thursday,14:30/17:29,102,80,62,-,END_LS,-,-
+39,12186,END 431E,Management and Organization,Physical (Face to face),Gaye Karaçay Aydın,MSB,Thursday,14:30/17:29,B13,80,91,-,ENDE_LS,-,-
+40,12188,END 435E,Work Safety,Physical (Face to face),Esra Baş,ISB,Friday,14:30/17:29,108,60,65,YAN_YD/10/3 | IND_LS/10/15 | Diğer/40/47,"END_LS, ENDE_LS, IND_LS, YAN_YD",-,-
+41,12189,END 443E,Business Planning & Innovation,Physical (Face to face),Çiğdem Kadaifçi Yanmaz,MSB,Thursday,09:30/12:29,204,50,48,-,"ECNE_LS, END_LS, ENDE_LS, IND_LS",-,Detail
+42,12190,END 445E,Lean Production Systems,Physical (Face to face),Ufuk Cebeci,MSB,Monday,14:30/17:29,204,50,30,-,"END_LS, ENDE_LS, IND_LS, KOM_LS, KOME_LS",-,-
+43,12191,END 449,End. Müh. Uyg. Seminer Dersi,Virtual (Online),Abdullah Zübeyr Şekerci,MSB,Tuesday,09:30/12:29,--,300,204,-,"END_LS, ENDE_LS, IND_LS",-,Detail
+44,12192,END 451E,Logistics Management,Physical (Face to face),Şeyda Serdar Asan,MSB,Wednesday,09:30/12:29,204,50,40,-,"END_LS, ENDE_LS, IND_LS",Detail,-
+45,12193,END 452,Satınalma Yönetimi,Physical (Face to face),Murat Baskak,MSB,Monday,09:30/12:29,B12,50,12,-,END_LS,-,-
+46,12197,END 456E,Analytical Credit Risk Management,Physical (Face to face),Mustafa Ceran,MSB,Wednesday,09:30/12:29,203,50,54,ECNE_LS/5/6 | IND_LS/5/6 | Diğer/40/42,"ECNE_LS, END_LS, ENDE_LS, IND_LS",-,-
+47,12199,END 471E,Marketing & CRM Analytics,Physical (Face to face),Umut Asan,ISB,Friday,09:30/12:29,104,50,51,-,"END_LS, ENDE_LS, IND_LS, VBAE_LS",Detail,-
+48,12201,END 472E,Advanced Spreadsheet Modeling,Physical (Face to face),Murat Durucu,MSB,Friday,14:30/17:29,B20,50,53,IND_LS/10/10 | Diğer/40/43,"END_LS, ENDE_LS, IND_LS",-,-
+49,12203,END 4901,Endüstri Müh. Tasarımı I,Physical (Face to face),Şule Itır Satoğlu,-,-,-/-,-,200,77,-,"END_LS, ENDE_LS, IND_LS",Detail,Detail
+50,12204,END 4901E,Industrial Engin. Design I,Physical (Face to face),Şule Itır Satoğlu,-,-,-/-,-,200,109,-,"END_LS, ENDE_LS, IND_LS",Detail,Detail
+51,12205,END 4902,Endüstri Müh. Tasarımı II,Physical (Face to face),Şule Itır Satoğlu,-,-,-/-,-,200,27,-,"END_LS, ENDE_LS, IND_LS",Detail,-
+52,12206,END 4902E,Industrial Engin. Design II,Physical (Face to face),Şule Itır Satoğlu,-,-,-/-,-,200,37,-,"END_LS, ENDE_LS, IND_LS",Detail,-

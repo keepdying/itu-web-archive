@@ -1,0 +1,14 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12116,VBA 111E,Introduction to Data Science and Analytics,Physical (Face to face),Muammer Altan Çakır,MSB,Wednesday,13:30/15:29,113,60,35,-,VBAE_LS,-,-
+1,12121,VBA 113E,Foundations of Algorithm and Programming,Physical (Face to face),Muammer Altan Çakır,ISB,Thursday,09:30/12:29,110,60,32,-,VBAE_LS,-,-
+2,12125,VBA 115E,Fundamentals of Linux,Physical (Face to face),Mahmut Sami Sivri,ISB,Tuesday,09:30/12:29,101,60,38,-,VBAE_LS,-,-
+3,12126,VBA 210E,Linear Algebra and Applications,Physical (Face to face),Muhammed Lütfi Yarar,MSB,Friday,09:30/12:29,109,60,45,ECNE_LS/5/6 | Diğer/55/39,"ECNE_LS, VBAE_LS",-,-
+4,12129,VBA 211E,Deterministic Models in Data Science,Physical (Face to face),Burhaneddin Sandıkçı,ISB,Tuesday,09:30/12:29,202,60,33,VBAE_LS/40/33 | Diğer/20/0,"ECNE_LS, END_LS, ENDE_LS, VBAE_LS",Detail,-
+5,12132,VBA 213E,Data Visualization,Physical (Face to face),Mehmet Ali Ergün,MSB,Thursday,14:30/17:29,212,60,38,ECNE_LS/5/4 | Diğer/55/34,"ECNE_LS, VBAE_LS",-,-
+6,12133,VBA 215E,Database Management Systems,Physical (Face to face),Mahmut Sami Sivri,ISB,Tuesday,14:30/17:29,108,60,51,VBAE_LS/40/36 | Diğer/20/15,"ECNE_LS, END_LS, ENDE_LS, VBAE_LS",Detail,-
+7,12134,VBA 311E,Statistics,Physical (Face to face),Mehmet Güray Güler,ISB,Monday,09:30/12:29,204,80,68,VBAE_LS/40/31 | Diğer/40/37,"END_LS, ENDE_LS, IND_LS, VBAE_LS",Detail,-
+8,12135,VBA 313E,Deep Learning,Physical (Face to face),Mehmet Yasin Ulukuş,ISB,Monday,14:30/17:29,206,60,7,VBAE_LS/40/3 | Diğer/20/4,"END_LS, ENDE_LS, VBAE_LS",Detail,-
+9,12136,VBA 315E,Machine Learning,Physical (Face to face),Ömer Faruk Beyca,MSB,Friday,14:30/17:29,B11,60,10,VBAE_LS/40/3 | Diğer/20/7,"ECNE_LS, END_LS, ENDE_LS, VBAE_LS",Detail,-
+10,12137,VBA 317E,Signal and Image Analytics,Physical (Face to face),Ömer Faruk Beyca,MSB,Friday,09:30/12:29,B03,40,11,-,VBAE_LS,Detail,-
+11,12139,VBA 319E,Ethics and Law in Data Science,Physical (Face to face),Çiçek Ersoy Kekevi,MSB,Thursday,09:30/12:29,B11,40,25,-,VBAE_LS,-,-
+12,12138,VBA 343E,Recommender Systems,Physical (Face to face),Muammer Altan Çakır,ISB,Wednesday,09:30/12:29,208,40,17,VBAE_LS/30/9 | Diğer/10/8,"BHB_YD, ECNE_LS, VBAE_LS",-,-

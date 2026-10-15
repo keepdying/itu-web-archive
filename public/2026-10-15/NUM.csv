@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15657,NUM 201E,Fundamentals of Nuclear Engineering I,Physical (Face to face),Üner Çolak,undeclared,Tuesday,17:30/20:29,--,40,33,-,NUM_YD,-,-
+1,15659,NUM 241E,Nuclear Fuel and Materials,Physical (Face to face),Üner Çolak,undeclared,Wednesday,17:30/20:29,--,30,19,-,NUM_YD,-,-
+2,15660,NUM 341E,Nuclear Fuel Cycle,Physical (Face to face),Sema Erentürk,undeclared,Friday,17:30/20:29,--,30,11,-,NUM_YD,Detail,-
+3,15658,NUM 411E,Nuclear Reactor Theory,Physical (Face to face),Üner Çolak,undeclared,Thursday,17:30/20:29,--,30,14,-,NUM_YD,Detail,-

@@ -1,0 +1,18 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12456,BBF 101E,Introduction to Information Systems,Physical (Face to face),Nizamettin Aydın,BBB BBB,Thursday Thursday,08:30/10:29 10:30/11:29,Z-19 Z-19,80,84,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+1,12457,BBF 101E,Introduction to Information Systems,Physical (Face to face),Muhammet Alkan,BBB BBB,Thursday Thursday,08:30/10:29 10:30/11:29,Z-17 Z-17,80,82,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+2,12460,BBF 101E,Introduction to Information Systems,Physical (Face to face),Faik Boray Tek,BBB BBB,Thursday Thursday,08:30/10:29 10:30/11:29,Z-18 Z-18,80,43,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+3,12465,BBF 102E,Linear Algebra and Applications,Physical (Face to face),Uluğ Bayazıt,BBB,Friday,08:30/11:29,Z-17,70,67,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+4,12468,BBF 102E,Linear Algebra and Applications,Physical (Face to face),Yusuf Yaslan,BBB,Friday,08:30/11:29,104,70,76,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+5,15881,BBF 102E,Linear Algebra and Applications,Physical (Face to face),Mehmet Keskinöz,BBB,Friday,08:30/11:29,Z-21,75,54,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+6,12482,BBF 201E,Probability and Statistics,Physical (Face to face),Mustafa Ersel Kamaşak,BBB BBB,Wednesday Thursday,11:30/13:29 11:30/13:29,Z-19 Z-19,100,96,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+7,12484,BBF 201E,Probability and Statistics,Physical (Face to face),Behçet Uğur Töreyin,BBB BBB,Wednesday Thursday,11:30/13:29 11:30/13:29,Z-18 Z-18,100,97,-,"BLG_LS, BLGE_LS, SECE_LS, YZVE_LS",-,-
+8,16053,BBF 203E,Object Oriented Programming,Ek Sınav,Sanem Kabadayı,-,-,-/-,-,0,0,-,-,Detail,-
+9,12497,BBF 301E,Analysis of Algorithms I,Physical (Face to face),İlkay Öksüz,BBB,Thursday,08:30/11:29,Z-20,75,78,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detail,-
+10,12502,BBF 301E,Analysis of Algorithms I,Physical (Face to face),Mehmet Baysan,BBB,Thursday,08:30/11:29,101,75,40,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detail,-
+11,12504,BBF 301E,Analysis of Algorithms I,Physical (Face to face),Berna Kiraz,BBB,Thursday,08:30/11:29,104,75,76,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detail,-
+12,12492,BBF 302E,Database Systems,Physical (Face to face),Ali Çakmak,BBB,Wednesday,08:30/11:29,Z-17,80,82,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detail,-
+13,12495,BBF 302E,Database Systems,Physical (Face to face),Ahmet Cüneyd Tantuğ,BBB,Wednesday,08:30/11:29,Z-19,80,73,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detail,-
+14,15742,BBF 302E,Database Systems,Physical (Face to face),Abdullah Cihan Ak,BBB,Wednesday,08:30/11:29,Z-21,80,57,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detail,-
+15,15730,BBF 303E,Analysis of Algorithms II,Physical (Face to face),Mehmet Ali Ertürk,BBB,Thursday,08:30/11:29,Z-21,100,64,-,"BLG_LS, BLGE_LS, CES_LS, SECE_LS, YZVE_LS",Detail,-
+16,12579,BBF 304E,Learning From Data,Physical (Face to face),Mehmet Keskinöz,BBB,Friday,14:30/17:29,Z-19,100,84,ECNE_LS/10/2 | YZVE_LS/20/16 | Diğer/70/66,"BLG_LS, BLGE_LS, ECNE_LS, SECE_LS, YZVE_LS",Detail,-

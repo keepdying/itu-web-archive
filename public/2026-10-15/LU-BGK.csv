@@ -1,0 +1,9 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12403,BGK 501E,Network Security,Physical (Face to face),Ferhat Karakoç,BEB,Wednesday,14:00/16:59,--,30,21,-,-,-,-
+1,12404,BGK 502,İşletim Sistemleri Güvenliği,Physical (Face to face),İbrahim Çelikbilek,BEB,Wednesday,09:30/12:29,--,40,6,-,-,-,-
+2,13270,BGK 503E,Information&Computer Security,Virtual (Online),Kemal Bıçakcı,Online/Çevrimiçi,Tuesday,13:30/16:29,--,30,27,-,-,-,-
+3,12405,BGK 516E,Cryptography,Physical (Face to face),Enver Özdemir,BEB,Tuesday,09:30/12:29,--,30,17,-,-,-,-
+4,13271,BGK 596E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Enver Özdemir,BEB,Friday,10:30/12:29,--,30,5,-,-,-,-
+5,13269,BGK 611E,Advanced Topics in Cybersecurity Engineering and Cryptography,Physical (Face to face),Enver Özdemir,BEB,Monday,09:30/12:29,--,30,5,-,-,-,-
+6,13273,BGK DRT,Tez Çalışması,Physical (Face to face),Enver Özdemir,-,-,-/-,-,200,14,-,-,-,-
+7,13272,BGK YLT,Tez Çalışması,Physical (Face to face),Enver Özdemir,-,-,-/-,-,200,20,-,-,-,-

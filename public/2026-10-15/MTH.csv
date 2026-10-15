@@ -1,0 +1,17 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14850,MTH 101,Calculus I,Physical (Face to face),Samet Yücel Kadıoğlu,FEB FEB,Monday Tuesday,15:30/17:29 08:30/11:29,L400 L400,45,20,-,"MBI_LS, SBL_LS",-,-
+1,14851,MTH 103,Calculus I,Physical (Face to face),Güler Arsan,INB INB,Monday Tuesday,15:30/17:29 08:30/11:29,A301 A301,40,36,-,SED_LS,-,-
+2,14852,MTH 105,Calculus I,Physical (Face to face),Burhaneddin İzgi,FEB,Tuesday,08:30/11:29,B1_226,30,31,-,SIS_LS,-,-
+3,14853,MTH 106,Calculus II,Physical (Face to face),Sezgin Altay Demirbağ,INB,Tuesday,08:30/11:29,A303,30,9,-,SIS_LS,Detail,-
+4,14854,MTH 107,Calculus I,Physical (Face to face),Füsun Zengin,INB INB,Monday Tuesday,14:30/17:29 08:30/11:29,A304 A304,35,36,-,"SGI_LS, SIN_LS",-,-
+5,11140,MTH 121,Calculus I,Physical (Face to face),Bayram Barış Kızılsaç,DZB,Monday,13:30/17:29,--,10,5,-,"SDU_LS, SGM_LS",-,-
+6,14855,MTH 123,Calculus,Physical (Face to face),Seher Melike Aydoğan,INB,Tuesday,08:30/11:29,A302,40,13,-,STP_LS,-,-
+7,14856,MTH 131,Mathematics I,Physical (Face to face),Nurhan Çolakoğlu,EEB EEB,Monday Tuesday,15:30/17:29 08:30/11:29,5101 5101,40,30,-,EHN_LS,-,-
+8,15943,MTH 204,Linear Algebra,Physical (Face to face),Sabire Cömert,DZB,Tuesday,17:30/20:29,--,0,2,-,"MEN_LS, MTM_LS",-,-
+9,14302,MTH 281,Linear Algebra and Applicat.,Physical (Face to face),İbrahim Akduman,EEB,Friday,08:30/11:29,1301,40,28,-,EHN_LS,-,-
+10,15462,MTH 401E,RISC-V Architecture &Processor,Physical (Face to face),Hasan Erdem Yantır,EEB,Wednesday,12:30/15:29,5305,60,22,ELKE_LS/3/1 | ELK_LS/2/2 | Diğer/55/19,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",-,Detail
+11,15410,MTH 405,Uçuş Kontrol Sistemleri,Physical (Face to face),İlker Üstoğlu,EEB,Wednesday,08:30/11:29,5305,60,50,-,KOM_LS,-,Detail
+12,15324,MTH 407,Otomatik Hedef İzleme Temelleri,Physical (Face to face),Ahmet Kırış,FEB,Wednesday,09:30/12:29,L400,40,7,-,"FIZ_LS, MAT_LS",Detail,-
+13,15415,MTH 414E,Introduction to Launch Vehicle Design and Industrial Practice,Physical (Face to face),Fırat Oğuz Edis,MEDC,Wednesday,08:30/11:29,2D16,50,26,-,"UCK_LS, UZBE_LS",Detail,-
+14,15597,MTH 415,Endüstriyel Tesislerde Emisyon ve Kirletici Giderim Yöntemleri,Physical (Face to face),Çağlar Karatuğ,DZB,Friday,09:30/12:29,--,50,13,-,GMI_LS,-,-
+15,15325,MTH 416,Görsel Veri Analizine Giriş,Virtual (Online),Burcu Tunga,undeclared,Friday,14:00/16:59,--,45,44,-,MAT_LS,-,-

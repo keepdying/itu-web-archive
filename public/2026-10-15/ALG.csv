@@ -1,0 +1,3 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,15452,ALG 301,Elektroniğe Giriş,Physical (Face to face),Muhammed Yasin Adıyaman,KMB,Thursday,09:30/12:29,GZ102,40,6,-,ALG_YD,-,-
+1,15453,ALG 303,Algılayıcı (Sensör) Teknolojileri,Physical (Face to face),Aytekin Uzunoğlu,KMB,Friday,09:00/11:59,D302,40,10,-,"ALG_YD, GID_LS, MET_LS",-,-

@@ -1,0 +1,5 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14448,SUS 301E,Fundamentals of Sustainable Development,Virtual (Online),"Ebru Acuner Türet , Kadriye Elif Maçin",MSB,Thursday,19:00/21:59,--,30,28,-,SUS_YD,-,-
+1,14451,SUS 302E,Climate Change: Adaptation and Mitigation,Physical (Face to face),"Ömer Lütfi Şen , Denizhan Güven",MED,Monday,09:30/12:29,B35,25,15,EGC_YD/10/4 | Diğer/15/11,"EGC_YD, SUS_YD",-,-
+2,14453,SUS 303E,Ecology & Environmental Sustainability,Physical (Face to face),"Sevan Karabetoğlu , Emrah Çoraman , Fatma Fatoş Babuna",MDB,Thursday,13:30/16:29,A101,30,16,-,SUS_YD,-,-
+3,14456,SUS 402E,Green Economics,Physical (Face to face),Ahmet Atıl Aşıcı,MSB,Wednesday,09:30/12:29,B01,30,24,SUS_YD/20/15 | Diğer/10/9,"ISL_LS, ISLE_LS, SUS_YD",-,-

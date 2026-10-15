@@ -1,0 +1,6 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,14617,SEC 113E,Intr. to Cyber Sec. Eng & Ethics,Physical (Face to face),Abdül Halim Zaim,BBB,Wednesday,13:30/15:29,Z-20,60,30,-,SECE_LS,-,-
+1,14618,SEC 211E,Essentials of Cyber Security,Physical (Face to face),Burcu Sönmez Sarıkaya,BBB,Wednesday,08:30/11:29,Z-20,60,36,-,SECE_LS,-,-
+2,14619,SEC 311E,Computer Security,Physical (Face to face),Hacı Hakan Kılınç,undeclared,Wednesday,12:00/14:59,--,30,6,-,SECE_LS,Detail,-
+3,14622,SEC 312E,Applied Cryptography,Physical (Face to face),Mehmet Ali Ertürk,BBB,Monday,08:30/11:29,Z-23,30,6,-,SECE_LS,Detail,-
+4,14623,SEC 437E,Forensic Techniques and Law,Physical (Face to face),İbrahim Gülataş,BBB,Wednesday,08:30/11:29,Z-23,30,4,-,SECE_LS,-,-

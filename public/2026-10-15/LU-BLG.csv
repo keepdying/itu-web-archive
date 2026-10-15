@@ -1,0 +1,46 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,12368,BLG 501E,Discrete Mathematics,Physical (Face to face),Gökhan Seçinti,BBB,Friday,09:30/12:29,Z-22,37,36,BLG_BG_DR/2/1 | BLG_BG_YL/32/32 | Diğer/3/3,"BLG_BG_DR, BLG_BG_YL",-,-
+1,15679,BLG 501E,Discrete Mathematics,Physical (Face to face),İbrahim Özkol,undeclared,Tuesday,13:00/15:59,--,0,0,-,-,-,-
+2,12337,BLG 505,Doğal Dil İşleme,Physical (Face to face),Gülşen Eryiğit,BBB,Monday,09:30/12:29,Z-22,36,33,BLG_BG_DR/5/2 | BLG_BG_YL/25/25 | Diğer/6/6,"BLG_BG_DR, BLG_BG_YL",-,-
+3,12338,BLG 506E,Computer Vision,Physical (Face to face),Cihan Topal,BBB,Monday,14:30/17:29,Z-20,32,33,BLG_BG_DR/5/2 | BLG_BG_YL/22/19 | Diğer/5/12,"BLG_BG_DR, BLG_BG_YL",-,-
+4,15680,BLG 506E,Computer Vision,Physical (Face to face),Yusuf Hüseyin Şahin,undeclared,Wednesday,09:00/11:59,--,0,0,-,-,-,-
+5,12342,BLG 507E,Distributed Systems,Physical (Face to face),Deniz Turgay Altılar,BBB,Tuesday,08:30/11:29,122,25,22,-,-,-,-
+6,15681,BLG 507E,Distributed Systems,Physical (Face to face),Deniz Turgay Altılar,undeclared,Wednesday,08:30/11:59,--,0,0,-,-,-,-
+7,12351,BLG 510E,Security in Computer Networks,Physical (Face to face),Mehmet Tahir Sandıkkaya,BBB,Tuesday,13:30/16:29,Z-21,28,18,BLG_BG_DR/12/4 | BLG_BG_YL/12/9 | Diğer/4/5,"BLG_BG_DR, BLG_BG_YL",-,-
+8,12370,BLG 513E,Image Processing,Physical (Face to face),İlkay Öksüz,MDB,Friday,09:30/12:29,A102,35,28,-,-,-,-
+9,12357,BLG 514E,Computer Networ. Basic Protoc.,Physical (Face to face),Sanem Kabadayı,BBB,Wednesday,13:30/16:29,101,20,14,-,-,-,-
+10,15683,BLG 514E,Computer Networ. Basic Protoc.,Physical (Face to face),Abdül Halim Zaim,undeclared,Tuesday,09:00/11:59,--,0,0,-,-,-,-
+11,15684,BLG 519E,Wireless Network Protocols,Physical (Face to face),Gökhan Seçinti,undeclared,Tuesday,13:00/15:59,--,0,0,-,-,-,-
+12,12349,BLG 521E,Artificial Intelligence,Physical (Face to face),Yavuz Köroğlu,BBB,Tuesday,13:30/16:29,Z-18,43,42,BLG_BG_YL/38/36 | BLG_BG_DR/2/2 | Diğer/3/4,"BLG_BG_DR, BLG_BG_YL",-,-
+13,12360,BLG 527E,Machine Learning,Physical (Face to face),Yusuf Yaslan,BBB,Thursday,09:30/12:29,Z-22,50,42,BLG_BG_DR/2/2 | BLG_BG_YL/43/36 | Diğer/5/4,"BLG_BG_DR, BLG_BG_YL",-,-
+14,15685,BLG 527E,Machine Learning,Physical (Face to face),Mehmet Keskinöz,undeclared,Thursday,09:00/11:59,--,0,0,-,-,-,-
+15,12362,BLG 538E,Data Compression,Physical (Face to face),Uluğ Bayazıt,BBB,Thursday,09:30/12:29,--,20,5,-,-,-,-
+16,15686,BLG 542E,Safety Critical.Compu.Systems,Physical (Face to face),Mehmet Tahir Sandıkkaya,undeclared,Monday,14:00/16:59,--,0,0,-,-,-,-
+17,12364,BLG 545E,Discrete Optimization,Physical (Face to face),Berna Kiraz,BBB,Thursday,13:30/16:29,Z-21,49,42,BLG_BG_YL/32/25 | Diğer/17/17,BLG_BG_YL,-,-
+18,12359,BLG 549E,Graph Theory and Algorithms,Physical (Face to face),Tuğçe Bilen,MDB,Thursday,09:30/12:29,A301,46,44,BLG_BG_YL/30/28 | Diğer/16/16,BLG_BG_YL,-,-
+19,15687,BLG 549E,Graph Theory and Algorithms,Physical (Face to face),Mehmet Akif Yazıcı,undeclared,Friday,09:00/11:59,--,0,0,-,-,-,-
+20,12367,BLG 551E,Human Computer Interfaces,Physical (Face to face),Gökhan İnce,BBB,Friday,14:00/16:59,Z-22,30,29,-,-,-,-
+21,12356,BLG 553E,Special Topics in Compu.Eng.,Physical (Face to face),Abdül Halim Zaim,BBB,Wednesday,09:30/12:29,101,25,7,-,-,-,-
+22,12355,BLG 557E,Theory of Computation,Physical (Face to face),Tolga Ovatman,BBB,Wednesday,09:30/12:29,102,25,18,BLG_BG_DR/5/1 | BLG_BG_YL/17/12 | Diğer/3/5,"BLG_BG_DR, BLG_BG_YL",-,-
+23,12343,BLG 558E,Security and Privacy,Physical (Face to face),Şerif Bahtiyar,BBB,Tuesday,08:30/11:29,101,31,21,BLG_BG_YL/22/17 | BLG_BG_DR/3/1 | Diğer/6/3,"BLG_BG_DR, BLG_BG_YL",-,-
+24,12350,BLG 561E,Deep Learning,Physical (Face to face),Faik Boray Tek,BBB,Tuesday,13:30/16:29,102,39,30,BLG_BG_DR/2/0 | BLG_BG_YL/23/15 | Diğer/14/15,"BLG_BG_DR, BLG_BG_YL",-,-
+25,12371,BLG 563E,Guided Research,Physical (Face to face),Burak Berk Üstündağ,BBB,Friday,14:30/17:29,102,40,13,BLG_BG_YL/35/8 | Diğer/5/5,BLG_BG_YL,-,-
+26,15081,BLG 565E,Bioinformatics Algorithms,Physical (Face to face),Ali Çakmak,BBB,Thursday,13:30/16:29,Z-22,23,17,-,-,-,-
+27,12339,BLG 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Muhammet Alkan,BBB,Monday,14:30/16:29,102,55,24,BLG_BG_YL/50/24 | Diğer/5/0,BLG_BG_YL,-,-
+28,15688,BLG 596E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Mehmet Keskinöz,undeclared,Thursday,13:00/14:59,--,0,0,-,-,-,-
+29,12369,BLG 601E,Pattern Recognition,Physical (Face to face),Behçet Uğur Töreyin,MDB,Friday,09:30/12:29,A103,25,17,-,-,-,-
+30,15689,BLG 601E,Pattern Recognition,Physical (Face to face),Behçet Uğur Töreyin,undeclared,Tuesday,13:00/15:59,--,0,0,-,-,-,-
+31,12354,BLG 603E,Enhanced Processor Architec.,Physical (Face to face),Ayşe Yılmazer Metin,BBB,Wednesday,09:30/12:29,Z-22,20,10,-,-,-,-
+32,15690,BLG 603E,Enhanced Processor Architec.,Physical (Face to face),Nizamettin Aydın,undeclared,Friday,09:00/11:59,--,0,0,-,-,-,-
+33,12347,BLG 607,Veri Madenciliği,Physical (Face to face),Şule Öğüdücü,BBB,Tuesday,09:30/12:29,102,20,15,-,-,-,-
+34,12346,BLG 609E,Advanced Topics in Comp. Eng.,Physical (Face to face),Hazım Kemal Ekenel,BBB,Tuesday,09:30/12:29,Z-23,20,5,-,-,-,-
+35,15691,BLG 609E,Advanced Topics in Comp. Eng.,Physical (Face to face),Hazım Kemal Ekenel,undeclared,Thursday,13:00/15:59,--,0,0,-,-,-,-
+36,12345,BLG 622E,Robot Intelligence,Physical (Face to face),Sanem Sarıel Uzer,BBB,Wednesday,09:30/12:29,--,24,11,BLG_BG_YL/12/4 | BLG_BG_DR/3/0 | Diğer/9/7,"BLG_BG_DR, BLG_BG_YL",-,-
+37,12353,BLG 625,Yazılım Tasarımı Kalitesi,Physical (Face to face),Feza Buzluca,BBB,Wednesday,08:30/11:29,--,20,12,-,-,-,-
+38,12341,BLG 627E,Guided Research,Physical (Face to face),İlkay Öksüz,BBB,Monday,14:30/17:29,101,40,5,BLG_BG_DR/35/4 | Diğer/5/1,BLG_BG_DR,-,-
+39,15692,BLG 634E,3D Vision,Physical (Face to face),Yusuf Hüseyin Şahin,undeclared,Wednesday,13:00/15:59,--,0,0,-,-,-,-
+40,12348,BLG 638E,Deep Reinforcement Learning,Physical (Face to face),Mehmet Keskinöz,BBB,Tuesday,13:30/16:29,Z-22,24,0,BLG_BG_YL/12/0 | BLG_BG_DR/5/0 | Diğer/7/0,"BLG_BG_DR, BLG_BG_YL",-,-
+41,12363,BLG 643E,Neuromorphic Computing,Physical (Face to face),Burak Berk Üstündağ,BBB,Thursday,13:30/16:29,Z-23,20,6,-,-,-,-
+42,12372,BLG DRT,Tez Çalışması,Physical (Face to face),İlkay Öksüz,-,-,-/-,-,200,47,-,-,-,-
+43,12373,BLG YET,Yeterlik Aşaması,Physical (Face to face),İlkay Öksüz,-,-,-/-,-,200,13,-,-,-,-
+44,12374,BLG YLT,Tez Çalışması,Physical (Face to face),İlkay Öksüz,-,-,-/-,-,200,84,-,-,-,-

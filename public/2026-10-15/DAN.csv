@@ -1,0 +1,15 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,16055,DAN 101,Akademik Danışmanlık,Ek Sınav,Nazan Okur,-,-,-/-,-,0,1,-,-,-,-
+1,12593,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),"Murat Mert Tekeli , Aydın Mert",DZB,Wednesday,15:30/17:29,--,15,13,-,DUI_LS,-,-
+2,15544,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Yakup Erhan Böke,MKB,Wednesday,15:30/17:29,--,100,57,-,"IML_LS, MAK_LS, MSS_LS",-,-
+3,15547,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Nizam Onur Sönmez,MMB,Wednesday,15:30/17:29,213,100,27,-,"MIM_LS, MIME_LS",-,-
+4,15616,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Himmet Karaman,INB,Wednesday,15:30/17:29,--,20,3,-,"GEO_LS, GEOE_LS",-,-
+5,15698,DAN 102,Girişimcilik & Kariyer Danış.,Physical (Face to face),Ayşe Elvan Bayraktaroğlu,ISB,Wednesday,15:30/17:29,--,0,3,-,"END_LS, ENDE_LS",-,-
+6,15923,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,İsmail Kaplanvural,-,-,-/-,-,0,1,-,-,-,-
+7,15924,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Çağdaş Taylan Salın,-,-,-/-,-,0,0,-,-,-,-
+8,15926,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,"Alper İlki , Bahar Ayhan",-,-,-/-,-,0,4,-,-,-,-
+9,15927,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Osman Atilla Arıkan,-,-,-/-,-,0,0,-,-,-,-
+10,16054,DAN 102,Girişimcilik & Kariyer Danış.,Ek Sınav,Erkan Bozkurtoğlu,-,-,-/-,-,0,1,-,-,-,-
+11,15874,DAN 301,Kariyer Danışmanlığı,Ek Sınav,Ömer Kemal Kınacı,-,-,-/-,-,0,1,-,-,-,Detail
+12,15879,DAN 301,Kariyer Danışmanlığı,Ek Sınav,Sinan Çakır,-,-,-/-,-,0,0,-,-,-,Detail
+13,16072,DAN 301,Kariyer Danışmanlığı,Ek Sınav,Zehra Atik,-,-,-/-,-,0,0,-,-,-,Detail

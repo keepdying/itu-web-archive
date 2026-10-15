@@ -1,0 +1,19 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11301,PET 113E,Intr.to Petr.&Nat Gas.Eng.,Physical (Face to face),Murat Çınar,MDB,Wednesday,14:30/15:29,A105,70,54,-,"PET_LS, PETE_LS",-,-
+1,11299,PET 211E,Petroleum Fluid Properties,Physical (Face to face),Şenol Yamanlar,MDB,Tuesday,08:30/11:29,A105,70,70,-,"PET_LS, PET_YD, PETE_LS",-,-
+2,11291,PET 309E,Fluid and Rock Properties Lab.,Physical (Face to face),Yıldıray Palabıyık,MDB,Monday,11:30/13:29,--,12,12,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+3,11293,PET 309E,Fluid and Rock Properties Lab.,Physical (Face to face),Yıldıray Palabıyık,MDB,Tuesday,11:30/13:29,--,12,11,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+4,11295,PET 309E,Fluid and Rock Properties Lab.,Physical (Face to face),Yıldıray Palabıyık,MDB,Thursday,11:30/13:29,--,12,12,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+5,11296,PET 309E,Fluid and Rock Properties Lab.,Physical (Face to face),Yıldıray Palabıyık,MDB,Friday,10:30/12:29,--,12,11,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+6,11280,PET 333E,Drilling Engineering,Physical (Face to face),Murat Çınar,MDB,Monday,13:30/16:29,A102,70,55,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+7,11277,PET 335E,Well Logging I,Physical (Face to face),Emine Didem Korkmaz Başel,MDB,Tuesday,13:30/16:29,B205,70,55,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+8,11276,PET 342E,Reservoir Engineering,Physical (Face to face),Ömer İnanç Türeyen,MDB,Thursday,13:30/16:29,A102,70,49,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+9,11269,PET 349E,Computational Methods in PANGE,Physical (Face to face),Murat Çınar,MDB,Thursday,08:30/11:29,A302,20,20,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+10,11259,PET 409E,Well Design and Completions,Physical (Face to face),İhsan Burak Kulga,MDB,Monday,08:30/11:29,A102,70,68,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+11,11256,PET 412E,Petroleum& Natural Gas Eco.,Physical (Face to face),Ömer İnanç Türeyen,MDB,Tuesday,08:30/11:29,A202,70,66,-,"PET_LS, PETE_LS",Detail,-
+12,11252,PET 428E,Simulation of Geosystems,Physical (Face to face),İhsan Burak Kulga,MDB,Thursday,13:30/16:29,B206,31,37,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+13,11235,PET 441E,Enhanced Oil Recovery,Physical (Face to face),Hasan Özgür Yıldız,MDB,Tuesday,13:30/16:29,A204,27,33,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+14,11233,PET 467E,Anly. of Well Pressure Tests,Physical (Face to face),Yıldıray Palabıyık,MDB,Tuesday,13:30/16:29,A205,30,28,-,"PET_LS, PET_YD, PETE_LS",Detail,-
+15,11230,PET 487E,Petroleum Fuels Market&Segment,Physical (Face to face),Hamit Topuz,MDB,Thursday,13:30/16:29,A205,30,30,-,"PET_LS, PETE_LS",-,-
+16,11228,PET 4901E,Petr. & Nat. Gas Eng. Design I,Physical (Face to face),Murat Çınar,-,-,-/-,-,60,58,-,"PET_LS, PETE_LS",Detail,Detail
+17,11227,PET 4902E,Petr. & Nat.Gas Eng. Design II,Physical (Face to face),Murat Çınar,-,-,-/-,-,60,21,-,PETE_LS,Detail,-

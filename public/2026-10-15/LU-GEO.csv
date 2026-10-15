@@ -1,0 +1,31 @@
+,CRN,Course Code,Course Title,Teaching Method,Instructor,Building,Day,Time,Room,Capacity,Enrolled,Reservation Maj./Cap./Enrl.,Major Restriction,Prerequisites,Credit/Class Resc.
+0,11879,GEO 503,Uydu Jeodezisi,Physical (Face to face),Serdar Erol,INB,Tuesday,11:30/14:29,--,30,5,-,-,-,-
+1,11880,GEO 507,Mühendislik Fotogrametrisi,Physical (Face to face),Zaide Duran,INB,Monday,11:30/14:29,A3,30,13,-,-,-,-
+2,11881,GEO 509,Taşınmaz Mal Değerlemesi,Physical (Face to face),"Muhammed Oğuzhan Mete , Mustafa Yanalak",INB,Thursday,08:30/11:29,A3,30,26,-,-,-,-
+3,11882,GEO 511,Bilgi Teknolojileri ve CBS,Physical (Face to face),Serdar Bilgi,INB,Tuesday,08:30/11:29,B302,50,20,-,-,-,-
+4,11884,GEO 513,Matematik İsta.&Hipotez Testlr,Physical (Face to face),Orhan Akyılmaz,INB,Thursday,14:30/17:29,B308,50,28,-,-,-,-
+5,11886,GEO 517E,Processing&Analysis GPS Data,Physical (Face to face),Ergin Tarı,INB,Wednesday,13:30/16:29,A3,10,4,-,-,-,-
+6,11887,GEO 519E,Geodetic İnfrastructu.for GIS,Physical (Face to face),Rahmi Nurhan Çelik,INB,Thursday,08:30/11:29,A2,20,12,-,-,-,-
+7,11888,GEO 521E,Data Acqusition Sys.Remote Sen,Physical (Face to face),"Uğur Algancı , Filiz Bektaş Balçık",INB,Monday,08:30/11:29,B302,50,25,-,-,-,-
+8,11889,GEO 531E,Special Topics in Geomati.Eng.,Physical (Face to face),"Mahmut Oğuz Selbesoğlu , Vahıd Teknık",INB,Wednesday,13:00/15:59,--,30,1,-,-,-,-
+9,11890,GEO 532,Kon.Baz.Sis.&Mobil Har.Ya.Te.,Physical (Face to face),Ramazan Alper Kuçak,INB,Wednesday,12:30/15:29,A2,30,22,-,-,-,-
+10,11891,GEO 533,Coğrafi Bilgi Sistemleri Destekli Çok Ölçütlü Karar Analizi,Physical (Face to face),Turan Erden,INB,Monday,11:30/14:29,B308,30,9,-,-,-,-
+11,11892,GEO 534E,RoboticSurveyingS.G.M.&Mapping,Physical (Face to face),Caner Güney,INB,Friday,08:30/11:29,A3,30,5,-,-,-,-
+12,11893,GEO 596,"Bilimsel Araş.,Etik ve Seminer",Physical (Face to face),Çiğdem Göksel,undeclared,Tuesday,14:30/16:29,--,30,5,-,-,-,-
+13,11894,GEO 596E,"Scien.Rese., Ethic&Seminar",Physical (Face to face),Rahmi Nurhan Çelik,INB,Tuesday,08:30/10:29,B303,30,8,-,-,-,-
+14,11895,GEO 601,Fotog.Veri Elde Et.Donanım.Kal,Physical (Face to face),Zaide Duran,undeclared,Friday,08:30/11:29,--,30,0,-,-,-,-
+15,11896,GEO 605,CBS'de Analiz Algoritmaları,Physical (Face to face),Turan Erden,INB,Friday,08:30/11:29,A2,30,1,-,-,-,-
+16,11897,GEO 608,Radar ve Mikrodalga İle Uz.Alg,Physical (Face to face),"Ayşe Filiz Sunar , Nebiye Musaoğlu",INB,Thursday,14:30/17:29,A2,30,9,-,-,-,-
+17,11898,GEO 609,Geomatik Müh.Yapay Sinir Ağlar,Physical (Face to face),Orhan Akyılmaz,INB,Wednesday,10:30/13:29,B308,30,4,-,-,-,-
+18,11899,GEO 611,CBS Projelerinin Yönetimi,Physical (Face to face),Caner Güney,INB,Friday,14:30/17:29,A1,30,7,-,-,-,-
+19,11900,GEO 612,Jeodezik Ağların Analizi,Physical (Face to face),Mert Bezcioğlu,INB,Tuesday,08:30/11:29,B305,30,0,-,-,-,-
+20,11901,GEO 614E,Photo.Trian.&Error Sources,Physical (Face to face),Zaide Duran,INB,Wednesday,08:30/11:29,B305,30,0,-,-,-,-
+21,15653,GEO 615E,Curve and Surface Fitting Meth,Physical (Face to face),Mustafa Fahri Karabulut,INB,Monday,13:00/15:59,--,20,0,-,-,-,-
+22,11902,GEO 616E,State Mod.Kalman Filt.&Smooth.,Physical (Face to face),Esra Erten,INB,Tuesday,11:30/14:29,B305,30,0,-,-,-,-
+23,11903,GEO 617E,GPS Deform.Monitoring&Analysis,Physical (Face to face),"Ergin Tarı , Serdar Erol",INB,Wednesday,08:30/11:29,B307,30,0,-,-,-,-
+24,11904,GEO 618E,Close Range Photog.&Machn.Vis.,Physical (Face to face),Muhammed Enes Atik,INB,Thursday,13:30/16:29,A3,30,0,-,-,-,-
+25,11905,GEO 623E,Advan.Topics in Geomatic Eng.,Physical (Face to face),"Mahmut Oğuz Selbesoğlu , Vahıd Teknık",undeclared,Monday,11:30/14:29,--,30,8,-,-,-,-
+26,11906,GEO 626E,Advanced Physical Geodesy,Physical (Face to face),Bihter Erol,undeclared,Wednesday,08:30/11:29,--,30,4,-,-,-,-
+27,11909,GEO DRT,Tez Çalışması,Physical (Face to face),Turan Erden,-,-,-/-,-,200,34,-,-,-,-
+28,11910,GEO YET,Yeterlik Aşaması,Physical (Face to face),Turan Erden,-,-,-/-,-,200,5,-,-,-,-
+29,11911,GEO YLT,Tez Çalışması,Physical (Face to face),Turan Erden,-,-,-/-,-,200,36,-,-,-,-
